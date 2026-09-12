@@ -1,0 +1,28 @@
+{
+  "fullName": "Your Name",
+  "email": "you@example.com",
+  "headline": "Software developer open to remote and Kenya-based roles",
+  "locations": ["Remote", "Kenya", "Nairobi", "Africa"],
+  "titles": [
+    "frontend",
+    "react",
+    "javascript",
+    "software engineer",
+    "web developer",
+    "full stack",
+    "node"
+  ],
+  "skills": [
+    "javascript",
+    "react",
+    "html",
+    "css",
+    "git",
+    "node",
+    "rest api"
+  ],
+  "exclude": ["unpaid", "crypto intern unpaid", "clearance required"],
+  "minScore": 8,
+  "dailyApplyLimit": 8,
+  "coverLetterTemplate": "Dear hiring team,\n\nI am applying for {title} at {company}. I work with {skills} and I am looking for {location}-friendly work.\n\nI saw this role on {source} and believe I can contribute quickly. I have attached / linked my GitHub profile and I am happy to complete a short practical task.\n\nThank you for your time,\n{name}\n{email}\n"
+}

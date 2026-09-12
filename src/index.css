@@ -1,0 +1,38 @@
+:root {
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  color: #1c1915;
+  background: #f4efe4;
+  line-height: 1.45;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+a { color: #0f5c4c; }
+.shell { max-width: 1080px; margin: 0 auto; padding: 28px 18px 80px; }
+.mast {
+  border-bottom: 3px solid #1c1915;
+  display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+  padding-bottom: 16px; margin-bottom: 24px;
+}
+.mast h1 { font-family: "IBM Plex Serif", Georgia, serif; font-size: 2.2rem; margin: 0; }
+.mast p { margin: 6px 0 0; color: #5c564c; max-width: 46ch; }
+.stats { display: flex; gap: 18px; font-variant-numeric: tabular-nums; }
+.stats strong { display: block; font-size: 1.6rem; }
+.warn { background: #fff3cd; border: 1px solid #c9a227; padding: 10px 12px; margin-bottom: 16px; }
+.toolbar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+input, select, button, textarea {
+  font: inherit; border: 1px solid #1c1915; background: #fff; padding: 8px 10px;
+}
+button { background: #0f5c4c; color: #fff; cursor: pointer; font-weight: 650; }
+button.ghost { background: #fff; color: #1c1915; }
+.job {
+  background: #fff; border: 1px solid #d7d0c3; padding: 16px 18px; margin-bottom: 10px;
+  display: grid; gap: 8px;
+}
+.job h2 { font-size: 1.15rem; margin: 0; font-family: "IBM Plex Serif", Georgia, serif; }
+.meta { color: #5c564c; font-size: 0.9rem; }
+.score { font-weight: 700; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.reasons { font-size: 0.85rem; color: #3e6b4f; }
+dialog { border: 2px solid #1c1915; padding: 20px; max-width: 560px; }
+pre { white-space: pre-wrap; background: #f4efe4; padding: 12px; }
+.empty { padding: 40px 0; color: #5c564c; }

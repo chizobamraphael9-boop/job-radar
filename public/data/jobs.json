@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-09-12T11:08:28.431Z",
+  "scannedAt": "2026-09-13T05:10:09.334Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 25,
+  "count": 31,
   "jobs": [
     {
       "id": "remoteok-1135688",
@@ -353,6 +353,59 @@
       ]
     },
     {
+      "id": "arbeitnow-full-stack-software-developer-e-health-x-berlin-168459",
+      "source": "Arbeitnow",
+      "title": "Full Stack Software Developer E-Health (f/m/d/x)",
+      "company": "Doc Cirrus Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-168459",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-168459",
+      "tags": [
+        "javascript",
+        "node.js",
+        "scrum",
+        "code",
+        "ehealth",
+        "informatics",
+        "Full Stack Development"
+      ],
+      "description": "  This is what makes your position special    Full-stack software development based on  Docker, Node.js and MongoDB    Set your own focus: Backend, Frontend, DevOps, Security, Data Modeling, Development tools  Component responsibility: from technical design to development to CI/CD If you take responsibility, you also get freedom of decision   Co-determination: Get involved in the strategic direction, introduce new technologies, present interesting topics in our TechTalks or workshops   Close cooperation with our Development Team, with Product Management, Quality Assurance and Customer Care   The position is also available on a part-time basis      This is what makes you special    Completed studies or training in the field of computer science, mathematics, physics or other natural sciences  Solid development experience, including JavaScript and TypeScript in full-stack development, and experience with AI   Experience with large repositories and an empathetic approach to working as part of a team  A structured and goal-oriented way of working with very high quality awareness   Strong teamwork skills and the ability to successfully collaborate in an agile environment  Ideally, indust",
+      "postedAt": 1789254591,
+      "score": 30,
+      "reasons": [
+        "title: frontend",
+        "title: javascript",
+        "title: full stack",
+        "title: node",
+        "skill: javascript",
+        "skill: node"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
+      "source": "Arbeitnow",
+      "title": "(Senior) Fullstack Engineer - Node / React (all genders)",
+      "company": "Gamigo",
+      "location": "Germany · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/gamigo/remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/gamigo/remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
+      "tags": [
+        "Portals",
+        "Remote"
+      ],
+      "description": " To strengthen our team, gamigo group is looking for a Senior Fullstack Engineer (all genders) to join as soon as possible, full-time, based in Germany.       About the role   As a Senior Fullstack Engineer, you will build and evolve our casual gaming eCommerce platform end-to-end, driving technical direction with broad expertise across web and cloud systems.     Actively&nbsp;shape&nbsp;and&nbsp;evolve&nbsp;our&nbsp;code&nbsp;structure&nbsp;and&nbsp;architecture,&nbsp;and&nbsp;drive&nbsp;technical&nbsp;decisions&nbsp;forward  Design&nbsp;and&nbsp;implement&nbsp;new&nbsp;features&nbsp;for&nbsp;our&nbsp;casual&nbsp;eCommerce&nbsp;platforms,&nbsp;from&nbsp;architecture&nbsp;through&nbsp;deployment&nbsp;andmonitoring  Build&nbsp;performant,&nbsp;reliable&nbsp;and&nbsp;secure&nbsp;backend&nbsp;services&nbsp;with&nbsp;Node.js,&nbsp;TypeScript&nbsp;and&nbsp;NestJS  Develop&nbsp;frontends&nbsp;with&nbsp;Next.js&nbsp;and&nbsp;React,&nbsp;optimized&nbsp;for&nbsp;page&nbsp;speed&nbsp;and&nbsp;SEO  Ensure&nbsp;high&nbsp;availability&nbsp;and&nbsp;performance&nbsp;of&nbsp;our&nbsp;production&nbsp;systems  Improve&nbsp;observability,&nbsp;code&nbsp;quality&nbsp;and&nbsp;code&nbsp;structure  Men",
+      "postedAt": 1789244422,
+      "score": 28,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "title: node",
+        "skill: react",
+        "skill: node",
+        "location: Remote"
+      ]
+    },
+    {
       "id": "remotive-2069746",
       "source": "Remotive",
       "title": "Tech Lead Full-Stack Rails Engineer",
@@ -400,27 +453,6 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-engineer-united-kingdom-2851",
-      "source": "Arbeitnow",
-      "title": "Full Stack Engineer",
-      "company": "Kpler",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-2851",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-2851",
-      "tags": [
-        "IT"
-      ],
-      "description": "  At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors.   \n &nbsp; \n  Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.  \n &nbsp;     \n About the Role \n  As a Mid Full-Stack Engineer at Kpler, you will play a pivotal role in building and scaling the core systems and internal tools that power our product ecosystem      . Working across the full software stack, you will construct resilient PHP backend services—including our Stripe-driven payments and subscription billing infrastructure—while crafting responsive, user-friendly frontend interfaces with React and TypeScript      . Partnering closely with Product, Finan",
-      "postedAt": 1789149908,
-      "score": 21,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: full stack",
-        "skill: react"
-      ]
-    },
-    {
       "id": "remoteok-1137062",
       "source": "RemoteOK",
       "title": "DESARROLLADOR FULL STACK",
@@ -459,43 +491,27 @@
       ]
     },
     {
-      "id": "remotive-1680495",
-      "source": "Remotive",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "applyUrl": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "id": "arbeitnow-product-engineer-full-stack-berlin-mitte-146616",
+      "source": "Arbeitnow",
+      "title": "Product Engineer (Full-Stack)",
+      "company": "Bounti",
+      "location": "Berlin - Mitte",
+      "url": "https://www.arbeitnow.com/jobs/companies/bounti/product-engineer-full-stack-berlin-mitte-146616",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bounti/product-engineer-full-stack-berlin-mitte-146616",
       "tags": [
-        "CSS",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "MySQL",
-        "startup",
-        "responsive",
-        "themes",
-        "bootstrap",
-        "insurance",
-        "jQuery",
-        "Ajax"
+        "AI",
+        "Engineer",
+        "Full-Stack",
+        "Product-Engineer"
       ],
-      "description": " Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. \n As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. \n We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. \n   \n  Why Join Coalition Technologies?  \n Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, ",
-      "postedAt": "2026-08-11T20:18:02",
-      "score": 19,
+      "description": "  Our mission  Bounti is building the AI-native infrastructure layer for frontline teams, spanning training, audits, and autonomous operations. We partner with multi-location operators in frontline industries such as hospitality.  We're hiring a  Product Engineer  to join our product team in Berlin. This is a hands-on role for someone who wants to work across the whole product: the mobile app, the web app, and the API behind them. You'll ship to customers in your first week and be trusted with features end to end well before your first year.     What you'll do     Build and ship features across the app and the backend.  Our mobile app is React Native, the web app is Next.js, and the API is Node and Postgres. You'll touch all of it.   Work independently once you're ramped.  You'll take features from spec through to release without close supervision, and stay with them after they ship.   Fix what customers report.  Bugs and customer-reported issues sit with the team that built the feature, and that includes you.   Build internal tooling  that empowers the sales and support teams to answer their own questions.   Talk to the people using what you build.  You'll have direct access to op",
+      "postedAt": 1789245165,
+      "score": 18,
       "reasons": [
-        "title: frontend",
-        "skill: html",
-        "skill: css",
-        "skill: git",
-        "location: Remote"
+        "title: react",
+        "title: node",
+        "skill: react",
+        "skill: node"
       ]
     },
     {
@@ -593,23 +609,66 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-nodejs-typescript-berlin-berlin-383924",
+      "id": "arbeitnow-ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer - Node.js/TypeScript (x/f/m)",
-      "company": "Doctolib",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-software-engineer-nodejs-typescript-berlin-berlin-383924",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-software-engineer-nodejs-typescript-berlin-berlin-383924",
+      "title": "Ausbildung zum Fachinformatiker/-in für  Anwendungsentwicklung (w/m/d)",
+      "company": "GETEC GRUPPE",
+      "location": "Hannover",
+      "url": "https://www.arbeitnow.com/jobs/companies/getec-gruppe/ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/getec-gruppe/ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
       "tags": [
-        "Engineering"
+        "Ausbildung",
+        "Fachinformatiker",
+        "Fachinformatikerin",
+        "Hannover",
+        "Anwendugsentwicklung",
+        "Planung",
+        "Entwicklung",
+        "Anwendung",
+        "Software",
+        "Daten",
+        "Datenbanken",
+        "Programmierung",
+        "Logisches Denken",
+        "SQL",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Iphone",
+        "Hund",
+        "Katze",
+        "Fussball",
+        "Handball",
+        "Multi Media",
+        "Berufsschule"
       ],
-      "description": "&lt;h2&gt;&lt;strong&gt;Set a new pulse for healthcare!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Senior Software Engineer&lt;/strong&gt; to join the &lt;strong&gt;DIAL&lt;/strong&gt; team in the &lt;strong&gt;Phone Assistant&lt;/strong&gt; domain.&lt;/p&gt;\n&lt;p&gt;Your mission will be to design, build, and scale the AI-powered features that transform how practitioners and patients connect over the phone — making care more accessible for patients and reducing administrative burden for health professionals. You will work in a feature team developing the Phone Assistant, Doctolib&#39;s solution that combines LLM reasoning, speech recognition, and real-time backend systems, launching first in Germany and expanding to France and Italy.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Working in the tech team at Doctolib means building innovative products and features to improve the daily lives of care teams and patients.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Your responsibilities include but are not limited to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and operate backend services in &lt;strong&gt;Node.js/TypeScript&lt;/strong&gt; ",
-      "postedAt": 1789181708,
+      "description": "  Aufgaben    Während deiner Ausbildung besuchst du die Multi Media Berufsschule.  Du lernst die Planung und Entwicklung von Softwareanwendungen kennen.   Umsetzung von Geschäftsprozessen in Softwareprodukte.  Anwendungs- und Kommunikationsdesign.  Bei uns erlernst du das Applikationsmanagement.  Du bekommst einen Einblick in Wartung und Betrieb von Datenbanken und deren Schnittstellen.     Profil    Du hast einen guten Sekundarschulabschluss oder (Fach-) Abitur.  Begeisterung für Programmierung und Anwendungssysteme.  Interesse am Lösen von IT-Herausforderungen.  Logisches und analytisches Denken macht dir Spaß.  Vorkenntnisse in SQL, PHP, JavaScript, HTML und CSS wünschenswert, jedoch keinesfalls erforderlich.  Gute Kenntnisse in Deutsch, Mathe und Englisch.     Unser Angebot    Eine fundierte Ausbildung in einem zukunftsträchtigen IT-Beruf.  Praxisnahe Einbindung in echte Projekte ab dem ersten Tag.  Moderne Technologien, Tools und Lernumgebung.  Unterstützung bei Prüfungen, Workshops und Weiterbildungen.  Flexible Arbeitszeiten und attraktive Zusatzleistungen.  Sehr gute Übernahmechancen bei guter Leistung.     Recruiting    Haben wir dein Interesse geweckt?    Wenn deine Bewer",
+      "postedAt": 1789265352,
       "score": 15,
       "reasons": [
+        "title: javascript",
+        "skill: javascript",
+        "skill: html",
+        "skill: css"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-mainz-446123",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer (m/f/d)",
+      "company": "Vp Verbund Pflegehilfe Gmbh",
+      "location": "Mainz",
+      "url": "https://www.arbeitnow.com/jobs/companies/vp-verbund-pflegehilfe-gmbh/senior-software-engineer-mainz-446123",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/vp-verbund-pflegehilfe-gmbh/senior-software-engineer-mainz-446123",
+      "tags": [],
+      "description": "  Deine Mission     You want to do more than maintain existing software. You want to have a real impact on how it evolves.      As a Senior Software Engineer, you will take ownership of features from technical design through to release, working on applications that are used in production every day.      At the same time, we are tackling an exciting technical challenge: evolving our existing architecture step by step, reducing dependencies and creating clearer structures while keeping a live production system stable and reliable.      We are not looking for a Senior Engineer who simply implements predefined solutions. We want your experience to shape technical decisions, from architecture and code quality to determining which solutions will serve us best in the long term.     We are also expanding the use of AI in software development, focusing on where it can genuinely improve the quality and efficiency of our development process. This gives you the opportunity not only to work on our software, but to actively shape its technical evolution.     That's what makes this job unique    Develop and enhance our web applications using C#, ASP.NET Core and ReactJS.  Build new features and a",
+      "postedAt": 1789254556,
+      "score": 15,
+      "reasons": [
+        "title: react",
         "title: software engineer",
-        "title: node",
-        "skill: node"
+        "skill: react"
       ]
     },
     {
@@ -694,7 +753,7 @@
         "backend",
         "digital nomad"
       ],
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RMTguMjIzLjIzNi45Mw== when applying to show you read the job post completely (#RMTguMjIzLjIzNi45Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RNTIuMjM0LjQwLjE5Mw== when applying to show you read the job post completely (#RNTIuMjM0LjQwLjE5Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-07-29T20:00:01+00:00",
       "score": 13,
       "reasons": [
@@ -760,18 +819,85 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-data-integration-focus-remote-345260",
+      "id": "arbeitnow-staff-software-engineer-for-telemedicine-platform-munchen-377667",
+      "source": "Arbeitnow",
+      "title": "Staff Software Engineer (m/f/d) for telemedicine platform",
+      "company": "Ocumeda Ag",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/staff-software-engineer-for-telemedicine-platform-munchen-377667",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/staff-software-engineer-for-telemedicine-platform-munchen-377667",
+      "tags": [],
+      "description": "  Your role at Ocumeda  As  Staff   Software Engineer (m/f/d)  you are the engineer who makes hard, unclear or broken things tractable. You know how our platform works end to end and you shape it as you go. Your focus is our full-stack platform: the web application our doctors, our optician partners, and their customers use daily, and the services behind it. This is an individual contributor role. No direct reports, real technical authority: you set direction on architecture and engineering practice, and you build in the same codebase as everyone else in the team. Staff/Senior here means deeper, not further from the code. Your job is to keep our systems fast to iterate, reliable in production, and ready for international expansion and scaling.  Own the architecture of our full-stack platform – frontend, backend, data, AWS – and evolve it under real product pressure instead of rewriting it  Own our testing strategy: where we invest in unit, integration and end-to-end coverage, what we deliberately do not test, and how tests stay fast enough that nobody skips them  Push our agentic coding practice forward: tooling, guardrails and testing discipline that make us faster without putting",
+      "postedAt": 1789243771,
+      "score": 12,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer"
+      ]
+    },
+    {
+      "id": "remoteok-1137386",
+      "source": "RemoteOK",
+      "title": "HR Operations Specialist",
+      "company": "Law Offices of Sabrina Li",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
+      "tags": [
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "exec",
+        "content writing",
+        "ops",
+        "legal",
+        "recruiter",
+        "full time"
+      ],
+      "description": " Job Title: HR Operations SpecialistÂ   Type: Independent ContractorÂ   Location: Remote | South Africa    About Us  The Law Offices of Sabrina Li, P.C. is a leading, full-service U.S. immigration law firm with offices in Los Angeles, Pasadena, Santa Ana, and Dallas, as well as international operations across Asia, Africa, and Central and South America. We are dedicated to helping individuals, families, and businesses navigate complex legal challenges with skill, compassion, and integrity.  We are proud to be recognized as a 2025 Inc. Best Workplaces honoree, a distinction that reflects our intentional investment in our people and workplace culture. Our firm prioritizes professional development, clear career pathways, and a culture of accountability and respectâcreating a workplace where high performers can build meaningful, long-term careers.    The Opportunity  We are seeking a tech-savvy, proactive HR professional with excellent communication skills to support our HR team across recruitment, onboarding, compliance, and training. You'll work alongside firm leadership to keep day-to-day HR operations running smoothly and help identify smarter, more efficient ways to manage HR pr",
+      "postedAt": "2026-09-12T00:00:05+00:00",
+      "score": 10,
+      "reasons": [
+        "location: Remote",
+        "location: Africa",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-data-integration-focus-remote-255285",
       "source": "Arbeitnow",
       "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
       "company": "praxipal",
       "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-345260",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-345260",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-255285",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-255285",
       "tags": [
         "Engineering"
       ],
       "description": " At praxipal, we are building an AI-powered healthcare admin workforce to address the global shortage of medical staff.  Medical assistants are too valuable to spend their days chasing callbacks, cleaning up schedules, sending repetitive messages, or wrestling with invoicing and documentation workflows. Staff should spend time on patients. That’s why we build Luna.  Our AI receptionist, Luna, answers and automates phone calls and she’s loved by hundreds of medical practitioners. Right now, we’re expanding her from calls to end-to-end patient communication across any channel. Over the next years, we’ll grow her into an AI worker that automates all administrative processes in medical practices, embedded directly into the systems practice teams already use.  We’re backed by one of Europe’s leading investors and are one of the fastest growing healthtech startups in Germany. Our team has previously worked and studied at Palantir, Amazon, SAP, the University of Cambridge, and Hasso Plattner Institute.  We're hiring a (Senior) Software Engineer to help us scale Luna from hundreds of medical practitioners to hundreds of thousands.     The role  Integration is the bottleneck and the unlock:",
-      "postedAt": 1789177202,
+      "postedAt": 1789238413,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-director-sales-operations-emea-and-apj-337327",
+      "source": "Arbeitnow",
+      "title": "Director, Sales Operations - EMEA and APJ",
+      "company": "chainguard",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/director-sales-operations-emea-and-apj-337327",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/director-sales-operations-emea-and-apj-337327",
+      "tags": [
+        "GTM Strategy & Ops"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and Snowflake. &lt;br&gt;&lt;br&gt;Chainguard is venture-backed by leading investors, including Amplify, IVP, Kleiner Perkins, Lightspeed Venture Partners, Mantis VC, Redpoint Ventures, Sequoia Capital, and Spark Capital.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This role, in a nutshell:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Chainguard&#39;s international business is past the proving stage — the teams, the motion, and the early wins are in place across both EMEA and APAC. We&#39;re looking for a Director, Sales Operations to run the operational engine behind it. You&#39;ll lead our existing sales operations team and own the planning, forecasting, territory design, reporting, and process rigor that",
+      "postedAt": 1789228504,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -820,7 +946,7 @@
         "exec",
         "stats"
       ],
-      "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud â the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.\n\neClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical Solutions technology platform, elluminate, throughout the data management process to accelerate timelines for our clients and automate manual processes. We believe in a more agile approach to data management using our core technology elluminate - enabling our life sciences clients to proactively manage their clinical programs and make decisions.\n\nYou will make an  Please mention the word **DECENT** and tag RMTguMjIzLjIzNi45Mw== when applying to show you read the job post completely (#RMTguMjIzLjIzNi45Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to fi",
+      "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud â the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.\n\neClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical Solutions technology platform, elluminate, throughout the data management process to accelerate timelines for our clients and automate manual processes. We believe in a more agile approach to data management using our core technology elluminate - enabling our life sciences clients to proactively manage their clinical programs and make decisions.\n\nYou will make an  Please mention the word **DECENT** and tag RNTIuMjM0LjQwLjE5Mw== when applying to show you read the job post completely (#RNTIuMjM0LjQwLjE5Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to fi",
       "postedAt": "2026-09-10T16:00:15+00:00",
       "score": 9,
       "reasons": [
@@ -935,25 +1061,42 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-linux-os-karlsruhe-193682",
+      "id": "arbeitnow-backend-engineer-senior-berlin-mitte-254872",
       "source": "Arbeitnow",
-      "title": "Software Engineer Linux OS (m/w/d)",
-      "company": "Smight Gmbh",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/smight-gmbh/software-engineer-linux-os-karlsruhe-193682",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/smight-gmbh/software-engineer-linux-os-karlsruhe-193682",
+      "title": "Backend Engineer - Senior",
+      "company": "Bounti",
+      "location": "Berlin - Mitte",
+      "url": "https://www.arbeitnow.com/jobs/companies/bounti/backend-engineer-senior-berlin-mitte-254872",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bounti/backend-engineer-senior-berlin-mitte-254872",
       "tags": [
-        "Software Engineer Linux OS",
-        "Linux OS",
-        "Software Entwicklung",
-        "Engineering"
+        "backend",
+        "engineer"
       ],
-      "description": "  Dein Ziel  Als Software Engineer Linux OS bist Du verantwortlich für das Betriebssystem unseres Gateways. Du gestaltest die Grundlage für ein sicheres, stabiles und skalierbares Ökosystem, das den Betrieb, die Überwachung und Aktualisierung unserer Geräteflotte ermöglicht. Damit legst du den Grundstein für unsere Anwendungen und trägst aktiv zur Digitalisierung der Energienetze bei!   Deine Aufgaben      Du entwickelst und wartest ein sicheres und modulares Linux-Betriebssystem für unsere Gateways.      Du konzipierst und implementierst Frameworks und Schnittstellen zur Überwachung und Aktualisierung der Geräteflotte.      Du integrierst Lösungen zur Geräteidentifikation, -authentifizierung und -autorisierung, um höchste Sicherheit zu gewährleisten.      Das Thema Linux OS treibst Du aktiv voran und bringst technische Weiterentwicklungen eigenständig von der Idee bis zur erfolgreichen Umsetzung.       Dein Profil      Du bringst fundierte Kenntnisse moderner Softwareentwicklungsworkflows mit, z. B. Versionskontrolle mit   Git  , CI/CD-Pipelines, automatisiertes   Testing   und Code Reviews.      Fundierte Erfahrung in der Entwicklung von Linux-Betriebssystemen und Softwarearchite",
-      "postedAt": 1789189761,
+      "description": "  Our mission  Bounti is building the AI-native infrastructure layer for frontline teams, spanning training, audits, and autonomous operations. We partner with multi-location operators in frontline industries such as hospitality. Behind the product sits a backend that has grown quickly: a Node and Postgres API, background workers, queues, and the AI pipelines powering our product. We're hiring a  Senior Backend Engineer  to own that layer as we scale it.     What you'll do     Own the backend behind the product:  API design, data modelling, query performance, and the decisions that get harder to reverse the longer we leave them.   Run everything asynchronous:  queues, background jobs, scheduled work, and the retry and failure behaviour that keeps a short outage from becoming a long one.   Own the AI pipelines:  the ones running today and the next set of features we build on top of them, including versioned prompts, evaluation, cost and latency budgets, and graceful behaviour when a model provider has a bad day.   Move data where it needs to go:  reporting and analytics pipelines that give operators a trustworthy picture across dozens of locations.   Connect Bounti to the systems cu",
+      "postedAt": 1789245165,
       "score": 9,
       "reasons": [
-        "title: software engineer",
-        "skill: git"
+        "title: node",
+        "skill: node"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-14585",
+      "source": "Arbeitnow",
+      "title": "Senior Consultant (m/w/d) Daten & KI-Strategie",
+      "company": "Artefactlinkedin",
+      "location": "Berlin, Berlin; München, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/artefactlinkedin/senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-14585",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/artefactlinkedin/senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-14585",
+      "tags": [
+        "Consulting & Data"
+      ],
+      "description": "&lt;h2 data-path-to-node=&quot;2&quot;&gt;Über uns: Wer/Was ist Artefact?&lt;/h2&gt;\n&lt;p data-path-to-node=&quot;3&quot;&gt;Artefact ist eine weltweit führende Beratung für Daten- und KI-Dienstleistungen mit Hauptsitz in Paris. Mit mehr als 2.000 Consultants, Data Scientists und Engineers in 26 Ländern arbeiten wir mit den globalen Marktführern zusammen. An unseren deutschen Standorten befinden wir uns auf einem rasanten Wachstumskurs. Wir beraten führende nationale und internationale Kunden branchenübergreifend dabei, das volle Potenzial ihrer Daten auszuschöpfen, skalierbare Datenarchitekturen aufzubauen und innovative KI-Lösungen zu implementieren.&lt;/p&gt;\n&lt;p data-path-to-node=&quot;4&quot;&gt;Als &lt;strong data-path-to-node=&quot;4&quot; data-index-in-node=&quot;4&quot;&gt;Senior Consultant (m/w/d) Data &amp;amp; AI Strategy&lt;/strong&gt; stehst du im Mittelpunkt dieser Mission. Du lieferst nicht nur statische Präsentationen, sondern schlägst die Brücke zwischen technologischen Möglichkeiten und geschäftlichen Anforderungen. Dabei begleitest du unsere Kunden von fokussierten Kurzzeit-Projekten im gehobenen Mittelstand bis hin zu mehrphasigen KI-Transformationen in Groß",
+      "postedAt": 1789235713,
+      "score": 9,
+      "reasons": [
+        "title: node",
+        "skill: node"
       ]
     },
     {

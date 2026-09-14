@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-09-13T05:10:09.334Z",
+  "scannedAt": "2026-09-14T05:10:27.823Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 31,
+  "count": 43,
   "jobs": [
     {
       "id": "remoteok-1135688",
@@ -353,53 +353,70 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-software-developer-e-health-x-berlin-168459",
-      "source": "Arbeitnow",
-      "title": "Full Stack Software Developer E-Health (f/m/d/x)",
-      "company": "Doc Cirrus Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-168459",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-168459",
+      "id": "remotive-2091097",
+      "source": "Remotive",
+      "title": "Senior Data Engineer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
       "tags": [
+        ".Net",
+        "android",
+        "apache",
+        "AWS",
+        "azure",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
         "javascript",
         "node.js",
-        "scrum",
-        "code",
-        "ehealth",
-        "informatics",
-        "Full Stack Development"
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "sql",
+        "swift",
+        "UI/UX",
+        "wordpress",
+        "blockchain",
+        "AI/ML",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "product management",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "Ethereum",
+        "graphic design",
+        "Typescript ",
+        "angular ",
+        "GCP",
+        "Snowflake",
+        "Site Reliability",
+        "Symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter"
       ],
-      "description": "  This is what makes your position special    Full-stack software development based on  Docker, Node.js and MongoDB    Set your own focus: Backend, Frontend, DevOps, Security, Data Modeling, Development tools  Component responsibility: from technical design to development to CI/CD If you take responsibility, you also get freedom of decision   Co-determination: Get involved in the strategic direction, introduce new technologies, present interesting topics in our TechTalks or workshops   Close cooperation with our Development Team, with Product Management, Quality Assurance and Customer Care   The position is also available on a part-time basis      This is what makes you special    Completed studies or training in the field of computer science, mathematics, physics or other natural sciences  Solid development experience, including JavaScript and TypeScript in full-stack development, and experience with AI   Experience with large repositories and an empathetic approach to working as part of a team  A structured and goal-oriented way of working with very high quality awareness   Strong teamwork skills and the ability to successfully collaborate in an agile environment  Ideally, indust",
-      "postedAt": 1789254591,
-      "score": 30,
+      "description": " Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  — the marketplace that connects you with hand-picked startups in the US and Europe. \n     \n  What we offer:  \n \n The rate depends on your skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more th",
+      "postedAt": "2026-08-19T12:12:11",
+      "score": 31,
       "reasons": [
-        "title: frontend",
+        "title: react",
         "title: javascript",
-        "title: full stack",
         "title: node",
         "skill: javascript",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
-      "source": "Arbeitnow",
-      "title": "(Senior) Fullstack Engineer - Node / React (all genders)",
-      "company": "Gamigo",
-      "location": "Germany · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/gamigo/remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/gamigo/remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
-      "tags": [
-        "Portals",
-        "Remote"
-      ],
-      "description": " To strengthen our team, gamigo group is looking for a Senior Fullstack Engineer (all genders) to join as soon as possible, full-time, based in Germany.       About the role   As a Senior Fullstack Engineer, you will build and evolve our casual gaming eCommerce platform end-to-end, driving technical direction with broad expertise across web and cloud systems.     Actively&nbsp;shape&nbsp;and&nbsp;evolve&nbsp;our&nbsp;code&nbsp;structure&nbsp;and&nbsp;architecture,&nbsp;and&nbsp;drive&nbsp;technical&nbsp;decisions&nbsp;forward  Design&nbsp;and&nbsp;implement&nbsp;new&nbsp;features&nbsp;for&nbsp;our&nbsp;casual&nbsp;eCommerce&nbsp;platforms,&nbsp;from&nbsp;architecture&nbsp;through&nbsp;deployment&nbsp;andmonitoring  Build&nbsp;performant,&nbsp;reliable&nbsp;and&nbsp;secure&nbsp;backend&nbsp;services&nbsp;with&nbsp;Node.js,&nbsp;TypeScript&nbsp;and&nbsp;NestJS  Develop&nbsp;frontends&nbsp;with&nbsp;Next.js&nbsp;and&nbsp;React,&nbsp;optimized&nbsp;for&nbsp;page&nbsp;speed&nbsp;and&nbsp;SEO  Ensure&nbsp;high&nbsp;availability&nbsp;and&nbsp;performance&nbsp;of&nbsp;our&nbsp;production&nbsp;systems  Improve&nbsp;observability,&nbsp;code&nbsp;quality&nbsp;and&nbsp;code&nbsp;structure  Men",
-      "postedAt": 1789244422,
-      "score": 28,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: node",
         "skill: react",
         "skill: node",
         "location: Remote"
@@ -453,6 +470,47 @@
       ]
     },
     {
+      "id": "remotive-1680495",
+      "source": "Remotive",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "applyUrl": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "tags": [
+        "CSS",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "MySQL",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jQuery",
+        "Ajax"
+      ],
+      "description": " Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. \n As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. \n We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. \n   \n  Why Join Coalition Technologies?  \n Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, ",
+      "postedAt": "2026-09-11T20:16:48",
+      "score": 21,
+      "reasons": [
+        "title: frontend",
+        "skill: html",
+        "skill: css",
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
       "id": "remoteok-1137062",
       "source": "RemoteOK",
       "title": "DESARROLLADOR FULL STACK",
@@ -491,27 +549,27 @@
       ]
     },
     {
-      "id": "arbeitnow-product-engineer-full-stack-berlin-mitte-146616",
+      "id": "arbeitnow-senior-full-stack-engineer-typescript-nextjs-100-ltq-de-berlin-142987",
       "source": "Arbeitnow",
-      "title": "Product Engineer (Full-Stack)",
-      "company": "Bounti",
-      "location": "Berlin - Mitte",
-      "url": "https://www.arbeitnow.com/jobs/companies/bounti/product-engineer-full-stack-berlin-mitte-146616",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bounti/product-engineer-full-stack-berlin-mitte-146616",
+      "title": "Senior Full Stack Engineer — TypeScript / Next.js (100%, m/f/d)",
+      "company": "LeaseTeq",
+      "location": "LTQ-DE | Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/leaseteq/senior-full-stack-engineer-typescript-nextjs-100-ltq-de-berlin-142987",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/leaseteq/senior-full-stack-engineer-typescript-nextjs-100-ltq-de-berlin-142987",
       "tags": [
-        "AI",
-        "Engineer",
-        "Full-Stack",
-        "Product-Engineer"
+        "Senior Full Stack Engineer",
+        "TypeScript",
+        "Next.js / NextJS",
+        "JavaScript"
       ],
-      "description": "  Our mission  Bounti is building the AI-native infrastructure layer for frontline teams, spanning training, audits, and autonomous operations. We partner with multi-location operators in frontline industries such as hospitality.  We're hiring a  Product Engineer  to join our product team in Berlin. This is a hands-on role for someone who wants to work across the whole product: the mobile app, the web app, and the API behind them. You'll ship to customers in your first week and be trusted with features end to end well before your first year.     What you'll do     Build and ship features across the app and the backend.  Our mobile app is React Native, the web app is Next.js, and the API is Node and Postgres. You'll touch all of it.   Work independently once you're ramped.  You'll take features from spec through to release without close supervision, and stay with them after they ship.   Fix what customers report.  Bugs and customer-reported issues sit with the team that built the feature, and that includes you.   Build internal tooling  that empowers the sales and support teams to answer their own questions.   Talk to the people using what you build.  You'll have direct access to op",
-      "postedAt": 1789245165,
+      "description": "  Your mission  You are the architect and builder of the customer-facing side of the LEASETEQ platform in Berlin, and the owner of our German market on it. You design the digital application journey and the portals that carry real customers, dealers and operations teams at production scale, and you make sure German credit rules, compliance requirements and dealer flows are represented correctly in a platform that also serves Switzerland and Austria. You work in a small, senior team where your decisions have direct product impact, and you naturally bring AI tooling into your daily engineering workflow without being asked.   What you will do    Own the German market on our customer-facing platform: credit and compliance requirements, dealer flows, German copy, and the acceptance criteria that make them verifiable  Design and build the digital application journey — multi-step forms, validation, resumable state, document upload, KYC steps and the unhappy paths users actually hit  Build and maintain the customer, dealer and operations portals, including the operations board and the logic that decides where a case belongs  Write the use-case and API layers behind the journey to our clean",
+      "postedAt": 1789340957,
       "score": 18,
       "reasons": [
-        "title: react",
-        "title: node",
-        "skill: react",
-        "skill: node"
+        "title: javascript",
+        "title: full stack",
+        "skill: javascript",
+        "skill: git"
       ]
     },
     {
@@ -609,61 +667,62 @@
       ]
     },
     {
-      "id": "arbeitnow-ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
+      "id": "arbeitnow-full-stack-engineer-cloud-saas-integrations-423100",
       "source": "Arbeitnow",
-      "title": "Ausbildung zum Fachinformatiker/-in für  Anwendungsentwicklung (w/m/d)",
-      "company": "GETEC GRUPPE",
-      "location": "Hannover",
-      "url": "https://www.arbeitnow.com/jobs/companies/getec-gruppe/ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/getec-gruppe/ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
+      "title": "Full Stack Engineer  - Cloud & SaaS Integrations",
+      "company": "Doitintl",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/doitintl/full-stack-engineer-cloud-saas-integrations-423100",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/doitintl/full-stack-engineer-cloud-saas-integrations-423100",
       "tags": [
-        "Ausbildung",
-        "Fachinformatiker",
-        "Fachinformatikerin",
-        "Hannover",
-        "Anwendugsentwicklung",
-        "Planung",
-        "Entwicklung",
-        "Anwendung",
-        "Software",
-        "Daten",
-        "Datenbanken",
-        "Programmierung",
-        "Logisches Denken",
-        "SQL",
-        "PHP",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Iphone",
-        "Hund",
-        "Katze",
-        "Fussball",
-        "Handball",
-        "Multi Media",
-        "Berufsschule"
+        "Engineering"
       ],
-      "description": "  Aufgaben    Während deiner Ausbildung besuchst du die Multi Media Berufsschule.  Du lernst die Planung und Entwicklung von Softwareanwendungen kennen.   Umsetzung von Geschäftsprozessen in Softwareprodukte.  Anwendungs- und Kommunikationsdesign.  Bei uns erlernst du das Applikationsmanagement.  Du bekommst einen Einblick in Wartung und Betrieb von Datenbanken und deren Schnittstellen.     Profil    Du hast einen guten Sekundarschulabschluss oder (Fach-) Abitur.  Begeisterung für Programmierung und Anwendungssysteme.  Interesse am Lösen von IT-Herausforderungen.  Logisches und analytisches Denken macht dir Spaß.  Vorkenntnisse in SQL, PHP, JavaScript, HTML und CSS wünschenswert, jedoch keinesfalls erforderlich.  Gute Kenntnisse in Deutsch, Mathe und Englisch.     Unser Angebot    Eine fundierte Ausbildung in einem zukunftsträchtigen IT-Beruf.  Praxisnahe Einbindung in echte Projekte ab dem ersten Tag.  Moderne Technologien, Tools und Lernumgebung.  Unterstützung bei Prüfungen, Workshops und Weiterbildungen.  Flexible Arbeitszeiten und attraktive Zusatzleistungen.  Sehr gute Übernahmechancen bei guter Leistung.     Recruiting    Haben wir dein Interesse geweckt?    Wenn deine Bewer",
-      "postedAt": 1789265352,
-      "score": 15,
+      "description": "&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt; &lt;br&gt;Our Full Stack Software Engineer will be an integral part of our R&amp;amp;D team. This role is based remotely as a full-time employee in the UK, Ireland, Estonia, the Netherlands, Sweden and Israel. We are also open to contractors in Eastern Europe and Portugal.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Who We Are&lt;/strong&gt; &lt;br&gt;DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production.&lt;/p&gt;\n&lt;p&gt;Delivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.With decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Opportunity&lt;/strong&gt;&lt",
+      "postedAt": 1789304110,
+      "score": 16,
       "reasons": [
-        "title: javascript",
-        "skill: javascript",
-        "skill: html",
-        "skill: css"
+        "title: software engineer",
+        "title: full stack",
+        "location: Remote"
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-mainz-446123",
+      "id": "remoteok-1137387",
+      "source": "RemoteOK",
+      "title": "Software Engineer",
+      "company": "Mirantis",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTMwLjEzMS4yNTUuMjEw when applying to show you read the job post completely (#RMTMwLjEzMS4yNTUuMjEw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "postedAt": "2026-09-12T14:00:03+00:00",
+      "score": 15,
+      "reasons": [
+        "title: software engineer",
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-devops-support-engineer-ireland-or-poland-152092",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer (m/f/d)",
-      "company": "Vp Verbund Pflegehilfe Gmbh",
-      "location": "Mainz",
-      "url": "https://www.arbeitnow.com/jobs/companies/vp-verbund-pflegehilfe-gmbh/senior-software-engineer-mainz-446123",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/vp-verbund-pflegehilfe-gmbh/senior-software-engineer-mainz-446123",
-      "tags": [],
-      "description": "  Deine Mission     You want to do more than maintain existing software. You want to have a real impact on how it evolves.      As a Senior Software Engineer, you will take ownership of features from technical design through to release, working on applications that are used in production every day.      At the same time, we are tackling an exciting technical challenge: evolving our existing architecture step by step, reducing dependencies and creating clearer structures while keeping a live production system stable and reliable.      We are not looking for a Senior Engineer who simply implements predefined solutions. We want your experience to shape technical decisions, from architecture and code quality to determining which solutions will serve us best in the long term.     We are also expanding the use of AI in software development, focusing on where it can genuinely improve the quality and efficiency of our development process. This gives you the opportunity not only to work on our software, but to actively shape its technical evolution.     That's what makes this job unique    Develop and enhance our web applications using C#, ASP.NET Core and ReactJS.  Build new features and a",
-      "postedAt": 1789254556,
+      "title": "Senior DevOps Support Engineer",
+      "company": "Buildkite",
+      "location": "Ireland or Poland",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/buildkite/senior-devops-support-engineer-ireland-or-poland-152092",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/buildkite/senior-devops-support-engineer-ireland-or-poland-152092",
+      "tags": [
+        "Technical Services"
+      ],
+      "description": "&lt;h3&gt;&lt;strong&gt;About Buildkite&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Buildkite&#39;s CI platform is trusted by the world&#39;s leading engineering teams, helping ship software used by more than 1 billion people every day. Companies including Canva, Meta, Mistral AI, and NVIDIA rely on Buildkite to run builds, tests, and deployments on their infrastructure, ours, or both - giving them the speed, reliability, and flexibility to ship with confidence.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This is not your average Support Engineer role. You&#39;ll support Buildkite&#39;s enterprise customers by independently troubleshooting and resolving highly complex CI/CD, software, and infrastructure problems, collaborating directly with Software Engineering teams at places like Canva, Uber, and Airbnb to help unblock critical workflows. You&#39;ll play a vital role in shaping the support team&#39;s evolution into a function that balances reactive and proactive work, spending half your time designing and implementing scalable tools, processes, and open source contributions that create a world-class customer experience. This role is a perfect opport",
+      "postedAt": 1789304112,
       "score": 15,
       "reasons": [
         "title: react",
@@ -753,7 +812,7 @@
         "backend",
         "digital nomad"
       ],
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RNTIuMjM0LjQwLjE5Mw== when applying to show you read the job post completely (#RNTIuMjM0LjQwLjE5Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RMTMwLjEzMS4yNTUuMjEw when applying to show you read the job post completely (#RMTMwLjEzMS4yNTUuMjEw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-07-29T20:00:01+00:00",
       "score": 13,
       "reasons": [
@@ -819,16 +878,75 @@
       ]
     },
     {
-      "id": "arbeitnow-staff-software-engineer-for-telemedicine-platform-munchen-377667",
+      "id": "arbeitnow-software-engineer-platform-nantes-france-309845",
       "source": "Arbeitnow",
-      "title": "Staff Software Engineer (m/f/d) for telemedicine platform",
-      "company": "Ocumeda Ag",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/staff-software-engineer-for-telemedicine-platform-munchen-377667",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/staff-software-engineer-for-telemedicine-platform-munchen-377667",
-      "tags": [],
-      "description": "  Your role at Ocumeda  As  Staff   Software Engineer (m/f/d)  you are the engineer who makes hard, unclear or broken things tractable. You know how our platform works end to end and you shape it as you go. Your focus is our full-stack platform: the web application our doctors, our optician partners, and their customers use daily, and the services behind it. This is an individual contributor role. No direct reports, real technical authority: you set direction on architecture and engineering practice, and you build in the same codebase as everyone else in the team. Staff/Senior here means deeper, not further from the code. Your job is to keep our systems fast to iterate, reliable in production, and ready for international expansion and scaling.  Own the architecture of our full-stack platform – frontend, backend, data, AWS – and evolve it under real product pressure instead of rewriting it  Own our testing strategy: where we invest in unit, integration and end-to-end coverage, what we deliberately do not test, and how tests stay fast enough that nobody skips them  Push our agentic coding practice forward: tooling, guardrails and testing discipline that make us faster without putting",
-      "postedAt": 1789243771,
+      "title": "Software Engineer, Platform - Nantes, France",
+      "company": "speechify",
+      "location": "Nantes",
+      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-platform-nantes-france-309845",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-platform-nantes-france-309845",
+      "tags": [
+        "Global"
+      ],
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-speechify-sentence=&quot;&quot;&gt;The responsibilities of our Platform team include building and maintaining all backend services, inclu",
+      "postedAt": 1789307711,
+      "score": 12,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-data-infrastructure-acquisition-paris-france-105340",
+      "source": "Arbeitnow",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Paris, France",
+      "company": "speechify",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-paris-france-105340",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-paris-france-105340",
+      "tags": [
+        "Global"
+      ],
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&amp;nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re looking to hire for our Data side of our AI team at Speechify. This role is responsible for all aspects of data collecti",
+      "postedAt": 1789307711,
+      "score": 12,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-data-infrastructure-acquisition-nantes-france-493314",
+      "source": "Arbeitnow",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Nantes, France",
+      "company": "speechify",
+      "location": "Nantes",
+      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-nantes-france-493314",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-nantes-france-493314",
+      "tags": [
+        "Global"
+      ],
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&amp;nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re looking to hire for our Data side of our AI team at Speechify. This role is responsible for all aspects of data collecti",
+      "postedAt": 1789307711,
+      "score": 12,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-windows-desktop-applications-paris-france-177790",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Paris, France",
+      "company": "speechify",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-paris-france-177790",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-paris-france-177790",
+      "tags": [
+        "Global"
+      ],
+      "description": "&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Mission&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies&lt;/p&gt;\n&lt;/div&gt;\n&lt;div ",
+      "postedAt": 1789307711,
       "score": 12,
       "reasons": [
         "title: frontend",
@@ -867,18 +985,18 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-data-integration-focus-remote-255285",
+      "id": "arbeitnow-remote-software-engineer-396352",
       "source": "Arbeitnow",
-      "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
-      "company": "praxipal",
+      "title": "Software Engineer",
+      "company": "Scarlet",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-255285",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-255285",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/remote-software-engineer-396352",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/remote-software-engineer-396352",
       "tags": [
-        "Engineering"
+        "Software Engineering"
       ],
-      "description": " At praxipal, we are building an AI-powered healthcare admin workforce to address the global shortage of medical staff.  Medical assistants are too valuable to spend their days chasing callbacks, cleaning up schedules, sending repetitive messages, or wrestling with invoicing and documentation workflows. Staff should spend time on patients. That’s why we build Luna.  Our AI receptionist, Luna, answers and automates phone calls and she’s loved by hundreds of medical practitioners. Right now, we’re expanding her from calls to end-to-end patient communication across any channel. Over the next years, we’ll grow her into an AI worker that automates all administrative processes in medical practices, embedded directly into the systems practice teams already use.  We’re backed by one of Europe’s leading investors and are one of the fastest growing healthtech startups in Germany. Our team has previously worked and studied at Palantir, Amazon, SAP, the University of Cambridge, and Hasso Plattner Institute.  We're hiring a (Senior) Software Engineer to help us scale Luna from hundreds of medical practitioners to hundreds of thousands.     The role  Integration is the bottleneck and the unlock:",
-      "postedAt": 1789238413,
+      "description": "  We pull medical technology from the future to solve human health.      Scarlet is authorised to assess and certify medical devices. We combine clinical, technical and regulatory expertise with AI agents and software so rigorous certification can keep pace with product development at the world’s most ambitious technology companies, without lowering the safety bar.  Our customers have cut a year or more from their certification timelines for new AI-enabled medical devices and shortened product-update cycles from months to weeks. You’ll join a team building the infrastructure that makes these outcomes repeatable at scale.  About the role  As a Software Engineer at Scarlet you will build software that streamlines and accelerates complex regulatory processes without sacrificing quality. Our engineering problems are plenty, and we have chosen Clojure as the tool to solve them. We aspire to shape and nurture an engineering team where every team member:    Really cares about our customers.    Works cross-functionally with engineers, product managers, designers, regulatory experts and other stakeholders.    Collaborates on solving hard, important, real-world problems.    Helps bring out t",
+      "postedAt": 1789314003,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -886,22 +1004,33 @@
       ]
     },
     {
-      "id": "arbeitnow-director-sales-operations-emea-and-apj-337327",
-      "source": "Arbeitnow",
-      "title": "Director, Sales Operations - EMEA and APJ",
-      "company": "chainguard",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/director-sales-operations-emea-and-apj-337327",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/director-sales-operations-emea-and-apj-337327",
+      "id": "remoteok-1137388",
+      "source": "RemoteOK",
+      "title": "Technical Product Lead AI Finance App",
+      "company": "Bjak ",
+      "location": "Seoul",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
       "tags": [
-        "GTM Strategy & Ops"
+        "design",
+        "sys admin",
+        "infosec",
+        "exec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and Snowflake. &lt;br&gt;&lt;br&gt;Chainguard is venture-backed by leading investors, including Amplify, IVP, Kleiner Perkins, Lightspeed Venture Partners, Mantis VC, Redpoint Ventures, Sequoia Capital, and Spark Capital.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This role, in a nutshell:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Chainguard&#39;s international business is past the proving stage — the teams, the motion, and the early wins are in place across both EMEA and APAC. We&#39;re looking for a Director, Sales Operations to run the operational engine behind it. You&#39;ll lead our existing sales operations team and own the planning, forecasting, territory design, reporting, and process rigor that",
-      "postedAt": 1789228504,
-      "score": 10,
+      "description": "  About KIRA   Our mission is to make money smart, reliable and within reach for everyone.  Â   In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.  Â   Today, we are expanding ways to help people in Asia and it includes spending, saving, investing, exchanging, travelling, and more. Our objective is to build tools that will help people get more from their money and at ease and self reliance, become an expert. We believe AI will help us achieve this in our generation.  We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.  We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future.  If you're this person, we'd love to talk to you.     The Role   KIRA is building a AI Finance Superapp for South",
+      "postedAt": "2026-09-12T16:00:10+00:00",
+      "score": 9,
       "reasons": [
-        "title: software engineer",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -926,28 +1055,6 @@
       ],
       "description": "&lt;h3&gt;Marketing Student Assistant&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Are you studying marketing, communications or business and looking for a student job where you can build hands-on marketing experience and see how it all comes together in practice?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Weâre looking for a structured and proactive&lt;span&gt; &lt;/span&gt;&lt;strong&gt;Marketing Student Assistant&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;to join our Brand &amp;amp; Marketing team at Copenhagen Optimization.&lt;/p&gt;&lt;p&gt;Youâll work alongside our Head of Marketing, Growth Marketing Manager and Content Strategist, helping us turn plans into action across digital, events, content and campaigns. Itâs a hands-on role with plenty of variety and room to take on more responsibility as you grow.&lt;/p&gt;&lt;h5&gt;&lt;strong&gt;What you&#39;ll work on&lt;/strong&gt;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Website &amp;amp; digital:&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;Update and maintain website content, event and campaign pages, and help keep everything accurate and up to date.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Events:&lt;/strong&gt;&lt;span&gt; &l",
       "postedAt": "2026-09-11T08:00:08+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137375",
-      "source": "RemoteOK",
-      "title": "External Data Specialist",
-      "company": "eClinical Solutions",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
-      "tags": [
-        "cloud",
-        "exec",
-        "stats"
-      ],
-      "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud â the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.\n\neClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical Solutions technology platform, elluminate, throughout the data management process to accelerate timelines for our clients and automate manual processes. We believe in a more agile approach to data management using our core technology elluminate - enabling our life sciences clients to proactively manage their clinical programs and make decisions.\n\nYou will make an  Please mention the word **DECENT** and tag RNTIuMjM0LjQwLjE5Mw== when applying to show you read the job post completely (#RNTIuMjM0LjQwLjE5Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to fi",
-      "postedAt": "2026-09-10T16:00:15+00:00",
       "score": 9,
       "reasons": [
         "skill: git",
@@ -1061,19 +1168,18 @@
       ]
     },
     {
-      "id": "arbeitnow-backend-engineer-senior-berlin-mitte-254872",
+      "id": "arbeitnow-analog-layout-engineer-lead-reading-44767",
       "source": "Arbeitnow",
-      "title": "Backend Engineer - Senior",
-      "company": "Bounti",
-      "location": "Berlin - Mitte",
-      "url": "https://www.arbeitnow.com/jobs/companies/bounti/backend-engineer-senior-berlin-mitte-254872",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bounti/backend-engineer-senior-berlin-mitte-254872",
+      "title": "Analog Layout Engineer (Lead)",
+      "company": "Kandou AI",
+      "location": "Reading",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kandou-ai/analog-layout-engineer-lead-reading-44767",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/kandou-ai/analog-layout-engineer-lead-reading-44767",
       "tags": [
-        "backend",
-        "engineer"
+        "Engineering"
       ],
-      "description": "  Our mission  Bounti is building the AI-native infrastructure layer for frontline teams, spanning training, audits, and autonomous operations. We partner with multi-location operators in frontline industries such as hospitality. Behind the product sits a backend that has grown quickly: a Node and Postgres API, background workers, queues, and the AI pipelines powering our product. We're hiring a  Senior Backend Engineer  to own that layer as we scale it.     What you'll do     Own the backend behind the product:  API design, data modelling, query performance, and the decisions that get harder to reverse the longer we leave them.   Run everything asynchronous:  queues, background jobs, scheduled work, and the retry and failure behaviour that keeps a short outage from becoming a long one.   Own the AI pipelines:  the ones running today and the next set of features we build on top of them, including versioned prompts, evaluation, cost and latency budgets, and graceful behaviour when a model provider has a bad day.   Move data where it needs to go:  reporting and analytics pipelines that give operators a trustworthy picture across dozens of locations.   Connect Bounti to the systems cu",
-      "postedAt": 1789245165,
+      "description": " At  Kandou , we are redeﬁning the economics of AI infrastructure. Our mission is to  democratise AI by signiﬁcantly reducing the Total Cost of Ownership (TCO)  of hardware systems — a critical barrier to scalable adoption.    Our proprietary  MIMO-over-copper technology  powers a  high-performance, chiplet-based AI memory fabric  that is both  scalable and energy-efficient . Unlike traditional interconnects, our solution  reduces power consumption signiﬁcantly  while preserving  high bandwidth and ultra-low latency  — unlocking unprecedented efficiency for AI training and inference at scale.     Kandou’s architecture is not just an incremental improvement — it’s a  foundational shift  in how AI hardware is built for the future.     Job title:  Analog Layout Engineer (Lead)   Location: EU/CH/UK      Responsibility     Position in custom layout and verification of analog circuits, cells, blocks, and IP for multi-Gigabit high speed chip to chip communication links (SerDes up to and beyond 28Gb/s and/or memory IO) in advanced semiconductor technology nodes    Layout and verification of very high-speed analog circuits    Interact closely with the design team to understand requirements ",
+      "postedAt": 1789314004,
       "score": 9,
       "reasons": [
         "title: node",
@@ -1081,22 +1187,195 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-14585",
+      "id": "arbeitnow-software-engineer-ai-tooling-enablement-sydney-australia-272616",
       "source": "Arbeitnow",
-      "title": "Senior Consultant (m/w/d) Daten & KI-Strategie",
-      "company": "Artefactlinkedin",
-      "location": "Berlin, Berlin; München, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/artefactlinkedin/senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-14585",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/artefactlinkedin/senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-14585",
+      "title": "Software Engineer (AI Tooling & Enablement)",
+      "company": "Hipagesgroup",
+      "location": "Sydney, Australia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hipagesgroup/software-engineer-ai-tooling-enablement-sydney-australia-272616",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/hipagesgroup/software-engineer-ai-tooling-enablement-sydney-australia-272616",
       "tags": [
-        "Consulting & Data"
+        "Engineering"
       ],
-      "description": "&lt;h2 data-path-to-node=&quot;2&quot;&gt;Über uns: Wer/Was ist Artefact?&lt;/h2&gt;\n&lt;p data-path-to-node=&quot;3&quot;&gt;Artefact ist eine weltweit führende Beratung für Daten- und KI-Dienstleistungen mit Hauptsitz in Paris. Mit mehr als 2.000 Consultants, Data Scientists und Engineers in 26 Ländern arbeiten wir mit den globalen Marktführern zusammen. An unseren deutschen Standorten befinden wir uns auf einem rasanten Wachstumskurs. Wir beraten führende nationale und internationale Kunden branchenübergreifend dabei, das volle Potenzial ihrer Daten auszuschöpfen, skalierbare Datenarchitekturen aufzubauen und innovative KI-Lösungen zu implementieren.&lt;/p&gt;\n&lt;p data-path-to-node=&quot;4&quot;&gt;Als &lt;strong data-path-to-node=&quot;4&quot; data-index-in-node=&quot;4&quot;&gt;Senior Consultant (m/w/d) Data &amp;amp; AI Strategy&lt;/strong&gt; stehst du im Mittelpunkt dieser Mission. Du lieferst nicht nur statische Präsentationen, sondern schlägst die Brücke zwischen technologischen Möglichkeiten und geschäftlichen Anforderungen. Dabei begleitest du unsere Kunden von fokussierten Kurzzeit-Projekten im gehobenen Mittelstand bis hin zu mehrphasigen KI-Transformationen in Groß",
-      "postedAt": 1789235713,
+      "description": "&lt;p&gt;Hi! We’re hipages, an ASX-listed tech company and Australia’s #1 digital platform connecting households with trusted home improvement businesses. We&#39;re on a mission to transform the home improvement industry to build better lives for everyone.&lt;/p&gt;\n&lt;p&gt;With teams across Australia, New Zealand, the Philippines and Vietnam, we work as one team with a shared purpose. We’re proud to be a certified &lt;strong&gt;Great Place to Work&lt;/strong&gt; and &lt;strong&gt;WORK180’s #1 Employer for Women&lt;/strong&gt;. At hipages, you’ll find real impact, career growth and a workplace where everyone belongs.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re building &lt;em&gt;the&lt;/em&gt; shared platform that makes every hipages engineer, product manager and designer and every AI agent working on their behalf, faster, safer and more effective. We own the hipages agentic harness and software factory: the shared kernel (identity, audit logging, shared memory/context, a plugin/skill registry, org-wide safety limits and a behavioural baseline), cloud agents plus the encouraged per-team &quot;forks&quot; (bundled MCP servers, skills, pr",
+      "postedAt": 1789304110,
       "score": 9,
       "reasons": [
-        "title: node",
-        "skill: node"
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-developpeur-c-confirme-h-f-aspnet-react-nantes-214444",
+      "source": "Arbeitnow",
+      "title": "Développeur C# confirmé H/F - ASP.NET / React",
+      "company": "Valsoft Corp",
+      "location": "Nantes, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/valsoft-corp/developpeur-c-confirme-h-f-aspnet-react-nantes-214444",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/valsoft-corp/developpeur-c-confirme-h-f-aspnet-react-nantes-214444",
+      "tags": [
+        "Engineering",
+        "Financial Services",
+        "E-Finances"
+      ],
+      "description": " À propos de nous  E-finances est un éditeur de logiciels B2B spécialisé dans les solutions de gestion financière et de trésorerie. Nos solutions permettent aux entreprises d'optimiser la gestion de leurs flux financiers, d'améliorer leur visibilité sur leur trésorerie et de renforcer leur performance financière.  Nous sommes en pleine phase de modernisation : refonte technique de nos produits historiques, lancement de nouvelles fonctionnalités, montée en puissance de nos stacks. C'est le bon moment pour rejoindre l'aventure et laisser une vraie empreinte sur ce que nous construisons.  Pourquoi nous rejoindre    Un vrai rôle de bâtisseur.  Vous n'arrivez pas sur un projet figé : vous participez activement à la refonte de nos applications et à la définition de la manière dont elles doivent évoluer. Vos idées et votre esprit d'initiative sont attendus, pas seulement votre code.   De l'autonomie et de la confiance.  Vous travaillez en petite équipe soudée (un Lead Tech, trois développeurs, un Product Owner), avec la liberté d'organiser votre travail et de proposer vos propres solutions techniques.   Des perspectives d'évolution concrètes.  En rejoignant une équipe en croissance sur un",
+      "postedAt": 1789348815,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
+      "source": "Arbeitnow",
+      "title": "Stage Software Engineer - Paris - H/F/X",
+      "company": "Artefactjobs",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
+      "tags": [
+        "Data Engineering"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;Qui sommes-nous ?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Fondée en 2014, Artefact est une société internationale de services autour de l&#39;IA et de la data, spécialisée dans le conseil en IA, transformation data et en data &amp;amp; digital marketing. L’approche unique d’Artefact, qui fait le pont entre la donnée et le business, permet à nos clients d’atteindre leurs objectifs business de façon dédiée et efficace. Nos 2500 collaborateurs répartis dans 27 bureaux à travers le monde allient leurs compétences pluridisciplinaires au profit de l’innovation business des entreprises.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;La mission des Artefactors ?&lt;/strong&gt; Transformer la data de nos clients en impact business. Dans ce sens, nous collaborons avec plus de 1000 clients, leaders de leurs industries (Orange, Carrefour, Samsung, AccorHotels, L’Oréal, LVMH, Decathlon) et sommes partenaires privilégiés de Google (GMP/GCP), AWS ainsi que Microsoft Azure.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;En tant que stagiaire Software Engineer, tu seras ammener à:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Participer activement à la conception et à l&#39;implé",
+      "postedAt": 1789307705,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-ai-native-software-engineer-senior-paris-434205",
+      "source": "Arbeitnow",
+      "title": "AI Native - Software Engineer Senior",
+      "company": "PALO IT",
+      "location": "PALO IT France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/palo-it/ai-native-software-engineer-senior-paris-434205",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/palo-it/ai-native-software-engineer-senior-paris-434205",
+      "tags": [
+        "Paris Technology"
+      ],
+      "description": "  Who We Are      Building the AI-first frontier enterprise.   We are a global technology consultancy with a trademarked, AI-first approach,  Gen-e2™.  It redefines how enterprises build digital products and transform their organizations with AI.  We do the right thing, and we do it right.  We're proud to be a World Economic Forum New Champion, and a B Corp-certified company.   · We are small enough to care locally, big enough to deliver globally ( 10 countries, 450+ experts from 50+ nationalities )  · We are becoming an  agentic organization , adopting the AI-native operating model we bring to our clients.  · We are  robust and resilient  (100% independent, 0 debt, founded 2009)  · We are  AI-native professionals  who invest in what we believe and work as a collective intelligence  · We are positive, courageous and deliver at the leading edge      Your Role   As a  Senior AI Native Software Engineer  at PALO IT, you’ll lead and accelerate the next wave of software innovation by:        Crafting AI-driven architectures:  Design elegant, scalable systems by harnessing AI to solve complex technical challenges tailored to each client’s needs.     Elevating software craftsmanship:  Wri",
+      "postedAt": 1789289107,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-medical-excellence-paris-297557",
+      "source": "Arbeitnow",
+      "title": "Medical Excellence",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/medical-excellence-paris-297557",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/medical-excellence-paris-297557",
+      "tags": [
+        "Clinical"
+      ],
+      "description": "  Making preventive health the default for every human in Europe      The mission   At Lucis, we believe healthcare should be preventive, not reactive. We’re building the operating system for human longevity to help people add more healthy years to their lives.   The role   Lucis analyses more than 110 biomarkers, builds personalised clinical protocols, and delivers them through an AI-powered preventive health product.  As Medical Excellence, you are the senior medical expert next to product and Medical ops. You bring deep clinical expertise into protocols, ranges, evidence, and what we can say next to a marker. You also cover medical content: biomarker copy, protocols, and marketing clinical sign-off.  You work with the product lead, Medical ops, medical reviewers, and AI. You do  not  own product decisions, and you do  not  own labs, partners, or turnaround — Medical ops does.  This is not a traditional bedside role. It is not an ops role. It is not a copywriting role. You have practiced medicine in depth, and you can turn clinical judgment into clear protocols, ranges, and member-facing language.     What you own     Protocols &amp; clinical standards     Protocol logic, decisio",
+      "postedAt": 1789289106,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-partnerships-and-account-manager-paris-483394",
+      "source": "Arbeitnow",
+      "title": "Partnerships and Account Manager",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/partnerships-and-account-manager-paris-483394",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/partnerships-and-account-manager-paris-483394",
+      "tags": [
+        "GTM"
+      ],
+      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .      The role   Lucis is building its B2B distribution (department stores, wellness retail, premium clubs and studios, pharmacy networks..) and corporate licence accounts in France, the UK and beyond. Signing them is one job. Making them produce is this one.  You report to the Head of Sales &amp; Partnerships, who stays accountable for portfolio performance and co-leads the enterprise accounts with you.  Your primary number:  licences bought, then licences used.  How many were purchased, and how many became a member who booked, got drawn and read their report. The first is this year's revenue. The second is whether it renews.     What you  could  own      Launch and activation:  tracked code live, partner staff trained, launch communication shipped. Then a monthly review with every partner and account on licences bought and members activated, and a quarterly business review car",
+      "postedAt": 1789289106,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-core-platform-growth-engineering-paris-103601",
+      "source": "Arbeitnow",
+      "title": "Core platform growth engineering",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/core-platform-growth-engineering-paris-103601",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/core-platform-growth-engineering-paris-103601",
+      "tags": [
+        "Product & tech"
+      ],
+      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .        The role   We've processed 200,000+ clinical tests across 4 countries with a team of 20. We're growing 10% week over week. And we're still early.  We need engineers who build systems, not features, people who own outcomes end-to-end, orchestrate AI to execute, and raise the bar for everyone around them.  You won't spend your days writing boilerplate. You'll write specs that agents execute, review AI-generated code with a critical eye, and make decisions that compound over time. This is what engineering looks like now. If that excites you, keep reading.  We'll shape the exact scope together, mobile, infra, platform, AI, full-stack, based on where you're strongest and where we need it most.         What we are looking for:      Backend: Membership &amp; payments.  A confirmed backend engineer (5+ years) who thrives on designing really reliable data models and services, wit",
+      "postedAt": 1789289106,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-ea-workplace-manager-paris-126013",
+      "source": "Arbeitnow",
+      "title": "EA / workplace manager",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/ea-workplace-manager-paris-126013",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/ea-workplace-manager-paris-126013",
+      "tags": [
+        "G&A"
+      ],
+      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .     The role   We’re looking for a strategic, proactive EA / workplace manager to amplify our founders impact and make Lucis run seamlessly. You will watch their back.  You’ll be the operational backbone of our Paris HQ, orchestrating founder logistics, shaping the company rhythm, and enabling the team to scale fast and smoothly.  You'll scale faster than the founders, and will grow faster than the company.      What you'll own      Founder velocity:  Owning the complex, multi-time-zone calendars and travel logistics to ensure the founders are always in the right place at the right time with the right information.     Assisting the founders in their day-to-day important events:  board meetings, client meetings, and co. You'll help founders be on top of their game.     Inbox &amp; communication:  Triaging high-volume inboxes and ensuring 100% accountability on follow-ups with pa",
+      "postedAt": 1789289106,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-finance-ops-strategy-paris-448157",
+      "source": "Arbeitnow",
+      "title": "Finance ops & strategy",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/finance-ops-strategy-paris-448157",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/finance-ops-strategy-paris-448157",
+      "tags": [
+        "G&A"
+      ],
+      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .      The role   We are looking for a Finance Operations &amp; Strategy Lead to build and run the financial operating system of Lucis.    This is a hands-on, high-leverage role for someone who can move comfortably between the details of day-to-day finance operations and the questions that shape company-level decisions. You will own the accuracy and cadence of our financial operations while helping the founders understand what the numbers mean and what we should do next.  You will work directly with the founders and leadership team, with significant autonomy to improve how Lucis plans, spends, reports, and scales. This is not a pure accounting role and it is not a traditional FP&amp;A role: you will build the systems, processes, models, and visibility required for both.  This is not a CFO role, yet. You will be working with our fractional CFO.    What you will do    Build financi",
+      "postedAt": 1789289106,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-customer-care-team-lead-paris-20587",
+      "source": "Arbeitnow",
+      "title": "Customer Care Team Lead",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-20587",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-20587",
+      "tags": [
+        "Operations"
+      ],
+      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .      The role   Health is complex, personal, and deeply important to our members. As the voice of Lucis clients, you support them throughout their health journey and own member happiness end to end.  With rapid member growth, we are hiring our first dedicated  Customer Care Team Lead . You will own the member experience end-to-end, stabilize our operational metrics, and build and manage a world-class support team.     What you will own    Day One: Hands-On Frontline Support      Frontline Excellence:  Personally resolve member and lab partner inquiries via chat and phone, delivering high-touch support from day one.     Internal Product Mastery:  Act as our expert power user, testing our internal OS and advocating for tool improvements that boost operational efficiency.     NPS &amp; Proactive Care:  Design proactive care initiatives to ensure member satisfaction remains consist",
+      "postedAt": 1789289106,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
       ]
     },
     {

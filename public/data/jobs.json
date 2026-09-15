@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-09-14T05:10:27.823Z",
+  "scannedAt": "2026-09-15T05:11:13.848Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 43,
+  "count": 36,
   "jobs": [
     {
       "id": "remoteok-1135688",
@@ -423,6 +423,53 @@
       ]
     },
     {
+      "id": "arbeitnow-senior-fullstack-developer-hamburg-72793",
+      "source": "Arbeitnow",
+      "title": "Senior Fullstack Developer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Hamburg, Hamburg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-fullstack-developer-hamburg-72793",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-fullstack-developer-hamburg-72793",
+      "tags": [
+        "Customer Cluster Finance"
+      ],
+      "description": " Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance.     DEINE MISSION   Als  Senior Fullstack Developer (m/w/d)  gestaltest du leistungsfähige Anwendungen, vom Backend mit Java und Spring bis zum Frontend mit React. Dabei bringst du deine Expertise in die Entwicklung, automatisierte Bereitstellung und Qualitätssicherung der Software ein.    Deine Aufgaben     Entwicklung und Weiterentwicklung von Backend-Komponenten auf Basis von Java/Java EE und Spring    Umsetzung moderner Benutzeroberflächen mit React und JavaScript/TypeScript    Implementierung von Datenbankzugriffen und Anbindung relationaler Datenbanken wie Oracle oder PostgreSQL    Containerisierung von Anwendungen mit Docker sowie Verwaltung und Bereitstellung mit Kubernetes    Einbindung und Weiterentwicklung von CI/CD-Pipelines mit ",
+      "postedAt": 1789439406,
+      "score": 27,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: react",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-junior-middle-webentwickler-paderborn-38015",
+      "source": "Arbeitnow",
+      "title": "(Junior/Middle) Webentwickler (m/w/d)",
+      "company": "App Kreativ GmbH",
+      "location": "Paderborn",
+      "url": "https://www.arbeitnow.com/jobs/companies/app-kreativ-gmbh/junior-middle-webentwickler-paderborn-38015",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/app-kreativ-gmbh/junior-middle-webentwickler-paderborn-38015",
+      "tags": [
+        "Software Development"
+      ],
+      "description": " Wir sind App Kreativ, ein IT-Unternehmen mit Sitz im Herzen des Paderborner Technologieparks. Seit unserer Gründung im Jahr 2014 haben wir uns auf die Entwicklung von IT-Lösungen im Bereich iOS, Android, Windows und Web spezialisiert. Das App Kreativ-Team besteht aus 9 Mitarbeitenden, die mit viel Teamgeist und Leidenschaft daran arbeiten, ihre Kunden auf dem Weg in die digitale Zukunft zu begleiten. Was dabei stets an erster Stelle steht: Ein angenehmes Arbeitsumfeld, in dem man gerne zur Arbeit kommt! \n Zur Unterstützung unseres Entwicklerteams suchen wir zum nächstmöglichen Zeitpunkt einen (Junior-) Webentwickler (m/w/d) in Vollzeit. \n Aufgaben \n \n Du verstärkst unser Entwicklerteam und entwickelst Lösungen für nationale und internationale Kunden \n Du erarbeitest technisch anspruchsvolle Konzepte und Softwarearchitekturen auf Basis der Kundenanforderungen \n \n Qualifikation \n \n Du hast umfassende Erfahrung im Bereich Web-Entwicklung (HTML/CSS, JavaScript, TypeScript, PHP/Laravel, Angular, React..) \n Hohe Anforderung an Code Qualität, Performance, Wartbarkeit und Erweiterbarkeit \n Sicherer Einsatz von Versionskontrollsystemen wie Git \n \n Benefits \n \n Verantwortungsvolle und abwec",
+      "postedAt": 1789423229,
+      "score": 27,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: react",
+        "skill: html",
+        "skill: css",
+        "skill: git"
+      ]
+    },
+    {
       "id": "remotive-2069746",
       "source": "Remotive",
       "title": "Tech Lead Full-Stack Rails Engineer",
@@ -470,47 +517,6 @@
       ]
     },
     {
-      "id": "remotive-1680495",
-      "source": "Remotive",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "applyUrl": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "tags": [
-        "CSS",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "MySQL",
-        "startup",
-        "responsive",
-        "themes",
-        "bootstrap",
-        "insurance",
-        "jQuery",
-        "Ajax"
-      ],
-      "description": " Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. \n As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. \n We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. \n   \n  Why Join Coalition Technologies?  \n Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, ",
-      "postedAt": "2026-09-11T20:16:48",
-      "score": 21,
-      "reasons": [
-        "title: frontend",
-        "skill: html",
-        "skill: css",
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
       "id": "remoteok-1137062",
       "source": "RemoteOK",
       "title": "DESARROLLADOR FULL STACK",
@@ -549,27 +555,64 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-full-stack-engineer-typescript-nextjs-100-ltq-de-berlin-142987",
-      "source": "Arbeitnow",
-      "title": "Senior Full Stack Engineer — TypeScript / Next.js (100%, m/f/d)",
-      "company": "LeaseTeq",
-      "location": "LTQ-DE | Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/leaseteq/senior-full-stack-engineer-typescript-nextjs-100-ltq-de-berlin-142987",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/leaseteq/senior-full-stack-engineer-typescript-nextjs-100-ltq-de-berlin-142987",
+      "id": "remotive-1680495",
+      "source": "Remotive",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "applyUrl": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
       "tags": [
-        "Senior Full Stack Engineer",
-        "TypeScript",
-        "Next.js / NextJS",
-        "JavaScript"
+        "CSS",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "MySQL",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jQuery",
+        "Ajax"
       ],
-      "description": "  Your mission  You are the architect and builder of the customer-facing side of the LEASETEQ platform in Berlin, and the owner of our German market on it. You design the digital application journey and the portals that carry real customers, dealers and operations teams at production scale, and you make sure German credit rules, compliance requirements and dealer flows are represented correctly in a platform that also serves Switzerland and Austria. You work in a small, senior team where your decisions have direct product impact, and you naturally bring AI tooling into your daily engineering workflow without being asked.   What you will do    Own the German market on our customer-facing platform: credit and compliance requirements, dealer flows, German copy, and the acceptance criteria that make them verifiable  Design and build the digital application journey — multi-step forms, validation, resumable state, document upload, KYC steps and the unhappy paths users actually hit  Build and maintain the customer, dealer and operations portals, including the operations board and the logic that decides where a case belongs  Write the use-case and API layers behind the journey to our clean",
-      "postedAt": 1789340957,
+      "description": " Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. \n As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. \n We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. \n   \n  Why Join Coalition Technologies?  \n Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, ",
+      "postedAt": "2026-09-11T20:16:48",
+      "score": 19,
+      "reasons": [
+        "title: frontend",
+        "skill: html",
+        "skill: css",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-intern-london-90769",
+      "source": "Arbeitnow",
+      "title": "Software Engineer (Intern)",
+      "company": "Fanvue.com",
+      "location": "Hybrid (London)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/software-engineer-intern-london-90769",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/software-engineer-intern-london-90769",
+      "tags": [
+        "Engineering"
+      ],
+      "description": " 🎯 The Role  We're hiring a Software Engineering Intern! This is a short term placement for students or recent graduates who demonstrate outstanding intelligence, motivation, and work ethic. The kind of person who raises the bar just by being in the room, even this early in their career.  You'll tackle real engineering problems, not busywork. Problems where creativity, first-principles thinking, and relentless iteration matter more than years of experience. You'll work alongside senior engineers who will mentor and challenge you, while contributing meaningfully from day one, with a dedicated engineering mentor for the length of the placement.  AI is central to how we build. You'll use AI-assisted development tools (Cursor, Claude Code, GitHub Copilot) daily to accelerate your work, and you'll contribute to AI-powered product features that differentiate Fanvue in the market.    🚀 What You'll Do    Own and deliver well-scoped features end-to-end across our TypeScript/Node.js/Go (nice to have) stack, with mentor support    Contribute to real, shipped product work, not a side project or sandbox    Build AI-powered features for creators (automated chat, content generation, personaliza",
+      "postedAt": 1789443608,
       "score": 18,
       "reasons": [
-        "title: javascript",
-        "title: full stack",
-        "skill: javascript",
-        "skill: git"
+        "title: software engineer",
+        "title: node",
+        "skill: git",
+        "skill: node"
       ]
     },
     {
@@ -667,26 +710,6 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-engineer-cloud-saas-integrations-423100",
-      "source": "Arbeitnow",
-      "title": "Full Stack Engineer  - Cloud & SaaS Integrations",
-      "company": "Doitintl",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/doitintl/full-stack-engineer-cloud-saas-integrations-423100",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/doitintl/full-stack-engineer-cloud-saas-integrations-423100",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt; &lt;br&gt;Our Full Stack Software Engineer will be an integral part of our R&amp;amp;D team. This role is based remotely as a full-time employee in the UK, Ireland, Estonia, the Netherlands, Sweden and Israel. We are also open to contractors in Eastern Europe and Portugal.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Who We Are&lt;/strong&gt; &lt;br&gt;DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production.&lt;/p&gt;\n&lt;p&gt;Delivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.With decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Opportunity&lt;/strong&gt;&lt",
-      "postedAt": 1789304110,
-      "score": 16,
-      "reasons": [
-        "title: software engineer",
-        "title: full stack",
-        "location: Remote"
-      ]
-    },
-    {
       "id": "remoteok-1137387",
       "source": "RemoteOK",
       "title": "Software Engineer",
@@ -700,7 +723,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTMwLjEzMS4yNTUuMjEw when applying to show you read the job post completely (#RMTMwLjEzMS4yNTUuMjEw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTcyLjE4Mi4xOTUuMTc3 when applying to show you read the job post completely (#RMTcyLjE4Mi4xOTUuMTc3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 15,
       "reasons": [
@@ -711,22 +734,20 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-devops-support-engineer-ireland-or-poland-152092",
+      "id": "arbeitnow-senior-fullstack-developer-munchen-462912",
       "source": "Arbeitnow",
-      "title": "Senior DevOps Support Engineer",
-      "company": "Buildkite",
-      "location": "Ireland or Poland",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/buildkite/senior-devops-support-engineer-ireland-or-poland-152092",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/buildkite/senior-devops-support-engineer-ireland-or-poland-152092",
-      "tags": [
-        "Technical Services"
-      ],
-      "description": "&lt;h3&gt;&lt;strong&gt;About Buildkite&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Buildkite&#39;s CI platform is trusted by the world&#39;s leading engineering teams, helping ship software used by more than 1 billion people every day. Companies including Canva, Meta, Mistral AI, and NVIDIA rely on Buildkite to run builds, tests, and deployments on their infrastructure, ours, or both - giving them the speed, reliability, and flexibility to ship with confidence.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This is not your average Support Engineer role. You&#39;ll support Buildkite&#39;s enterprise customers by independently troubleshooting and resolving highly complex CI/CD, software, and infrastructure problems, collaborating directly with Software Engineering teams at places like Canva, Uber, and Airbnb to help unblock critical workflows. You&#39;ll play a vital role in shaping the support team&#39;s evolution into a function that balances reactive and proactive work, spending half your time designing and implementing scalable tools, processes, and open source contributions that create a world-class customer experience. This role is a perfect opport",
-      "postedAt": 1789304112,
+      "title": "Senior Fullstack Developer (m/w/d)",
+      "company": "Techpilot",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/techpilot/senior-fullstack-developer-munchen-462912",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/techpilot/senior-fullstack-developer-munchen-462912",
+      "tags": [],
+      "description": "  Was Du machen wirst    Du baust an einer B2B-Plattform, die täglich von Einkäufern und Fertigern in ganz Europa benutzt wird  Du arbeitest in einem funktionsübergreifenden Team – von der Idee bis in die Produktion, ohne Übergabe-Ping-Pong  Du übernimmst Ownership für Themen, nicht für Tickets  Du wirkst in einem KI-Spezialprojekt mit: CAD-Zeichnungen und STEP-Files maschinell verstehen, Ähnlichkeitssuche über Bauteile, Matching zwischen Anfrage und Fertigungskompetenz  Ein Teil deiner Arbeit findet in einem gemeinsamen Projekt mit einem Partnerunternehmen statt – zwei Kontexte, zwei Teams, doppelt so viel zu lernen      Stack &amp; Infrastruktur:      Backend     Aktuelles .NET / C# (.NET 10+)  PostgreSQL / Redis  100 % kein PHP    Frontend     100 % TypeScript  React, React, React  TanStack Router / Query  AstroJS  Tailwind / Shadcn  Jest    Infrastruktur &amp; Orchestrierung     AWS (ECS, EKS, S3, …)  Pulumi (IaC)  Docker, Docker Compose, Kubernetes         Womit Du überzeugst    Du bist ein:e echte:r Entwickler:in  Du hast schon einige Schlachten geschlagen – mindestens 5 Jahre in einigen unserer Kerntechnologien  Erfahrung in cloud-basierter SaaS-Entwicklung (B2B)  Technologi",
+      "postedAt": 1789416586,
       "score": 15,
       "reasons": [
+        "title: frontend",
         "title: react",
-        "title: software engineer",
         "skill: react"
       ]
     },
@@ -812,7 +833,7 @@
         "backend",
         "digital nomad"
       ],
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RMTMwLjEzMS4yNTUuMjEw when applying to show you read the job post completely (#RMTMwLjEzMS4yNTUuMjEw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RMTcyLjE4Mi4xOTUuMTc3 when applying to show you read the job post completely (#RMTcyLjE4Mi4xOTUuMTc3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-07-29T20:00:01+00:00",
       "score": 13,
       "reasons": [
@@ -954,53 +975,39 @@
       ]
     },
     {
-      "id": "remoteok-1137386",
+      "id": "remoteok-1137391",
       "source": "RemoteOK",
-      "title": "HR Operations Specialist",
-      "company": "Law Offices of Sabrina Li",
+      "title": "Junior Payroll Assistant",
+      "company": "Sleek",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391",
       "tags": [
-        "hr",
+        "payroll",
+        "virtual assistant",
         "education",
+        "technical",
+        "supervisor",
         "customer support",
+        "dev",
         "marketing",
-        "finance",
-        "c",
         "exec",
-        "content writing",
+        "accounting",
+        "finance",
+        "video",
+        "junior",
         "ops",
-        "legal",
-        "recruiter",
-        "full time"
+        "excel",
+        "sys admin",
+        "digital nomad"
       ],
-      "description": " Job Title: HR Operations SpecialistÂ   Type: Independent ContractorÂ   Location: Remote | South Africa    About Us  The Law Offices of Sabrina Li, P.C. is a leading, full-service U.S. immigration law firm with offices in Los Angeles, Pasadena, Santa Ana, and Dallas, as well as international operations across Asia, Africa, and Central and South America. We are dedicated to helping individuals, families, and businesses navigate complex legal challenges with skill, compassion, and integrity.  We are proud to be recognized as a 2025 Inc. Best Workplaces honoree, a distinction that reflects our intentional investment in our people and workplace culture. Our firm prioritizes professional development, clear career pathways, and a culture of accountability and respectâcreating a workplace where high performers can build meaningful, long-term careers.    The Opportunity  We are seeking a tech-savvy, proactive HR professional with excellent communication skills to support our HR team across recruitment, onboarding, compliance, and training. You'll work alongside firm leadership to keep day-to-day HR operations running smoothly and help identify smarter, more efficient ways to manage HR pr",
-      "postedAt": "2026-09-12T00:00:05+00:00",
-      "score": 10,
+      "description": " Through proprietary software and AI, along with a focus on customer delight, Sleek makes the back-office easy for micro SMEs.  We give Entrepreneurs time back to focus on what they love doing - growing their business and being with customers. With a surging number of Entrepreneurs globally, we are innovating in a highly lucrative space.  We operate across 3 business segments:  Corporate Secretary: Automating the company incorporation, secretarial, filing, Nominee Director, mailroom and immigration processes via custom online robots and SleekSign. We are the market leaders in Singapore with ~5% market share of all new business incorporations  Accounting &amp; Bookkeeping: Redefining what it means to do Accounting, Bookkeeping, Tax and Payroll thanks to our proprietary SleekBooks ledger, AI tools and exceptional customer service  FinTech payments: Overcoming a key challenge for Entrepreneurs by offering digital banking services to new businesses  Sleek launched in 2017 and now has around 17,500 customers across our offices in Singapore, Hong Kong, Australia and the UK. We have around 600 staff with an intact startup mindset. We have recently raised Series B financing off the back of",
+      "postedAt": "2026-09-14T00:00:12+00:00",
+      "score": 9,
       "reasons": [
+        "skill: git",
         "location: Remote",
-        "location: Africa",
         "posted this week"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-396352",
-      "source": "Arbeitnow",
-      "title": "Software Engineer",
-      "company": "Scarlet",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/remote-software-engineer-396352",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/remote-software-engineer-396352",
-      "tags": [
-        "Software Engineering"
-      ],
-      "description": "  We pull medical technology from the future to solve human health.      Scarlet is authorised to assess and certify medical devices. We combine clinical, technical and regulatory expertise with AI agents and software so rigorous certification can keep pace with product development at the world’s most ambitious technology companies, without lowering the safety bar.  Our customers have cut a year or more from their certification timelines for new AI-enabled medical devices and shortened product-update cycles from months to weeks. You’ll join a team building the infrastructure that makes these outcomes repeatable at scale.  About the role  As a Software Engineer at Scarlet you will build software that streamlines and accelerates complex regulatory processes without sacrificing quality. Our engineering problems are plenty, and we have chosen Clojure as the tool to solve them. We aspire to shape and nurture an engineering team where every team member:    Really cares about our customers.    Works cross-functionally with engineers, product managers, designers, regulatory experts and other stakeholders.    Collaborates on solving hard, important, real-world problems.    Helps bring out t",
-      "postedAt": 1789314003,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
       ]
     },
     {
@@ -1026,35 +1033,6 @@
       ],
       "description": "  About KIRA   Our mission is to make money smart, reliable and within reach for everyone.  Â   In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.  Â   Today, we are expanding ways to help people in Asia and it includes spending, saving, investing, exchanging, travelling, and more. Our objective is to build tools that will help people get more from their money and at ease and self reliance, become an expert. We believe AI will help us achieve this in our generation.  We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.  We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future.  If you're this person, we'd love to talk to you.     The Role   KIRA is building a AI Finance Superapp for South",
       "postedAt": "2026-09-12T16:00:10+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137381",
-      "source": "RemoteOK",
-      "title": "Marketing Student Assistant",
-      "company": "Copenhagen Optimization",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381",
-      "tags": [
-        "virtual assistant",
-        "strategy",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "content writing",
-        "ops",
-        "golang",
-        "digital nomad"
-      ],
-      "description": "&lt;h3&gt;Marketing Student Assistant&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Are you studying marketing, communications or business and looking for a student job where you can build hands-on marketing experience and see how it all comes together in practice?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Weâre looking for a structured and proactive&lt;span&gt; &lt;/span&gt;&lt;strong&gt;Marketing Student Assistant&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;to join our Brand &amp;amp; Marketing team at Copenhagen Optimization.&lt;/p&gt;&lt;p&gt;Youâll work alongside our Head of Marketing, Growth Marketing Manager and Content Strategist, helping us turn plans into action across digital, events, content and campaigns. Itâs a hands-on role with plenty of variety and room to take on more responsibility as you grow.&lt;/p&gt;&lt;h5&gt;&lt;strong&gt;What you&#39;ll work on&lt;/strong&gt;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Website &amp;amp; digital:&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;Update and maintain website content, event and campaign pages, and help keep everything accurate and up to date.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Events:&lt;/strong&gt;&lt;span&gt; &l",
-      "postedAt": "2026-09-11T08:00:08+00:00",
       "score": 9,
       "reasons": [
         "skill: git",
@@ -1168,41 +1146,20 @@
       ]
     },
     {
-      "id": "arbeitnow-analog-layout-engineer-lead-reading-44767",
+      "id": "arbeitnow-chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-45838",
       "source": "Arbeitnow",
-      "title": "Analog Layout Engineer (Lead)",
-      "company": "Kandou AI",
-      "location": "Reading",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kandou-ai/analog-layout-engineer-lead-reading-44767",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/kandou-ai/analog-layout-engineer-lead-reading-44767",
-      "tags": [
-        "Engineering"
-      ],
-      "description": " At  Kandou , we are redeﬁning the economics of AI infrastructure. Our mission is to  democratise AI by signiﬁcantly reducing the Total Cost of Ownership (TCO)  of hardware systems — a critical barrier to scalable adoption.    Our proprietary  MIMO-over-copper technology  powers a  high-performance, chiplet-based AI memory fabric  that is both  scalable and energy-efficient . Unlike traditional interconnects, our solution  reduces power consumption signiﬁcantly  while preserving  high bandwidth and ultra-low latency  — unlocking unprecedented efficiency for AI training and inference at scale.     Kandou’s architecture is not just an incremental improvement — it’s a  foundational shift  in how AI hardware is built for the future.     Job title:  Analog Layout Engineer (Lead)   Location: EU/CH/UK      Responsibility     Position in custom layout and verification of analog circuits, cells, blocks, and IP for multi-Gigabit high speed chip to chip communication links (SerDes up to and beyond 28Gb/s and/or memory IO) in advanced semiconductor technology nodes    Layout and verification of very high-speed analog circuits    Interact closely with the design team to understand requirements ",
-      "postedAt": 1789314004,
+      "title": "Chemical Laboratory Assistant / Lab Technician (f/m/d) Analytics & Synthesis",
+      "company": "Career Site bei aevoloop - Personio",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/career-site-bei-aevoloop-personio/chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-45838",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/career-site-bei-aevoloop-personio/chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-45838",
+      "tags": [],
+      "description": "  Your mission  Join aevoloop, a deep-tech startup in Leipzig, where we are pioneering the next generation of circular plastics. We are looking for a hands-on Chemical Technical Assistant (CTA) or Lab Technician who takes pride in their lab work. In this role, your primary focus will be on the precise \"measuring\" (analytics) of our materials, while reliably supporting the team with \"making\" (synthesis).     Analytics &amp; Characterization:  You are the analytical core of our lab. You routinely perform instrumental and wet-chemical analyses to precisely characterisze our next-generation materials (e.g., NMR, IR spectroscopy, DSC, titrations).      Synthesis Execution:  You support syntheses (specifically polycondensations) on a bench and pilot scale, reliably and accurately executing reactions according to established standard operating procedures (SOPs).      Daily Lab Routine &amp; Excellence:  You ensure smooth lab operations. This includes preparing and maintaining glassware, sample preparation, material drying, and general lab organization.      Precision &amp; Documentation:  You ensure our measurement data is rock-solid. This includes regular calibration of analytical instru",
+      "postedAt": 1789416585,
       "score": 9,
       "reasons": [
-        "title: node",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-ai-tooling-enablement-sydney-australia-272616",
-      "source": "Arbeitnow",
-      "title": "Software Engineer (AI Tooling & Enablement)",
-      "company": "Hipagesgroup",
-      "location": "Sydney, Australia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hipagesgroup/software-engineer-ai-tooling-enablement-sydney-australia-272616",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/hipagesgroup/software-engineer-ai-tooling-enablement-sydney-australia-272616",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "&lt;p&gt;Hi! We’re hipages, an ASX-listed tech company and Australia’s #1 digital platform connecting households with trusted home improvement businesses. We&#39;re on a mission to transform the home improvement industry to build better lives for everyone.&lt;/p&gt;\n&lt;p&gt;With teams across Australia, New Zealand, the Philippines and Vietnam, we work as one team with a shared purpose. We’re proud to be a certified &lt;strong&gt;Great Place to Work&lt;/strong&gt; and &lt;strong&gt;WORK180’s #1 Employer for Women&lt;/strong&gt;. At hipages, you’ll find real impact, career growth and a workplace where everyone belongs.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re building &lt;em&gt;the&lt;/em&gt; shared platform that makes every hipages engineer, product manager and designer and every AI agent working on their behalf, faster, safer and more effective. We own the hipages agentic harness and software factory: the shared kernel (identity, audit logging, shared memory/context, a plugin/skill registry, org-wide safety limits and a behavioural baseline), cloud agents plus the encouraged per-team &quot;forks&quot; (bundled MCP servers, skills, pr",
-      "postedAt": 1789304110,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
+        "title: react",
+        "skill: react"
       ]
     },
     {
@@ -1246,136 +1203,33 @@
       ]
     },
     {
-      "id": "arbeitnow-ai-native-software-engineer-senior-paris-434205",
-      "source": "Arbeitnow",
-      "title": "AI Native - Software Engineer Senior",
-      "company": "PALO IT",
-      "location": "PALO IT France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/palo-it/ai-native-software-engineer-senior-paris-434205",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/palo-it/ai-native-software-engineer-senior-paris-434205",
+      "id": "remoteok-1137386",
+      "source": "RemoteOK",
+      "title": "HR Operations Specialist",
+      "company": "Law Offices of Sabrina Li",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
       "tags": [
-        "Paris Technology"
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "exec",
+        "content writing",
+        "ops",
+        "legal",
+        "recruiter",
+        "full time"
       ],
-      "description": "  Who We Are      Building the AI-first frontier enterprise.   We are a global technology consultancy with a trademarked, AI-first approach,  Gen-e2™.  It redefines how enterprises build digital products and transform their organizations with AI.  We do the right thing, and we do it right.  We're proud to be a World Economic Forum New Champion, and a B Corp-certified company.   · We are small enough to care locally, big enough to deliver globally ( 10 countries, 450+ experts from 50+ nationalities )  · We are becoming an  agentic organization , adopting the AI-native operating model we bring to our clients.  · We are  robust and resilient  (100% independent, 0 debt, founded 2009)  · We are  AI-native professionals  who invest in what we believe and work as a collective intelligence  · We are positive, courageous and deliver at the leading edge      Your Role   As a  Senior AI Native Software Engineer  at PALO IT, you’ll lead and accelerate the next wave of software innovation by:        Crafting AI-driven architectures:  Design elegant, scalable systems by harnessing AI to solve complex technical challenges tailored to each client’s needs.     Elevating software craftsmanship:  Wri",
-      "postedAt": 1789289107,
-      "score": 9,
+      "description": " Job Title: HR Operations SpecialistÂ   Type: Independent ContractorÂ   Location: Remote | South Africa    About Us  The Law Offices of Sabrina Li, P.C. is a leading, full-service U.S. immigration law firm with offices in Los Angeles, Pasadena, Santa Ana, and Dallas, as well as international operations across Asia, Africa, and Central and South America. We are dedicated to helping individuals, families, and businesses navigate complex legal challenges with skill, compassion, and integrity.  We are proud to be recognized as a 2025 Inc. Best Workplaces honoree, a distinction that reflects our intentional investment in our people and workplace culture. Our firm prioritizes professional development, clear career pathways, and a culture of accountability and respectâcreating a workplace where high performers can build meaningful, long-term careers.    The Opportunity  We are seeking a tech-savvy, proactive HR professional with excellent communication skills to support our HR team across recruitment, onboarding, compliance, and training. You'll work alongside firm leadership to keep day-to-day HR operations running smoothly and help identify smarter, more efficient ways to manage HR pr",
+      "postedAt": "2026-09-12T00:00:05+00:00",
+      "score": 8,
       "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-medical-excellence-paris-297557",
-      "source": "Arbeitnow",
-      "title": "Medical Excellence",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/medical-excellence-paris-297557",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/medical-excellence-paris-297557",
-      "tags": [
-        "Clinical"
-      ],
-      "description": "  Making preventive health the default for every human in Europe      The mission   At Lucis, we believe healthcare should be preventive, not reactive. We’re building the operating system for human longevity to help people add more healthy years to their lives.   The role   Lucis analyses more than 110 biomarkers, builds personalised clinical protocols, and delivers them through an AI-powered preventive health product.  As Medical Excellence, you are the senior medical expert next to product and Medical ops. You bring deep clinical expertise into protocols, ranges, evidence, and what we can say next to a marker. You also cover medical content: biomarker copy, protocols, and marketing clinical sign-off.  You work with the product lead, Medical ops, medical reviewers, and AI. You do  not  own product decisions, and you do  not  own labs, partners, or turnaround — Medical ops does.  This is not a traditional bedside role. It is not an ops role. It is not a copywriting role. You have practiced medicine in depth, and you can turn clinical judgment into clear protocols, ranges, and member-facing language.     What you own     Protocols &amp; clinical standards     Protocol logic, decisio",
-      "postedAt": 1789289106,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-partnerships-and-account-manager-paris-483394",
-      "source": "Arbeitnow",
-      "title": "Partnerships and Account Manager",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/partnerships-and-account-manager-paris-483394",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/partnerships-and-account-manager-paris-483394",
-      "tags": [
-        "GTM"
-      ],
-      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .      The role   Lucis is building its B2B distribution (department stores, wellness retail, premium clubs and studios, pharmacy networks..) and corporate licence accounts in France, the UK and beyond. Signing them is one job. Making them produce is this one.  You report to the Head of Sales &amp; Partnerships, who stays accountable for portfolio performance and co-leads the enterprise accounts with you.  Your primary number:  licences bought, then licences used.  How many were purchased, and how many became a member who booked, got drawn and read their report. The first is this year's revenue. The second is whether it renews.     What you  could  own      Launch and activation:  tracked code live, partner staff trained, launch communication shipped. Then a monthly review with every partner and account on licences bought and members activated, and a quarterly business review car",
-      "postedAt": 1789289106,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-core-platform-growth-engineering-paris-103601",
-      "source": "Arbeitnow",
-      "title": "Core platform growth engineering",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/core-platform-growth-engineering-paris-103601",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/core-platform-growth-engineering-paris-103601",
-      "tags": [
-        "Product & tech"
-      ],
-      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .        The role   We've processed 200,000+ clinical tests across 4 countries with a team of 20. We're growing 10% week over week. And we're still early.  We need engineers who build systems, not features, people who own outcomes end-to-end, orchestrate AI to execute, and raise the bar for everyone around them.  You won't spend your days writing boilerplate. You'll write specs that agents execute, review AI-generated code with a critical eye, and make decisions that compound over time. This is what engineering looks like now. If that excites you, keep reading.  We'll shape the exact scope together, mobile, infra, platform, AI, full-stack, based on where you're strongest and where we need it most.         What we are looking for:      Backend: Membership &amp; payments.  A confirmed backend engineer (5+ years) who thrives on designing really reliable data models and services, wit",
-      "postedAt": 1789289106,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-ea-workplace-manager-paris-126013",
-      "source": "Arbeitnow",
-      "title": "EA / workplace manager",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/ea-workplace-manager-paris-126013",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/ea-workplace-manager-paris-126013",
-      "tags": [
-        "G&A"
-      ],
-      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .     The role   We’re looking for a strategic, proactive EA / workplace manager to amplify our founders impact and make Lucis run seamlessly. You will watch their back.  You’ll be the operational backbone of our Paris HQ, orchestrating founder logistics, shaping the company rhythm, and enabling the team to scale fast and smoothly.  You'll scale faster than the founders, and will grow faster than the company.      What you'll own      Founder velocity:  Owning the complex, multi-time-zone calendars and travel logistics to ensure the founders are always in the right place at the right time with the right information.     Assisting the founders in their day-to-day important events:  board meetings, client meetings, and co. You'll help founders be on top of their game.     Inbox &amp; communication:  Triaging high-volume inboxes and ensuring 100% accountability on follow-ups with pa",
-      "postedAt": 1789289106,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-finance-ops-strategy-paris-448157",
-      "source": "Arbeitnow",
-      "title": "Finance ops & strategy",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/finance-ops-strategy-paris-448157",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/finance-ops-strategy-paris-448157",
-      "tags": [
-        "G&A"
-      ],
-      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .      The role   We are looking for a Finance Operations &amp; Strategy Lead to build and run the financial operating system of Lucis.    This is a hands-on, high-leverage role for someone who can move comfortably between the details of day-to-day finance operations and the questions that shape company-level decisions. You will own the accuracy and cadence of our financial operations while helping the founders understand what the numbers mean and what we should do next.  You will work directly with the founders and leadership team, with significant autonomy to improve how Lucis plans, spends, reports, and scales. This is not a pure accounting role and it is not a traditional FP&amp;A role: you will build the systems, processes, models, and visibility required for both.  This is not a CFO role, yet. You will be working with our fractional CFO.    What you will do    Build financi",
-      "postedAt": 1789289106,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-customer-care-team-lead-paris-20587",
-      "source": "Arbeitnow",
-      "title": "Customer Care Team Lead",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-20587",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-20587",
-      "tags": [
-        "Operations"
-      ],
-      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .      The role   Health is complex, personal, and deeply important to our members. As the voice of Lucis clients, you support them throughout their health journey and own member happiness end to end.  With rapid member growth, we are hiring our first dedicated  Customer Care Team Lead . You will own the member experience end-to-end, stabilize our operational metrics, and build and manage a world-class support team.     What you will own    Day One: Hands-On Frontline Support      Frontline Excellence:  Personally resolve member and lab partner inquiries via chat and phone, delivering high-touch support from day one.     Internal Product Mastery:  Act as our expert power user, testing our internal OS and advocating for tool improvements that boost operational efficiency.     NPS &amp; Proactive Care:  Design proactive care initiatives to ensure member satisfaction remains consist",
-      "postedAt": 1789289106,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
+        "location: Remote",
+        "location: Africa"
       ]
     },
     {
@@ -1400,6 +1254,25 @@
       ],
       "description": " Location: South Africa â Remote  Hours: 14:00â23:00 SAST, MondayâFriday, aligned with U.S. Eastern business hours  Employment: Permanent, Full-Time Role Purpose Execute and maintain programmatic campaigns accurately and efficiently within MediaPath's established strategy, workflows, and QA standards. This is a hands-on campaign execution role focused on campaign builds, trafficking, pacing, optimisation, troubleshooting, and maintenance. \n  Key Responsibilities   Build campaigns, line items, targeting structures, and campaign components within assigned DSPs.    Traffic creative assets and third-party tags.    Complete pre-launch campaign QA.    Monitor campaign pacing and delivery on a daily basis.    Identify and escalate pacing or delivery risks before they become client-visible.    Execute routine optimisations and approved campaign changes within defined guidelines.    Troubleshoot campaign, creative, targeting, and activation issues.    Escalate complex technical issues to the Senior Programmatic Operations Lead.    Maintain accurate campaign documentation, naming conventions, and change histories.    Provide screenshots, compliance documentation, and campaign data when",
       "postedAt": "2026-08-27T16:00:04+00:00",
+      "score": 8,
+      "reasons": [
+        "location: Remote",
+        "location: Africa"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-solutions-engineer-london-111488",
+      "source": "Arbeitnow",
+      "title": "Senior Solutions Engineer",
+      "company": "Andela",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andela/senior-solutions-engineer-london-111488",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/andela/senior-solutions-engineer-london-111488",
+      "tags": [
+        "Solutions"
+      ],
+      "description": " About Andela  At Andela, we know brilliance is evenly distributed around the world, but opportunity is not. For over 10 years, Andela has connected customers with top global, remote technical talent from over 135 countries, the majority residing in emerging markets across Africa and Latin America. As one of the world's largest talent marketplaces, Andela gives companies the flexibility to deploy qualified technologists fast — across Application Development, AI, Cloud &amp; DevOps, and Data Engineering. Andela Talent Cloud (ATC) is our platform for managing the complete global talent lifecycle.    We're at the intersection of two industry transformations — one in staffing and hiring, one in software development — both accelerated by AI. We're looking for a builder who wants to own the platform at the center of it.    About the Role  Andela is building a modern Sales Engineering function that helps customers solve complex technology and organizational challenges across our three primary offerings:     Talent Solutions  - specialized technical expertise that works as part of the customer’s team.     AI Solutions  - managed delivery and repeatable solutions where Andela owns defined o",
+      "postedAt": 1789432808,
       "score": 8,
       "reasons": [
         "location: Remote",

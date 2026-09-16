@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-09-15T05:11:13.848Z",
+  "scannedAt": "2026-09-16T05:10:35.794Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 36,
+  "count": 39,
   "jobs": [
     {
       "id": "remoteok-1135688",
@@ -137,6 +137,40 @@
         "skill: react",
         "skill: node",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-frontend-angular-developer-all-genders-hamburg-173823",
+      "source": "Arbeitnow",
+      "title": "Senior Frontend Angular Developer (all genders)",
+      "company": "Init Ag",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-173823",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-173823",
+      "tags": [
+        "JavaScript",
+        "TypeScript",
+        "Angular",
+        "React",
+        "HTML5",
+        "CSS3",
+        "ES6",
+        "Atomic Design",
+        "BEM",
+        "Frontend"
+      ],
+      "description": "  Über ]init[   Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.200 ]init[s in interdisziplinären Teams an unseren sieben Standorten – oder flexibel von überall in Deutschland aus.    Deine Mission bei ]init[  Als  Senior   Frontend Angular Developer (all genders)  realisierst du responsive und barrierefreie Oberflächen in strukturiertem, standardkonformem HTML5, CSS3 (SCSS), JavaScript und TypeScript. In Zusammenarbeit mit UXlern, Designer:innen, Kolleg:innen aus dem Development sowie Projektleiter:innen, verantwortest du die Erstellung der Frontends für verschiedene Kund:innen aus dem Public- und Private-Sector. Wenn du gern eigene Ideen einbringst und dich für eine abwechslungsreiche Tätigkeit abseits starrer Denkmuster interessierst, würden wir uns freuen von dir zu hören.   Das gibt es zu tun    Du bist Teil eines interdisziplinären Teams und entwickelst Frontends auf Basis von Frameworks Angular und React.  In agilen Projekten arbeitest du eng mit den Kolleg:innen aus dem Backend,",
+      "postedAt": 1789513753,
+      "score": 33,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: react",
+        "skill: html",
+        "skill: css",
+        "skill: git"
       ]
     },
     {
@@ -423,100 +457,6 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-fullstack-developer-hamburg-72793",
-      "source": "Arbeitnow",
-      "title": "Senior Fullstack Developer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-fullstack-developer-hamburg-72793",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-fullstack-developer-hamburg-72793",
-      "tags": [
-        "Customer Cluster Finance"
-      ],
-      "description": " Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance.     DEINE MISSION   Als  Senior Fullstack Developer (m/w/d)  gestaltest du leistungsfähige Anwendungen, vom Backend mit Java und Spring bis zum Frontend mit React. Dabei bringst du deine Expertise in die Entwicklung, automatisierte Bereitstellung und Qualitätssicherung der Software ein.    Deine Aufgaben     Entwicklung und Weiterentwicklung von Backend-Komponenten auf Basis von Java/Java EE und Spring    Umsetzung moderner Benutzeroberflächen mit React und JavaScript/TypeScript    Implementierung von Datenbankzugriffen und Anbindung relationaler Datenbanken wie Oracle oder PostgreSQL    Containerisierung von Anwendungen mit Docker sowie Verwaltung und Bereitstellung mit Kubernetes    Einbindung und Weiterentwicklung von CI/CD-Pipelines mit ",
-      "postedAt": 1789439406,
-      "score": 27,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-junior-middle-webentwickler-paderborn-38015",
-      "source": "Arbeitnow",
-      "title": "(Junior/Middle) Webentwickler (m/w/d)",
-      "company": "App Kreativ GmbH",
-      "location": "Paderborn",
-      "url": "https://www.arbeitnow.com/jobs/companies/app-kreativ-gmbh/junior-middle-webentwickler-paderborn-38015",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/app-kreativ-gmbh/junior-middle-webentwickler-paderborn-38015",
-      "tags": [
-        "Software Development"
-      ],
-      "description": " Wir sind App Kreativ, ein IT-Unternehmen mit Sitz im Herzen des Paderborner Technologieparks. Seit unserer Gründung im Jahr 2014 haben wir uns auf die Entwicklung von IT-Lösungen im Bereich iOS, Android, Windows und Web spezialisiert. Das App Kreativ-Team besteht aus 9 Mitarbeitenden, die mit viel Teamgeist und Leidenschaft daran arbeiten, ihre Kunden auf dem Weg in die digitale Zukunft zu begleiten. Was dabei stets an erster Stelle steht: Ein angenehmes Arbeitsumfeld, in dem man gerne zur Arbeit kommt! \n Zur Unterstützung unseres Entwicklerteams suchen wir zum nächstmöglichen Zeitpunkt einen (Junior-) Webentwickler (m/w/d) in Vollzeit. \n Aufgaben \n \n Du verstärkst unser Entwicklerteam und entwickelst Lösungen für nationale und internationale Kunden \n Du erarbeitest technisch anspruchsvolle Konzepte und Softwarearchitekturen auf Basis der Kundenanforderungen \n \n Qualifikation \n \n Du hast umfassende Erfahrung im Bereich Web-Entwicklung (HTML/CSS, JavaScript, TypeScript, PHP/Laravel, Angular, React..) \n Hohe Anforderung an Code Qualität, Performance, Wartbarkeit und Erweiterbarkeit \n Sicherer Einsatz von Versionskontrollsystemen wie Git \n \n Benefits \n \n Verantwortungsvolle und abwec",
-      "postedAt": 1789423229,
-      "score": 27,
-      "reasons": [
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: html",
-        "skill: css",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "remotive-2069746",
-      "source": "Remotive",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "applyUrl": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "tags": [
-        "api",
-        "CSS",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails",
-        "AI/ML",
-        "CAD",
-        "advertising",
-        "Redis",
-        "ES6",
-        "web applications",
-        "MySQL",
-        "NLP",
-        "fintech",
-        "Micro services",
-        "github",
-        "system architecture"
-      ],
-      "description": "  About Mitre Media  \n  Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time.  \n  Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect!  \n  About the Role  \n  As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, h",
-      "postedAt": "2026-08-14T20:33:39",
-      "score": 27,
-      "reasons": [
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: html",
-        "skill: css",
-        "skill: git"
-      ]
-    },
-    {
       "id": "remoteok-1137062",
       "source": "RemoteOK",
       "title": "DESARROLLADOR FULL STACK",
@@ -551,6 +491,27 @@
         "title: frontend",
         "title: full stack",
         "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-backend-developer-ai-trainer-france-paris-57482",
+      "source": "Arbeitnow",
+      "title": "Backend Developer - AI Trainer (France)",
+      "company": "Anyone Ai",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/backend-developer-ai-trainer-france-paris-57482",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/backend-developer-ai-trainer-france-paris-57482",
+      "tags": [
+        "Software Engineering"
+      ],
+      "description": " Anyone AI is recruiting skilled Backend Developers to work as a project consultants.      Qualifications:     Advanced professional written proficiency in English    3–7 years of professional software engineering experience    Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go    Backend or full‑stack development experience in production systems    Experience with testing frameworks (e.g., pytest, Jest, JUnit, xUnit, Go testing)    Proven ability to debug and navigate large, multi‑file codebases    Experience with code reviews, refactoring, and production migrations       Engagement:  Part-time, project-based expert evaluation work   Work Type:  Remote    Contributors will design and evaluate realistic software engineering tasks, including bug resolution, feature implementation, refactoring/migration, and test generation. Work includes both creating complex coding scenarios and reviewing peer submissions for quality and accuracy.    This is a project-based consultant role. Consultants will be paid on a per-project basis; hourly rates are estimates based on anticipated completion time. Consultants control their own schedule, provide their o",
+      "postedAt": 1789522803,
+      "score": 19,
+      "reasons": [
+        "title: javascript",
+        "title: software engineer",
+        "skill: javascript",
         "location: Remote"
       ]
     },
@@ -595,24 +556,63 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-intern-london-90769",
-      "source": "Arbeitnow",
-      "title": "Software Engineer (Intern)",
-      "company": "Fanvue.com",
-      "location": "Hybrid (London)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/software-engineer-intern-london-90769",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/software-engineer-intern-london-90769",
+      "id": "remoteok-1137394",
+      "source": "RemoteOK",
+      "title": "Sr Solutions Architect",
+      "company": "ExtraHop",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
       "tags": [
-        "Engineering"
+        "architecture",
+        "design",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "javascript",
+        "api",
+        "ops",
+        "marketing",
+        "sales",
+        "digital nomad"
       ],
-      "description": " 🎯 The Role  We're hiring a Software Engineering Intern! This is a short term placement for students or recent graduates who demonstrate outstanding intelligence, motivation, and work ethic. The kind of person who raises the bar just by being in the room, even this early in their career.  You'll tackle real engineering problems, not busywork. Problems where creativity, first-principles thinking, and relentless iteration matter more than years of experience. You'll work alongside senior engineers who will mentor and challenge you, while contributing meaningfully from day one, with a dedicated engineering mentor for the length of the placement.  AI is central to how we build. You'll use AI-assisted development tools (Cursor, Claude Code, GitHub Copilot) daily to accelerate your work, and you'll contribute to AI-powered product features that differentiate Fanvue in the market.    🚀 What You'll Do    Own and deliver well-scoped features end-to-end across our TypeScript/Node.js/Go (nice to have) stack, with mentor support    Contribute to real, shipped product work, not a side project or sandbox    Build AI-powered features for creators (automated chat, content generation, personaliza",
-      "postedAt": 1789443608,
+      "description": "At ExtraHop, weâre on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that evade their existing security and IT tools. With this insight, organizations can investigate smarter, stop threats faster, and keep operations running.\n\nOur mission is fueled by a profound social and moral responsibility to be the best at what we do, ensuring a secure world where everyone can thrive. If this sounds like a place youâd like to spend the next chapter of your career, weâd love to hear from you.\n\nPosition Summary\nExtraHopâs Solutions Architecture team is very different from many other post-sales services practicesâwe focus on outcomes and customer success rather than racking up billable hours. As a member of our Solutions Architecture team, youâll play a critical role in the success of our customers, products and position in the marketplace. Our Architects tackle the most difficult",
+      "postedAt": "2026-09-15T00:00:26+00:00",
       "score": 18,
       "reasons": [
-        "title: software engineer",
-        "title: node",
+        "title: javascript",
+        "skill: javascript",
         "skill: git",
-        "skill: node"
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-full-stack-developer-all-genders-deutschland-berlin-158340",
+      "source": "Arbeitnow",
+      "title": "Senior Full Stack Developer (all genders)",
+      "company": "Hubject Gmbh",
+      "location": "Deutschland: Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hubject-gmbh/senior-full-stack-developer-all-genders-deutschland-berlin-158340",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/hubject-gmbh/senior-full-stack-developer-all-genders-deutschland-berlin-158340",
+      "tags": [
+        "ev charging",
+        "emobility",
+        "software developer",
+        "software",
+        "fullstack",
+        "java",
+        "spring boot",
+        "sustainability"
+      ],
+      "description": "  Your challenge   As a  Senior Full Stack Software Engineer (all genders) , you will play a key role in building and evolving Hubject's cloud-native eMobility platform. Working across backend, frontend and cloud infrastructure, you will design, develop and operate scalable, secure and high-performing applications that power electric mobility worldwide. You will collaborate closely with Product, Architecture, QA and DevOps to deliver reliable software, shape technical decisions, and continuously improve our engineering practices.    Why Hubject   We develop ideas and deliver solutions for the eMobility market We are working on the most important growth topics We are an international team of very motivated eMobility enthusiasts  AND  We have over 30 benefits different categories:    Food &amp; drinks (food subsidy on the Euref-Campus restaurants)    Mobility (BVG subsidy)    Health &amp; sports (Urban sports membership M)    Equipment (Laptop etc)    Learning and development (yearly training budget and Udemy learning platform access)    Hubject Lifestyle (Voiio membership)    Family-friendly environment (flex working time)      Your Tasks    Design, develop and maintain scalable ful",
+      "postedAt": 1789513778,
+      "score": 18,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer",
+        "title: full stack"
       ]
     },
     {
@@ -710,6 +710,46 @@
       ]
     },
     {
+      "id": "arbeitnow-senior-fullstack-ts-developer-backend-oriented-marseille-209989",
+      "source": "Arbeitnow",
+      "title": "Senior Fullstack TS Developer (backend-oriented)",
+      "company": "Lemlist",
+      "location": "Marseille",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lemlist/senior-fullstack-ts-developer-backend-oriented-marseille-209989",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lemlist/senior-fullstack-ts-developer-backend-oriented-marseille-209989",
+      "tags": [
+        "Tech"
+      ],
+      "description": "  About us 👇🏼   lemlist is the sales engagement platform that gives sales teams the unfair advantage they deserve. Bootstrapped since day one, we’ve grown from 0 to $54M ARR in 8 years, without raising a single dollar.  Today, we’re a profitable B2B SaaS company valued at $150M+, trusted by 40,000+ sales teams worldwide to book more meetings and close more deals.    We're looking for a Senior Fullstack TypeScript Developer to join our team. You'll be responsible for designing and developing new features for our SaaS products. We need someone who is passionate, autonomous, and loves technical challenges. You will be using Node.js a lot.      Your main missions will be:     Design and develop new features from scratch, both on the frontend and backend, Independently developing new features that enhance user experience and increase product functionality.    Improve the code base with refactoring, bug fixes, and optimization    Work on multiple projects simultaneously    Help the customer support team on technical issues, providing prompt and effective solutions    Facilitating knowledge sharing and capacity building by training fellow developers, enhancing overall team competency an",
+      "postedAt": 1789479606,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: node",
+        "skill: node"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-full-stack-engineer-frontend-architecture-admanager-paris-371993",
+      "source": "Arbeitnow",
+      "title": "Senior Full Stack Engineer - Frontend Architecture - AdManager",
+      "company": "Vibe",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vibe/senior-full-stack-engineer-frontend-architecture-admanager-paris-371993",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/vibe/senior-full-stack-engineer-frontend-architecture-admanager-paris-371993",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "description": " About Vibe  Streaming TV is no longer just a brand awareness channel. It's becoming a core part of the performance marketing mix, alongside search and social.  Vibe.co  is building the platform that makes TV work like the rest of the acquisition stack: targeted, measurable, and optimized for results.   Vibe.co  is an Audience First Streaming TV Advertising platform that gives marketers the tools to reach the right audiences, optimize campaigns in real time, and understand what's actually driving business outcomes. With hyper-targeted segmentation, AI-powered recommendations, real-time optimization, and incrementality measurement, Vibe brings the precision and accountability of digital advertising to the biggest screen in the house.  Today, more than 12,000 brands use  Vibe.co  to reach 120 million+ households. And in August 2026,  Vibe.co  became a Walmart company, opening up a new chapter for the business and the industry. With Walmart's first-party data and purchase signals now part of the Vibe platform, advertisers can connect TV advertising to real-world transactions and measure the impact of CTV with a level of precision previously associated with platforms like Google and Me",
+      "postedAt": 1789479602,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: full stack",
+        "skill: git"
+      ]
+    },
+    {
       "id": "remoteok-1137387",
       "source": "RemoteOK",
       "title": "Software Engineer",
@@ -723,32 +763,13 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTcyLjE4Mi4xOTUuMTc3 when applying to show you read the job post completely (#RMTcyLjE4Mi4xOTUuMTc3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTIuMTU5LjI0NC43MQ== when applying to show you read the job post completely (#RNTIuMTU5LjI0NC43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
-      "score": 15,
+      "score": 13,
       "reasons": [
         "title: software engineer",
         "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-fullstack-developer-munchen-462912",
-      "source": "Arbeitnow",
-      "title": "Senior Fullstack Developer (m/w/d)",
-      "company": "Techpilot",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/techpilot/senior-fullstack-developer-munchen-462912",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/techpilot/senior-fullstack-developer-munchen-462912",
-      "tags": [],
-      "description": "  Was Du machen wirst    Du baust an einer B2B-Plattform, die täglich von Einkäufern und Fertigern in ganz Europa benutzt wird  Du arbeitest in einem funktionsübergreifenden Team – von der Idee bis in die Produktion, ohne Übergabe-Ping-Pong  Du übernimmst Ownership für Themen, nicht für Tickets  Du wirkst in einem KI-Spezialprojekt mit: CAD-Zeichnungen und STEP-Files maschinell verstehen, Ähnlichkeitssuche über Bauteile, Matching zwischen Anfrage und Fertigungskompetenz  Ein Teil deiner Arbeit findet in einem gemeinsamen Projekt mit einem Partnerunternehmen statt – zwei Kontexte, zwei Teams, doppelt so viel zu lernen      Stack &amp; Infrastruktur:      Backend     Aktuelles .NET / C# (.NET 10+)  PostgreSQL / Redis  100 % kein PHP    Frontend     100 % TypeScript  React, React, React  TanStack Router / Query  AstroJS  Tailwind / Shadcn  Jest    Infrastruktur &amp; Orchestrierung     AWS (ECS, EKS, S3, …)  Pulumi (IaC)  Docker, Docker Compose, Kubernetes         Womit Du überzeugst    Du bist ein:e echte:r Entwickler:in  Du hast schon einige Schlachten geschlagen – mindestens 5 Jahre in einigen unserer Kerntechnologien  Erfahrung in cloud-basierter SaaS-Entwicklung (B2B)  Technologi",
-      "postedAt": 1789416586,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react"
+        "location: Remote"
       ]
     },
     {
@@ -833,7 +854,7 @@
         "backend",
         "digital nomad"
       ],
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RMTcyLjE4Mi4xOTUuMTc3 when applying to show you read the job post completely (#RMTcyLjE4Mi4xOTUuMTc3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RNTIuMTU5LjI0NC43MQ== when applying to show you read the job post completely (#RNTIuMTU5LjI0NC43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-07-29T20:00:01+00:00",
       "score": 13,
       "reasons": [
@@ -899,79 +920,144 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-platform-nantes-france-309845",
+      "id": "arbeitnow-senior-software-engineer-token-factory-217510",
       "source": "Arbeitnow",
-      "title": "Software Engineer, Platform - Nantes, France",
-      "company": "speechify",
+      "title": "Senior Software Engineer (Token Factory)",
+      "company": "Nebius",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-token-factory-217510",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-token-factory-217510",
+      "tags": [
+        "Backend"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.&lt;/p&gt;\n&lt;p&gt;Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;amp;D.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;This role is for Nebius AI R&amp;amp;D, a team focused on applied research and the development of AI-heavy products. Examples of applied research that we have recently published include:&lt;/p&gt;\n&lt;ul&",
+      "postedAt": 1789527315,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-backend-engineer-245904",
+      "source": "Arbeitnow",
+      "title": "Senior Backend Engineer",
+      "company": "Nebius",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-engineer-245904",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-engineer-245904",
+      "tags": [
+        "Backend"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.&lt;/p&gt;\n&lt;p&gt;Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;amp;D.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The role&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re looking for a Senior Backend Software Engineer to help develop our hyperscaling platform.&lt;br&gt;We have a lot of tasks on Golang and little",
+      "postedAt": 1789527315,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-junior-data-scientist-14119",
+      "source": "Arbeitnow",
+      "title": "(Junior) Data Scientist",
+      "company": "Quantilope Gmbh",
+      "location": "Hybrid (Hamburg) or Remote (Germany)",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantilope-gmbh/remote-junior-data-scientist-14119",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/quantilope-gmbh/remote-junior-data-scientist-14119",
+      "tags": [
+        "data science",
+        "agentic ai",
+        "python",
+        "ai engineer"
+      ],
+      "description": "  Introduction:  At quantilope, we're transforming how the world's biggest brands understand their customers. As a (Junior) Data Scientist, you'll collaborate closely with Product Managers, Product Designers, and Software Engineers to build and evolve our AI-powered consumer insights platform. From developing agentic AI assistants and advanced analytics to creating innovative research tools usable by non-technical users — you'll be at the heart of scaling a sophisticated platform that puts automated, AI-powered insights into the hands of researchers and brands worldwide.  We are looking for a (Junior) Data Scientist who delivers production-grade results to high standards, who combines a passion for the latest AI technologies with the engineering discipline to ship them reliably, and who brings analytical and creative problem-solving to new challenges.   What you will be doing:    You design and build agentic AI systems using frameworks like Pydantic AI, including tool registries, prompt engineering, grounding strategies, and orchestration of LLM-based workflows across multiple AI-powered products    You closely collaborate with cross-functional teams to understand business requirem",
+      "postedAt": 1789513766,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-product-engineer-hamburg-hq-401395",
+      "source": "Arbeitnow",
+      "title": "Product Engineer (m/f/d)",
+      "company": "Buying Labs Gmbh 1",
+      "location": "Hamburg HQ",
+      "url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-401395",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-401395",
+      "tags": [
+        "Engineer",
+        "Software Developer",
+        "KI",
+        "AI",
+        "Artificial Intelligenz",
+        "Künstliche Intelligenz"
+      ],
+      "description": "  Our Company   \"Buying Labs is the leading global partner for sourcing and distributing premium consumer goods!\"  We're looking for a  Product Engineer (m/f/d)  to join our Tech team at Buying Labs ideally based in Hamburg or remotely for the right fit. In this role, you'll combine deep technical skill with strong product thinking to build tools and features using AI that create real value for our users and our business. You'll own features end to end - from scoping and design through development, deployment, and adoption - and use AI to build smarter and faster at every step.  This is a role for builders who care about impact: people who understand both the user perspective and the underlying business processes, who can scope what needs to be built and then make it happen.   Your Mission     End-to-End Product Delivery:  Own features from concept to production and real users, not just code -ship complete solutions that drive measurable business value. Scope requirements, define technical approaches, and deliver across frontend and backend, with quality built in from the start and verified through appropriate testing.   Product Thinking &amp; User Focus:  Understand user needs and",
+      "postedAt": 1789513747,
+      "score": 10,
+      "reasons": [
+        "title: frontend",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-founding-engineer-london-16621",
+      "source": "Arbeitnow",
+      "title": "Founding Engineer",
+      "company": "Share",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/share/founding-engineer-london-16621",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/share/founding-engineer-london-16621",
+      "tags": [
+        "Software Engineering"
+      ],
+      "description": " About Share  Share is a venture-backed internet infrastructure network building Africa’s backbone. The company aggregates underutilised telecom infrastructure, fiber, subsea cables, and data centers, and provides ISPs with scalable access to bandwidth without traditional upfront costs. Through an open-access model, local internet providers can deliver dramatically faster speeds to their subscribers without raising their own costs.  The platform team builds the software that makes this work: billing, payments, subscriber management, RADIUS-based network authentication, and integrations with ISP billing systems and mobile money providers. We are replacing legacy, non-API systems with a modern API platform, and real money is already flowing through the system. This is a small, high-intensity engineering team building core infrastructure under real deadlines. You will own entire domains, not tickets.    The role  We are hiring a Senior Software Engineer to take ownership of the platform’s most critical technical domains: the payments pipeline (collections, revenue splitting, treasury operations), the billing engine (subscription lifecycle, cycle management, automated renewals), and th",
+      "postedAt": 1789508408,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Africa"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-add-ons-12484",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer, Add-Ons",
+      "company": "mozilla",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-add-ons-12484",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-add-ons-12484",
+      "tags": [
+        "Firefox"
+      ],
+      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we’re doing this while never losing our focus on our core mission – to make the internet better for people.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren’t beholden to any shareholders — only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design",
+      "postedAt": 1789502102,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-fullstack-typescript-developer-product-engineer-nantes-387941",
+      "source": "Arbeitnow",
+      "title": "Senior Fullstack TypeScript Developer (Product Engineer)",
+      "company": "Lemlist",
       "location": "Nantes",
-      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-platform-nantes-france-309845",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-platform-nantes-france-309845",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lemlist/senior-fullstack-typescript-developer-product-engineer-nantes-387941",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lemlist/senior-fullstack-typescript-developer-product-engineer-nantes-387941",
       "tags": [
-        "Global"
+        "Tech"
       ],
-      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-speechify-sentence=&quot;&quot;&gt;The responsibilities of our Platform team include building and maintaining all backend services, inclu",
-      "postedAt": 1789307711,
-      "score": 12,
+      "description": " 🚀  About lemlist   lemlist is a global B2B SaaS business with the mission to help any business grow.  We are doing over $54M in ARR while being:    Bootstrapped    Profitable    A small, agile team of 170 highly talented people, remote-friendly    Majority owned by an entrepreneur, Guillaume Moubeche, Founder &amp; Chairman — which gives us maximum freedom    We operate 2 business lines:    Sales Engagement with our flagship products lemlist &amp; Claap, generating $49.5M ARR and growing over 50% year over year    Personal Branding with Taplio &amp; Tweet Hunter, generating $4.5M ARR      lemlist is a highly ambitious company that aims to become a world-class giant in the Sales Tech space.  Our mantra: Keep growing – and we live by it every day.     Job Description   We're looking for a Senior Fullstack TypeScript Developer to join our team. You'll be responsible for designing and developing new features for our SaaS products. We need someone who is passionate, autonomous, and loves technical challenges.   Your main missions will be:     Design and develop new features from scratch, both on the frontend and backend, Independently developing new features that enhance user experien",
+      "postedAt": 1789479606,
+      "score": 10,
       "reasons": [
         "title: frontend",
-        "title: software engineer"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-data-infrastructure-acquisition-paris-france-105340",
-      "source": "Arbeitnow",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Paris, France",
-      "company": "speechify",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-paris-france-105340",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-paris-france-105340",
-      "tags": [
-        "Global"
-      ],
-      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&amp;nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re looking to hire for our Data side of our AI team at Speechify. This role is responsible for all aspects of data collecti",
-      "postedAt": 1789307711,
-      "score": 12,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-data-infrastructure-acquisition-nantes-france-493314",
-      "source": "Arbeitnow",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Nantes, France",
-      "company": "speechify",
-      "location": "Nantes",
-      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-nantes-france-493314",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-nantes-france-493314",
-      "tags": [
-        "Global"
-      ],
-      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&amp;nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re looking to hire for our Data side of our AI team at Speechify. This role is responsible for all aspects of data collecti",
-      "postedAt": 1789307711,
-      "score": 12,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-windows-desktop-applications-paris-france-177790",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Paris, France",
-      "company": "speechify",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-paris-france-177790",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-paris-france-177790",
-      "tags": [
-        "Global"
-      ],
-      "description": "&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Mission&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies&lt;/p&gt;\n&lt;/div&gt;\n&lt;div ",
-      "postedAt": 1789307711,
-      "score": 12,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer"
+        "location: Remote"
       ]
     },
     {
@@ -1003,36 +1089,6 @@
       ],
       "description": " Through proprietary software and AI, along with a focus on customer delight, Sleek makes the back-office easy for micro SMEs.  We give Entrepreneurs time back to focus on what they love doing - growing their business and being with customers. With a surging number of Entrepreneurs globally, we are innovating in a highly lucrative space.  We operate across 3 business segments:  Corporate Secretary: Automating the company incorporation, secretarial, filing, Nominee Director, mailroom and immigration processes via custom online robots and SleekSign. We are the market leaders in Singapore with ~5% market share of all new business incorporations  Accounting &amp; Bookkeeping: Redefining what it means to do Accounting, Bookkeeping, Tax and Payroll thanks to our proprietary SleekBooks ledger, AI tools and exceptional customer service  FinTech payments: Overcoming a key challenge for Entrepreneurs by offering digital banking services to new businesses  Sleek launched in 2017 and now has around 17,500 customers across our offices in Singapore, Hong Kong, Australia and the UK. We have around 600 staff with an intact startup mindset. We have recently raised Series B financing off the back of",
       "postedAt": "2026-09-14T00:00:12+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137388",
-      "source": "RemoteOK",
-      "title": "Technical Product Lead AI Finance App",
-      "company": "Bjak ",
-      "location": "Seoul",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
-      "tags": [
-        "design",
-        "sys admin",
-        "infosec",
-        "exec",
-        "technical",
-        "finance",
-        "ruby",
-        "mobile",
-        "ops",
-        "engineer",
-        "digital nomad"
-      ],
-      "description": "  About KIRA   Our mission is to make money smart, reliable and within reach for everyone.  Â   In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.  Â   Today, we are expanding ways to help people in Asia and it includes spending, saving, investing, exchanging, travelling, and more. Our objective is to build tools that will help people get more from their money and at ease and self reliance, become an expert. We believe AI will help us achieve this in our generation.  We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.  We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future.  If you're this person, we'd love to talk to you.     The Role   KIRA is building a AI Finance Superapp for South",
-      "postedAt": "2026-09-12T16:00:10+00:00",
       "score": 9,
       "reasons": [
         "skill: git",
@@ -1146,56 +1202,76 @@
       ]
     },
     {
-      "id": "arbeitnow-chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-45838",
+      "id": "arbeitnow-junior-fullstack-engineer-hamburg-410395",
       "source": "Arbeitnow",
-      "title": "Chemical Laboratory Assistant / Lab Technician (f/m/d) Analytics & Synthesis",
-      "company": "Career Site bei aevoloop - Personio",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/career-site-bei-aevoloop-personio/chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-45838",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/career-site-bei-aevoloop-personio/chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-45838",
-      "tags": [],
-      "description": "  Your mission  Join aevoloop, a deep-tech startup in Leipzig, where we are pioneering the next generation of circular plastics. We are looking for a hands-on Chemical Technical Assistant (CTA) or Lab Technician who takes pride in their lab work. In this role, your primary focus will be on the precise \"measuring\" (analytics) of our materials, while reliably supporting the team with \"making\" (synthesis).     Analytics &amp; Characterization:  You are the analytical core of our lab. You routinely perform instrumental and wet-chemical analyses to precisely characterisze our next-generation materials (e.g., NMR, IR spectroscopy, DSC, titrations).      Synthesis Execution:  You support syntheses (specifically polycondensations) on a bench and pilot scale, reliably and accurately executing reactions according to established standard operating procedures (SOPs).      Daily Lab Routine &amp; Excellence:  You ensure smooth lab operations. This includes preparing and maintaining glassware, sample preparation, material drying, and general lab organization.      Precision &amp; Documentation:  You ensure our measurement data is rock-solid. This includes regular calibration of analytical instru",
-      "postedAt": 1789416585,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-developpeur-c-confirme-h-f-aspnet-react-nantes-214444",
-      "source": "Arbeitnow",
-      "title": "Développeur C# confirmé H/F - ASP.NET / React",
-      "company": "Valsoft Corp",
-      "location": "Nantes, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/valsoft-corp/developpeur-c-confirme-h-f-aspnet-react-nantes-214444",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/valsoft-corp/developpeur-c-confirme-h-f-aspnet-react-nantes-214444",
+      "title": "Junior Fullstack Engineer",
+      "company": "Haiilo 1",
+      "location": "Hamburg, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/haiilo-1/junior-fullstack-engineer-hamburg-410395",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/haiilo-1/junior-fullstack-engineer-hamburg-410395",
       "tags": [
         "Engineering",
-        "Financial Services",
-        "E-Finances"
+        "Product & Tech"
       ],
-      "description": " À propos de nous  E-finances est un éditeur de logiciels B2B spécialisé dans les solutions de gestion financière et de trésorerie. Nos solutions permettent aux entreprises d'optimiser la gestion de leurs flux financiers, d'améliorer leur visibilité sur leur trésorerie et de renforcer leur performance financière.  Nous sommes en pleine phase de modernisation : refonte technique de nos produits historiques, lancement de nouvelles fonctionnalités, montée en puissance de nos stacks. C'est le bon moment pour rejoindre l'aventure et laisser une vraie empreinte sur ce que nous construisons.  Pourquoi nous rejoindre    Un vrai rôle de bâtisseur.  Vous n'arrivez pas sur un projet figé : vous participez activement à la refonte de nos applications et à la définition de la manière dont elles doivent évoluer. Vos idées et votre esprit d'initiative sont attendus, pas seulement votre code.   De l'autonomie et de la confiance.  Vous travaillez en petite équipe soudée (un Lead Tech, trois développeurs, un Product Owner), avec la liberté d'organiser votre travail et de proposer vos propres solutions techniques.   Des perspectives d'évolution concrètes.  En rejoignant une équipe en croissance sur un",
-      "postedAt": 1789348815,
+      "description": " At Haiilo, we're building the digital workplace that connects employees with the information that matters to them — reliably, efficiently, every day. With Haiilo employees find their flow at work.&nbsp;  As our Junior Fullstack Engineer, you'll help accelerate feature delivery, improve quality, and scale the development of our AI Assistant while growing your skills alongside an experienced team.&nbsp;  &nbsp;  🌟 What's in it for you:&nbsp;     Access to OpenUp for you and 3 of your family/friends&nbsp;    Urban Sports Club or Wellpass membership&nbsp;    Lease a Bike scheme&nbsp;    Deutschlandticket subsidy&nbsp;    30 days holiday + 2 additional self-care days&nbsp;    Plenty of room to shape things in a growing software company&nbsp;    Short decision-making paths and a collaborative engineering culture&nbsp;   &nbsp;    What you’ll do:&nbsp;  &nbsp;   Develop frontend and backend features for our AI Assistant&nbsp;    Contribute to AI-powered product capabilities and integrations&nbsp;    Support testing, maintenance, and continuous improvement of the platform&nbsp;    Take an active role in shaping AI Assistant capabilities, from idea generation and solution design to implem",
+      "postedAt": 1789525219,
       "score": 9,
       "reasons": [
-        "title: react",
-        "skill: react"
+        "title: frontend",
+        "skill: git"
       ]
     },
     {
-      "id": "arbeitnow-stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
+      "id": "arbeitnow-software-engineer-london-59141",
       "source": "Arbeitnow",
-      "title": "Stage Software Engineer - Paris - H/F/X",
-      "company": "Artefactjobs",
-      "location": "9th arrondissement of Paris, 75009, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
+      "title": "Software Engineer",
+      "company": "Dialpad",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dialpad/software-engineer-london-59141",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/dialpad/software-engineer-london-59141",
       "tags": [
-        "Data Engineering"
+        "217 - TrueCaaS"
       ],
-      "description": "&lt;p&gt;&lt;strong&gt;Qui sommes-nous ?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Fondée en 2014, Artefact est une société internationale de services autour de l&#39;IA et de la data, spécialisée dans le conseil en IA, transformation data et en data &amp;amp; digital marketing. L’approche unique d’Artefact, qui fait le pont entre la donnée et le business, permet à nos clients d’atteindre leurs objectifs business de façon dédiée et efficace. Nos 2500 collaborateurs répartis dans 27 bureaux à travers le monde allient leurs compétences pluridisciplinaires au profit de l’innovation business des entreprises.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;La mission des Artefactors ?&lt;/strong&gt; Transformer la data de nos clients en impact business. Dans ce sens, nous collaborons avec plus de 1000 clients, leaders de leurs industries (Orange, Carrefour, Samsung, AccorHotels, L’Oréal, LVMH, Decathlon) et sommes partenaires privilégiés de Google (GMP/GCP), AWS ainsi que Microsoft Azure.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;En tant que stagiaire Software Engineer, tu seras ammener à:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Participer activement à la conception et à l&#39;implé",
-      "postedAt": 1789307705,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;About Dialpad&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Dialpad is the AI platform for customer experience, built to resolve customer problems in real time across voice and digital. Our AI agents learn from your best human agents and improve with every interaction, helping organizations understand their customers, deliver better experiences, increase operational efficiencies, and build a lasting competitive advantage.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Unlike legacy systems built to route and answer, or standalone agentic bot vendors built to deflect, Dialpad was built to resolve. Our AI agents and human agents operate on a single platform with shared context, allowing Agentic AI to resolve issues, advance deals, and eliminate busywork through automation while seamlessly handing conversations to humans when needed, with full context preserved.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-s",
+      "postedAt": 1789509314,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-head-of-data-ai-customer-omnicommerce-unit-lille-upline-nord-paris-paris-494490",
+      "source": "Arbeitnow",
+      "title": "Head of Data & AI - Customer & Omnicommerce Unit  (f/m/d)",
+      "company": "Junior Data Scientist - Downstream Demand Forecast - Value Chain ...",
+      "location": "Lille, Upline, Nord; Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/head-of-data-ai-customer-omnicommerce-unit-lille-upline-nord-paris-paris-494490",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/head-of-data-ai-customer-omnicommerce-unit-lille-upline-nord-paris-paris-494490",
+      "tags": [
+        "Data"
+      ],
+      "description": "&lt;p data-path-to-node=&quot;8&quot;&gt;Reporting directly to the &lt;strong data-path-to-node=&quot;8&quot; data-index-in-node=&quot;26&quot;&gt;Head of Unit Customer &amp;amp; Omnicommerce&lt;/strong&gt;, you will drive the unit’s overarching Data &amp;amp; AI strategy. Your primary mission is to orchestrate our transformation into a fully &lt;strong data-path-to-node=&quot;8&quot; data-index-in-node=&quot;193&quot;&gt;AI-Powered enterprise&lt;/strong&gt;, combining strategic vision, robust data governance, and operational execution.&lt;/p&gt;\n&lt;p data-path-to-node=&quot;9&quot;&gt;Acting as a trusted business partner, you will unlock value across all customer touchpoints by accelerating the adoption of next-generation AI capabilities, modernizing our data stack, and scaling analytics across the organization.&lt;/p&gt;\n&lt;h3 data-path-to-node=&quot;11&quot;&gt;&lt;strong data-path-to-node=&quot;11&quot; data-index-in-node=&quot;3&quot;&gt;Key Objectives&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul data-path-to-node=&quot;12&quot;&gt;\n&lt;li&gt;\n&lt;p data-path-to-node=&quot;12,0,0&quot;&gt;&lt;strong data-path-to-node=&quot;12,0,0&quot; data-index-in-node=&quot;0&quot;&gt;Strategic Align",
+      "postedAt": 1789491357,
+      "score": 9,
+      "reasons": [
+        "title: node",
+        "skill: node"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-data-infrastructure-paris-246647",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer - Data Infrastructure",
+      "company": "Vibe",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vibe/senior-software-engineer-data-infrastructure-paris-246647",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/vibe/senior-software-engineer-data-infrastructure-paris-246647",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "description": " About Vibe   Streaming TV is no longer just a brand awareness channel. It's becoming a core part of the performance marketing mix, alongside search and social.  Vibe.co  is building the platform that makes TV work like the rest of the acquisition stack: targeted, measurable, and optimized for results.   Vibe.co  is an Audience First Streaming TV Advertising platform that gives marketers the tools to reach the right audiences, optimize campaigns in real time, and understand what's actually driving business outcomes. With hyper-targeted segmentation, AI-powered recommendations, real-time optimization, and incrementality measurement, Vibe brings the precision and accountability of digital advertising to the biggest screen in the house.  Today, more than 12,000 brands use  Vibe.co  to reach 120 million+ households. And in August 2026,  Vibe.co  became a Walmart company, opening up a new chapter for the business and the industry. With Walmart's first-party data and purchase signals now part of the Vibe platform, advertisers can connect TV advertising to real-world transactions and measure the impact of CTV with a level of precision previously associated with platforms like Google and M",
+      "postedAt": 1789479602,
       "score": 9,
       "reasons": [
         "title: software engineer",
@@ -1254,25 +1330,6 @@
       ],
       "description": " Location: South Africa â Remote  Hours: 14:00â23:00 SAST, MondayâFriday, aligned with U.S. Eastern business hours  Employment: Permanent, Full-Time Role Purpose Execute and maintain programmatic campaigns accurately and efficiently within MediaPath's established strategy, workflows, and QA standards. This is a hands-on campaign execution role focused on campaign builds, trafficking, pacing, optimisation, troubleshooting, and maintenance. \n  Key Responsibilities   Build campaigns, line items, targeting structures, and campaign components within assigned DSPs.    Traffic creative assets and third-party tags.    Complete pre-launch campaign QA.    Monitor campaign pacing and delivery on a daily basis.    Identify and escalate pacing or delivery risks before they become client-visible.    Execute routine optimisations and approved campaign changes within defined guidelines.    Troubleshoot campaign, creative, targeting, and activation issues.    Escalate complex technical issues to the Senior Programmatic Operations Lead.    Maintain accurate campaign documentation, naming conventions, and change histories.    Provide screenshots, compliance documentation, and campaign data when",
       "postedAt": "2026-08-27T16:00:04+00:00",
-      "score": 8,
-      "reasons": [
-        "location: Remote",
-        "location: Africa"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-solutions-engineer-london-111488",
-      "source": "Arbeitnow",
-      "title": "Senior Solutions Engineer",
-      "company": "Andela",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andela/senior-solutions-engineer-london-111488",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/andela/senior-solutions-engineer-london-111488",
-      "tags": [
-        "Solutions"
-      ],
-      "description": " About Andela  At Andela, we know brilliance is evenly distributed around the world, but opportunity is not. For over 10 years, Andela has connected customers with top global, remote technical talent from over 135 countries, the majority residing in emerging markets across Africa and Latin America. As one of the world's largest talent marketplaces, Andela gives companies the flexibility to deploy qualified technologists fast — across Application Development, AI, Cloud &amp; DevOps, and Data Engineering. Andela Talent Cloud (ATC) is our platform for managing the complete global talent lifecycle.    We're at the intersection of two industry transformations — one in staffing and hiring, one in software development — both accelerated by AI. We're looking for a builder who wants to own the platform at the center of it.    About the Role  Andela is building a modern Sales Engineering function that helps customers solve complex technology and organizational challenges across our three primary offerings:     Talent Solutions  - specialized technical expertise that works as part of the customer’s team.     AI Solutions  - managed delivery and repeatable solutions where Andela owns defined o",
-      "postedAt": 1789432808,
       "score": 8,
       "reasons": [
         "location: Remote",

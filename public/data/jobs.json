@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-09-16T05:10:35.794Z",
+  "scannedAt": "2026-09-17T05:10:47.879Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 39,
+  "count": 35,
   "jobs": [
     {
       "id": "remoteok-1135688",
@@ -137,40 +137,6 @@
         "skill: react",
         "skill: node",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-frontend-angular-developer-all-genders-hamburg-173823",
-      "source": "Arbeitnow",
-      "title": "Senior Frontend Angular Developer (all genders)",
-      "company": "Init Ag",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-173823",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-173823",
-      "tags": [
-        "JavaScript",
-        "TypeScript",
-        "Angular",
-        "React",
-        "HTML5",
-        "CSS3",
-        "ES6",
-        "Atomic Design",
-        "BEM",
-        "Frontend"
-      ],
-      "description": "  Über ]init[   Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.200 ]init[s in interdisziplinären Teams an unseren sieben Standorten – oder flexibel von überall in Deutschland aus.    Deine Mission bei ]init[  Als  Senior   Frontend Angular Developer (all genders)  realisierst du responsive und barrierefreie Oberflächen in strukturiertem, standardkonformem HTML5, CSS3 (SCSS), JavaScript und TypeScript. In Zusammenarbeit mit UXlern, Designer:innen, Kolleg:innen aus dem Development sowie Projektleiter:innen, verantwortest du die Erstellung der Frontends für verschiedene Kund:innen aus dem Public- und Private-Sector. Wenn du gern eigene Ideen einbringst und dich für eine abwechslungsreiche Tätigkeit abseits starrer Denkmuster interessierst, würden wir uns freuen von dir zu hören.   Das gibt es zu tun    Du bist Teil eines interdisziplinären Teams und entwickelst Frontends auf Basis von Frameworks Angular und React.  In agilen Projekten arbeitest du eng mit den Kolleg:innen aus dem Backend,",
-      "postedAt": 1789513753,
-      "score": 33,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: html",
-        "skill: css",
-        "skill: git"
       ]
     },
     {
@@ -457,6 +423,54 @@
       ]
     },
     {
+      "id": "remotive-2069746",
+      "source": "Remotive",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "tags": [
+        "api",
+        "CSS",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "AI/ML",
+        "CAD",
+        "advertising",
+        "Redis",
+        "ES6",
+        "web applications",
+        "MySQL",
+        "NLP",
+        "fintech",
+        "Micro services",
+        "github",
+        "system architecture"
+      ],
+      "description": "  About Mitre Media  \n  Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time.  \n  Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect!  \n  About the Role  \n  As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, h",
+      "postedAt": "2026-09-14T20:33:27",
+      "score": 29,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: react",
+        "skill: html",
+        "skill: css",
+        "skill: git",
+        "posted this week"
+      ]
+    },
+    {
       "id": "remoteok-1137062",
       "source": "RemoteOK",
       "title": "DESARROLLADOR FULL STACK",
@@ -589,33 +603,6 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-full-stack-developer-all-genders-deutschland-berlin-158340",
-      "source": "Arbeitnow",
-      "title": "Senior Full Stack Developer (all genders)",
-      "company": "Hubject Gmbh",
-      "location": "Deutschland: Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/hubject-gmbh/senior-full-stack-developer-all-genders-deutschland-berlin-158340",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/hubject-gmbh/senior-full-stack-developer-all-genders-deutschland-berlin-158340",
-      "tags": [
-        "ev charging",
-        "emobility",
-        "software developer",
-        "software",
-        "fullstack",
-        "java",
-        "spring boot",
-        "sustainability"
-      ],
-      "description": "  Your challenge   As a  Senior Full Stack Software Engineer (all genders) , you will play a key role in building and evolving Hubject's cloud-native eMobility platform. Working across backend, frontend and cloud infrastructure, you will design, develop and operate scalable, secure and high-performing applications that power electric mobility worldwide. You will collaborate closely with Product, Architecture, QA and DevOps to deliver reliable software, shape technical decisions, and continuously improve our engineering practices.    Why Hubject   We develop ideas and deliver solutions for the eMobility market We are working on the most important growth topics We are an international team of very motivated eMobility enthusiasts  AND  We have over 30 benefits different categories:    Food &amp; drinks (food subsidy on the Euref-Campus restaurants)    Mobility (BVG subsidy)    Health &amp; sports (Urban sports membership M)    Equipment (Laptop etc)    Learning and development (yearly training budget and Udemy learning platform access)    Hubject Lifestyle (Voiio membership)    Family-friendly environment (flex working time)      Your Tasks    Design, develop and maintain scalable ful",
-      "postedAt": 1789513778,
-      "score": 18,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer",
-        "title: full stack"
-      ]
-    },
-    {
       "id": "remoteok-1136213",
       "source": "RemoteOK",
       "title": "Freelance Designer",
@@ -710,46 +697,6 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-fullstack-ts-developer-backend-oriented-marseille-209989",
-      "source": "Arbeitnow",
-      "title": "Senior Fullstack TS Developer (backend-oriented)",
-      "company": "Lemlist",
-      "location": "Marseille",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemlist/senior-fullstack-ts-developer-backend-oriented-marseille-209989",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lemlist/senior-fullstack-ts-developer-backend-oriented-marseille-209989",
-      "tags": [
-        "Tech"
-      ],
-      "description": "  About us 👇🏼   lemlist is the sales engagement platform that gives sales teams the unfair advantage they deserve. Bootstrapped since day one, we’ve grown from 0 to $54M ARR in 8 years, without raising a single dollar.  Today, we’re a profitable B2B SaaS company valued at $150M+, trusted by 40,000+ sales teams worldwide to book more meetings and close more deals.    We're looking for a Senior Fullstack TypeScript Developer to join our team. You'll be responsible for designing and developing new features for our SaaS products. We need someone who is passionate, autonomous, and loves technical challenges. You will be using Node.js a lot.      Your main missions will be:     Design and develop new features from scratch, both on the frontend and backend, Independently developing new features that enhance user experience and increase product functionality.    Improve the code base with refactoring, bug fixes, and optimization    Work on multiple projects simultaneously    Help the customer support team on technical issues, providing prompt and effective solutions    Facilitating knowledge sharing and capacity building by training fellow developers, enhancing overall team competency an",
-      "postedAt": 1789479606,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: node",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-full-stack-engineer-frontend-architecture-admanager-paris-371993",
-      "source": "Arbeitnow",
-      "title": "Senior Full Stack Engineer - Frontend Architecture - AdManager",
-      "company": "Vibe",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vibe/senior-full-stack-engineer-frontend-architecture-admanager-paris-371993",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/vibe/senior-full-stack-engineer-frontend-architecture-admanager-paris-371993",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "description": " About Vibe  Streaming TV is no longer just a brand awareness channel. It's becoming a core part of the performance marketing mix, alongside search and social.  Vibe.co  is building the platform that makes TV work like the rest of the acquisition stack: targeted, measurable, and optimized for results.   Vibe.co  is an Audience First Streaming TV Advertising platform that gives marketers the tools to reach the right audiences, optimize campaigns in real time, and understand what's actually driving business outcomes. With hyper-targeted segmentation, AI-powered recommendations, real-time optimization, and incrementality measurement, Vibe brings the precision and accountability of digital advertising to the biggest screen in the house.  Today, more than 12,000 brands use  Vibe.co  to reach 120 million+ households. And in August 2026,  Vibe.co  became a Walmart company, opening up a new chapter for the business and the industry. With Walmart's first-party data and purchase signals now part of the Vibe platform, advertisers can connect TV advertising to real-world transactions and measure the impact of CTV with a level of precision previously associated with platforms like Google and Me",
-      "postedAt": 1789479602,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: full stack",
-        "skill: git"
-      ]
-    },
-    {
       "id": "remoteok-1137387",
       "source": "RemoteOK",
       "title": "Software Engineer",
@@ -763,7 +710,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTIuMTU5LjI0NC43MQ== when applying to show you read the job post completely (#RNTIuMTU5LjI0NC43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTMuODguMTM3LjEzMA== when applying to show you read the job post completely (#RMTMuODguMTM3LjEzMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -854,7 +801,7 @@
         "backend",
         "digital nomad"
       ],
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RNTIuMTU5LjI0NC43MQ== when applying to show you read the job post completely (#RNTIuMTU5LjI0NC43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RMTMuODguMTM3LjEzMA== when applying to show you read the job post completely (#RMTMuODguMTM3LjEzMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-07-29T20:00:01+00:00",
       "score": 13,
       "reasons": [
@@ -920,121 +867,111 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-token-factory-217510",
+      "id": "arbeitnow-software-engineer-data-all-genders-koln-128715",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer (Token Factory)",
-      "company": "Nebius",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-token-factory-217510",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-token-factory-217510",
-      "tags": [
-        "Backend"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.&lt;/p&gt;\n&lt;p&gt;Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;amp;D.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;This role is for Nebius AI R&amp;amp;D, a team focused on applied research and the development of AI-heavy products. Examples of applied research that we have recently published include:&lt;/p&gt;\n&lt;ul&",
-      "postedAt": 1789527315,
-      "score": 10,
+      "title": "Software Engineer - Data (All Genders)",
+      "company": "PREMATCH Sports GmbH",
+      "location": "Köln",
+      "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-128715",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-128715",
+      "tags": [],
+      "description": "  Hey!     Imagine amateur football finally had the platform it deserves.       Every weekend, millions of people write their own personal football stories – on pitches, in clubs and on the sidelines. We believe this passion deserves a digital home too.   That's exactly what we're building every single day.    tl;dr  We’re looking for someone to help make our Teamwear business scalable beyond its current scope - building the data infrastructure, pipelines and tools that power the next stage of Teamwear.   Main information      Start:  Immediately   Location:  Cologne, Berlin London or Remote   Workload:  Full-time   Team:  Teamwear/Tech     Is this a match?  The most important basics – so we both know if it could work.    100% remote:  This role is generally available 100% remote within the EU or UK. If you'd still love to work from one of our offices in Cologne, Berlin or London - you're more than welcome.   Experience:  You bring 6-8 years of experience in software engineering and data engineering.   Languages:  You speak English fluently - German is a big plus.   Startup spirit:  You'd rather shape things than just tick boxes - even when that means figuring stuff out without a f",
+      "postedAt": 1789610976,
+      "score": 13,
       "reasons": [
         "title: software engineer",
+        "skill: git",
         "location: Remote"
       ]
     },
     {
-      "id": "arbeitnow-senior-backend-engineer-245904",
+      "id": "arbeitnow-backend-developer-java-spring-boot-france-316924",
       "source": "Arbeitnow",
-      "title": "Senior Backend Engineer",
-      "company": "Nebius",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-engineer-245904",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-engineer-245904",
+      "title": "Backend Developer (Java/Spring Boot)",
+      "company": "Jobgether",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/backend-developer-java-spring-boot-france-316924",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/jobgether/backend-developer-java-spring-boot-france-316924",
       "tags": [
-        "Backend"
+        "IT"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.&lt;/p&gt;\n&lt;p&gt;Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;amp;D.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The role&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re looking for a Senior Backend Software Engineer to help develop our hyperscaling platform.&lt;br&gt;We have a lot of tasks on Golang and little",
-      "postedAt": 1789527315,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-junior-data-scientist-14119",
-      "source": "Arbeitnow",
-      "title": "(Junior) Data Scientist",
-      "company": "Quantilope Gmbh",
-      "location": "Hybrid (Hamburg) or Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantilope-gmbh/remote-junior-data-scientist-14119",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/quantilope-gmbh/remote-junior-data-scientist-14119",
-      "tags": [
-        "data science",
-        "agentic ai",
-        "python",
-        "ai engineer"
-      ],
-      "description": "  Introduction:  At quantilope, we're transforming how the world's biggest brands understand their customers. As a (Junior) Data Scientist, you'll collaborate closely with Product Managers, Product Designers, and Software Engineers to build and evolve our AI-powered consumer insights platform. From developing agentic AI assistants and advanced analytics to creating innovative research tools usable by non-technical users — you'll be at the heart of scaling a sophisticated platform that puts automated, AI-powered insights into the hands of researchers and brands worldwide.  We are looking for a (Junior) Data Scientist who delivers production-grade results to high standards, who combines a passion for the latest AI technologies with the engineering discipline to ship them reliably, and who brings analytical and creative problem-solving to new challenges.   What you will be doing:    You design and build agentic AI systems using frameworks like Pydantic AI, including tool registries, prompt engineering, grounding strategies, and orchestration of LLM-based workflows across multiple AI-powered products    You closely collaborate with cross-functional teams to understand business requirem",
-      "postedAt": 1789513766,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-product-engineer-hamburg-hq-401395",
-      "source": "Arbeitnow",
-      "title": "Product Engineer (m/f/d)",
-      "company": "Buying Labs Gmbh 1",
-      "location": "Hamburg HQ",
-      "url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-401395",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-401395",
-      "tags": [
-        "Engineer",
-        "Software Developer",
-        "KI",
-        "AI",
-        "Artificial Intelligenz",
-        "Künstliche Intelligenz"
-      ],
-      "description": "  Our Company   \"Buying Labs is the leading global partner for sourcing and distributing premium consumer goods!\"  We're looking for a  Product Engineer (m/f/d)  to join our Tech team at Buying Labs ideally based in Hamburg or remotely for the right fit. In this role, you'll combine deep technical skill with strong product thinking to build tools and features using AI that create real value for our users and our business. You'll own features end to end - from scoping and design through development, deployment, and adoption - and use AI to build smarter and faster at every step.  This is a role for builders who care about impact: people who understand both the user perspective and the underlying business processes, who can scope what needs to be built and then make it happen.   Your Mission     End-to-End Product Delivery:  Own features from concept to production and real users, not just code -ship complete solutions that drive measurable business value. Scope requirements, define technical approaches, and deliver across frontend and backend, with quality built in from the start and verified through appropriate testing.   Product Thinking &amp; User Focus:  Understand user needs and",
-      "postedAt": 1789513747,
-      "score": 10,
+      "description": " \n  This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend Developer (Java/Spring Boot) based in France.  \n Join a fully remote product development team working on modern digital products for ambitious organizations. You’ll build reliable backend systems, APIs, services, integrations, and database solutions using Java and Spring Boot. Your work will contribute directly to production features, with ownership extending from implementation through testing and release. You’ll collaborate closely with frontend, QA, DevOps, product, design, and client-side stakeholders in a cross-functional environment. The role offers meaningful autonomy while encouraging developers to challenge assumptions, communicate risks, and understand the wider product context. You’ll work on a project currently expected to run through February 2027, with the opportunity to apply modern engineering practices in a distributed team. This is an excellent fit for a mid-level backend engineer who values clean code, strong collaboration, technical ownership, and continuous learning. \n   Accountabilities   \n \n \n Develop clean, maintainabl",
+      "postedAt": 1789608266,
+      "score": 13,
       "reasons": [
         "title: frontend",
+        "skill: git",
         "location: Remote"
       ]
     },
     {
-      "id": "arbeitnow-founding-engineer-london-16621",
+      "id": "arbeitnow-team-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-479781",
       "source": "Arbeitnow",
-      "title": "Founding Engineer",
-      "company": "Share",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/share/founding-engineer-london-16621",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/share/founding-engineer-london-16621",
-      "tags": [
-        "Software Engineering"
-      ],
-      "description": " About Share  Share is a venture-backed internet infrastructure network building Africa’s backbone. The company aggregates underutilised telecom infrastructure, fiber, subsea cables, and data centers, and provides ISPs with scalable access to bandwidth without traditional upfront costs. Through an open-access model, local internet providers can deliver dramatically faster speeds to their subscribers without raising their own costs.  The platform team builds the software that makes this work: billing, payments, subscriber management, RADIUS-based network authentication, and integrations with ISP billing systems and mobile money providers. We are replacing legacy, non-API systems with a modern API platform, and real money is already flowing through the system. This is a small, high-intensity engineering team building core infrastructure under real deadlines. You will own entire domains, not tickets.    The role  We are hiring a Senior Software Engineer to take ownership of the platform’s most critical technical domains: the payments pipeline (collections, revenue splitting, treasury operations), the billing engine (subscription lifecycle, cycle management, automated renewals), and th",
-      "postedAt": 1789508408,
-      "score": 10,
+      "title": "Team Lead Full-Stack Engineer (f/m/x)",
+      "company": "LiveEO GmbH",
+      "location": "LiveEO GmbH Berlin Office (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/team-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-479781",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/team-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-479781",
+      "tags": [],
+      "description": "  Build the Market Leader in Satellite Analytics with us at LiveEO  As the Team Lead for the backend, frontend, mobile and fullstack software engineers, you will own and shape the architecture of the underlying services as well as their technical roadmap for the services that together create Treeline, our application that helps predict and prevent wildfires, storm events and generally power and train outages due to vegetation, weather and climate.  Technically, that means rendering and querying large volumes of geospatial data efficiently in both browser, mobile and backend, handling complex and custom business logic, writing the services that make that fast, and building integrations for the growing number of third-party consumers of our services.  We are a team of five engineers today, actively growing, embedded in a cross-functional group of product managers, UX/UI designers, data, DevOps, ML, and geospatial engineering experts. You will not be the only person responsible for any system you touch and we’re a friendly bunch.   Your challenge    Lead, support and coordinate the team that builds Treeline while still being around 60% hands-on  Architect, build and extend features en",
+      "postedAt": 1789610969,
+      "score": 12,
       "reasons": [
-        "title: software engineer",
-        "location: Africa"
+        "title: frontend",
+        "title: software engineer"
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-add-ons-12484",
+      "id": "arbeitnow-senior-software-engineer-prism-security-288846",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer - Prism - Security",
+      "company": "Elastic",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-software-engineer-prism-security-288846",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-software-engineer-prism-security-288846",
+      "tags": [
+        "Security - Cross Team"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;div class=&quot;p&quot; data-block=&quot;true&quot; data-editor=&quot;65rta&quot; data-offset-key=&quot;f5edm-0-0&quot;&gt;\n&lt;div class=&quot;public-DraftStyleDefault-block public-DraftStyleDefault-ltr&quot; data-offset-key=&quot;f5edm-0-0&quot;&gt;&lt;span data-offset-key=&quot;f5edm-0-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;The Prism team builds the systems that turn Elastic Security&#39;s raw data into a &",
+      "postedAt": 1789617305,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-manager-professional-services-emea-113585",
+      "source": "Arbeitnow",
+      "title": "Senior Manager, Professional Services - EMEA",
+      "company": "chainguard",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/senior-manager-professional-services-emea-113585",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/senior-manager-professional-services-emea-113585",
+      "tags": [
+        "Professional Services"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and Snowflake. &lt;br&gt;&lt;br&gt;Chainguard is venture-backed by leading investors, including Amplify, IVP, Kleiner Perkins, Lightspeed Venture Partners, Mantis VC, Redpoint Ventures, Sequoia Capital, and Spark Capital.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Chainguard is looking for a Senior Manager of Professional Services - EMEA to lead delivery for a portion of our Enterprise segment. In this role, you&#39;ll own the end-to-end customer journey across implementations, consulting engagements, and advisory services — ensuring customers successfully adopt Chainguard solutions and achieve measurable outcomes.&lt;/p&gt;\n&lt;p&gt;You&#39;ll lead and develop a team of Solutions Architects while driving del",
+      "postedAt": 1789595732,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-add-ons-254647",
       "source": "Arbeitnow",
       "title": "Senior Software Engineer, Add-Ons",
       "company": "mozilla",
       "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-add-ons-12484",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-add-ons-12484",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/senior-software-engineer-add-ons-254647",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/senior-software-engineer-add-ons-254647",
       "tags": [
         "Firefox"
       ],
       "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we’re doing this while never losing our focus on our core mission – to make the internet better for people.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren’t beholden to any shareholders — only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design",
-      "postedAt": 1789502102,
+      "postedAt": 1789595731,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1042,53 +979,30 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-fullstack-typescript-developer-product-engineer-nantes-387941",
-      "source": "Arbeitnow",
-      "title": "Senior Fullstack TypeScript Developer (Product Engineer)",
-      "company": "Lemlist",
-      "location": "Nantes",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemlist/senior-fullstack-typescript-developer-product-engineer-nantes-387941",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lemlist/senior-fullstack-typescript-developer-product-engineer-nantes-387941",
-      "tags": [
-        "Tech"
-      ],
-      "description": " 🚀  About lemlist   lemlist is a global B2B SaaS business with the mission to help any business grow.  We are doing over $54M in ARR while being:    Bootstrapped    Profitable    A small, agile team of 170 highly talented people, remote-friendly    Majority owned by an entrepreneur, Guillaume Moubeche, Founder &amp; Chairman — which gives us maximum freedom    We operate 2 business lines:    Sales Engagement with our flagship products lemlist &amp; Claap, generating $49.5M ARR and growing over 50% year over year    Personal Branding with Taplio &amp; Tweet Hunter, generating $4.5M ARR      lemlist is a highly ambitious company that aims to become a world-class giant in the Sales Tech space.  Our mantra: Keep growing – and we live by it every day.     Job Description   We're looking for a Senior Fullstack TypeScript Developer to join our team. You'll be responsible for designing and developing new features for our SaaS products. We need someone who is passionate, autonomous, and loves technical challenges.   Your main missions will be:     Design and develop new features from scratch, both on the frontend and backend, Independently developing new features that enhance user experien",
-      "postedAt": 1789479606,
-      "score": 10,
-      "reasons": [
-        "title: frontend",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "remoteok-1137391",
+      "id": "remoteok-1137396",
       "source": "RemoteOK",
-      "title": "Junior Payroll Assistant",
-      "company": "Sleek",
+      "title": "Principal Product Manager",
+      "company": "DomainTools",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
       "tags": [
-        "payroll",
-        "virtual assistant",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "dev",
-        "marketing",
+        "product manager",
         "exec",
-        "accounting",
-        "finance",
-        "video",
-        "junior",
-        "ops",
-        "excel",
-        "sys admin",
+        "infosec",
+        "marketing",
+        "design",
+        "web dev",
+        "scrum",
+        "cloud",
+        "api",
+        "stats",
+        "sales",
+        "engineer",
         "digital nomad"
       ],
-      "description": " Through proprietary software and AI, along with a focus on customer delight, Sleek makes the back-office easy for micro SMEs.  We give Entrepreneurs time back to focus on what they love doing - growing their business and being with customers. With a surging number of Entrepreneurs globally, we are innovating in a highly lucrative space.  We operate across 3 business segments:  Corporate Secretary: Automating the company incorporation, secretarial, filing, Nominee Director, mailroom and immigration processes via custom online robots and SleekSign. We are the market leaders in Singapore with ~5% market share of all new business incorporations  Accounting &amp; Bookkeeping: Redefining what it means to do Accounting, Bookkeeping, Tax and Payroll thanks to our proprietary SleekBooks ledger, AI tools and exceptional customer service  FinTech payments: Overcoming a key challenge for Entrepreneurs by offering digital banking services to new businesses  Sleek launched in 2017 and now has around 17,500 customers across our offices in Singapore, Hong Kong, Australia and the UK. We have around 600 staff with an intact startup mindset. We have recently raised Series B financing off the back of",
-      "postedAt": "2026-09-14T00:00:12+00:00",
+      "description": " DomainTools is looking for a Principal Product Manager to join its Product team. Data is the backbone of our products, and this role will be responsible for growing and refining the data products that drive our threat intelligence solutions, with API-first delivery and integration into UI, AI and third-party experiences and workflows. This is a strategic role for the company that has a high impact on the companyâs success, and has a great deal of visibility both inside and outside the company. The ideal candidate is a strong leader and successful product manager with a track record of delivering market-leading data products, with insights derived from direct customer interaction and big-data analysis. If you want to make a big impact in an established, growth-stage company, and if you love data product management, DomainTools is the place to be!    The product manager is expected to contribute to her/his team a solid knowledge of the various constraints of the business, and a prioritized assessment of the opportunities that the business can capitalize on. The product manager must also contribute to the product team a deep knowledge of our users and customers, and an understandin",
+      "postedAt": "2026-09-16T00:00:13+00:00",
       "score": 9,
       "reasons": [
         "skill: git",
@@ -1202,41 +1116,57 @@
       ]
     },
     {
-      "id": "arbeitnow-junior-fullstack-engineer-hamburg-410395",
+      "id": "arbeitnow-system-software-engineer-gn-cloud-simulation-dresden-192500",
       "source": "Arbeitnow",
-      "title": "Junior Fullstack Engineer",
-      "company": "Haiilo 1",
-      "location": "Hamburg, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/haiilo-1/junior-fullstack-engineer-hamburg-410395",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/haiilo-1/junior-fullstack-engineer-hamburg-410395",
-      "tags": [
-        "Engineering",
-        "Product & Tech"
-      ],
-      "description": " At Haiilo, we're building the digital workplace that connects employees with the information that matters to them — reliably, efficiently, every day. With Haiilo employees find their flow at work.&nbsp;  As our Junior Fullstack Engineer, you'll help accelerate feature delivery, improve quality, and scale the development of our AI Assistant while growing your skills alongside an experienced team.&nbsp;  &nbsp;  🌟 What's in it for you:&nbsp;     Access to OpenUp for you and 3 of your family/friends&nbsp;    Urban Sports Club or Wellpass membership&nbsp;    Lease a Bike scheme&nbsp;    Deutschlandticket subsidy&nbsp;    30 days holiday + 2 additional self-care days&nbsp;    Plenty of room to shape things in a growing software company&nbsp;    Short decision-making paths and a collaborative engineering culture&nbsp;   &nbsp;    What you’ll do:&nbsp;  &nbsp;   Develop frontend and backend features for our AI Assistant&nbsp;    Contribute to AI-powered product capabilities and integrations&nbsp;    Support testing, maintenance, and continuous improvement of the platform&nbsp;    Take an active role in shaping AI Assistant capabilities, from idea generation and solution design to implem",
-      "postedAt": 1789525219,
+      "title": "System Software Engineer (gn) Cloud & Simulation",
+      "company": "Wandelbots GmbH",
+      "location": "Dresden",
+      "url": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/system-software-engineer-gn-cloud-simulation-dresden-192500",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/system-software-engineer-gn-cloud-simulation-dresden-192500",
+      "tags": [],
+      "description": "  Your mission   At Wandelbots, we are building NOVA, a platform that makes industrial robot programming accessible to everyone. Our Simulation team develops the technologies that allow partners, customers, and internal teams to work with photorealistic digital twins of real production environments.    This includes a pipeline that transforms real-world scans into usable 3D scenes through Gaussian Splatting, as well as a browser-based streaming platform built on     NVIDIA     Omniverse and Isaac Sim. Both technologies work today, but neither is yet operated as a product. Your mission is to change that.    The first step is internal standardization. We want to replace individually maintained environments and hand-crafted deployments with one reproducible, documented solution that teams can use independently: scene in, session out, without requiring the Simulation team to operate every setup.   The second step is external productization. The same capabilities need to be packaged so that partners and customers can operate them in their own environments.    E.g. with versioned releases, stable interfaces, tenant isolation, diagnostics, upgrade paths, and documentation.    You will joi",
+      "postedAt": 1789610950,
       "score": 9,
       "reasons": [
-        "title: frontend",
+        "title: software engineer",
         "skill: git"
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-london-59141",
+      "id": "arbeitnow-software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-96453",
       "source": "Arbeitnow",
-      "title": "Software Engineer",
-      "company": "Dialpad",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dialpad/software-engineer-london-59141",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/dialpad/software-engineer-london-59141",
+      "title": "Software Engineering /Data and AI Engineering/ IT-Management Consultant (2026/27 Graduate) (m/f/d)",
+      "company": "Netlight",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-96453",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-96453",
       "tags": [
-        "217 - TrueCaaS"
+        "Hamburg"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;About Dialpad&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Dialpad is the AI platform for customer experience, built to resolve customer problems in real time across voice and digital. Our AI agents learn from your best human agents and improve with every interaction, helping organizations understand their customers, deliver better experiences, increase operational efficiencies, and build a lasting competitive advantage.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Unlike legacy systems built to route and answer, or standalone agentic bot vendors built to deflect, Dialpad was built to resolve. Our AI agents and human agents operate on a single platform with shared context, allowing Agentic AI to resolve issues, advance deals, and eliminate busywork through automation while seamlessly handing conversations to humans when needed, with full context preserved.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-s",
-      "postedAt": 1789509314,
+      "description": "  About us  \n  Netlight is an international digital consulting firm, helping leading companies to succeed in the digital landscape, from advice to implementation. Our service contains the collective intelligence of more than 2000 consultants offering a comprehensive range of digital services, from strategy to technology. Co-creating the future today, since 1999.  \n &nbsp; \n  Netlight has been awarded several times for profitable growth and management, as a top employer, and for our engagement in Diversity, Equity, and Inclusion. Located in Stockholm, Gothenburg, Oslo, Helsinki, Copenhagen, Munich, Hamburg, Berlin, Frankfurt, Zurich, Cologne, Amsterdam, Madrid, Toronto and London.  \n &nbsp; \n  What does it mean to be a consultant at Netlight?&nbsp;  \n  Join the Netlight Hamburg team as a consultant and be a part of shaping the software products and technical solutions of today and tomorrow alongside your colleagues and clients. Our focus is not just on the digital product, but also on the team and the business. You'll have the ownership to carve your own career path, choosing from a range of clients and roles based on your personal experience, strengths, interests, and market demand",
+      "postedAt": 1789610682,
       "score": 9,
       "reasons": [
         "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-frontend-engineer-cloud-solutions-gilching-250205",
+      "source": "Arbeitnow",
+      "title": "(Senior) Frontend Engineer – Cloud Solutions (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-frontend-engineer-cloud-solutions-gilching-250205",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-frontend-engineer-cloud-solutions-gilching-250205",
+      "tags": [
+        "Software"
+      ],
+      "description": " We are looking for a passionate Senior Frontend Engineer who enjoys working with modern web technologies, values clean architecture, and can translate complex requirements into elegant, responsive, and user-friendly solutions. You’ll collaborate with cross-functional teams to deliver products that shape the future of our cloud ecosystem.  As part of our Cloud Team, you will build applications that increase the efficiency of our innovation and maintenance processes, while providing greater control over service workflows and connected devices.     What is your Day to Day Mission:      Design, develop, and optimize front-end applications using Angular (v13+) and Material Design.&nbsp;      Build modern, responsive, and lightweight UI components for product features.&nbsp;      Write unit tests and integration tests to ensure code correctness and stability.&nbsp;      Collaborate with backend engineers, understanding APIs, distributed systems concepts, and ensuring smooth data flow.&nbsp;      Participate in code reviews, maintain clean code practices, and ensure high quality in implementations.&nbsp;      Use Git effectively—branching, pull requests, merges—and contribute to CI/CD wo",
+      "postedAt": 1789601404,
+      "score": 9,
+      "reasons": [
+        "title: frontend",
         "skill: git"
       ]
     },
@@ -1257,25 +1187,6 @@
       "reasons": [
         "title: node",
         "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-data-infrastructure-paris-246647",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer - Data Infrastructure",
-      "company": "Vibe",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vibe/senior-software-engineer-data-infrastructure-paris-246647",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/vibe/senior-software-engineer-data-infrastructure-paris-246647",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "description": " About Vibe   Streaming TV is no longer just a brand awareness channel. It's becoming a core part of the performance marketing mix, alongside search and social.  Vibe.co  is building the platform that makes TV work like the rest of the acquisition stack: targeted, measurable, and optimized for results.   Vibe.co  is an Audience First Streaming TV Advertising platform that gives marketers the tools to reach the right audiences, optimize campaigns in real time, and understand what's actually driving business outcomes. With hyper-targeted segmentation, AI-powered recommendations, real-time optimization, and incrementality measurement, Vibe brings the precision and accountability of digital advertising to the biggest screen in the house.  Today, more than 12,000 brands use  Vibe.co  to reach 120 million+ households. And in August 2026,  Vibe.co  became a Walmart company, opening up a new chapter for the business and the industry. With Walmart's first-party data and purchase signals now part of the Vibe platform, advertisers can connect TV advertising to real-world transactions and measure the impact of CTV with a level of precision previously associated with platforms like Google and M",
-      "postedAt": 1789479602,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
       ]
     },
     {

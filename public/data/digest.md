@@ -1,23 +1,23 @@
-# Job Radar digest (2026-09-18)
+# Job Radar digest (2026-09-19)
 
 1. **Healthcare Virtual Assistant Athena EMR Experience** — Snapscale Philippines (40)
    https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-athena-emr-experience-snapscale-philippines-1135688
 2. **Senior Golang Developer** — Lemon.io (37)
    https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098
-3. **Senior React Full-stack Developer** — Lemon.io (31)
+3. **Senior Data Scientist** — Lemon.io (33)
+   https://remotive.com/remote-jobs/data/senior-data-scientist-2091129
+4. **Senior React Full-stack Developer** — Lemon.io (31)
    https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101
-4. **Senior QA Engineer** — Lemon.io (31)
+5. **Senior QA Engineer** — Lemon.io (31)
    https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100
-5. **Senior DevOps Engineer** — Lemon.io (31)
+6. **Senior DevOps Engineer** — Lemon.io (31)
    https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099
-6. **Senior Data Engineer** — Lemon.io (31)
+7. **Senior Data Engineer** — Lemon.io (31)
    https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097
-7. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
+8. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
-8. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
+9. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
-9. **Senior/Staff Frontend Engineer (React) - Remote Friendly** — Qonto (19)
-   https://www.arbeitnow.fr/jobs/companies/qonto/senior-staff-frontend-engineer-react-remote-friendly-paris-473326
 10. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
 11. **Sr Solutions Architect** — ExtraHop (16)
@@ -36,7 +36,7 @@
    https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778
 18. **Software Engineer GO** — Wakacje.pl (13)
    https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634
-19. **Remote Sales Development Representative United Kingdom (m/f/d)** — RoomPriceGenie (11)
-   https://www.arbeitnow.co.uk/jobs/companies/roompricegenie/remote-sales-development-representative-united-kingdom-396299
-20. **Software Engineer - Backend - Behavioral Security Products** — Abnormalsecurity (10)
-   https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/software-engineer-backend-behavioral-security-products-256373
+19. **Technicien de maintenance Itinérant (F/H)** — Signode (13)
+   https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-evreux-116825
+20. **Senior Technical Project Manager (m/f/d)** — Berlitz (10)
+   https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-technical-project-manager-2971

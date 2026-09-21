@@ -1,74 +1,50 @@
 {
-  "scannedAt": "2026-09-20T05:10:17.198Z",
+  "scannedAt": "2026-09-21T05:10:54.952Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 35,
+  "count": 54,
   "jobs": [
     {
-      "id": "remoteok-1135688",
+      "id": "remoteok-1137410",
       "source": "RemoteOK",
-      "title": "Healthcare Virtual Assistant Athena EMR Experience",
-      "company": "Snapscale Philippines",
-      "location": "Davao, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-athena-emr-experience-snapscale-philippines-1135688",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-athena-emr-experience-snapscale-philippines-1135688",
+      "title": "Frontend Engineer",
+      "company": "Bjak ",
+      "location": "Ireland",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
       "tags": [
-        "virtual assistant",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "ops",
-        "medical",
-        "non tech",
-        "dev",
-        "video",
-        "cloud",
-        "microsoft",
-        "exec",
-        "digital nomad",
+        "front end",
         "design",
-        "education",
-        "content writing",
-        "sales",
-        "full time",
-        "part time",
-        "c sharp",
         "react",
-        "hr",
-        "sys admin",
-        "infosec",
-        "python",
-        "teaching",
+        "graphql",
+        "react.js",
         "technical",
-        "testing",
         "web dev",
-        "scrum",
         "javascript",
-        "java",
-        "c",
-        "c plus plus",
         "css",
+        "chatbot",
         "html",
-        "git",
-        "angular",
+        "typescript",
         "node",
         "node.js",
-        "senior",
+        "exec",
+        "sys admin",
         "engineer",
-        "internship"
+        "backend",
+        "digital nomad"
       ],
-      "description": " Overview   Snapscale is seeking a highly skilled  Healthcare Virtual Assistant  to support day-to-day U.S. clinic operations in a  remote setup  and ensure a seamless patient experience. This role requires strong communication skills, attention to detail, and hands-on experience in U.S. healthcare processes. The ideal candidate must have proven expertise in EMR systems, specifically  Athena EMR , and the ability to manage multiple clinical and administrative tasks efficiently while working remotely.   Key Responsibilities     Verify patient benefits and insurance coverage accurately and efficiently  Reactivate past patients and maintain engagement through consistent follow-ups  Handle inbound calls and assist patients with inquiries professionally and empathetically  Conduct appointment confirmations, reminders, and outbound follow-ups  Schedule and reschedule patient appointments using Athena EMR  Maintain and update patient records in Athena EMR (required)  Perform medical chart scrubbing to ensure accuracy and completeness of patient data  Process and manage prior authorizations following payer and clinic guidelines  Handle prescription refills in accordance with clinic protoco",
-      "postedAt": "2026-07-29T10:25:22+00:00",
-      "score": 40,
+      "description": "  About ActAI   There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our application focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinations  Our objective is to organise anyone's life.  Â    Role   As a Web Frontend Engineer, you will build the core web experiences, including Chat, Notes, Calendar, Docs and Sheets.  You will own complex, highly interactive product surfaces from architecture through implementation, working closely with product, design, backend and AI engineers to make AI a native part of how users communicate, write, organise and work.  Â   What You'll Own    Build major web experiences across Chat, Notes, Calendar, Docs, and Sheets.    Develop complex interactions including real-time messaging, collaborative editing, rich-text editing, scheduling, tables, and s",
+      "postedAt": "2026-09-20T00:00:25+00:00",
+      "score": 44,
       "reasons": [
+        "title: frontend",
         "title: react",
         "title: javascript",
         "title: node",
         "skill: javascript",
         "skill: react",
         "skill: html",
-        "skill: css",
-        "skill: git"
+        "skill: css"
       ]
     },
     {
@@ -140,6 +116,73 @@
       ]
     },
     {
+      "id": "remotive-2091131",
+      "source": "Remotive",
+      "title": "Senior AI Engineer",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+      "applyUrl": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+      "tags": [
+        ".Net",
+        "android",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "UI/UX",
+        "wordpress",
+        "blockchain",
+        "AI/ML",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "Ethereum",
+        "graphic design",
+        "Typescript ",
+        "angular ",
+        "firebase",
+        "data engineering",
+        "Site Reliability",
+        "SOLID",
+        "Symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter"
+      ],
+      "description": " Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  — the marketplace that connects you with hand-picked startups in the US and Europe. \n     \n  What we offer:  \n \n The rate depends on your skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more than 75 countries. \n \n   \n We have several AI-related roles: AI Engineer, AI Agent Architect, AI Automation Architect. \n     \n  Requirements - AI Engineer:  \n \n 3+ years of commercial experience applying",
+      "postedAt": "2026-09-18T12:23:56",
+      "score": 33,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "title: node",
+        "skill: javascript",
+        "skill: react",
+        "skill: node",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
       "id": "remotive-2091130",
       "source": "Remotive",
       "title": "Senior .NET Full-stack Developer",
@@ -194,7 +237,7 @@
       ],
       "description": " Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  — the marketplace that connects you with hand-picked startups in the US and Europe. \n     \n  What we offer:  \n \n The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. \n Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more than 75 countries. \n \n     \n Currently, we have multiple requests for Senior .NET Developers, including C# &amp; .NET, .NET &amp; React, and Angular &amp; .NET. \n   \n  Requirement",
       "postedAt": "2026-09-17T13:22:05",
-      "score": 33,
+      "score": 31,
       "reasons": [
         "title: react",
         "title: javascript",
@@ -202,8 +245,7 @@
         "skill: javascript",
         "skill: react",
         "skill: node",
-        "location: Remote",
-        "posted this week"
+        "location: Remote"
       ]
     },
     {
@@ -486,76 +528,6 @@
       ]
     },
     {
-      "id": "remotive-2091097",
-      "source": "Remotive",
-      "title": "Senior Data Engineer",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-      "applyUrl": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-      "tags": [
-        ".Net",
-        "android",
-        "apache",
-        "AWS",
-        "azure",
-        "C",
-        "C#",
-        "C++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "sql",
-        "swift",
-        "UI/UX",
-        "wordpress",
-        "blockchain",
-        "AI/ML",
-        "automation",
-        "project management",
-        "react native",
-        "rust",
-        "product management",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "Ethereum",
-        "graphic design",
-        "Typescript ",
-        "angular ",
-        "GCP",
-        "Snowflake",
-        "Site Reliability",
-        "Symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
-      ],
-      "description": " Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  — the marketplace that connects you with hand-picked startups in the US and Europe. \n     \n  What we offer:  \n \n The rate depends on your skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n Through our community, we will connect you with the best developers from more th",
-      "postedAt": "2026-08-19T12:12:11",
-      "score": 31,
-      "reasons": [
-        "title: react",
-        "title: javascript",
-        "title: node",
-        "skill: javascript",
-        "skill: react",
-        "skill: node",
-        "location: Remote"
-      ]
-    },
-    {
       "id": "remotive-2069746",
       "source": "Remotive",
       "title": "Tech Lead Full-Stack Rails Engineer",
@@ -603,6 +575,124 @@
       ]
     },
     {
+      "id": "remotive-2091141",
+      "source": "Remotive",
+      "title": "Frontend Web Application Developer",
+      "company": "KoboToolbox",
+      "location": "USA, Canada, Argentina, Mexico, Peru",
+      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+      "applyUrl": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+      "tags": [
+        "api",
+        "django",
+        "docker",
+        "frontend",
+        "git",
+        "python",
+        "react",
+        "security",
+        "video",
+        "AI/ML",
+        "documentation",
+        "Typescript ",
+        "web applications",
+        "backbone",
+        "diversity",
+        "REST",
+        "insurance"
+      ],
+      "description": "  Location:  Remote  Availability:  35-40 hours per week  Working hours:  US East business hours  Reporting to:  Lead developer \n  KoboToolbox  has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challenge and excitement of writing code used by over 32,000 organizations around the world. These organizations create data-driven change through the collection and analysis of more than 20 million surveys per month. \n Only candidates who already have experience working on large web applications will be considered. Beyond technical acumen, we are seeking a team member who demonstrates curiosity, initiative, and a cooperative approach to problem solving and decision-making. \n If you're passionate about leveraging technology to make a positive impact, we want to hear from you! \n Responsibilities \n \n Searching and reading an extensive, long-lived code base to understand existing behavior and conventions. \n Recognizing when existing conventions may no longer be the best approach and suggesting improvements aligned with contempora",
+      "postedAt": "2026-09-18T16:43:22",
+      "score": 24,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "skill: react",
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-frontend-software-engineer-all-genders-munchen-303753",
+      "source": "Arbeitnow",
+      "title": "Senior Frontend Software Engineer (all genders)",
+      "company": "Wemolo",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/senior-frontend-software-engineer-all-genders-munchen-303753",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/wemolo/senior-frontend-software-engineer-all-genders-munchen-303753",
+      "tags": [
+        "Engineering"
+      ],
+      "description": " Wemolo is no ordinary company - we are the pioneering force that is revolutionizing conservative parking management!  Are you ready to embark on an exciting journey with us? At Wemolo, we are product-focused and follow a  “you build it, you run it”  philosophy. What you start, you also finish. We foster an environment where innovation and personal development go hand in hand. Are you ready to own (y)our growth?  We are looking for a  Senior Frontend Software Engineer  to join our development team and act as a lighthouse for frontend engineering at Wemolo. As a senior individual contributor on our IC track, you will contribute hands-on in our Operator team while shaping the long-term vision, architecture, and best practices of our frontend landscape across the company. Leading through expertise, not through direct reports. Our core stack is  React in combination with TypeScript , and we embrace AI-assisted development as an integral part of how we build software.     What to expect     Design, develop and maintain scalable web applications with React and TypeScript    Own the long-term vision and architecture of our frontend systems while keeping a strategic eye on frontend tech de",
+      "postedAt": 1789958407,
+      "score": 21,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "title: software engineer",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "remotive-2091140",
+      "source": "Remotive",
+      "title": "Senior Shopify Developer",
+      "company": "Sanctuary Computer Inc",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+      "tags": [
+        "admin",
+        "api",
+        "backend",
+        "CSS",
+        "frontend",
+        "fullstack",
+        "graphql",
+        "node.js",
+        "postgresql",
+        "redux",
+        "seo",
+        "shopify",
+        "video",
+        "open source",
+        "paas",
+        "Figma",
+        "documentation",
+        "analytics",
+        "brand design",
+        "Typescript ",
+        "Redis",
+        "cypress",
+        "IoT",
+        "runtime",
+        "JSON",
+        "responsive",
+        "prismic",
+        "motion design",
+        "testing",
+        "themes",
+        "next.js",
+        "CMS",
+        "jest",
+        "REST",
+        "web sockets",
+        "performance optimization",
+        "mobile development"
+      ],
+      "description": " We are hiring a  contract-based Senior Shopify Developer  to contribute to our Design and Development Team. \n   Original Job posting link here   \n   \n 🌎 About garden3d  \n We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. \n Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp; Gagosian. \n We’re the software team behind innovative products like The Light Phone &amp; Mill, and we operate a global, decentralized community space collective called Index Space. \n We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs. \n   Sanctuary Computer   — Development At Sanctuary Computer we’re building a different type of technology shop – one that priorit",
+      "postedAt": "2026-09-18T15:10:28",
+      "score": 20,
+      "reasons": [
+        "title: frontend",
+        "title: node",
+        "skill: css",
+        "skill: node",
+        "posted this week"
+      ]
+    },
+    {
       "id": "remoteok-1137062",
       "source": "RemoteOK",
       "title": "DESARROLLADOR FULL STACK",
@@ -637,36 +727,6 @@
         "title: frontend",
         "title: full stack",
         "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-413495",
-      "source": "Arbeitnow",
-      "title": "Werkstudent*in im Projektmanagement",
-      "company": "Doo",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-413495",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-413495",
-      "tags": [
-        "Projektmanagement",
-        "CSS",
-        "HTML",
-        "Werkstudent",
-        "Product Consulting",
-        "JavaScript",
-        "Engineering",
-        "Make",
-        "Webentwicklung"
-      ],
-      "description": "  Werde Teil unseres Teams!  Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen!   Deine Aufgaben    Du unterstützt unser Product Consulting Team bei der täglichen Arbeit und übernimmst gelegentlich Aufgaben im Rahmen von Kundenprojekten, beispielsweise das Erstellen von Websites sowie Landingpages  Im Rahmen von Kundenanfragen nimmst du Anpassungen in CSS, HTML, JavaScript oder unserer Automatisierungssoftware vor   Du kümmerst dich um die Dokumentation des Projektverlaufs im Hinblick auf relevante Milestones im Projektmanagement-Tool  Du unterstützt unser Onsite-Team bei der Datenintegration zwischen der Online-Registrierung und vor-Ort-Lösungen  Du kümmerst dich um die Konfiguration, Prüfung und den Versand von Hardware (z.B. Scannern)  Du unterstützt unsere Kunden beim Einlassmanagement vor Ort (inkl. Auf- und Abbau) sowie remote  Du arbeitest aktiv an Projekten zur Prozessoptimierung mit und bringst eigene Ideen und Vorschläge ein     Dein Profil    Du bis",
-      "postedAt": 1789848561,
-      "score": 19,
-      "reasons": [
-        "title: javascript",
-        "skill: javascript",
-        "skill: html",
-        "skill: css",
         "location: Remote"
       ]
     },
@@ -708,27 +768,6 @@
         "skill: css",
         "skill: git",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-freiberufliche-r-trainerin-ausbilderin-fachinformatik-fur-anwendungsentwicklung-vor-ort-berlin-2736",
-      "source": "Arbeitnow",
-      "title": "Freiberufliche/r TrainerIn/ AusbilderIn (w/m/d) Fachinformatik für Anwendungsentwicklung - vor Ort",
-      "company": "Comhard Gesellschaft für Bildung und Personalentwicklung mbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/comhard-gesellschaft-fur-bildung-und-personalentwicklung-mbh/freiberufliche-r-trainerin-ausbilderin-fachinformatik-fur-anwendungsentwicklung-vor-ort-berlin-2736",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/comhard-gesellschaft-fur-bildung-und-personalentwicklung-mbh/freiberufliche-r-trainerin-ausbilderin-fachinformatik-fur-anwendungsentwicklung-vor-ort-berlin-2736",
-      "tags": [
-        "Team*Bildung"
-      ],
-      "description": " Passionierte, freiberufliche IT-Lehrkräfte gesucht! Engagieren Sie sich in der Fortbildung Erwachsener mit Freiraum für kreative Lehrmethoden. Fördern Sie zukünftige Fachinformatikerinnen und Fachinformatiker und werden Sie Teil unseres qualitätsbewussten Teams. Ihre Expertise zählt!  &nbsp;   Ihre Aufgaben:     Sie unterrichten die Module: „ Objektorientierte Programmierung mit Java “ und „ Dynamische Webentwicklung “    Gestaltung von lebendigem, anschaulichem Unterricht    Intensive Vorbereitung auf die Abschlussprüfung vor der IHK Berlin    Erarbeitung und Leitung praxisnaher Projekte nach beiden Modulen    Erstellung von Lehrmaterialien und Weiterentwicklung unserer E-Learning-Plattform          Ihr Profil:     Fundierte Kenntnisse der Fachinformatikerausbildungsverordnung, des KHK-Rahmenlehrplans und des Leitfadens der IHK Berlin      Tiefgehendes Wissen über moderne Webtechnologien und deren praxisnahe Nutzung      Sicherer Umgang mit JavaScript&nbsp;sowie gängigen Bibliotheken und Frameworks (z. B. React, Vue oder Angular)    Umfassende Erfahrung in der serverseitigen Webentwicklung,&nbsp;insbesondere mit PHP und Python    Sehr gute Kenntnisse relationaler Datenbanken,&nbs",
-      "postedAt": 1789871403,
-      "score": 18,
-      "reasons": [
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react"
       ]
     },
     {
@@ -858,32 +897,93 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-senior-software-engineer-fullstack-fur-ki-produkte-338178",
+      "id": "arbeitnow-full-stack-software-engineer-ai-finance-agent-germany-382852",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
-      "company": "Avenit Ag",
-      "location": "Remote in Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-338178",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-338178",
+      "title": "Full Stack Software Engineer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-software-engineer-ai-finance-agent-germany-382852",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-software-engineer-ai-finance-agent-germany-382852",
       "tags": [
-        "AI Engineer",
-        "Senior Fullstack Developer",
-        "Fullstack Entwickler",
-        "KI Engineer",
-        "Software Development",
-        "Produktentwicklung",
-        "SaaS Engineer",
-        "SaaS",
-        "KI",
-        "AI"
+        "Engineering"
       ],
-      "description": "  Über uns  Wie bleibt ein RAG-System präzise, wenn aus tausend Dokumenten hunderttausend werden? Wie orchestriert man mehrere Modellanbieter sauber hinter einer Oberfläche? Während anderswo noch Prototypen gezeigt werden, arbeiten unsere Kunden längst damit - mit ihren Daten, ihren Regeln, gehostet in Deutschland. Als Senior Engineer verantwortest du Kernfunktionen und Architektur unserer Plattform, vom Retrieval bis ins Frontend - und du entwickelst sie so, wie wir arbeiten: AI-gestützt, mit Coding-Agents als Teil des Werkzeugkastens und mit echtem Gestaltungsspielraum für deine Ideen. Du suchst eine Rolle, in der technische Tiefe und Produktverantwortung zusammenkommen? Dann sollten wir uns kennenlernen!   Das gibt es zu tun     Architektur &amp; Umsetzung  Du entwirfst und skalierst verteilte Systeme und Microservices - immer mit Blick auf Wartbarkeit, Stabilität und die Frage, was in zwei Jahren noch trägt.    KI-Features bauen, die im Alltag halten  Du entwickelst die Kernfunktionen unserer Plattform - von RAG-basierten Wissensdatenbanken über KI-Apps für einzelne Fachbereiche bis zu Voice-, Übersetzungs- und Analytics-Funktionen.    Full-Stack liefern  Du entwickelst perform",
-      "postedAt": 1789848558,
+      "description": "  About BJAK   The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.  Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.  Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day.  We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.  If you're this person, we'd love to talk to you.      The Role   We are looking for full stack engineers to build fast across BJAK's AI Finance Agent.  This role is for product-minded eng",
+      "postedAt": 1789958403,
       "score": 16,
       "reasons": [
-        "title: frontend",
         "title: software engineer",
+        "title: full stack",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137411",
+      "source": "RemoteOK",
+      "title": "Senior .NET Software Engineer",
+      "company": "OkWhen",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+      "tags": [
+        "dev",
+        "design",
+        "c sharp",
+        "saas",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "web dev",
+        "xamarin",
+        "c",
+        "cloud",
+        "git",
+        "typescript",
+        "angular",
+        "mobile",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "description": " Please note. Directly emailing us will result in immediate disqualification. Use the application form to apply.    About OkWhen  OkWhen builds technology that powers live, virtual, and hybrid events. Our platform supports conference management, registration, payments, mobile apps, content libraries, webinars, LMS functionality, CEU tracking, sponsor management, and operational workflows.  We are hiring a Senior .NET Software Engineer to help us improve, maintain, and extend a production platform used to run complex events.  The Outcome Weâre Hiring For  You will own meaningful parts of our application and consistently deliver reliable software without requiring constant supervision. You will improve system performance, reduce technical debt, and turn operational problems into simple, maintainable products.  This is not a ticket-taking role. We need an engineer who can understand the existing system, make sound technical decisions, and follow work through from discovery to production.  Responsibilities   Design, build, test, deploy, and maintain production software  Develop backend services and APIs usingÂ C# and ASP.NET/.NET  Build and maintain web applications usingÂ Angular  D",
+      "postedAt": "2026-09-20T00:00:31+00:00",
+      "score": 15,
+      "reasons": [
+        "title: software engineer",
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137409",
+      "source": "RemoteOK",
+      "title": "Backend Software Engineer",
+      "company": "Airspace Link",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with Airspace Linkâs d...  Please mention the word **AMIABLE** and tag RNC4xNTQuMTM1LjE3Ng== when applying to show you read the job post completely (#RNC4xNTQuMTM1LjE3Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "postedAt": "2026-09-19T20:00:01+00:00",
+      "score": 15,
+      "reasons": [
+        "title: software engineer",
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -900,7 +1000,7 @@
         "javascript",
         "typescript"
       ],
-      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RMjAuMjIxLjY4LjE5OQ== when applying to show you read the job post completely (#RMjAuMjIxLjY4LjE5OQ",
+      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RNC4xNTQuMTM1LjE3Ng== when applying to show you read the job post completely (#RNC4xNTQuMTM1LjE3Ng",
       "postedAt": "2026-09-16T12:44:27+00:00",
       "score": 13,
       "reasons": [
@@ -923,7 +1023,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuMjIxLjY4LjE5OQ== when applying to show you read the job post completely (#RMjAuMjIxLjY4LjE5OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNC4xNTQuMTM1LjE3Ng== when applying to show you read the job post completely (#RNC4xNTQuMTM1LjE3Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -997,48 +1097,95 @@
       ]
     },
     {
-      "id": "remoteok-1135634",
-      "source": "RemoteOK",
-      "title": "Software Engineer GO",
-      "company": "Wakacje.pl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
+      "id": "arbeitnow-lagerist-warehouse-worker-stuttgart-363793",
+      "source": "Arbeitnow",
+      "title": "Lagerist / warehouse worker (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/lagerist-warehouse-worker-stuttgart-363793",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/lagerist-warehouse-worker-stuttgart-363793",
       "tags": [
-        "golang",
-        "dev",
-        "travel",
-        "api",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad"
+        "Engineering"
       ],
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...  Please mention the word **HEARTFELT** and tag RMjAuMjIxLjY4LjE5OQ== when applying to show you read the job post completely (#RMjAuMjIxLjY4LjE5OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "postedAt": "2026-07-29T20:00:01+00:00",
+      "description": "  Sereact GmbH   Stuttgart / Baden-Württemberg, Germany   Lagerist / warehouse worker (m/f/d)    Full-time · On-site only · No remote work    About Sereact   Sereact GmbH develops AI-powered robotics and automation solutions. For our warehouse in the Stuttgart region, we are looking for a reliable, hands-on person who keeps things organized and ensures a smooth flow of goods.   Your Tasks     Warehouse organization: Keep our warehouse tidy, clean, and well organized    Goods receiving: Check incoming deliveries, match them against delivery notes, and store them correctly    Shipping: Pack and ship parcels and prepare the corresponding shipping documents    Pre-picking: Prepare goods and materials for internal orders and projects    Handyman support: Take on simple handyman tasks as needed (e.g. small assembly work, shelving, minor repairs)    Inventory support: Assist with stocktaking and report shortages or discrepancies    Order &amp; safety: Ensure cleanliness, workplace safety, and compliance with warehouse guidelines    Material handling: Support internal transport of goods and components (e.g. using a pallet truck/forklift)    Office upkeep: Keep our office and break areas ti",
+      "postedAt": 1789958408,
       "score": 13,
       "reasons": [
-        "title: software engineer",
-        "skill: git",
+        "title: react",
+        "skill: react",
         "location: Remote"
       ]
     },
     {
-      "id": "arbeitnow-senior-devops-engineer-berlin-boppstr-322077",
+      "id": "arbeitnow-full-stack-engineer-ai-systems-germany-250365",
       "source": "Arbeitnow",
-      "title": "(Senior) DevOps Engineer (m/f/x)",
-      "company": "Aer Group",
-      "location": "Berlin Boppstr.",
-      "url": "https://www.arbeitnow.com/jobs/companies/aer-group/senior-devops-engineer-berlin-boppstr-322077",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/aer-group/senior-devops-engineer-berlin-boppstr-322077",
+      "title": "Full Stack Engineer, AI systems",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-engineer-ai-systems-germany-250365",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-engineer-ai-systems-germany-250365",
       "tags": [
-        "DevOps",
-        "Network",
-        "kubernetes",
-        "infrastructure"
+        "ActAI Engineering"
       ],
-      "description": "  Deine Aufgaben:  You work in a dedicated team on innovative solutions in a dynamic, product-oriented environment. You take end-to-end responsibility for our infrastructure and DevOps processes — from the Kubernetes platform and CI/CD pipelines through to monitoring, databases, and security.  Your tasks:      Kubernetes   &amp;   containers  :    operation   and   expansion   of   our  clusters   —   node  setup  ,   upgrades  ,   deployments  ,   troubleshooting  , and   application  testing  ;   onboarding   of   development  teams  onto   the   platform  ;   management   of Docker-  based  container  solutions   and   their  integration  into   the   existing  infrastructure      CI/CD &amp;   GitOps  :    maintenance   and   further  development   of   our  GitLab  environment  ,   including  pipelines  ,   runners  , the   GitLab   Agent for   Kubernetes  , and the Jira   integration  ;   GitOps-based  delivery  with  ArgoCD  or   Flux      Automation &amp; Infrastructure as Code:    provisioning   and   configuration  management  with   Terraform and   Ansible      Databases:    installation  ,   configuration  ,   maintenance  , and   troubleshooting   of   our  database  s",
-      "postedAt": 1789870197,
+      "description": " About ActAI   There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting.  Our product focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinations.  Our objective is to organise anyone's life, allowing us all to spend time on valuable and meaningful things.     Role  We are looking for a Full Stack Engineer - AI Systems to build the product layer that turns these capabilities into usable, production-grade workflows. This includes designing how agents operate, fail, recover, and deliver consistent value to users.      Focus     Build end-to-end product features across frontend, backend, and AI integrations    Design agent workflows that handle planning, tool use, failure, and recovery across multiple steps.    Integrate LLMs, memory, and external tools into systems that behave reliably und",
+      "postedAt": 1789958404,
+      "score": 12,
+      "reasons": [
+        "title: frontend",
+        "title: full stack"
+      ]
+    },
+    {
+      "id": "arbeitnow-staff-software-engineer-full-stack-london-336044",
+      "source": "Arbeitnow",
+      "title": "Staff Software Engineer - Full-Stack",
+      "company": "Deliveroo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-full-stack-london-336044",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-full-stack-london-336044",
+      "tags": [
+        "Engineering (Ads)"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;Staff Software Engineer - Full Stack&lt;/h1&gt;&lt;p&gt;Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Engineering teams tackle complex technical challenges across a global, three-sided marketplace, building and scaling systems that serve millions of customers, riders and partners every day.&lt;/p&gt;&lt;p&gt;From real-time logistics to resilient infrastructure and marketplace optimisation, we design, build and operate technology that powers Deliveroo’s growth at scale.&lt;/p&gt;&lt;p&gt;We’re looking for a &lt;strong&gt;Staff Software Engineer - Full Stack&lt;/strong&gt; to join our &lt;strong&gt;London&lt;/strong&gt; team&lt;strong&gt; (hybrid, 3 days from the office)&l",
+      "postedAt": 1789908905,
+      "score": 12,
+      "reasons": [
+        "title: software engineer",
+        "title: full stack"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-full-stack-london-384272",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer - Full-Stack",
+      "company": "Deliveroo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-full-stack-london-384272",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-full-stack-london-384272",
+      "tags": [
+        "Engineering (Ads)"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Senior Software Engineer - Full Stack&lt;/h2&gt;&lt;p&gt;Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Engineering teams tackle complex technical challenges across a global, three-sided marketplace, building and scaling systems that serve millions of customers, riders and partners every day.&lt;/p&gt;&lt;p&gt;From real-time logistics to resilient infrastructure and marketplace optimisation, we design, build and operate technology that powers Deliveroo’s growth at scale.&lt;/p&gt;&lt;p&gt;We’re looking for a &lt;strong&gt;Senior Software Engineer - Full Stack&lt;/strong&gt; to join our &lt;strong&gt;London&lt;/strong&gt; team. In this role, you’ll help us build and scale ",
+      "postedAt": 1789908905,
+      "score": 12,
+      "reasons": [
+        "title: software engineer",
+        "title: full stack"
+      ]
+    },
+    {
+      "id": "arbeitnow-manager-i-engineering-security-libraries-paris-386579",
+      "source": "Arbeitnow",
+      "title": "Manager I, Engineering - Security Libraries",
+      "company": "Datadog",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-security-libraries-paris-386579",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-security-libraries-paris-386579",
+      "tags": [
+        "Dev Eng"
+      ],
+      "description": "&lt;p&gt;The Security Libraries team owns the customer-side integrations behind Datadog’s run-time security products — &lt;a href=&quot;https://www.datadoghq.com/product/app-and-api-protection/&quot;&gt;App &amp;amp; API Protection&lt;/a&gt;, &lt;a href=&quot;https://www.datadoghq.com/product/workload-protection/&quot;&gt;Workload Protection&lt;/a&gt;, and &lt;a href=&quot;https://www.datadoghq.com/product/code-security/&quot;&gt;Code Security&lt;/a&gt; — shipping and maintaining security capabilities across seven open-source language libraries (&lt;a href=&quot;https://github.com/DataDog/dd-trace-dotnet&quot;&gt;.NET&lt;/a&gt;, &lt;a href=&quot;https://github.com/DataDog/dd-trace-java&quot;&gt;Java&lt;/a&gt;, &lt;a href=&quot;https://github.com/DataDog/dd-trace-go&quot;&gt;Go&lt;/a&gt;, &lt;a href=&quot;https://github.com/DataDog/dd-trace-js&quot;&gt;Node.js&lt;/a&gt;, &lt;a href=&quot;https://github.com/DataDog/dd-trace-py&quot;&gt;Python&lt;/a&gt;, &lt;a href=&quot;https://github.com/DataDog/dd-trace-rb&quot;&gt;Ruby&lt;/a&gt;, &lt;a href=&quot;https://github.com/DataDog/dd-trace-php&quot;&gt;PHP&lt;/a&gt;) and a set of HTTP proxy integrations (Envoy, NGINX, and HAProxy), runnin",
+      "postedAt": 1789912513,
       "score": 12,
       "reasons": [
         "title: node",
@@ -1047,34 +1194,155 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-185960",
+      "id": "arbeitnow-android-developer-ai-finance-agent-germany-31425",
       "source": "Arbeitnow",
-      "title": "Full-Stack Software Engineer (m/f/d)",
-      "company": "TWAICE",
-      "location": "Munich, Hybrid",
-      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-185960",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-185960",
+      "title": "Android Developer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-developer-ai-finance-agent-germany-31425",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bjak/android-developer-ai-finance-agent-germany-31425",
       "tags": [
-        "Battery",
-        "Energy",
-        "SaaS",
-        "Backend",
-        "Frontend",
-        "Startup",
-        "Tech",
-        "AWS",
-        "Batteries",
-        "Software Development",
-        "BESS",
-        "Green Energy",
-        "Energy Transition"
+        "Engineering"
       ],
-      "description": "  About the role  As renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence, not guesswork.  We're accelerating the transition into a new energy era and we're looking for those who want to move fast with us.   As a  Full-Stack Software Engineer ,  you will be working in our product teams to create customer value at a high pace. This includes taking part in the full product development cycle, from understanding user problems and shaping solutions to building and iterating on them. You will work in a team with backgrounds in Software and Battery Engineering – creating solutions to get our projects from definition to customer value quickly while making sure we deliver robust, scalable, and extensible software products. Together, we will push our battery analytics to the next level.   Your daily business will involve     Contribute to and help shape the feature set of our SaaS product in incremental and result-oriented steps  Implement new software components ac",
-      "postedAt": 1789870190,
-      "score": 12,
+      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.         The Role   We are looking for Android software engineers to build the native Android experience for Doit's AI Finance Agent.  This role is for someone who cares about clean user flows, fast performance, product qualit",
+      "postedAt": 1789958404,
+      "score": 10,
       "reasons": [
-        "title: frontend",
-        "title: software engineer"
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-android-software-engineer-ai-finance-agent-germany-281641",
+      "source": "Arbeitnow",
+      "title": "Android Software Engineer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-finance-agent-germany-281641",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-finance-agent-germany-281641",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  About BJAK   The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.  Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.  Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day.  We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.  If you're this person, we'd love to talk to you.      The Role   We are looking for Android software engineers to build the native Android experience for BJAK's AI Finance Agent.  This ro",
+      "postedAt": 1789958404,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-android-software-engineer-ai-neobank-app-germany-74715",
+      "source": "Arbeitnow",
+      "title": "Android Software Engineer - AI Neobank App",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-neobank-app-germany-74715",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-neobank-app-germany-74715",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.       The Role   We are looking for Android software engineers to build the native Android experience for Doit's AI Neobank App.  This role is for someone who cares about clean user flows, fast performance, product quality an",
+      "postedAt": 1789958404,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-backend-software-engineer-ai-finance-agent-germany-485776",
+      "source": "Arbeitnow",
+      "title": "Backend Software Engineer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-software-engineer-ai-finance-agent-germany-485776",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bjak/backend-software-engineer-ai-finance-agent-germany-485776",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  About BJAK   The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.  Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.  Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day.  We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.  If you're this person, we'd love to talk to you.      The Role   We are looking for backend engineers to build the core systems behind BJAK's AI Finance Agent.  This role is for engineers",
+      "postedAt": 1789958404,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-germany-64967",
+      "source": "Arbeitnow",
+      "title": "Full Stack Engineer",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-engineer-germany-64967",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-engineer-germany-64967",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  About BJAK   The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.  Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.  Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day.  We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.  If you're this person, we'd love to talk to you.      The Role   We are looking for full stack engineers to build fast across BJAK's AI Neobank app.  This role is for product-minded engin",
+      "postedAt": 1789958403,
+      "score": 10,
+      "reasons": [
+        "title: full stack",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-contract-218844",
+      "source": "Arbeitnow",
+      "title": "Full Stack Engineer, Contract",
+      "company": "66Degrees",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/66degrees/full-stack-engineer-contract-218844",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/66degrees/full-stack-engineer-contract-218844",
+      "tags": [
+        "Professional Services Delivery"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://66degrees.com/wp-content/uploads/2025/03/JobPosting-Cover.jpg&quot; alt=&quot;&quot; width=&quot;1400&quot;&gt;&lt;/p&gt;\n&lt;h2&gt;Overview of 66degrees&lt;/h2&gt;\n&lt;p&gt;66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own &quot;inflection point,&quot; where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operates as an intelligent enterprise, with autonomous systems unlocking human potential.&lt;/p&gt;\n&lt;p&gt;At 66degrees, we believe in thriving through challenges and winning together. These values not only guide us in achieving our goals as a company but also for our people. We are dedicated to creating a significant impact for o",
+      "postedAt": 1789919715,
+      "score": 10,
+      "reasons": [
+        "title: full stack",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-c-java-289718",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer - C# / Java",
+      "company": "Threecolts",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/threecolts/senior-software-engineer-c-java-289718",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/threecolts/senior-software-engineer-c-java-289718",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;About Threecolts&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Threecolts is the leading software suite for online &amp;amp; offline consumer brands (Amazon, Walmart, Target, Shopify, eBay, etc.). We’ve built a powerful ecosystem of software solutions to help businesses grow smarter — from revenue recovery and retail finance, to multichannel operations and pricing optimization. With over 500 employees globally and strong backing, we’re scaling fast across new markets and new partner channels.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Who We Are&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;We’re a global team built for speed, trust, and impact. As an AI enabled company, AI is integrated across Threecolts from development through to operations, empowering teams to move faster, build better, improve quality, and make more informed decisions. We hire exceptional people from all backgrounds and give them the autonomy to move fast and the accountability to deliver, where you will wear multiple hats, take ownership of challenges, and proactively solve problems beyond your immediate scope. Change is constant, ambiguity is part of the deal, an",
+      "postedAt": 1789908910,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-staff-software-engineer-dev-environments-london-267926",
+      "source": "Arbeitnow",
+      "title": "Staff Software Engineer, Dev Environments",
+      "company": "Deliveroo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-dev-environments-london-267926",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-dev-environments-london-267926",
+      "tags": [
+        "Engineering (Infra)"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The Dev Environments team sits within DoorDash&#39;s Foundations group (Platform Engineering). We own the local and remote developer experience across the DoorDash group of companies supporting over 5000 engineers. Our mission is to enable engineering velocity, quality, and efficiency at significant scale by removing friction from the day-to-day developer loop: spinning up a working environment, getting code building, and getting feedback fast, whether the &quot;developer&quot; is a human or an AI agent.&lt;/p&gt;&lt;h2&gt;&lt;/h2&gt;&lt;p&gt;As a Staff Engineer on Dev Environments, you&#39;ll be recognised as an expert across the dev environments space, covering both local and remote dev flows, devcontainers, IDE/remote backends, and how they all fit t",
+      "postedAt": 1789908905,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
       ]
     },
     {
@@ -1183,116 +1451,210 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-java-engineer-munchen-40956",
+      "id": "arbeitnow-senior-sales-engineer-dach-germany-355937",
       "source": "Arbeitnow",
-      "title": "Senior Java Engineer (m/f/d)",
-      "company": "Xempus AG",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/xempus-ag/senior-java-engineer-munchen-40956",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/xempus-ag/senior-java-engineer-munchen-40956",
+      "title": "Senior Sales Engineer, DACH",
+      "company": "Horizon3Ai",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/horizon3ai/senior-sales-engineer-dach-germany-355937",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/horizon3ai/senior-sales-engineer-dach-germany-355937",
       "tags": [
-        "Java",
-        "Software Engineer",
-        "SQL",
-        "developer",
-        "engineer",
-        "senior",
-        "architecture",
-        "java 17"
+        "Sales"
       ],
-      "description": "  Who we are  Xempus is the leading European group pension, life and health insurance platform. We seamlessly connect insurers, insurance agents, corporates and their systems in an automated and customer-centric manner. Using standardized interfaces and structured data, we operate the central infrastructure for all customer-centric processes and enable agentic AI across pension, life and health insurance. Since 2007, we have been constantly working to drive the digitalization of the insurance industry. Here at Xempus, we believe that together we can make a difference – no matter where we are! Whether from one of our offices or from home – join us and together we create a more secure future for everyone!   The role  We're on the lookout for a Senior Java Engineer (m/f/d) with a passion for software architecture and a talent for navigating complexity. If you are an expert who not only writes excellent code but also excels at understanding, managing, and evolving large, mature codebases, this is the perfect opportunity for you. You will be instrumental in shaping the future of our software landscape.   Responsibilities:   Take ownership of core components of our Java-based platform  D",
-      "postedAt": 1789870184,
+      "description": "  Get to Know Us   Horizon3 is a fast-growing cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs.   We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results.     What You",
+      "postedAt": 1789958409,
       "score": 9,
       "reasons": [
-        "title: software engineer",
-        "skill: git"
+        "title: node",
+        "skill: node"
       ]
     },
     {
-      "id": "arbeitnow-engineering-manager-munchen-285372",
+      "id": "arbeitnow-teleoperation-trainer-germany-426306",
       "source": "Arbeitnow",
-      "title": "Engineering Manager (m/w/d)",
-      "company": "Xempus AG",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/xempus-ag/engineering-manager-munchen-285372",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/xempus-ag/engineering-manager-munchen-285372",
+      "title": "Teleoperation Trainer (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/teleoperation-trainer-germany-426306",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/teleoperation-trainer-germany-426306",
       "tags": [
-        "Tech Lead",
-        "Engineering Lead",
-        "Java",
-        "Leitung Engineering",
-        "Tech People Lead",
-        "Softwareengineering",
-        "Technical Manager",
-        "Technologieentwicklung"
+        "Software"
       ],
-      "description": "  Wer wir sind   Wir sind Xempus, Deutschlands führende unabhängige Software-as-Service (SaaS)-Plattform für den Vertrieb und die Verwaltung betrieblicher Vorsorgelösungen. Unsere Mission: Betriebliche Vorsorge digital und verständlich, effizient und für jeden zugänglich zu machen. Seit 2007 arbeiten wir stetig daran, die Digitalisierung der Versicherungsbranche voranzutreiben. Wir bei Xempus sind davon überzeugt, dass wir alle gemeinsam etwas bewirken können – egal von wo! Ob von einem unserer Büros oder von zu Hause ­– Komm zu uns und lass uns gemeinsam eine sicherere Zukunft für alle schaffen!    Was Dich erwartet    Du führst unsere Software Engineers disziplinarisch und fachlich. Dabei arbeitest du eng mit mehreren cross-funktionalen Teams zusammen und unterstützt sie bei ihrer persönlichen und fachlichen Entwicklung.  Du stellst sicher, dass unsere Engineering-Aktivitäten mit der Unternehmensvision und den strategischen Produktzielen von Xempus im Einklang stehen.  Du verantwortest technische Initiativen von der Konzeption bis zum produktiven Betrieb – einschließlich technischer Planung, Architektur, Qualitätssicherung und Weiterentwicklung.  Gemeinsam mit Product Ownern prio",
-      "postedAt": 1789870184,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-engineering-manager-munchen-97746",
-      "source": "Arbeitnow",
-      "title": "Engineering Manager (m/f/d)",
-      "company": "Xempus AG",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/xempus-ag/engineering-manager-munchen-97746",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/xempus-ag/engineering-manager-munchen-97746",
-      "tags": [
-        "Tech Lead",
-        "Engineering Lead",
-        "Java",
-        "Head of Engineering",
-        "Technical Manager",
-        "People Lead Engineering",
-        "Software Development"
-      ],
-      "description": "  Who we are   Xempus is the leading European group pension, life and health insurance platform. We seamlessly connect insurers, insurance agents, corporates and their systems in an automated and customer-centric manner. Using standardized interfaces and structured data, we operate the central infrastructure for all customer-centric processes and enable agentic AI across pension, life and health insurance.   Since 2007, we have been constantly working to drive the digitalization of the insurance industry. Here at Xempus, we believe that together we can make a difference – no matter where we are! Whether from one of our offices or from home – join us and together we create a more secure future for everyone!    The role    You provide both disciplinary and technical leadership to our Software Engineers. You work closely with several cross-functional teams and support their personal and professional development.  You ensure that our engineering activities are aligned with Xempus’s company vision and strategic product goals.  You own technical initiatives from initial concept through to production, including technical planning, architecture, quality assurance, and ongoing development. ",
-      "postedAt": 1789870184,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-support-integration-c-digital-patient-model-munchen-44712",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer, Support & Integration (C++) – Digital Patient Model",
-      "company": "Snke",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-support-integration-c-digital-patient-model-munchen-44712",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-support-integration-c-digital-patient-model-munchen-44712",
-      "tags": [],
-      "description": "  What you'll do  As a  Senior Software Engineer, Support &amp; Integration (C++) , you will join the  Snke Anatomy  Applications team and help ensure that our Digital Patient Model services are reliably integrated and supported in customer environments. In this role, you will handle escalated technical issues and provide third-level support through analysis, root cause investigation, and collaboration with the engineering team. You will also support legacy products through technical analysis and contribute to development work whenever support demand allows.    Investigate and analyze customer-reported issues in production systems, integration setups, and internal environments.  Reproduce issues, identify root causes, and provide clear technical findings to the responsible engineering team.  Support customers with the integration of our services, APIs, and data flows.  Analyze issues in legacy products and support their continued operation.  Work with modern C++20 services and understand older C++ code bases for debugging and support purposes.  Communicate technical findings clearly to internal teams and customers.  Contribute to development work when support priorities allow.     ",
-      "postedAt": 1789837797,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-ingenieure-de-recherche-en-reactive-synthesis-cdd-12-mois-palaiseau-354078",
-      "source": "Arbeitnow",
-      "title": "Ingénieur·e de recherche en Reactive Synthesis - CDD - 12 mois",
-      "company": "Institut Mines-Télécom",
-      "location": "Palaiseau, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-de-recherche-en-reactive-synthesis-cdd-12-mois-palaiseau-354078",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-de-recherche-en-reactive-synthesis-cdd-12-mois-palaiseau-354078",
-      "tags": [
-        "Informatique et Système d'information"
-      ],
-      "description": "    Présentation de Télécom SudParis :  Télécom SudParis est une grande école publique d'ingénieurs reconnue au meilleur niveau des sciences et technologies du numérique. La qualité de ses formations est basée sur l’excellence scientifique de son corps professoral et une pédagogie mettant l’accent sur les projets d’équipes, l’innovation de rupture et l’entreprenariat. Télécom SudParis compte 1 000 étudiantes et étudiants dont 700 élèves ingénieurs et environ de 150 doctorantes et doctorants. Télécom SudParis fait partie de l’Institut Mines-Télécom, premier groupe d’école d’ingénieurs en France, et partage son campus avec Institut Mines-Télécom Business School. Télécom SudParis est co- fondatrice de l'Institut Polytechnique de Paris (IP Paris), Institut de Sciences et Technologies à vocation mondiale avec l’École polytechnique, l’ENSTA Paris, l’ENSAE Paris, l'ENPC et Télécom Paris.  Vidéo présentation de Télécom SudParis   À propos de l'Institut Mines-Télécom :     L'Institut Mines-Télécom (IMT) est un établissement public dédié à l'enseignement supérieur et la recherche pour l'innovation dans les domaines de l'ingénierie et du numérique. À l’écoute permanente du monde économique, l",
-      "postedAt": 1789857011,
+      "description": "  Who We Are   We build the intelligence that lets robots sense, reason, and act in the real world, moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can't solve. We are on a mission to redefine how physical work gets done, and we're looking for curious, bold thinkers to help shape the future of robotics with us.   Overview   We are looking for a Teleoperation Trainer to sit at the intersection of our operations and engineering teams. In this role, you will train and quality-manage a team of teleoperation operators, establish and maintain data collection standards, and act as the critical bridge between project management and the technical teams developing our teleoperation and policy systems. You will maintain direct teleoperation proficiency and translate operational insight into actionable engineering feedback, and vice versa. This role starts hands-on and grows in scope and ownership as we scale.   Your Responsibilities   Training &amp; Quality Management    Onboard and train new teleoperation operators, establishing consistent standards for task execution, data quality, ",
+      "postedAt": 1789958408,
       "score": 9,
       "reasons": [
         "title: react",
         "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-field-deployment-engineer-stuttgart-11140",
+      "source": "Arbeitnow",
+      "title": "Field Deployment Engineer (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/field-deployment-engineer-stuttgart-11140",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/field-deployment-engineer-stuttgart-11140",
+      "tags": [
+        "Operations"
+      ],
+      "description": "  About Us   Sereact is a rapidly growing embodied AI company revolutionizing industrial intelligence. We develop advanced robotics and artificial intelligence solutions that enable robotic systems to sense, reason, and act in real-world warehouse and factory environments — helping businesses streamline operations, increase productivity, and transform physical work.   Role Overview   As a Field Deployment Engineer, you will lead the installation and deployment of our AI-powered robotic systems at customer sites across Europe. This is a dynamic, hands-on engineering role that combines technical leadership with practical implementation to ensure successful system integration in high-automation production environments.  You will plan and coordinate deployments, collaborate closely with internal engineering teams, project managers and customer stakeholders, and take end-to-end responsibility for the complete installation, integration, and commissioning process onsite. This is a hands on role where you will contribute directly to mechanical and electrical work to support live systems, helping install new systems, and troubleshoot robotic systems during on-site deployments.   Your Respon",
+      "postedAt": 1789958408,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-product-manager-germany-160147",
+      "source": "Arbeitnow",
+      "title": "Product Manager (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-manager-germany-160147",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-manager-germany-160147",
+      "tags": [
+        "Product & Design"
+      ],
+      "description": "  Who We Are:   We are a rapidly growing embodied AI company revolutionizing physical labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across warehouses and fulfillment operations worldwide. Our products represent the frontier of what intelligent, dexterous automation can do — and we are only getting started.    Overview:   We are seeking a Product Manager to own the full product lifecycles — from concept and roadmap to field deployment across 50+ production sites. This is a high ownership, cross functional role at the intersection of AI, robotics hardware, and industrial operations. You will be the connective tissue between our AI/R&amp;D team, software &amp; hardware engineering, solutions architects, and customers — translating real-world operational complexity into a product that runs autonomously at scale with minimal human supervision.    Your Responsibilities:    Product Strategy &amp; Roadmap     Own the product roadmap across hardware, software, AI, and field reliability    Set and defend priorities — monthly to annual — against commercial goals and technical constraints     ",
+      "postedAt": 1789958408,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-technical-procurement-purchasing-officer-stuttgart-167958",
+      "source": "Arbeitnow",
+      "title": "Technical Procurement / Purchasing Officer",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-procurement-purchasing-officer-stuttgart-167958",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-procurement-purchasing-officer-stuttgart-167958",
+      "tags": [
+        "Operations"
+      ],
+      "description": "  Who We Are:   We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.    Overview:   We are looking for a highly process-driven  Technical Procurement / Purchasing Officer  to strengthen the commercial foundation of our innovative robotics solutions at Sereact.  You will take ownership of our internal commercial workflows, acting as a true organizational talent who loves to dive into the thick of things and keep our operations running smoothly behind the scenes.  This role is based in Stuttgart and is ideal for someone who thrives on building structured processes, managing commercial tasks, and supporting a team building cutting-edge technology.     Your Responsibilities:      Project &amp; Order Management:  Manage our projects from a commercial perspective, from the initial order to final delivery.     Purchasing &amp; Material Manag",
+      "postedAt": 1789958408,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-internship-teleoperation-data-labeling-stuttgart-81026",
+      "source": "Arbeitnow",
+      "title": "Internship Teleoperation & Data Labeling",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/internship-teleoperation-data-labeling-stuttgart-81026",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/internship-teleoperation-data-labeling-stuttgart-81026",
+      "tags": [
+        "Software"
+      ],
+      "description": "  Internship – Teleoperation &amp; Data Labeling (m/f/d)     Who We Are  We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.   Overview  We are looking for a tech-savvy  intern  with a passion for robotics, machine learning, or computer vision who wants hands-on experience in teleoperation and operating state-of-the-art robots. This role is perfect for someone eager to learn, contribute, and gain practical exposure to advanced AI-driven robotic systems.    Your Responsibilities     Robot Teleoperation:  Collect high-quality data by controlling robots through a VR headset.     Data Labeling:  Label visual data (images, point clouds) with speed and precision.    Use terminal basics to  run existing tooling  (bash + Python scripts) for data collection, uploads, and checks    Do  simple debugging : reproduce issues, collect logs, and wri",
+      "postedAt": 1789958408,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-founders-associate-to-the-cto-stuttgart-170145",
+      "source": "Arbeitnow",
+      "title": "Founder's Associate to the CTO",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/founders-associate-to-the-cto-stuttgart-170145",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/founders-associate-to-the-cto-stuttgart-170145",
+      "tags": [
+        "Business Operations"
+      ],
+      "description": "  Who We Are   We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can't solve. We are on a mission to redefine how physical work gets done, and we're looking for curious, bold thinkers to help shape the future of robotics with us.   Overview   As Sereact scales, the visibility of our technological vision and the efficiency of our leadership team become key strategic advantages. We are looking for a Founders Associate to our CTO, Marc Tuscher, to act as his right hand. Your mission is twofold: positioning Marc as a leading voice in the \"Embodied AI\" space and mastering the operational daily business of the CTO office. This is a true \"zero-to-one\" mandate: you will work at the intersection of technology, branding, and operations, directly impacting the company’s growth and public perception.   Your Responsibilities:    Founder Branding &amp; Communication     Content Creation: Working closely with the Marketing team, you prepare Marc’s keynotes, guest articles, and interviews to communicate his v",
+      "postedAt": 1789958408,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-strategic-accounts-manager-stuttgart-311130",
+      "source": "Arbeitnow",
+      "title": "Strategic Accounts Manager (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/strategic-accounts-manager-stuttgart-311130",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/strategic-accounts-manager-stuttgart-311130",
+      "tags": [
+        "G2M"
+      ],
+      "description": "  Who We Are:   We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.   Overview:   We are hiring one of our first Strategic Accounts Managers to own and grow Sereact’s most important customer relationships. You will ensure customers get successful value generation of our AI-powered robotics solutions, drive measurable customer outcomes, and unlock expansion opportunities across Fashion, General Merchandise, E-Grocery, and 3PL customers.  This is a hands-on, high-impact role combining strategic account management, customer success, and commercial growth in a fast-scaling AI robotics company.  Willingness to travel: up to 50%   Your Responsibilities:     Own strategic customer relationships end-to-end: onboarding, adoption, retention, and expansion    Act as trusted advisor to operational and executive stakeholders    Drive customer val",
+      "postedAt": 1789958408,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-mechanical-engineer-stuttgart-5050",
+      "source": "Arbeitnow",
+      "title": "Mechanical Engineer (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/mechanical-engineer-stuttgart-5050",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/mechanical-engineer-stuttgart-5050",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  Who We Are:   We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.   Overview:   We are looking for a talented mechanical engineer to design innovative systems and components for AI-driven robots. In this role, you'll create detailed 3D models and technical drawings for fabrication, collaborate closely with engineering teams to ensure seamless integration with electrical and software systems, conduct mechanical simulations and performance testing, and optimize designs for cost, efficiency, and manufacturability.   Your Responsibilities:    Design and Testing :    Design mechanical systems and components for AI-driven robots.    Create detailed 3D models and technical drawings for fabrication.    Collaborate with engineering teams to ensure seamless integration of mechanical components with electrical and software systems.    Optimiz",
+      "postedAt": 1789958408,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-bristol-319178",
+      "source": "Arbeitnow",
+      "title": "Software Engineer",
+      "company": "Ping Identity",
+      "location": "Bristol, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ping-identity/software-engineer-bristol-319178",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/ping-identity/software-engineer-bristol-319178",
+      "tags": [],
+      "description": "   About Ping Identity:&nbsp;  \n At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; \n Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; \n While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&nbsp; We champion every identity.  One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.&nbsp; \n We're headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we're changing the way people and businesses think about cybersecurity, digital experiences, and identity and access manage",
+      "postedAt": 1789951528,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-manager-i-engineering-ai-platform-evaluation-annotation-paris-423349",
+      "source": "Arbeitnow",
+      "title": "Manager I, Engineering - AI Platform - Evaluation & Annotation",
+      "company": "Datadog",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-ai-platform-evaluation-annotation-paris-423349",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-ai-platform-evaluation-annotation-paris-423349",
+      "tags": [
+        "Leadership"
+      ],
+      "description": "&lt;p data-local-id=&quot;f1443b9f01de&quot; data-prosemirror-content-type=&quot;node&quot; data-prosemirror-node-name=&quot;paragraph&quot; data-prosemirror-node-block=&quot;true&quot; data-pm-slice=&quot;0 0 []&quot;&gt;The AI platform is responsible for all AI infrastructure across Datadog. Our mission is to provide tools and platforms that enable data scientists and engineers to conduct large-scale training and inference with ease. We support products such as &lt;a href=&quot;https://www.datadoghq.com/blog/datadog-bits-generative-ai/&quot; data-prosemirror-content-type=&quot;mark&quot; data-prosemirror-mark-name=&quot;link&quot;&gt;&lt;u data-prosemirror-content-type=&quot;mark&quot; data-prosemirror-mark-name=&quot;underline&quot;&gt;Bits AI&lt;/u&gt;&lt;/a&gt;, &lt;a href=&quot;https://www.datadoghq.com/product/llm-observability/&quot; data-prosemirror-content-type=&quot;mark&quot; data-prosemirror-mark-name=&quot;link&quot;&gt;&lt;u data-prosemirror-content-type=&quot;mark&quot; data-prosemirror-mark-name=&quot;underline&quot;&gt;LLMObs&lt;/u&gt;&lt;/a&gt; and all our &lt;a href=&quot;https://www.datadoghq.com/product/llm-observability/&quot; data-prosemirror-content-type=&q",
+      "postedAt": 1789912513,
+      "score": 9,
+      "reasons": [
+        "title: node",
+        "skill: node"
       ]
     },
     {

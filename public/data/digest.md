@@ -1,6 +1,6 @@
-# Job Radar digest (2026-09-22)
+# Job Radar digest (2026-09-23)
 
-1. **Frontend Engineer** — Bjak  (44)
+1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
 2. **Senior AI Engineer** — Lemon.io (31)
    https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131
@@ -30,13 +30,13 @@
    https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213
 15. **Head of Security** — Tremendous (16)
    https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210
-16. **Senior .NET Software Engineer** — OkWhen (15)
+16. **Senior .NET Software Engineer** — OkWhen (13)
    https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411
-17. **Backend Software Engineer** — Airspace Link (15)
+17. **Backend Software Engineer** — Airspace Link (13)
    https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409
-18. **Senior Software Engineer (m/f/d)** — Vp Verbund Pflegehilfe Gmbh (15)
-   https://www.arbeitnow.com/jobs/companies/vp-verbund-pflegehilfe-gmbh/senior-software-engineer-mainz-302640
-19. **Software Engineer Full-Stack– Order Tracking & Delivery Performance (f/m/d)** — Decathlontechnology (15)
-   https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-full-stack-order-tracking-delivery-performance-lille-upline-nord-260434
-20. **AI agent engineer** — Sticker Mule (13)
+18. **AI agent engineer** — Sticker Mule (13)
    https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399
+19. **Software Engineer** — Mirantis (13)
+   https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387
+20. **Staff Software Engineer** — Evolve (13)
+   https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447

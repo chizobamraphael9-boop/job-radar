@@ -1,17 +1,17 @@
 {
-  "scannedAt": "2026-09-23T05:10:01.437Z",
+  "scannedAt": "2026-09-24T05:10:14.532Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
   "count": 46,
   "jobs": [
     {
-      "id": "remoteok-1137410",
+      "id": "remoteok-1137420",
       "source": "RemoteOK",
       "title": "Frontend Engineer",
       "company": "Bjak ",
-      "location": "Ireland",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+      "location": "Singapore",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
       "tags": [
         "front end",
         "design",
@@ -34,8 +34,8 @@
         "digital nomad"
       ],
       "description": "  About ActAI   There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our application focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinations  Our objective is to organise anyone's life.  Â    Role   As a Web Frontend Engineer, you will build the core web experiences, including Chat, Notes, Calendar, Docs and Sheets.  You will own complex, highly interactive product surfaces from architecture through implementation, working closely with product, design, backend and AI engineers to make AI a native part of how users communicate, write, organise and work.  Â   What You'll Own    Build major web experiences across Chat, Notes, Calendar, Docs, and Sheets.    Develop complex interactions including real-time messaging, collaborative editing, rich-text editing, scheduling, tables, and s",
-      "postedAt": "2026-09-20T00:00:25+00:00",
-      "score": 42,
+      "postedAt": "2026-09-23T00:00:04+00:00",
+      "score": 44,
       "reasons": [
         "title: frontend",
         "title: react",
@@ -506,6 +506,28 @@
       ]
     },
     {
+      "id": "arbeitnow-software-engineering-intern-ai-x-greentech-berlin-214362",
+      "source": "Arbeitnow",
+      "title": "Software Engineering Intern (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/reonic/software-engineering-intern-ai-x-greentech-berlin-214362",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/reonic/software-engineering-intern-ai-x-greentech-berlin-214362",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  Build the Operating System of the Energy Transition   Most internships have you sitting in meetings, fixing small bugs, and watching others build.  This one doesn't.  At Reonic, you'll work on software used by thousands of renewable energy companies across Europe. You'll ship real features, solve real problems, and see your code in production within days.  We're building the AI-native operating system for renewable installers. And we're looking for ambitious builders who want to learn fast, take ownership, and make an impact from day one.  This is a full-time, on-site internship based in Berlin.    What makes this internship different     Your work directly impacts how renewable energy gets deployed    You'll ship production code used by real customers    You'll work closely with experienced engineers, product managers, and founders    You'll own projects instead of shadowing others    You'll see the full lifecycle: idea → implementation → customer feedback    No busy work. No \"intern projects\" disconnected from reality.    Just building, learning, and shipping.    What you'll build     Develop product features across our React, TypeScript, and Node.js stack    Turn complex busin",
+      "postedAt": 1790217608,
+      "score": 24,
+      "reasons": [
+        "title: react",
+        "title: software engineer",
+        "title: node",
+        "skill: react",
+        "skill: node"
+      ]
+    },
+    {
       "id": "remotive-2091141",
       "source": "Remotive",
       "title": "Frontend Web Application Developer",
@@ -578,6 +600,27 @@
         "title: frontend",
         "title: full stack",
         "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-ai-trainer-germany-berlin-312624",
+      "source": "Arbeitnow",
+      "title": "Full-Stack Developer - AI Trainer (Germany)",
+      "company": "Anyone Ai",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-312624",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-312624",
+      "tags": [
+        "Software Engineering"
+      ],
+      "description": " Anyone AI is recruiting skilled Full-Stack Developers to work on a project with a leading AI lab.      Qualifications:     Advanced professional written proficiency in English    3–7 years of professional software engineering experience    Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go    Backend or full‑stack development experience in production systems    Experience with testing frameworks (e.g., pytest, Jest, JUnit, xUnit, Go testing)    Proven ability to debug and navigate large, multi‑file codebases    Experience with code reviews, refactoring, and production migrations       Engagement:  Part-time, project-based expert evaluation work   Work Type:  Remote    Contributors will design and evaluate realistic software engineering tasks, including bug resolution, feature implementation, refactoring/migration, and test generation. Work includes both creating complex coding scenarios and reviewing peer submissions for quality and accuracy.    This is a project-based consultant role. Consultants will be paid on a per-project basis; hourly rates are estimates based on anticipated completion time. Consultants control their own schedule, pr",
+      "postedAt": 1790206804,
+      "score": 19,
+      "reasons": [
+        "title: javascript",
+        "title: software engineer",
+        "skill: javascript",
         "location: Remote"
       ]
     },
@@ -805,6 +848,44 @@
       ]
     },
     {
+      "id": "arbeitnow-senior-fullstack-developer-munchen-250429",
+      "source": "Arbeitnow",
+      "title": "Senior Fullstack Developer (m/w/d)",
+      "company": "Techpilot",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/techpilot/senior-fullstack-developer-munchen-250429",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/techpilot/senior-fullstack-developer-munchen-250429",
+      "tags": [],
+      "description": "  Was Du machen wirst    Du baust an einer B2B-Plattform, die täglich von Einkäufern und Fertigern in ganz Europa benutzt wird  Du arbeitest in einem funktionsübergreifenden Team – von der Idee bis in die Produktion, ohne Übergabe-Ping-Pong  Du übernimmst Ownership für Themen, nicht für Tickets  Du wirkst in einem KI-Spezialprojekt mit: CAD-Zeichnungen und STEP-Files maschinell verstehen, Ähnlichkeitssuche über Bauteile, Matching zwischen Anfrage und Fertigungskompetenz  Ein Teil deiner Arbeit findet in einem gemeinsamen Projekt mit einem Partnerunternehmen statt – zwei Kontexte, zwei Teams, doppelt so viel zu lernen      Stack &amp; Infrastruktur:      Backend     Aktuelles .NET / C# (.NET 10+)  PostgreSQL / Redis  100 % kein PHP    Frontend     100 % TypeScript  React, React, React  TanStack Router / Query  AstroJS  Tailwind / Shadcn  Jest    Infrastruktur &amp; Orchestrierung     AWS (ECS, EKS, S3, …)  Pulumi (IaC)  Docker, Docker Compose, Kubernetes         Womit Du überzeugst    Du bist ein:e echte:r Entwickler:in  Du hast schon einige Schlachten geschlagen – mindestens 5 Jahre in einigen unserer Kerntechnologien  Erfahrung in cloud-basierter SaaS-Entwicklung (B2B)  Technologi",
+      "postedAt": 1790204986,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-werkstudent-in-software-development-applied-ai-grunwald-337223",
+      "source": "Arbeitnow",
+      "title": "Werkstudent/in Software Development & Applied AI (m/w/d)",
+      "company": "DataClue GmbH",
+      "location": "Grünwald",
+      "url": "https://www.arbeitnow.com/jobs/companies/dataclue-gmbh/werkstudent-in-software-development-applied-ai-grunwald-337223",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/dataclue-gmbh/werkstudent-in-software-development-applied-ai-grunwald-337223",
+      "tags": [
+        "Business Operations"
+      ],
+      "description": "  Deine Rolle  \n Du studierst Informatik, Wirtschaftsinformatik, Data Science oder ein verwandtes Fach und willst neben dem Studium nicht nur zuarbeiten, sondern deine Skills praktisch anwenden? Du hast schon eigene Projekte umgesetzt und interessierst dich dafür, wie KI in der Softwareentwicklung eingesetzt wird? \n Als Werkstudent unterstützt du unser Team in Kundenprojekten und bei der Entwicklung eigener KI-Tools und übernimmst eigene Aufgaben. \n  Über DataClue  \n DataClue ist eine Unternehmensberatungs-Boutique mit Fokus auf Applied AI &#x26; Data Analytics und Execution &#x26; Transformation. Wir entwickeln maßgeschneiderte Lösungen mit messbarem Mehrwert. Unser interdisziplinäres Team vereint Business- und Entwicklungs-Know-how und begleitet Kunden: von Konzeption und Strategie über Projektmanagement bis zur Umsetzung. \n Aufgaben \n  Deine Aufgaben  \n \n Unterstützung bei der Entwicklung von Backend-Services und Datenpipelines in Python \n Umsetzung Frontend-Komponenten und interner Tools mit TypeScript und React \n Arbeit mit relationalen Datenbanken: SQL-Abfragen, Datenmodelle und Datenaufbereitung \n Prototyping mit LLM-APIs und KI-Agenten, z. B. für Automatisierungen für Kunde",
+      "postedAt": 1790197228,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
       "id": "remoteok-1137411",
       "source": "RemoteOK",
       "title": "Senior .NET Software Engineer",
@@ -863,7 +944,7 @@
         "backend",
         "digital nomad"
       ],
-      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with Airspace Linkâs d...  Please mention the word **AMIABLE** and tag RMTMyLjE5Ni44NC4yMzY= when applying to show you read the job post completely (#RMTMyLjE5Ni44NC4yMzY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with Airspace Linkâs d...  Please mention the word **AMIABLE** and tag RNjQuMjM2LjE3Ni4yMzA= when applying to show you read the job post completely (#RNjQuMjM2LjE3Ni4yMzA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-19T20:00:01+00:00",
       "score": 13,
       "reasons": [
@@ -886,7 +967,7 @@
         "javascript",
         "typescript"
       ],
-      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RMTMyLjE5Ni44NC4yMzY= when applying to show you read the job post completely (#RMTMyLjE5Ni44NC4yMz",
+      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RNjQuMjM2LjE3Ni4yMzA= when applying to show you read the job post completely (#RNjQuMjM2LjE3Ni4yMz",
       "postedAt": "2026-09-16T12:44:27+00:00",
       "score": 13,
       "reasons": [
@@ -909,7 +990,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTMyLjE5Ni44NC4yMzY= when applying to show you read the job post completely (#RMTMyLjE5Ni44NC4yMzY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNjQuMjM2LjE3Ni4yMzA= when applying to show you read the job post completely (#RNjQuMjM2LjE3Ni4yMzA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -983,58 +1064,38 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-contractor-london-234775",
+      "id": "arbeitnow-sales-engineer-all-genders-munich-367859",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer (Contractor)",
-      "company": "Wearebeyondsports",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/senior-software-engineer-contractor-london-234775",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/senior-software-engineer-contractor-london-234775",
+      "title": "Sales Engineer (all genders)",
+      "company": "Lio",
+      "location": "Munich Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/lio/sales-engineer-all-genders-munich-367859",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/lio/sales-engineer-all-genders-munich-367859",
       "tags": [
-        "Beyond Sports"
+        "Go-To-Market"
       ],
-      "description": "  Senior Software Engineer – Java (Contractor)     Contractor    Start Date: ASAP    Fully remote within Hungary      As a  Senior Software Engineer (Java) – Contractor  at Beyond Sports, you’ll be focused on delivering robust, high-performance backend services and APIs that power digital experiences for millions of sports fans globally. This role is ideal for an experienced, hands-on engineer with strong Java and Spring expertise who thrives in a collaborative and fast-paced delivery environment.  You’ll work closely with cross-functional teams to build, integrate, and optimize systems that handle real-time sports data, video, and live commentary. This position is project- and delivery-focused, with no line management or people-leadership responsibilities required.     Key Responsibilities:     Design and develop scalable backend systems using Java and Spring Boot    Deliver well-structured, maintainable, and testable code aligned with project requirements    Build and maintain RESTful APIs to support web and mobile applications    Integrate with third-party data providers (e.g. sports data, video, commentary)    Use Git to manage code versioning and contribute to shared repositor",
-      "postedAt": 1790113212,
-      "score": 13,
+      "description": " You’re not just supporting sales; you’re making enterprise AI deals technically undeniable. As a Sales Engineer at askLio, you turn customer requirements into working software, proving real-world value inside complex enterprise environments.    What You'll Do  In this role, you will:    Build prototypes, proof-of-concepts, and custom extensions that demonstrate value     Configure and adapt Lio’s AI-driven P2P platform to customer workflows and ERP landscapes    Lead technical deep dives, live demos, and workshops with procurement, IT, and architecture teams    Travel to customer sites for workshops (1–2 times per week)     Translate recurring customer needs into scalable product features     Partner with Sales, Product, Engineering, and Founders as the technical owner of deal success      Your Profile  You’re a good fit for this role if you:     Have hands-on experience with SaaS systems, APIs, cloud architectures, and data-driven applications    Can build, extend, or integrate software (Python/FastAPI, React/TypeScript, REST APIs, MongoDB, or similar)    Are comfortable working in enterprise IT landscapes and cloud platforms (e.g., Azure)     Take ownership, thrive in dynamic en",
+      "postedAt": 1790196010,
+      "score": 12,
       "reasons": [
-        "title: software engineer",
-        "skill: git",
-        "location: Remote"
+        "title: react",
+        "skill: react",
+        "skill: rest api"
       ]
     },
     {
-      "id": "arbeitnow-remote-senior-full-stack-engineer-agentic-workflows-412321",
+      "id": "arbeitnow-remote-principal-software-engineer-data-lakes-205806",
       "source": "Arbeitnow",
-      "title": "Senior Full Stack Engineer, Agentic Workflows (m/f/d)",
-      "company": "RobCo",
+      "title": "Principal Software Engineer - Data Lakes",
+      "company": "Fivetran",
       "location": "Remote · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/robco/remote-senior-full-stack-engineer-agentic-workflows-412321",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/robco/remote-senior-full-stack-engineer-agentic-workflows-412321",
+      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-principal-software-engineer-data-lakes-205806",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-principal-software-engineer-data-lakes-205806",
       "tags": [
-        "Solutions"
+        "Engineering Department"
       ],
-      "description": "  About the Role at RobCo   RobCo is building the category of Autonomous Industrial Robotics and we're doing it fast. We believe that automating the ordinary frees humans to do the extraordinary, and we're building the end-to-end robotics infrastructure to make that possible - hardware, software, and AI in one stack that just works.      As our Senior Full Stack Engineer, Agentic Workflows (m/f/d), you'll build the agentic workflows that run our solution delivery behind the scenes. Every customer project produces requirements, designs, plans, and checks on the way from a customer's problem to a robot running on their factory floor. Your agents will work at each of these steps: reviewing requirements before they become commitments, checking and improving artifacts as the project moves, and catching risks while there's still time to act on them. You'll build the first agentic workflows, the reusable components and governance they run on, and much of how RobCo uses AI internally.   Your Responsibilities     Design, build, and run agentic workflows across our delivery process - requirements review, automated checks and gates, early risk detection, and a knowledge base that makes everyt",
-      "postedAt": 1790131208,
-      "score": 10,
-      "reasons": [
-        "title: full stack",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-engineering-manager-germany-166958",
-      "source": "Arbeitnow",
-      "title": "Engineering Manager",
-      "company": "Workmotion",
-      "location": "Germany · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-engineering-manager-germany-166958",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-engineering-manager-germany-166958",
-      "tags": [
-        "Internet",
-        "Remote"
-      ],
-      "description": "  Location:  Remote (Within +/- 2 hours of CET)   Contract type:  Full-time   Salary:  Starting from €60,000 per annum gross,  subject to location, skills and experience   Not Your Typical Workplace.…  Tired of the 9-to-5 grind? Imagine a World without borders, where opportunities are endless. That's the future of work, and what we are building at  WorkMotion .Our remote-first team spans across the world, helping companies hire, onboard, and manage talent internationally through smart, flexible workforce solutions. Fast-paced, people-driven, and globally connected — we empower businesses to build teams without borders.  More Than a Role.…  We don’t just need an  Engineering Manager  — a deep understanding of software engineering, can challenge technical decisions, coach engineers, improve engineering practices, and create an environment where teams consistently deliver meaningful outcomes. Do you enjoy building strong teams, have a  strong Java engineering background , want to stay close to technology, and can turn ambitious product goals into reliable execution? We'd love to hear from you.  This isn’t a role for someone who wants to stay in their lane. You’ll be at the center of i",
-      "postedAt": 1790130007,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;About Us&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.&lt;br&gt;Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on.&lt;br&gt;Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping team",
+      "postedAt": 1790207764,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1042,18 +1103,56 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-security-research-engineer-478343",
+      "id": "arbeitnow-remote-senior-software-engineer-kubernetes-22353",
       "source": "Arbeitnow",
-      "title": "Security Research Engineer",
-      "company": "Artemis",
+      "title": "Senior Software Engineer, Kubernetes",
+      "company": "Camunda",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/artemis/remote-security-research-engineer-478343",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/artemis/remote-security-research-engineer-478343",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-22353",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-22353",
+      "tags": [
+        "Products"
+      ],
+      "description": " Camunda is  the enterprise platform for agentic orchestration , enabling organizations to coordinate  AI agents, people, and systems  across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale.  Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.   Fully remote and global,  we are in the middle of something bigger:  transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.  Named   GP Bullhound’s Top 100 Next Unicorn list,    2025 Great Place to Work certified.    Visionary     in    2025 Gartner® Magic Quadrant™      for Business Orchestration and Automation Technologies. ranked  3rd in Flexa's 2026    Most Flexible Companies  , We’re growing fast and looking for top talent to join our team.  If you want meaningful work, visible impact and put something",
+      "postedAt": 1790221205,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-senior-software-engineer-engineering-operations-281819",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer, Engineering Operations",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-281819",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-281819",
+      "tags": [
+        "Products"
+      ],
+      "description": " Camunda is  the enterprise platform for agentic orchestration , enabling organizations to coordinate  AI agents, people, and systems  across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale.  Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.   Fully remote and global,  we are in the middle of something bigger:  transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.  Named   GP Bullhound’s Top 100 Next Unicorn list,    2025 Great Place to Work certified.    Visionary     in    2025 Gartner® Magic Quadrant™      for Business Orchestration and Automation Technologies. ranked  3rd in Flexa's 2026    Most Flexible Companies  , We’re growing fast and looking for top talent to join our team.  If you want meaningful work, visible impact and put something",
+      "postedAt": 1790221205,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-senior-product-engineer-164889",
+      "source": "Arbeitnow",
+      "title": "Senior Product Engineer",
+      "company": "prolific",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-164889",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-164889",
       "tags": [
         "Engineering"
       ],
-      "description": " Artemis is building the future of AI-driven defense - helping companies detect and defend themselves effectively in an era where AI is fighting AI on the cyber battlefield.  We’re backed by First Round Capital, Brightmind, and a group of the cybersecurity industry’s most prominent Operators.  Our founders,   Shachar   (ex-Palo Alto Networks, AWS, Demisto) and   Dan   (ex-Abnormal Security, Twitter) have previously built, launched, and scaled cybersecurity products loved and trusted by tens of thousands of customers, and have the customer, technology, and security know-hows to deliver this vision.  Our exceptionally strong team includes software engineers, AI researchers, security engineers, and product designers hailing from Google, Abnormal AI, Wiz, Meta, AWS, CERN, SentinelOne, and more.  We are growing our team and looking for passionate builders to join us and support our expanding customer base.   Job Overview   We're looking for a Security Research Engineer to drive detection research, threat hunting, and AI-powered security automation. You'll work at the intersection of security expertise and cutting-edge AI—researching data sources, building detections, investigating real ",
-      "postedAt": 1790134805,
+      "description": "&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;Se&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;nior Software Engineer&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/h2&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;Engineering&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;&lt;em&gt;&amp;nbsp;Prolific&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Prolific is not just another player in the AI space – we are the architects of the human data infrastructure that&#39;s reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditized, it&#39;s the quality and diversity of human-generated data that truly differentiates products and models.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt",
+      "postedAt": 1790211323,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1061,136 +1160,92 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-software-engineer-intern-summer-2027-233558",
-      "source": "Arbeitnow",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "company": "Swarmaero",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-software-engineer-intern-summer-2027-233558",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-software-engineer-intern-summer-2027-233558",
+      "id": "remoteok-1137421",
+      "source": "RemoteOK",
+      "title": "Technical Product Manager AI Stockbroking App",
+      "company": "Bjak ",
+      "location": "Germany",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
       "tags": [
-        "Legion"
+        "product manager",
+        "exec",
+        "design",
+        "sys admin",
+        "infosec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
       ],
-      "description": " Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.  The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.    READ THIS PART FIRST   Legion is not a normal web application. It is command and control software that has to present dense real-time information, coordinate distributed systems, and continue being useful when communications are imperfect.     WHAT WE DO  Swarm Aero is redefining air power. We are building autonomous aircraft and Legion, command and control software designed to coordinate large numbers of heterogeneous autonomous systems. Our team combines experience building novel aircraft, scaling startups, and delivering technology",
-      "postedAt": 1790084410,
-      "score": 10,
+      "description": "  About KIRA   Our mission is to make money smart, reliable and within reach for everyone.  Â   In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.  Â   Today, we are expanding ways to help people in Asia and it includes spending, saving, investing, exchanging, travelling, and more. Our objective is to build tools that will help people get more from their money and at ease and self reliance, become an expert. We believe AI will help us achieve this in our generation.  We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.  We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future.  If you're this person, we'd love to talk to you.     The Role   KIRA is building a AI Stockbroking Superapp for ",
+      "postedAt": "2026-09-23T00:00:10+00:00",
+      "score": 9,
       "reasons": [
-        "title: software engineer",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
-      "id": "arbeitnow-remote-staff-software-engineer-real-time-systems-18001",
-      "source": "Arbeitnow",
-      "title": "Staff Software Engineer, Real-Time Systems",
-      "company": "Swarmaero",
+      "id": "remoteok-1137418",
+      "source": "RemoteOK",
+      "title": "Junior Digital Assets Operations Analyst",
+      "company": "Omega Enterprises",
       "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-staff-software-engineer-real-time-systems-18001",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-staff-software-engineer-real-time-systems-18001",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
       "tags": [
-        "Legion"
+        "other",
+        "crypto",
+        "remote",
+        "education",
+        "web3",
+        "bitcoin",
+        "ethereum",
+        "part time",
+        "finance",
+        "blockchain",
+        "defi",
+        "junior",
+        "analyst",
+        "ops"
       ],
-      "description": " Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.  The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.  Most backend roles ask you to wire up an API and move records in and out of a database. This one asks you to build the systems that keep the largest drone swarm on the planet coordinated in real time.  You'll help architect the backend for Legion's Command &amp; Control platform: the systems that let a single operator plan, direct, and execute missions across a networked swarm of heterogeneous aircraft, in real time, over intermittent comms, at a scale nobody else in the industry is attempting. This isn't CRUD. It's real-time distribute",
-      "postedAt": 1790084410,
-      "score": 10,
+      "description": " Application URL  https://omegadg.com/work/remoteok   Omega Enterprises is an international digital-assets company focused on cryptocurrency markets, market intelligence, and data-based financial operations. We are expanding our team and looking for motivated people who would like to build practical knowledge of digital markets and develop their analytical skills.  This is an entry-level opportunity designed for candidates who are interested in cryptocurrency, financial markets, and working with market information. Previous employment in the crypto industry is not necessary. New team members receive onboarding, training, and ongoing support from experienced colleagues.   What You'll Do    Follow daily developments across cryptocurrency and digital-asset markets.  Assist the team with routine operational and analytical activities.  Track changes in prices, trading activity, liquidity, and other relevant indicators.  Gather information from internal and external market-data sources.  Maintain organized records and prepare concise internal reports.  Summarize market observations for team discussions.  Take part in regular training, feedback sessions, and team meetings.  Complete struc",
+      "postedAt": "2026-09-22T14:36:54+00:00",
+      "score": 9,
       "reasons": [
-        "title: software engineer",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
-      "id": "arbeitnow-remote-principal-engineer-real-time-visualization-410832",
-      "source": "Arbeitnow",
-      "title": "Principal Engineer, Real-Time Visualization",
-      "company": "Swarmaero",
+      "id": "remoteok-1137417",
+      "source": "RemoteOK",
+      "title": "Software Developer Security Analytics",
+      "company": "RedMimicry",
       "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-principal-engineer-real-time-visualization-410832",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-principal-engineer-real-time-visualization-410832",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
       "tags": [
-        "Legion"
+        "golang",
+        "infosec",
+        "dev",
+        "stats",
+        "full time",
+        "digital nomad"
       ],
-      "description": " Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.  The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.  Most frontend roles ask you to move pixels around a dashboard. This one asks you to own the interface that controls the largest drone swarm on the planet.  Legion is our Command &amp; Control platform, and it's in operators' hands today. It lets a single operator plan, direct, and execute missions across a networked swarm of heterogeneous aircraft, in real time, over intermittent comms. Your job is to take the frontend through the next order of magnitude: more vehicles, harder missions, worse comms, at a scale nobody else in the industr",
-      "postedAt": 1790084410,
-      "score": 10,
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Full-time, 40 hours per weekContract: Fixed-termSalary: EUR 69,000 â 77,000We are building a new capability that turns fragmented, noisy security logs...  Please mention the word **CONTINUITY** and tag RNjQuMjM2LjE3Ni4yMzA= when applying to show you read the job post completely (#RNjQuMjM2LjE3Ni4yMzA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "postedAt": "2026-09-22T09:00:01+00:00",
+      "score": 9,
       "reasons": [
-        "title: frontend",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-senior-forward-deployed-engineer-191863",
-      "source": "Arbeitnow",
-      "title": "Senior Forward Deployed Engineer",
-      "company": "Swarmaero",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-senior-forward-deployed-engineer-191863",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-senior-forward-deployed-engineer-191863",
-      "tags": [
-        "Legion"
-      ],
-      "description": " Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.  The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.     About the Role   Most software engineers never see their code tested against reality. At Swarm Aero, that's the baseline.  We are looking for a Senior Forward Deployed Software Engineer to embed directly with U.S. government and military customers and own the technical success of our C2 systems in the field. You will be the person who makes our software work -- not in a lab, not in a staging environment, but in real operational contexts across domestic and international deployments. Austere locations, high-stakes timelines, and compl",
-      "postedAt": 1790084410,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-robotics-143987",
-      "source": "Arbeitnow",
-      "title": "Software Engineer, Robotics",
-      "company": "Swarmaero",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-software-engineer-robotics-143987",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-software-engineer-robotics-143987",
-      "tags": [
-        "Legion"
-      ],
-      "description": " Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.  The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.     About the Role   Our autonomy software runs on real programs and real hardware today, and we built it to be platform-agnostic from the start. We're now scaling it onto our own aircraft to field the largest drone swarm in the world. We're looking for Software Engineers, Robotics to build and harden the on-vehicle systems that get us there.  You'll work across the stack: vehicle software, sensor and payload integration, planning behaviors, and simulation. This is the work that decides whether capability survives contact with real hardw",
-      "postedAt": 1790084410,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-forward-deployed-engineer-46733",
-      "source": "Arbeitnow",
-      "title": "Forward Deployed Engineer",
-      "company": "Swarmaero",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-forward-deployed-engineer-46733",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-forward-deployed-engineer-46733",
-      "tags": [
-        "Legion"
-      ],
-      "description": " Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.  The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.     About the Role   Most software engineers never see their code tested against reality. At Swarm Aero, that's the baseline.  We are looking for a Forward Deployed Software Engineer to embed directly with U.S. government and military customers and own the technical success of our C2 systems in the field. You will be the person who makes our software work -- not in a lab, not in a staging environment, but in real operational contexts across domestic and international deployments. Austere locations, high-stakes timelines, and complex dist",
-      "postedAt": 1790084410,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-autonomy-247962",
-      "source": "Arbeitnow",
-      "title": "Software Engineer, Autonomy",
-      "company": "Swarmaero",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-software-engineer-autonomy-247962",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-software-engineer-autonomy-247962",
-      "tags": [
-        "Legion"
-      ],
-      "description": " Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results.  The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic.     About the Role   We've built an autonomy stack that already runs on real programs and real hardware, and we designed it to be platform-agnostic from the start. The next step is the one that matters most: scaling it onto our own aircraft to field the largest drone swarm in the world. We're looking for a Software Engineer, Autonomy to own that stack and lead the work.  This is a high-leverage technical role. You'll own the architectural direction for the perception, planning, and control systems running onboard every vehicle in the swa",
-      "postedAt": 1790084410,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1362,56 +1417,16 @@
       ]
     },
     {
-      "id": "arbeitnow-machine-learning-engineer-darmstadt-385114",
+      "id": "arbeitnow-chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-227989",
       "source": "Arbeitnow",
-      "title": "Machine Learning Engineer (m/f/d)",
-      "company": "Focused",
-      "location": "Darmstadt, DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/focused/machine-learning-engineer-darmstadt-385114",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/focused/machine-learning-engineer-darmstadt-385114",
-      "tags": [
-        "Software"
-      ],
-      "description": " Focused Energy is building the future of clean energy through laser-driven inertial fusion. Backed by our $240M Series A — the largest fully secured Series A in the global fusion industry — we are scaling rapidly across multiple geographies.  Based in Germany and the US, we have brought together the top scientific and engineering minds using proven technologies to unlock fusion power at commercial scale. Focused Energy is working to realize game-changing scientific innovation that promises to deliver a clean, sustainable and abundant source of power globally.   Your Role   This role sits at the intersection of ML engineering and computational physics, working within our Software Engineering &amp; Digital Twin environments. You'll collaborate closely with optical engineers, laser and fusion physicists, simulation scientists, and systems engineers to embed data-driven intelligence directly into our Digital Twin architecture. You’ll be reducing design risk, shortening development timelines, and unlocking system-level optimization that purely physics-based approaches can't achieve at the speed we need.  You will design, build, and deploy machine learning models that enhance, accelerat",
-      "postedAt": 1790131206,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-central-london-460248",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer",
-      "company": "Runa",
-      "location": "Runa London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/runa/senior-software-engineer-central-london-460248",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/runa/senior-software-engineer-central-london-460248",
-      "tags": [
-        "Software Engineering"
-      ],
-      "description": " Runa is pioneering a first-of-its-kind payment rail that enables the seamless, global money movement at scale. Legacy banking and  payment infrastructure struggles to support the demands of today's low-volume, high-velocity payouts, leading to inefficiencies in global payouts. Businesses worldwide send over $20 trillion annually in rewards, remittances, and disbursements often incurring costs of up to 50% per transaction and subjecting recipients to lengthy delays.  Runa transforms this landscape by providing a new digital payments infrastructure that empowers businesses to send digital money instantly and cost-free to anyone, anywhere. The Runa API empowers thousands of businesses to make payments to 5 billion+ consumers in 190+ countries instantly to cards, wallets, bank accounts and gift cards. Leading companies such as Sodexo, TopCashback, Perkbox, Sweatcoin, Coinbase, and Globetopper rely on Runa to facilitate instant, flexible global payouts to tens of millions of consumers.      The Role   As a Senior Software Engineer, you will be responsible for architecting, implementing and deploying software services from end to end. You’ll produce clean, scalable, and reusable code to",
-      "postedAt": 1790124003,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-recruitment-manager-maternity-cover-london-79450",
-      "source": "Arbeitnow",
-      "title": "Senior Recruitment Manager - Maternity Cover",
-      "company": "Sohohouseco",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/senior-recruitment-manager-maternity-cover-london-79450",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/senior-recruitment-manager-maternity-cover-london-79450",
-      "tags": [
-        "People (HR)"
-      ],
-      "description": "&lt;p&gt;&lt;strong&gt;Maternity Cover&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The role…&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Soho House, a &lt;strong&gt;Senior Recruitment Manager&lt;/strong&gt; is responsible for collaborating with Global Head of Recruitment, to oversee new property openings and existing property hiring gaps, recruitment processes and partnerships. The Senior Recruitment Manager will work closely with General Managers to manage sourcing, interviewing, and employment processes and ensure that all Houses and properties are providing a positive candidate experience. Ultimately, the Recruitment Manager will support all recruitment to ensure Soho House is hiring the best and most qualified employees to maintain high Soho House standards.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Main Duties&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Recruiting for roles at all levels across our expanding portfolio of houses, restaurants and shared working spaces&lt;/li&gt;\n&lt;li&gt;Proactive and reactive sourcing, screening and interviewing of candidates&lt;/li&gt;\n&lt;li&gt;Coaching and guiding managers to ensure smooth and positive recruitment journey&lt;/li&gt;\n&lt;li&gt;Working",
-      "postedAt": 1790114150,
+      "title": "Chemical Laboratory Assistant / Lab Technician (f/m/d) Analytics & Synthesis",
+      "company": "Career Site bei aevoloop - Personio",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/career-site-bei-aevoloop-personio/chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-227989",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/career-site-bei-aevoloop-personio/chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-227989",
+      "tags": [],
+      "description": "  Your mission  Join aevoloop, a deep-tech startup in Leipzig, where we are pioneering the next generation of circular plastics. We are looking for a hands-on Chemical Technical Assistant (CTA) or Lab Technician who takes pride in their lab work. In this role, your primary focus will be on the precise \"measuring\" (analytics) of our materials, while reliably supporting the team with \"making\" (synthesis).     Analytics &amp; Characterization:  You are the analytical core of our lab. You routinely perform instrumental and wet-chemical analyses to precisely characterisze our next-generation materials (e.g., NMR, IR spectroscopy, DSC, titrations).      Synthesis Execution:  You support syntheses (specifically polycondensations) on a bench and pilot scale, reliably and accurately executing reactions according to established standard operating procedures (SOPs).      Daily Lab Routine &amp; Excellence:  You ensure smooth lab operations. This includes preparing and maintaining glassware, sample preparation, material drying, and general lab organization.      Precision &amp; Documentation:  You ensure our measurement data is rock-solid. This includes regular calibration of analytical instru",
+      "postedAt": 1790204985,
       "score": 9,
       "reasons": [
         "title: react",
@@ -1419,41 +1434,83 @@
       ]
     },
     {
-      "id": "arbeitnow-data-engineer-edinburgh-490285",
+      "id": "arbeitnow-senior-front-end-engineer-i-london-218861",
       "source": "Arbeitnow",
-      "title": "Data Engineer",
-      "company": "Fanduel",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineer-edinburgh-490285",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineer-edinburgh-490285",
+      "title": "Senior Front end Engineer I",
+      "company": "Checkout.com",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-front-end-engineer-i-london-218861",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-front-end-engineer-i-london-218861",
       "tags": [
-        "Data Engineering"
+        "All Departments"
       ],
-      "description": "&lt;p&gt;FanDuel Group is a world-class team of brands and products that deliver sports betting, gaming and entertainment to millions of US sports fans every day. That’s no easy task and wouldn&#39;t be possible without a fantastic team who have helped us pioneer new products and innovative features that make us a leader in the industry.&lt;br&gt;The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices&amp;nbsp;in Canada and Scotland. The company’s affiliates have offices worldwide, including in Ireland, Portugal, Romania,&amp;nbsp;and Australia.&lt;br&gt;FanDuel Group is a subsidiary of Flutter Entertainment, the world&#39;s largest sports betting and gaming operator&amp;nbsp;with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT).&lt;br&gt;&lt;br&gt;&lt;strong&gt;THE POSITION&lt;/strong&gt;&lt;br&gt;Our roster has an opening with your name on it&lt;br&gt;&lt;br&gt;We are looking for a Data API Engineer (Software Engineer with interest in Data applications) to join our&amp;nbsp;growing team and help build the Applications with REST API endpoints to provide recommendations base",
-      "postedAt": 1790114127,
+      "description": "   Company Description     We’re        Checkout.com   . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day.      We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppers.     Whether you want to book a holiday, order food, renew a subscription, or check out online, there’s a good chance our tech powers the payments behind the scenes. Our platform helps the most ambitious businesses deliver effortless digital experiences, at scale.     If you want to do career-defining work, you’ve come to the right place. We move fast, think globally, and believe great teams are built by hiring exceptional people with conviction, curiosity, and the desire to make an impact.     With 20 offices across six continents and London as our HQ, we’re shaping the future of fintech – and we’re just getting started.     As a Senior Software Engineer embedded within a multifunctional team, you will collaborate with Product and Design counterparts to lead the UI implementation of   Checkout.com   products and services, ensuring our mercha",
+      "postedAt": 1790210413,
       "score": 9,
       "reasons": [
         "title: software engineer",
-        "skill: rest api"
+        "skill: git"
       ]
     },
     {
-      "id": "arbeitnow-lifecycle-marketer-self-serve-london-341227",
+      "id": "arbeitnow-staff-software-engineer-villeneuve-dascq-nord-94126",
       "source": "Arbeitnow",
-      "title": "Lifecycle Marketer, Self-Serve",
-      "company": "Lovable",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/lifecycle-marketer-self-serve-london-341227",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/lovable/lifecycle-marketer-self-serve-london-341227",
+      "title": "Staff Software Engineer (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Villeneuve-d'Ascq, Nord",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/staff-software-engineer-villeneuve-dascq-nord-94126",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/staff-software-engineer-villeneuve-dascq-nord-94126",
       "tags": [
-        "GTM"
+        "Data"
       ],
-      "description": "  TL;DR -  You’ll execute Lovable’s lifecycle marketing for the self-serve base - activation, engagement, retention, and reactivation. Hands-on, AI-first, and increasingly driven by intelligent personalization. You’ll shape how millions of builders experience Lovable every day.     Why Lovable?   Lovable is the software creation platform that gives people the power to act on the problems closest to them. For decades, turning an idea into software required so much capital, technical fluency, and time that many ideas never came to life. Lovable is the counterargument: a platform for all people with ideas, ambition, and problems worth solving. From solopreneurs to small business owners to teams at companies like Adidas and Zendesk, people have built over 60 million projects on Lovable since its launch in November 2024. And we’re just getting started.  We’re building a generational company from Stockholm, with growing teams in London, Boston, New York, and San Francisco. Our team is small, talent-dense, and moving quickly, with a culture rooted in extreme ownership, high velocity, and low-ego collaboration. We look for people who care deeply, ship fast, and are eager to make a dent in ",
-      "postedAt": 1790113204,
+      "description": "&lt;h3&gt;&lt;strong&gt;Au cœur de l’entité Decathlon Digital, l&#39;équipe Data Platform recherche un·e Staff Software Engineer basé·e à Lille&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Pour accélérer la transformation de nos infrastructures et répondre aux enjeux d&#39;évolutivité, nous avons créé une équipe SWAT constituée d&#39;experts seniors et de Staff Engineers.&lt;/p&gt;\n&lt;p&gt;En tant que &lt;strong&gt;Staff Software Engineer&lt;/strong&gt;, ta mission sera d&#39;apporter l&#39;excellence du génie logiciel sur l&#39;ensemble du périmètre de la Data Platform. Tu navigueras de manière transverse entre nos différentes équipes (Factory, Core Data Product - CDP, MLOps, Platform Engineering) pour poser les standards logiciels, concevoir les briques d&#39;infrastructure et garantir l&#39;excellence technique.&lt;/p&gt;\n&lt;h3&gt;TA FUTURE CONTRIBUTION&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Ce rôle est un track IC (&lt;em&gt;Individual Contributor&lt;/em&gt;) à fort impact : tu n&#39;as pas de management d&#39;équipe direct, mais un véritable rôle de leadership technique et de mentorat. En tant que Staff Software Engineer, tu seras le·la garant·e de l’excellence lo",
+      "postedAt": 1790193325,
       "score": 9,
       "reasons": [
-        "title: react",
-        "skill: react"
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-lead-support-engineer-lille-upline-nord-97832",
+      "source": "Arbeitnow",
+      "title": "Lead Support Engineer (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Lille, Upline, Nord",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/lead-support-engineer-lille-upline-nord-97832",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/lead-support-engineer-lille-upline-nord-97832",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "&lt;h3 data-path-to-node=&quot;5&quot;&gt;Notre &lt;strong data-path-to-node=&quot;5&quot; data-index-in-node=&quot;6&quot;&gt;équipe Gestion des Commandes et des Stocks&lt;/strong&gt; recherche un·e &lt;strong data-path-to-node=&quot;5&quot; data-index-in-node=&quot;64&quot;&gt;Ingénieur·e Support (f/m/d) - Responsable de domaine&lt;/strong&gt; en &lt;strong data-path-to-node=&quot;5&quot; data-index-in-node=&quot;120&quot;&gt;CDI&lt;/strong&gt; basé·e à &lt;strong data-path-to-node=&quot;5&quot; data-index-in-node=&quot;133&quot;&gt;Lille.&lt;/strong&gt;&lt;/h3&gt;\n&lt;p data-path-to-node=&quot;6&quot;&gt;Passionnée par l&#39;innovation logistique, notre équipe de 10 personnes conçoit et opère les solutions numériques mondiales qui orchestrent les flux de commandes et de stocks de Decathlon. Notre impact : garantir la disponibilité du bon produit au bon moment pour nos magasins, entrepôts et marketplaces à travers le monde. Nos défis : accompagner la transformation numérique du groupe, intégrer les nouveaux modèles commerciaux (circularité, wholesale) et préparer la transition vers SAP S/4HANA.&lt;/p&gt;\n&lt;h3 data-path-to-node=&quot;7&quot;&gt;TA FUTURE CONTRIBUTION&lt;/h3&gt;\n",
+      "postedAt": 1790193325,
+      "score": 9,
+      "reasons": [
+        "title: node",
+        "skill: node"
+      ]
+    },
+    {
+      "id": "remotive-2091144",
+      "source": "Remotive",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+      "applyUrl": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "AI/ML"
+      ],
+      "description": "   \n  We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit.  \n   \n  A Day in the Life of a Content Reviewer - US  \n  In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform.  \n   \n  By reviewing and rating search results for relevance and quality, you will help improve the overall search experience for millions of users around the world, including yourself.  \n  Join our global community and put your skills to work supporting one of the world's leading search technologies.  \n   \n  Service Rates   \n  The rate of pay is  $0.2333 per completed task, with an estimated earning potential of $14 per hour.  Compensation is based on tasks completed and project availability. Estimated earnings may vary depending on task volume and program requirements including, quality, and productivity, in accordance with the program's quality standards and guidelines.   \n   \n  P",
+      "postedAt": "2026-09-21T12:55:11",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1508,25 +1565,6 @@
       ],
       "description": " Location: South Africa â Remote  Hours: 14:00â23:00 SAST, MondayâFriday, aligned with U.S. Eastern business hours  Employment: Permanent, Full-Time Role Purpose Execute and maintain programmatic campaigns accurately and efficiently within MediaPath's established strategy, workflows, and QA standards. This is a hands-on campaign execution role focused on campaign builds, trafficking, pacing, optimisation, troubleshooting, and maintenance. \n  Key Responsibilities   Build campaigns, line items, targeting structures, and campaign components within assigned DSPs.    Traffic creative assets and third-party tags.    Complete pre-launch campaign QA.    Monitor campaign pacing and delivery on a daily basis.    Identify and escalate pacing or delivery risks before they become client-visible.    Execute routine optimisations and approved campaign changes within defined guidelines.    Troubleshoot campaign, creative, targeting, and activation issues.    Escalate complex technical issues to the Senior Programmatic Operations Lead.    Maintain accurate campaign documentation, naming conventions, and change histories.    Provide screenshots, compliance documentation, and campaign data when",
       "postedAt": "2026-08-27T16:00:04+00:00",
-      "score": 8,
-      "reasons": [
-        "location: Remote",
-        "location: Africa"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-security-engineer-i-customer-trust-emea-remote-eligible-in-the-uk-72338",
-      "source": "Arbeitnow",
-      "title": "Senior Security Engineer I, Customer Trust EMEA (Remote Eligible in the UK)",
-      "company": "smartsheet",
-      "location": "-REMOTE",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/senior-security-engineer-i-customer-trust-emea-remote-eligible-in-the-uk-72338",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/senior-security-engineer-i-customer-trust-emea-remote-eligible-in-the-uk-72338",
-      "tags": [
-        "Security"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Smartsheet&#39;s customers in Europe, the Middle East, and Africa expect our Customer Trust team to understand their compliance challenges, speak their language, and respond quickly to security assessments. We&#39;re looking for a Sr. Security Engineer I to lead Customer Trust operations across EMEA—responding to security questionnaires, managing vendor risk assessments, and building trusted relationships with enterprise customers in these regions.&amp;nbsp; You will be responsible for questionnaire triage, completion, and queue management for EMEA customers. You&#39;ll work closely with EMEA sales teams, understand regional compliance requirements (GDPR, ",
-      "postedAt": 1790135720,
       "score": 8,
       "reasons": [
         "location: Remote",

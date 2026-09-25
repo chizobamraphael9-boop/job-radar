@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-09-24T05:10:14.532Z",
+  "scannedAt": "2026-09-25T05:10:11.441Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 46,
+  "count": 40,
   "jobs": [
     {
       "id": "remoteok-1137420",
@@ -506,28 +506,6 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineering-intern-ai-x-greentech-berlin-214362",
-      "source": "Arbeitnow",
-      "title": "Software Engineering Intern (AI x Greentech) (m/f/d)",
-      "company": "Reonic",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/reonic/software-engineering-intern-ai-x-greentech-berlin-214362",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/reonic/software-engineering-intern-ai-x-greentech-berlin-214362",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "  Build the Operating System of the Energy Transition   Most internships have you sitting in meetings, fixing small bugs, and watching others build.  This one doesn't.  At Reonic, you'll work on software used by thousands of renewable energy companies across Europe. You'll ship real features, solve real problems, and see your code in production within days.  We're building the AI-native operating system for renewable installers. And we're looking for ambitious builders who want to learn fast, take ownership, and make an impact from day one.  This is a full-time, on-site internship based in Berlin.    What makes this internship different     Your work directly impacts how renewable energy gets deployed    You'll ship production code used by real customers    You'll work closely with experienced engineers, product managers, and founders    You'll own projects instead of shadowing others    You'll see the full lifecycle: idea → implementation → customer feedback    No busy work. No \"intern projects\" disconnected from reality.    Just building, learning, and shipping.    What you'll build     Develop product features across our React, TypeScript, and Node.js stack    Turn complex busin",
-      "postedAt": 1790217608,
-      "score": 24,
-      "reasons": [
-        "title: react",
-        "title: software engineer",
-        "title: node",
-        "skill: react",
-        "skill: node"
-      ]
-    },
-    {
       "id": "remotive-2091141",
       "source": "Remotive",
       "title": "Frontend Web Application Developer",
@@ -563,6 +541,32 @@
         "skill: react",
         "skill: git",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-ai-developer-intern-munchen-332499",
+      "source": "Arbeitnow",
+      "title": "AI Developer Intern (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-332499",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-332499",
+      "tags": [
+        "Workingstudent",
+        "Intern",
+        "AI ecosystem",
+        "Digital identity",
+        "Digital ecosystem"
+      ],
+      "description": "  YOUR TASKS    You support the integration of (generative) AI technologies into existing application software or collaborate with the team to develop new, innovative solutions with AI components  You assist in the analysis and preparation of data specifically for (generative) AI use cases  You contribute to the evaluation and optimization of software systems with AI components, particularly using frameworks such as LangChain, as well as APIs such as OpenAI or Ollama  You support cloud-native development projects with a focus on AI-driven software solutions  You assist in the integration and use of AI-ready database systems (e.g., relational, vector, or graph databases) for AI applications  You research new technologies and methods in the field of (generative) AI (e.g., Model Context Protocol, agent technologies, and modern AI integration frameworks)     YOUR PROFIL    You are enrolled in a degree program with AI-related coursework and have a solid foundational understanding of artificial intelligence  You have practical knowledge of Python and at least one additional modern programming language such as JavaScript (e.g., Node.js), TypeScript, Go, or Java  You are passionate about c",
+      "postedAt": 1790302163,
+      "score": 21,
+      "reasons": [
+        "title: javascript",
+        "title: node",
+        "skill: javascript",
+        "skill: git",
+        "skill: node"
       ]
     },
     {
@@ -604,27 +608,6 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-developer-ai-trainer-germany-berlin-312624",
-      "source": "Arbeitnow",
-      "title": "Full-Stack Developer - AI Trainer (Germany)",
-      "company": "Anyone Ai",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-312624",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-312624",
-      "tags": [
-        "Software Engineering"
-      ],
-      "description": " Anyone AI is recruiting skilled Full-Stack Developers to work on a project with a leading AI lab.      Qualifications:     Advanced professional written proficiency in English    3–7 years of professional software engineering experience    Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go    Backend or full‑stack development experience in production systems    Experience with testing frameworks (e.g., pytest, Jest, JUnit, xUnit, Go testing)    Proven ability to debug and navigate large, multi‑file codebases    Experience with code reviews, refactoring, and production migrations       Engagement:  Part-time, project-based expert evaluation work   Work Type:  Remote    Contributors will design and evaluate realistic software engineering tasks, including bug resolution, feature implementation, refactoring/migration, and test generation. Work includes both creating complex coding scenarios and reviewing peer submissions for quality and accuracy.    This is a project-based consultant role. Consultants will be paid on a per-project basis; hourly rates are estimates based on anticipated completion time. Consultants control their own schedule, pr",
-      "postedAt": 1790206804,
-      "score": 19,
-      "reasons": [
-        "title: javascript",
-        "title: software engineer",
-        "skill: javascript",
-        "location: Remote"
-      ]
-    },
-    {
       "id": "remotive-1680495",
       "source": "Remotive",
       "title": "Remote Office Assistant",
@@ -662,6 +645,33 @@
         "skill: css",
         "skill: git",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-full-stack-developer-all-genders-deutschland-berlin-16760",
+      "source": "Arbeitnow",
+      "title": "Senior Full Stack Developer (all genders)",
+      "company": "Hubject Gmbh",
+      "location": "Deutschland: Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hubject-gmbh/senior-full-stack-developer-all-genders-deutschland-berlin-16760",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/hubject-gmbh/senior-full-stack-developer-all-genders-deutschland-berlin-16760",
+      "tags": [
+        "ev charging",
+        "emobility",
+        "software developer",
+        "software",
+        "fullstack",
+        "java",
+        "spring boot",
+        "sustainability"
+      ],
+      "description": "  Your challenge   As a  Senior Full Stack Software Engineer (all genders) , you will play a key role in building and evolving Hubject's cloud-native eMobility platform. Working across backend, frontend and cloud infrastructure, you will design, develop and operate scalable, secure and high-performing applications that power electric mobility worldwide. You will collaborate closely with Product, Architecture, QA and DevOps to deliver reliable software, shape technical decisions, and continuously improve our engineering practices.    Why Hubject   We develop ideas and deliver solutions for the eMobility market We are working on the most important growth topics We are an international team of very motivated eMobility enthusiasts  AND  We have over 30 benefits different categories:    Food &amp; drinks (food subsidy on the Euref-Campus restaurants)    Mobility (BVG subsidy)    Health &amp; sports (Urban sports membership M)    Equipment (Laptop etc)    Learning and development (yearly training budget and Udemy learning platform access)    Hubject Lifestyle (Voiio membership)    Family-friendly environment (flex working time)      Your Tasks    Design, develop and maintain scalable ful",
+      "postedAt": 1790302149,
+      "score": 18,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer",
+        "title: full stack"
       ]
     },
     {
@@ -848,41 +858,45 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-fullstack-developer-munchen-250429",
-      "source": "Arbeitnow",
-      "title": "Senior Fullstack Developer (m/w/d)",
-      "company": "Techpilot",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/techpilot/senior-fullstack-developer-munchen-250429",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/techpilot/senior-fullstack-developer-munchen-250429",
-      "tags": [],
-      "description": "  Was Du machen wirst    Du baust an einer B2B-Plattform, die täglich von Einkäufern und Fertigern in ganz Europa benutzt wird  Du arbeitest in einem funktionsübergreifenden Team – von der Idee bis in die Produktion, ohne Übergabe-Ping-Pong  Du übernimmst Ownership für Themen, nicht für Tickets  Du wirkst in einem KI-Spezialprojekt mit: CAD-Zeichnungen und STEP-Files maschinell verstehen, Ähnlichkeitssuche über Bauteile, Matching zwischen Anfrage und Fertigungskompetenz  Ein Teil deiner Arbeit findet in einem gemeinsamen Projekt mit einem Partnerunternehmen statt – zwei Kontexte, zwei Teams, doppelt so viel zu lernen      Stack &amp; Infrastruktur:      Backend     Aktuelles .NET / C# (.NET 10+)  PostgreSQL / Redis  100 % kein PHP    Frontend     100 % TypeScript  React, React, React  TanStack Router / Query  AstroJS  Tailwind / Shadcn  Jest    Infrastruktur &amp; Orchestrierung     AWS (ECS, EKS, S3, …)  Pulumi (IaC)  Docker, Docker Compose, Kubernetes         Womit Du überzeugst    Du bist ein:e echte:r Entwickler:in  Du hast schon einige Schlachten geschlagen – mindestens 5 Jahre in einigen unserer Kerntechnologien  Erfahrung in cloud-basierter SaaS-Entwicklung (B2B)  Technologi",
-      "postedAt": 1790204986,
+      "id": "remoteok-1137427",
+      "source": "RemoteOK",
+      "title": "Software Engineer",
+      "company": "Prenosis",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTM1LjExOS4yMi45Nw== when applying to show you read the job post completely (#RMTM1LjExOS4yMi45Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 15,
       "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react"
+        "title: software engineer",
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
-      "id": "arbeitnow-werkstudent-in-software-development-applied-ai-grunwald-337223",
+      "id": "arbeitnow-lead-software-engineer-berlin-385848",
       "source": "Arbeitnow",
-      "title": "Werkstudent/in Software Development & Applied AI (m/w/d)",
-      "company": "DataClue GmbH",
-      "location": "Grünwald",
-      "url": "https://www.arbeitnow.com/jobs/companies/dataclue-gmbh/werkstudent-in-software-development-applied-ai-grunwald-337223",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/dataclue-gmbh/werkstudent-in-software-development-applied-ai-grunwald-337223",
-      "tags": [
-        "Business Operations"
-      ],
-      "description": "  Deine Rolle  \n Du studierst Informatik, Wirtschaftsinformatik, Data Science oder ein verwandtes Fach und willst neben dem Studium nicht nur zuarbeiten, sondern deine Skills praktisch anwenden? Du hast schon eigene Projekte umgesetzt und interessierst dich dafür, wie KI in der Softwareentwicklung eingesetzt wird? \n Als Werkstudent unterstützt du unser Team in Kundenprojekten und bei der Entwicklung eigener KI-Tools und übernimmst eigene Aufgaben. \n  Über DataClue  \n DataClue ist eine Unternehmensberatungs-Boutique mit Fokus auf Applied AI &#x26; Data Analytics und Execution &#x26; Transformation. Wir entwickeln maßgeschneiderte Lösungen mit messbarem Mehrwert. Unser interdisziplinäres Team vereint Business- und Entwicklungs-Know-how und begleitet Kunden: von Konzeption und Strategie über Projektmanagement bis zur Umsetzung. \n Aufgaben \n  Deine Aufgaben  \n \n Unterstützung bei der Entwicklung von Backend-Services und Datenpipelines in Python \n Umsetzung Frontend-Komponenten und interner Tools mit TypeScript und React \n Arbeit mit relationalen Datenbanken: SQL-Abfragen, Datenmodelle und Datenaufbereitung \n Prototyping mit LLM-APIs und KI-Agenten, z. B. für Automatisierungen für Kunde",
-      "postedAt": 1790197228,
+      "title": "Lead Software Engineer (m/f/d)",
+      "company": "Alteos",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/alteos/lead-software-engineer-berlin-385848",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/alteos/lead-software-engineer-berlin-385848",
+      "tags": [],
+      "description": "  These tasks are waiting for you    Take technical ownership of Configuration Experience — the team that builds and manages our insurance products — and set the direction for how the team delivers.  Spend the bulk of your time hands-on: researching technical solutions, writing RFCs, building PoCs with other teams, and shipping the resulting code yourself.  Act as a sparring partner for product managers and stakeholders on key business and technical decisions.  Keep delivery on track — plan realistically, follow agile principles, hit deadlines.  Lead people by example: give feedback, run team meetings, support colleagues' growth. This is a smaller part of the role — most of your time stays technical.  Spot obstacles early, resolve them, and keep stakeholders proactively informed.     This is what you bring to the table   You don't need to tick every box. If this sounds like your kind of work, we want to hear from you.   Solid hands-on experience as a software engineer with Node.js and TypeScript.  First experience leading or managing people — you don't need years of management under your belt, but you've done it at least once and want to grow into it further.  Full-stack understand",
+      "postedAt": 1790291392,
       "score": 15,
       "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react"
+        "title: software engineer",
+        "title: node",
+        "skill: node"
       ]
     },
     {
@@ -944,7 +958,7 @@
         "backend",
         "digital nomad"
       ],
-      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with Airspace Linkâs d...  Please mention the word **AMIABLE** and tag RNjQuMjM2LjE3Ni4yMzA= when applying to show you read the job post completely (#RNjQuMjM2LjE3Ni4yMzA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with Airspace Linkâs d...  Please mention the word **AMIABLE** and tag RMTM1LjExOS4yMi45Nw== when applying to show you read the job post completely (#RMTM1LjExOS4yMi45Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-19T20:00:01+00:00",
       "score": 13,
       "reasons": [
@@ -967,7 +981,7 @@
         "javascript",
         "typescript"
       ],
-      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RNjQuMjM2LjE3Ni4yMzA= when applying to show you read the job post completely (#RNjQuMjM2LjE3Ni4yMz",
+      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RMTM1LjExOS4yMi45Nw== when applying to show you read the job post completely (#RMTM1LjExOS4yMi45Nw",
       "postedAt": "2026-09-16T12:44:27+00:00",
       "score": 13,
       "reasons": [
@@ -990,7 +1004,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNjQuMjM2LjE3Ni4yMzA= when applying to show you read the job post completely (#RNjQuMjM2LjE3Ni4yMzA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTM1LjExOS4yMi45Nw== when applying to show you read the job post completely (#RMTM1LjExOS4yMi45Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -1064,95 +1078,76 @@
       ]
     },
     {
-      "id": "arbeitnow-sales-engineer-all-genders-munich-367859",
+      "id": "arbeitnow-frontend-engineer-iii-london-143299",
       "source": "Arbeitnow",
-      "title": "Sales Engineer (all genders)",
-      "company": "Lio",
-      "location": "Munich Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/lio/sales-engineer-all-genders-munich-367859",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/lio/sales-engineer-all-genders-munich-367859",
-      "tags": [
-        "Go-To-Market"
-      ],
-      "description": " You’re not just supporting sales; you’re making enterprise AI deals technically undeniable. As a Sales Engineer at askLio, you turn customer requirements into working software, proving real-world value inside complex enterprise environments.    What You'll Do  In this role, you will:    Build prototypes, proof-of-concepts, and custom extensions that demonstrate value     Configure and adapt Lio’s AI-driven P2P platform to customer workflows and ERP landscapes    Lead technical deep dives, live demos, and workshops with procurement, IT, and architecture teams    Travel to customer sites for workshops (1–2 times per week)     Translate recurring customer needs into scalable product features     Partner with Sales, Product, Engineering, and Founders as the technical owner of deal success      Your Profile  You’re a good fit for this role if you:     Have hands-on experience with SaaS systems, APIs, cloud architectures, and data-driven applications    Can build, extend, or integrate software (Python/FastAPI, React/TypeScript, REST APIs, MongoDB, or similar)    Are comfortable working in enterprise IT landscapes and cloud platforms (e.g., Azure)     Take ownership, thrive in dynamic en",
-      "postedAt": 1790196010,
-      "score": 12,
-      "reasons": [
-        "title: react",
-        "skill: react",
-        "skill: rest api"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-principal-software-engineer-data-lakes-205806",
-      "source": "Arbeitnow",
-      "title": "Principal Software Engineer - Data Lakes",
-      "company": "Fivetran",
-      "location": "Remote · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-principal-software-engineer-data-lakes-205806",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-principal-software-engineer-data-lakes-205806",
-      "tags": [
-        "Engineering Department"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;About Us&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.&lt;br&gt;Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on.&lt;br&gt;Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping team",
-      "postedAt": 1790207764,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-engineer-kubernetes-22353",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer, Kubernetes",
-      "company": "Camunda",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-22353",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-22353",
-      "tags": [
-        "Products"
-      ],
-      "description": " Camunda is  the enterprise platform for agentic orchestration , enabling organizations to coordinate  AI agents, people, and systems  across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale.  Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.   Fully remote and global,  we are in the middle of something bigger:  transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.  Named   GP Bullhound’s Top 100 Next Unicorn list,    2025 Great Place to Work certified.    Visionary     in    2025 Gartner® Magic Quadrant™      for Business Orchestration and Automation Technologies. ranked  3rd in Flexa's 2026    Most Flexible Companies  , We’re growing fast and looking for top talent to join our team.  If you want meaningful work, visible impact and put something",
-      "postedAt": 1790221205,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-engineer-engineering-operations-281819",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer, Engineering Operations",
-      "company": "Camunda",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-281819",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-281819",
-      "tags": [
-        "Products"
-      ],
-      "description": " Camunda is  the enterprise platform for agentic orchestration , enabling organizations to coordinate  AI agents, people, and systems  across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale.  Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.   Fully remote and global,  we are in the middle of something bigger:  transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.  Named   GP Bullhound’s Top 100 Next Unicorn list,    2025 Great Place to Work certified.    Visionary     in    2025 Gartner® Magic Quadrant™      for Business Orchestration and Automation Technologies. ranked  3rd in Flexa's 2026    Most Flexible Companies  , We’re growing fast and looking for top talent to join our team.  If you want meaningful work, visible impact and put something",
-      "postedAt": 1790221205,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-senior-product-engineer-164889",
-      "source": "Arbeitnow",
-      "title": "Senior Product Engineer",
-      "company": "prolific",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-164889",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-164889",
+      "title": "Frontend Engineer III",
+      "company": "Zilch",
+      "location": "Zilch UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/frontend-engineer-iii-london-143299",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/zilch/frontend-engineer-iii-london-143299",
       "tags": [
         "Engineering"
       ],
-      "description": "&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;Se&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;nior Software Engineer&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/h2&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;Engineering&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;&lt;em&gt;&amp;nbsp;Prolific&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Prolific is not just another player in the AI space – we are the architects of the human data infrastructure that&#39;s reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditized, it&#39;s the quality and diversity of human-generated data that truly differentiates products and models.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt",
-      "postedAt": 1790211323,
+      "description": "  Who we are:   We're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay.  We launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more than 6 million customers.     Our mission is to become the best way to pay for anything, anywhere and say goodbye to credit costs for everyone. This is huge. Want to join us?   About the role:   We are on the lookout for an individual who is filled with energy, someone who radiates enthusiasm and a passion for software development. We are looking for an FE Software Engineer IV who puts their all into their work, crafting exceptional code. Our ideal candidate is not just interested in software but lives and breathes it, and consistently maintains the highest standards of quality. This individual should be comfortable setting the standard for others, pushing forward technical innovation and bringing their vast experience to Zilch’s Mobile App to keep us performing at the highest level. We’re looking for someone who can demonstrate a goal-oriented approach to their work without compromising on quality.     Day-to-day responsibi",
+      "postedAt": 1790286011,
+      "score": 12,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer"
+      ]
+    },
+    {
+      "id": "arbeitnow-lead-support-engineer-lille-upline-nord-337144",
+      "source": "Arbeitnow",
+      "title": "Lead Support Engineer (f/m/d)",
+      "company": "Junior Data Scientist - Downstream Demand Forecast - Value Chain ...",
+      "location": "Lille, Upline, Nord",
+      "url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/lead-support-engineer-lille-upline-nord-337144",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/lead-support-engineer-lille-upline-nord-337144",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "&lt;h3 data-path-to-node=&quot;22&quot;&gt;Our &lt;strong data-path-to-node=&quot;22&quot; data-index-in-node=&quot;4&quot;&gt;Order and Inventory Management Team&lt;/strong&gt; is looking for a &lt;strong data-path-to-node=&quot;22&quot; data-index-in-node=&quot;57&quot;&gt;Support Engineer (f/m/d) - Domain Manager&lt;/strong&gt; on a &lt;strong data-path-to-node=&quot;22&quot; data-index-in-node=&quot;104&quot;&gt;Permanent Contract&lt;/strong&gt; based in &lt;strong data-path-to-node=&quot;22&quot; data-index-in-node=&quot;132&quot;&gt;Lille.&lt;/strong&gt;&lt;/h3&gt;\n&lt;p data-path-to-node=&quot;23&quot;&gt;Passionate about logistics innovation, our team of 10 designs and operates the global digital solutions orchestrating Decathlon&#39;s order and stock flows. Our impact: guaranteeing the right product in the right place at the right time for our stores, warehouses, and marketplaces worldwide. Our challenges: accelerating the group&#39;s digital transformation, integrating new business models (circular economy, wholesale), and preparing the transition to SAP S/4HANA.&lt;/p&gt;\n&lt;h3 data-path-to-node=&quot;24&quot;&gt;YOUR FUTURE CONTRIBUTION&lt;/h3&gt;\n&lt;p data-path-to-no",
+      "postedAt": 1790258110,
+      "score": 12,
+      "reasons": [
+        "title: node",
+        "skill: git",
+        "skill: node"
+      ]
+    },
+    {
+      "id": "arbeitnow-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-140260",
+      "source": "Arbeitnow",
+      "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+      "company": "mozilla",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-140260",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/mozilla/contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-140260",
+      "tags": [
+        "Firefox"
+      ],
+      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build and improve WebCompat dashboards (triage, reporting, and metrics).&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Improve the broken-site-report screenshot capture and pipeline.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with the WebCompat team (including QA) to turn reporting and triage needs into reliable tooling.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Required qualifications&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=",
+      "postedAt": 1790268954,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-contract-software-engineer-dom-core-firefox-gecko-423128",
+      "source": "Arbeitnow",
+      "title": "Contract Software Engineer - DOM Core Firefox/Gecko",
+      "company": "mozilla",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/contract-software-engineer-dom-core-firefox-gecko-423128",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/mozilla/contract-software-engineer-dom-core-firefox-gecko-423128",
+      "tags": [
+        "Firefox"
+      ],
+      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write Web-Platform tests to improve the coverage, and Gecko mochitests as needed&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fix the problems and pass the tests to improve the Gecko correctness&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work through code review with the relevant Gecko module owners and iterate to landing&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Definition of done&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Improved Session History test coverage and",
+      "postedAt": 1790268954,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1239,71 +1234,8 @@
         "full time",
         "digital nomad"
       ],
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Full-time, 40 hours per weekContract: Fixed-termSalary: EUR 69,000 â 77,000We are building a new capability that turns fragmented, noisy security logs...  Please mention the word **CONTINUITY** and tag RNjQuMjM2LjE3Ni4yMzA= when applying to show you read the job post completely (#RNjQuMjM2LjE3Ni4yMzA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Full-time, 40 hours per weekContract: Fixed-termSalary: EUR 69,000 â 77,000We are building a new capability that turns fragmented, noisy security logs...  Please mention the word **CONTINUITY** and tag RMTM1LjExOS4yMi45Nw== when applying to show you read the job post completely (#RMTM1LjExOS4yMi45Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-22T09:00:01+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137414",
-      "source": "RemoteOK",
-      "title": "Senior Growth Product Manager AI Native",
-      "company": "Magic Eden",
-      "location": "Melbourne",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
-      "tags": [
-        "product manager",
-        "marketing",
-        "exec",
-        "design",
-        "crypto",
-        "nft",
-        "game dev",
-        "consulting",
-        "testing",
-        "analyst",
-        "finance",
-        "senior",
-        "golang",
-        "engineer",
-        "digital nomad"
-      ],
-      "description": "  About Magic Eden and Dicey  Magic Eden reached unicorn status in just 9 months after launch, one of the fastest in history. We built a category-defining NFT marketplace from scratch and proved we know how to move fast. Now we're doing it again. Dicey is our crypto casino and sportsbook platform, targeting the $180B+ iGaming and sports betting markets.  We're a small, fully remote team. We ship fast, we're hands-on with our data, and we're rebuilding how a growth team operates around AI from the ground up.   The role  Most of the iGaming industry competes on acquisition. Almost nobody has figured out personalized retention, knowing who a player is, what they need right now, and what would actually change their behavior this week. That's the problem you'll own.  This role focuses on the full post-signup journey: expanding our player segmentation framework, designing and running targeted offers and campaigns, and owning the P&amp;L lever that comes with it. It's explicitly AI-native. You'll build workflows, agents, and pipelines to run lifecycle campaigns that would have taken a whole team two years ago. Half the job is identifying the right problem. The other half is running the ex",
-      "postedAt": "2026-09-22T00:00:07+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137412",
-      "source": "RemoteOK",
-      "title": "People Operations Coordinator",
-      "company": "Ashby",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
-      "tags": [
-        "saas",
-        "recruiter",
-        "coordinator",
-        "customer support",
-        "dev",
-        "exec",
-        "education",
-        "ops",
-        "medical",
-        "digital nomad"
-      ],
-      "description": " Hi! Iâm Hannah and I lead People Operations here at Ashby. I joined over four years ago as the first People hire and Iâm excited that our People Ops team is growing! The People Operations team supports Ashby employees through the development and implementation of programs, policies, and services that contribute to a productive and inclusive working environment. We ensure the work we do aligns with our   Operating Principles   and strengthens the environment weâre building at Ashby. Our approach is to do things differently, we prioritize what truly fits our team and enhances how we work together. By embracing creativity and customization, we aim to create a people-first culture that drives both individual and organizational success. Weâre building a team focused on helping Ashby scale thoughtfully while continuing to raise the bar for how we support and invest in our employees.  We review  all  applications, and there isnât a benefit to applying quickly. Take your time, look at the application questions and please submit before the application deadline! We arenât able to take calls outside of the interview process, so please do not reach out to the team or Hannah direct",
-      "postedAt": "2026-09-21T16:00:11+00:00",
       "score": 9,
       "reasons": [
         "skill: git",
@@ -1417,73 +1349,18 @@
       ]
     },
     {
-      "id": "arbeitnow-chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-227989",
+      "id": "arbeitnow-teamleiter-last-mile-logistik-quereinsteiger-frankfurt-an-der-oder-brandenburg-485140",
       "source": "Arbeitnow",
-      "title": "Chemical Laboratory Assistant / Lab Technician (f/m/d) Analytics & Synthesis",
-      "company": "Career Site bei aevoloop - Personio",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/career-site-bei-aevoloop-personio/chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-227989",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/career-site-bei-aevoloop-personio/chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-227989",
-      "tags": [],
-      "description": "  Your mission  Join aevoloop, a deep-tech startup in Leipzig, where we are pioneering the next generation of circular plastics. We are looking for a hands-on Chemical Technical Assistant (CTA) or Lab Technician who takes pride in their lab work. In this role, your primary focus will be on the precise \"measuring\" (analytics) of our materials, while reliably supporting the team with \"making\" (synthesis).     Analytics &amp; Characterization:  You are the analytical core of our lab. You routinely perform instrumental and wet-chemical analyses to precisely characterisze our next-generation materials (e.g., NMR, IR spectroscopy, DSC, titrations).      Synthesis Execution:  You support syntheses (specifically polycondensations) on a bench and pilot scale, reliably and accurately executing reactions according to established standard operating procedures (SOPs).      Daily Lab Routine &amp; Excellence:  You ensure smooth lab operations. This includes preparing and maintaining glassware, sample preparation, material drying, and general lab organization.      Precision &amp; Documentation:  You ensure our measurement data is rock-solid. This includes regular calibration of analytical instru",
-      "postedAt": 1790204985,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-front-end-engineer-i-london-218861",
-      "source": "Arbeitnow",
-      "title": "Senior Front end Engineer I",
-      "company": "Checkout.com",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-front-end-engineer-i-london-218861",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-front-end-engineer-i-london-218861",
+      "title": "Teamleiter Last Mile Logistik/ Quereinsteiger (m/w/d)",
+      "company": "Teampicnic",
+      "location": "Frankfurt an der Oder, Brandenburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-last-mile-logistik-quereinsteiger-frankfurt-an-der-oder-brandenburg-485140",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-last-mile-logistik-quereinsteiger-frankfurt-an-der-oder-brandenburg-485140",
       "tags": [
-        "All Departments"
+        "Operations"
       ],
-      "description": "   Company Description     We’re        Checkout.com   . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day.      We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppers.     Whether you want to book a holiday, order food, renew a subscription, or check out online, there’s a good chance our tech powers the payments behind the scenes. Our platform helps the most ambitious businesses deliver effortless digital experiences, at scale.     If you want to do career-defining work, you’ve come to the right place. We move fast, think globally, and believe great teams are built by hiring exceptional people with conviction, curiosity, and the desire to make an impact.     With 20 offices across six continents and London as our HQ, we’re shaping the future of fintech – and we’re just getting started.     As a Senior Software Engineer embedded within a multifunctional team, you will collaborate with Product and Design counterparts to lead the UI implementation of   Checkout.com   products and services, ensuring our mercha",
-      "postedAt": 1790210413,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-staff-software-engineer-villeneuve-dascq-nord-94126",
-      "source": "Arbeitnow",
-      "title": "Staff Software Engineer (f/m/d)",
-      "company": "Decathlontechnology",
-      "location": "Villeneuve-d'Ascq, Nord",
-      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/staff-software-engineer-villeneuve-dascq-nord-94126",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/staff-software-engineer-villeneuve-dascq-nord-94126",
-      "tags": [
-        "Data"
-      ],
-      "description": "&lt;h3&gt;&lt;strong&gt;Au cœur de l’entité Decathlon Digital, l&#39;équipe Data Platform recherche un·e Staff Software Engineer basé·e à Lille&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Pour accélérer la transformation de nos infrastructures et répondre aux enjeux d&#39;évolutivité, nous avons créé une équipe SWAT constituée d&#39;experts seniors et de Staff Engineers.&lt;/p&gt;\n&lt;p&gt;En tant que &lt;strong&gt;Staff Software Engineer&lt;/strong&gt;, ta mission sera d&#39;apporter l&#39;excellence du génie logiciel sur l&#39;ensemble du périmètre de la Data Platform. Tu navigueras de manière transverse entre nos différentes équipes (Factory, Core Data Product - CDP, MLOps, Platform Engineering) pour poser les standards logiciels, concevoir les briques d&#39;infrastructure et garantir l&#39;excellence technique.&lt;/p&gt;\n&lt;h3&gt;TA FUTURE CONTRIBUTION&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Ce rôle est un track IC (&lt;em&gt;Individual Contributor&lt;/em&gt;) à fort impact : tu n&#39;as pas de management d&#39;équipe direct, mais un véritable rôle de leadership technique et de mentorat. En tant que Staff Software Engineer, tu seras le·la garant·e de l’excellence lo",
-      "postedAt": 1790193325,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-lead-support-engineer-lille-upline-nord-97832",
-      "source": "Arbeitnow",
-      "title": "Lead Support Engineer (f/m/d)",
-      "company": "Decathlontechnology",
-      "location": "Lille, Upline, Nord",
-      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/lead-support-engineer-lille-upline-nord-97832",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/lead-support-engineer-lille-upline-nord-97832",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "&lt;h3 data-path-to-node=&quot;5&quot;&gt;Notre &lt;strong data-path-to-node=&quot;5&quot; data-index-in-node=&quot;6&quot;&gt;équipe Gestion des Commandes et des Stocks&lt;/strong&gt; recherche un·e &lt;strong data-path-to-node=&quot;5&quot; data-index-in-node=&quot;64&quot;&gt;Ingénieur·e Support (f/m/d) - Responsable de domaine&lt;/strong&gt; en &lt;strong data-path-to-node=&quot;5&quot; data-index-in-node=&quot;120&quot;&gt;CDI&lt;/strong&gt; basé·e à &lt;strong data-path-to-node=&quot;5&quot; data-index-in-node=&quot;133&quot;&gt;Lille.&lt;/strong&gt;&lt;/h3&gt;\n&lt;p data-path-to-node=&quot;6&quot;&gt;Passionnée par l&#39;innovation logistique, notre équipe de 10 personnes conçoit et opère les solutions numériques mondiales qui orchestrent les flux de commandes et de stocks de Decathlon. Notre impact : garantir la disponibilité du bon produit au bon moment pour nos magasins, entrepôts et marketplaces à travers le monde. Nos défis : accompagner la transformation numérique du groupe, intégrer les nouveaux modèles commerciaux (circularité, wholesale) et préparer la transition vers SAP S/4HANA.&lt;/p&gt;\n&lt;h3 data-path-to-node=&quot;7&quot;&gt;TA FUTURE CONTRIBUTION&lt;/h3&gt;\n",
-      "postedAt": 1790193325,
+      "description": "&lt;h2&gt;Kurz und Knapp&lt;/h2&gt;\n&lt;p&gt;Du liebst die tägliche Abwechslung, siehst dich als (zukünftige) Führungskraft und bist bereit für eine neue Herausforderung in der Logistik, egal ob mit Fachhintergrund oder als &lt;strong data-path-to-node=&quot;22,2&quot; data-index-in-node=&quot;180&quot;&gt;Quereinsteiger&lt;/strong&gt;?&lt;br&gt;&lt;br&gt;Dann bist du bei Picnic genau richtig! Denn wir suchen nach einer (Junior) Teamleitung für unseren Last Mile Standort (Hub) in&lt;strong&gt; Frankfurt an der Oder&lt;/strong&gt;. Die Hubs werden mit unseren bereits fertig kommissionierten Waren aus dem Zentrallager (Fulfillment Center) beliefert und sind als Verteilzentrum die letzte Station unserer Logistikkette, bevor die Einkäufe beim Kunden auf dem Küchentisch landen.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span data-rich-links=&quot;{&amp;quot;fple-t&amp;quot;:&amp;quot;Teamleiter Last Mile Logistik bei Picnic&amp;quot;,&amp;quot;fple-u&amp;quot;:&amp;quot;https://youtu.be/gUawd1tvF1Q&amp;quot;,&amp;quot;fple-mt&amp;quot;:null,&amp;quot;type&amp;quot;:&amp;quot;first-party-link&amp;quot;}&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/gUawd1tvF1Q&quo",
+      "postedAt": 1790294116,
       "score": 9,
       "reasons": [
         "title: node",
@@ -1491,26 +1368,22 @@
       ]
     },
     {
-      "id": "remotive-2091144",
-      "source": "Remotive",
-      "title": "Content Reviewer - United States",
-      "company": "TELUS Digital",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
-      "applyUrl": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+      "id": "arbeitnow-maintenance-engineer-automation-instandhaltung-potsdam-brandenburg-403268",
+      "source": "Arbeitnow",
+      "title": "Maintenance Engineer (m/w/d) - Automation & Instandhaltung",
+      "company": "Teampicnic",
+      "location": "Potsdam, Brandenburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/maintenance-engineer-automation-instandhaltung-potsdam-brandenburg-403268",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/maintenance-engineer-automation-instandhaltung-potsdam-brandenburg-403268",
       "tags": [
-        "android",
-        "ios",
-        "social media",
-        "AI/ML"
+        "Operations"
       ],
-      "description": "   \n  We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit.  \n   \n  A Day in the Life of a Content Reviewer - US  \n  In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform.  \n   \n  By reviewing and rating search results for relevance and quality, you will help improve the overall search experience for millions of users around the world, including yourself.  \n  Join our global community and put your skills to work supporting one of the world's leading search technologies.  \n   \n  Service Rates   \n  The rate of pay is  $0.2333 per completed task, with an estimated earning potential of $14 per hour.  Compensation is based on tasks completed and project availability. Estimated earnings may vary depending on task volume and program requirements including, quality, and productivity, in accordance with the program's quality standards and guidelines.   \n   \n  P",
-      "postedAt": "2026-09-21T12:55:11",
+      "description": "&lt;section class=&quot;section vacancy-detail-intro-section&quot;&gt;\n&lt;div class=&quot;section-inner&quot;&gt;\n&lt;div class=&quot;entry-intro&quot;&gt;\n&lt;section class=&quot;section vacancy-detail-intro-section&quot;&gt;\n&lt;div class=&quot;section-inner&quot;&gt;\n&lt;div class=&quot;entry-intro&quot;&gt;\n&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p data-path-to-node=&quot;4&quot;&gt;Unsere Fulfilment Center gehören zu den modernsten ihrer Art und beliefern täglich tausende Haushalte mit frischen Lebensmitteln. Als nächstes eröffnen wir unser neues hybrides Fulfilment Center in Falkensee bei Berlin.&lt;/p&gt;\n&lt;p data-path-to-node=&quot;5&quot;&gt;Als Maintenance Engineer (m/w/d) im Bereich Automation &amp;amp; Instandhaltung arbeitest du mit modernen Intralogistik-, Fördertechnik- und Automatisierungssystemen von Herstellern wie Apollo, Qimarox und Regal Rexnord. In dieser Rolle als Maintenance Engineer sorgst du dafür, dass unsere hochautomatisierten Material-Handling-Anlagen mit maximaler Performance laufen. Du behebst Störungen in der Instandhaltung eigenständig und setzt nachhaltige technische Verbesserungen um.&lt;/p&gt;\n&lt;p data-path-to-n",
+      "postedAt": 1790294116,
       "score": 9,
       "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
+        "title: node",
+        "skill: node"
       ]
     },
     {

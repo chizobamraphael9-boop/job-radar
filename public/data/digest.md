@@ -1,6 +1,6 @@
-# Job Radar digest (2026-09-25)
+# Job Radar digest (2026-09-26)
 
-1. **Frontend Engineer** — Bjak  (44)
+1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420
 2. **Senior AI Engineer** — Lemon.io (31)
    https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131
@@ -18,14 +18,14 @@
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
 9. **Frontend Web Application Developer** — KoboToolbox (22)
    https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141
-10. **AI Developer Intern (m/w/d)** — Trusteq Gmbh (21)
-   https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-332499
+10. **Software Engineer Frontend - AI-Powered Store Manager Companion (f/m/d)** — Decathlontechnology (21)
+   https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-frontend-ai-powered-store-manager-companion-nantes-loire-atlantique-277606
 11. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
 12. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
-13. **Senior Full Stack Developer (all genders)** — Hubject Gmbh (18)
-   https://www.arbeitnow.com/jobs/companies/hubject-gmbh/senior-full-stack-developer-all-genders-deutschland-berlin-16760
+13. **Software Engineer – Internal Tools & Automation (m/w/d)** — Wattfox (18)
+   https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-380551
 14. **Senior Shopify Developer** — Sanctuary Computer Inc (18)
    https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140
 15. **Sr Solutions Architect** — ExtraHop (16)
@@ -36,7 +36,7 @@
    https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210
 18. **Software Engineer** — Prenosis (15)
    https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427
-19. **Lead Software Engineer (m/f/d)** — Alteos (15)
-   https://www.arbeitnow.com/jobs/companies/alteos/lead-software-engineer-berlin-385848
+19. **Tech Lead Software Engineer Android (f/m/d)** — Decathlontechnology (15)
+   https://www.arbeitnow.fr/jobs/companies/decathlontechnology/tech-lead-software-engineer-android-villeneuve-dascq-nord-490267
 20. **Senior .NET Software Engineer** — OkWhen (13)
    https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411

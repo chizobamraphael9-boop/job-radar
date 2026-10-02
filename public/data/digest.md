@@ -1,4 +1,4 @@
-# Job Radar digest (2026-10-01)
+# Job Radar digest (2026-10-02)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420
@@ -8,35 +8,35 @@
    https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130
 4. **Senior Data Scientist** — Lemon.io (31)
    https://remotive.com/remote-jobs/data/senior-data-scientist-2091129
-5. **Senior Software Engineer (AI Platform)** — Smartly (30)
-   https://www.arbeitnow.com/jobs/companies/smartly/senior-software-engineer-ai-platform-berlin-392218
-6. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
+5. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
-7. **Full Stack Engineer (m/f/d)** — Glassdollar (24)
-   https://www.arbeitnow.com/jobs/companies/glassdollar/full-stack-engineer-berlin-413634
-8. **Frontend Web Application Developer** — KoboToolbox (22)
+6. **Frontend Web Application Developer** — KoboToolbox (22)
    https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141
-9. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
+7. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
-10. **AI Process Forward Deployed Engineer** — Jobgether (19)
+8. **AI Process Forward Deployed Engineer** — Jobgether (19)
    https://www.arbeitnow.ch/jobs/companies/jobgether/ai-process-forward-deployed-engineer-switzerland-349251
-11. **Remote Office Assistant** — Coalition Technologies  (19)
+9. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
-12. **Senior Shopify Developer** — Sanctuary Computer Inc (18)
+10. **Senior Shopify Developer** — Sanctuary Computer Inc (18)
    https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140
-13. **Sr Solutions Architect** — ExtraHop (16)
+11. **Sr Solutions Architect** — ExtraHop (16)
    https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394
-14. **Freelance Designer** — Control Shift Video (16)
+12. **Freelance Designer** — Control Shift Video (16)
    https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213
-15. **Head of Security** — Tremendous (16)
+13. **Head of Security** — Tremendous (16)
    https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210
-16. **Full Stack Software Engineer (Angular/Python)** — Lobster Data Gmbh (16)
-   https://www.arbeitnow.com/jobs/companies/lobster-data-gmbh/remote-full-stack-software-engineer-angular-python-239791
-17. **Software Engineer** — Prenosis (13)
+14. **Software Engineer** — Prenosis (13)
    https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427
-18. **Senior .NET Software Engineer** — OkWhen (13)
+15. **Senior .NET Software Engineer** — OkWhen (13)
    https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411
-19. **Backend Software Engineer** — Airspace Link (13)
+16. **Backend Software Engineer** — Airspace Link (13)
    https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409
-20. **AI agent engineer** — Sticker Mule (13)
+17. **AI agent engineer** — Sticker Mule (13)
    https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399
+18. **Software Engineer** — Mirantis (13)
+   https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387
+19. **Staff Software Engineer** — Evolve (13)
+   https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447
+20. **Operations Engineer II** — AWeber (13)
+   https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778

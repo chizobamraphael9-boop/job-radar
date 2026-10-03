@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-10-02T05:11:20.841Z",
+  "scannedAt": "2026-10-03T05:10:46.689Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 35,
+  "count": 39,
   "jobs": [
     {
       "id": "remoteok-1137420",
@@ -45,6 +45,74 @@
         "skill: react",
         "skill: html",
         "skill: css"
+      ]
+    },
+    {
+      "id": "remotive-2091132",
+      "source": "Remotive",
+      "title": "Senior back-end Engineer",
+      "company": "Lemon.io",
+      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+      "tags": [
+        ".Net",
+        "android",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "kubernetes",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "UI/UX",
+        "wordpress",
+        "blockchain",
+        "AI/ML",
+        "automation",
+        "project management",
+        "react native",
+        "research",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "Ethereum",
+        "graphic design",
+        "Typescript ",
+        "hardware",
+        "angular ",
+        "firebase",
+        "data engineering",
+        "Site Reliability",
+        "Symfony",
+        "next.js",
+        "infrastructure",
+        "flutter"
+      ],
+      "description": "  Senior Developer? Work Remote. Get Paid Well. Build What Matters.  \n     \n  Lemon.io  connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. \n We're currently hiring for a  research-driven AI company  on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. \n     \n  Open roles:  Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python &amp; LLM Developer, Senior Back-end Engineer (Python) \n     \n  Why this one's worth a look:  \n You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field. \n Locations: EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico. \n     \n  Requirements for Senior Back-end Developers:  \n \n 5+ years of software development experience \n 3+ years of experience with Golang and/or Python \n ",
+      "postedAt": "2026-09-30T13:15:26",
+      "score": 33,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "title: node",
+        "skill: javascript",
+        "skill: react",
+        "skill: node",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -293,6 +361,28 @@
       ]
     },
     {
+      "id": "arbeitnow-founding-product-engineer-london-411131",
+      "source": "Arbeitnow",
+      "title": "Founding Product Engineer",
+      "company": "Pharmlogic",
+      "location": "London HQ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pharmlogic/founding-product-engineer-london-411131",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/pharmlogic/founding-product-engineer-london-411131",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  We're on a mission   Every business grows through a CRM and a direct line to its customers. Healthcare, and pharmacy most of all, is the one place that never happened. It was too hard to build, too hard to distribute, and too hard to do compliantly. Customer data sits idle whilst running a community healthcare business continues to become structurally tighter.     We're on a mission to change that. We are the compliant data layer for community healthcare: the system that lets a pharmacy use the patient data it already holds to grow revenue and relationships, compliantly, on the clinical system it already runs.     This is already working. Pharmlogic is NHS-assured, integrated and lives in hundreds of pharmacies nationwide, and we've powered millions of patient communications.      The role   You will work directly with the CEO and founding team every day: deciding what gets built, building it, and owning it as it grows. There is no layer between you and the product, the customers, or the decisions.     Our stack is JS/TypeScript end to end: React on the frontend, Node on the backend, everything on Azure and we implement infrastructure as code throughout the process. We build fast",
+      "postedAt": 1790988002,
+      "score": 24,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "title: node",
+        "skill: react",
+        "skill: node"
+      ]
+    },
+    {
       "id": "remotive-2091141",
       "source": "Remotive",
       "title": "Frontend Web Application Developer",
@@ -369,23 +459,32 @@
       ]
     },
     {
-      "id": "arbeitnow-ai-process-forward-deployed-engineer-switzerland-349251",
+      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-120449",
       "source": "Arbeitnow",
-      "title": "AI Process Forward Deployed Engineer",
-      "company": "Jobgether",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-process-forward-deployed-engineer-switzerland-349251",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-process-forward-deployed-engineer-switzerland-349251",
+      "title": "Werkstudent*in im Projektmanagement",
+      "company": "Doo",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-120449",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-120449",
       "tags": [
-        "IT"
+        "Projektmanagement",
+        "CSS",
+        "HTML",
+        "Werkstudent",
+        "Product Consulting",
+        "JavaScript",
+        "Engineering",
+        "Make",
+        "Webentwicklung"
       ],
-      "description": " \n  This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AI Process Forward Deployed Engineer based in Switzerland.  \n This is a high-impact engineering role focused on bringing AI-powered process automation into enterprise production environments. You’ll own customer deployments from initial workflow setup through measurable improvement and successful handoff. The role combines hands-on software engineering, distributed systems, AI agents, workflow orchestration, and customer-facing technical leadership. You’ll work across Java services and React interfaces while configuring platforms, debugging integrations, and developing custom solutions. Your work will directly influence product evolution, deployment practices, and reusable engineering patterns. The environment is global, remote, collaborative, and designed for engineers who are comfortable operating with significant autonomy and ambiguity. \n   Accountabilities   \n \n \n Own the end-to-end deployment journey, from the initial process file through a production workflow that continuously improves based on measurable results. \n \n \n Establish successful cu",
-      "postedAt": 1790681073,
+      "description": "  Werde Teil unseres Teams!  Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen!   Deine Aufgaben    Du unterstützt unser Product Consulting Team bei der täglichen Arbeit und übernimmst gelegentlich Aufgaben im Rahmen von Kundenprojekten, beispielsweise das Erstellen von Websites sowie Landingpages  Im Rahmen von Kundenanfragen nimmst du Anpassungen in CSS, HTML, JavaScript oder unserer Automatisierungssoftware vor   Du kümmerst dich um die Dokumentation des Projektverlaufs im Hinblick auf relevante Milestones im Projektmanagement-Tool  Du unterstützt unser Onsite-Team bei der Datenintegration zwischen der Online-Registrierung und vor-Ort-Lösungen  Du kümmerst dich um die Konfiguration, Prüfung und den Versand von Hardware (z.B. Scannern)  Du unterstützt unsere Kunden beim Einlassmanagement vor Ort (inkl. Auf- und Abbau) sowie remote  Du arbeitest aktiv an Projekten zur Prozessoptimierung mit und bringst eigene Ideen und Vorschläge ein     Dein Profil    Du bis",
+      "postedAt": 1790993378,
       "score": 19,
       "reasons": [
-        "title: react",
-        "title: software engineer",
-        "skill: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: html",
+        "skill: css",
         "location: Remote"
       ]
     },
@@ -613,6 +712,26 @@
       ]
     },
     {
+      "id": "arbeitnow-senior-frontend-engineer-gn-berlin-376177",
+      "source": "Arbeitnow",
+      "title": "Senior Frontend Engineer (gn)",
+      "company": "Ingestro",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/ingestro/senior-frontend-engineer-gn-berlin-376177",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/ingestro/senior-frontend-engineer-gn-berlin-376177",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "    What will you do       Take a leading role in building the  frontend of our new data platform from scratch (0→1) , shaping how non-technical users interact with complex data workflows    Own the  frontend architecture and user experience  of the platform, making pragmatic decisions that balance speed and long-term scalability    Build and ship  high-quality, production-ready features  using React and TypeScript    Rapidly  prototype, iterate, and improve  complex user flows for data onboarding and pipeline configuration    Actively  challenge product and design decisions , taking ownership of making the product intuitive and usable    Define and evolve  frontend patterns, component architecture, and state management approaches     Collaborate closely with Product, Design, and Backend to turn high-level problems into  working solutions     Drive  code quality  through hands-on development, code reviews, and pairing    Spend a significant portion of your time  writing production code and building core features yourself     Guide and support other frontend engineers through  hands-on collaboration and technical leadership           What are we looking for?        5+ years of exper",
+      "postedAt": 1790994613,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
       "id": "remoteok-1137427",
       "source": "RemoteOK",
       "title": "Software Engineer",
@@ -626,7 +745,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNDAuODYuMjkuMTYy when applying to show you read the job post completely (#RNDAuODYuMjkuMTYy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMjAuMTEyLjEyMi41MA== when applying to show you read the job post completely (#RMjAuMTEyLjEyMi41MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -694,7 +813,7 @@
         "backend",
         "digital nomad"
       ],
-      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with Airspace Linkâs d...  Please mention the word **AMIABLE** and tag RNDAuODYuMjkuMTYy when applying to show you read the job post completely (#RNDAuODYuMjkuMTYy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with Airspace Linkâs d...  Please mention the word **AMIABLE** and tag RMjAuMTEyLjEyMi41MA== when applying to show you read the job post completely (#RMjAuMTEyLjEyMi41MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-19T20:00:01+00:00",
       "score": 13,
       "reasons": [
@@ -717,7 +836,7 @@
         "javascript",
         "typescript"
       ],
-      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RNDAuODYuMjkuMTYy when applying to show you read the job post completely (#RNDAuODYuMjkuMTYy). Thi",
+      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RMjAuMTEyLjEyMi41MA== when applying to show you read the job post completely (#RMjAuMTEyLjEyMi41MA",
       "postedAt": "2026-09-16T12:44:27+00:00",
       "score": 13,
       "reasons": [
@@ -740,7 +859,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNDAuODYuMjkuMTYy when applying to show you read the job post completely (#RNDAuODYuMjkuMTYy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuMTEyLjEyMi41MA== when applying to show you read the job post completely (#RMjAuMTEyLjEyMi41MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -814,78 +933,98 @@
       ]
     },
     {
-      "id": "arbeitnow-customer-success-associate-germany-455201",
+      "id": "arbeitnow-senior-web-engineer-react-remote-friendly-paris-445363",
       "source": "Arbeitnow",
-      "title": "Customer Success Associate",
-      "company": "Horizon3Ai",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/horizon3ai/customer-success-associate-germany-455201",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/horizon3ai/customer-success-associate-germany-455201",
+      "title": "Senior Web Engineer (React) - Remote Friendly",
+      "company": "Qonto",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-web-engineer-react-remote-friendly-paris-445363",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-web-engineer-react-remote-friendly-paris-445363",
       "tags": [
-        "Customer"
+        "Web"
       ],
-      "description": "  Get to Know Us   Horizon3.ai is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs.   We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results.  ",
-      "postedAt": 1790908813,
+      "description": "   Our mission and customers:    We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace   with banking at its core, augmented by financial tools. We are proud to be     rated 4.8 on Trustpilot      ,     &nbsp;   based on 55,000+ reviews.     Our culture     &nbsp;   puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75&nbsp;  (more about our culture   here  ).    \n   Our journey:&nbsp;   Founded in 2017 by &nbsp;      Alexandre      and      Steve       ,   Qonto has grown to 1,700 Qontoers serving over 750,000 customers across 8 European countries. We have been profitable since 2023, and we are just getting started.  \n   Our beliefs:    We hire for skills and potential. With 80+ nationalities, 45% women, of which 56% of women in our leadership team, diversity isn't a program; It's who we are.      We've built a discrimination-free hiring process      because the best teams are built on merit.  \n   AI at Qonto:    AI is deeply embedded in how we work (    here    ) &nbsp;-    Every Qontoer gets unlimited access to the best AI tools. We want people who experiment without waiting for permission, push",
+      "postedAt": 1790946283,
       "score": 13,
       "reasons": [
-        "title: node",
-        "skill: node",
+        "title: react",
+        "skill: react",
         "location: Remote"
       ]
     },
     {
-      "id": "arbeitnow-remote-network-operation-engineer-411432",
+      "id": "arbeitnow-software-engineering-intern-2027-start-berlin-57480",
       "source": "Arbeitnow",
-      "title": "Network Operation Engineer",
-      "company": "Share",
-      "location": "Remote · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432",
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "company": "databricks",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-57480",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-57480",
       "tags": [
-        "Network Engineering"
+        "University Recruiting - Engineering"
       ],
-      "description": " Network Operations Engineer  1. About the role  Share is the global marketplace for bandwidth. We aggregate telco infrastructure into a single layer and give ISPs, hyperscalers, and AI companies a clean path to deliver connectivity into every home and business across Kenya and the continent. Behind that marketplace is a real network: a BGP edge peering with Tier 1 transit, hyperscalers, and local exchanges, an MPLS backbone, aggregation and access gear, and the systems that watch all of it.  For the partners who run on us, the network is the product, and the NOC is where they feel it. A clean shift is a partner who never knew anything happened. That is the bar.  We are early and the team is small, so we cannot afford a pair of hands that only knows how to escalate. We need a capable network engineer who can stand a shift, resolve real faults without waking anyone, and then keep building the network while East Africa sleeps: propagation and peering checks, health passes across the estate, config changes through to merge, tickets off the board, automation that takes the next repetitive job off everyone's plate. The watching is the floor of this role, not the ceiling.  The NOC you wo",
-      "postedAt": 1790682013,
+      "description": "&lt;p&gt;&lt;strong&gt;P-968&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are passionate about helping data teams solve the world&#39;s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world&#39;s best data and AI infrastructure platform so our customers can use deep data insights to improve their business.&lt;/p&gt;\n&lt;p&gt;As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We&#39;re hiring across all of our teams, including full stack, backend, infrastructure, systems, tools, cloud, databases, and customer-facing products. You will have a dedicated mentor and will join our 2027 intern cohort where you&#39;ll connect with engineers, other interns, and leaders from across the company.&lt;/p&gt;\n&lt;p&gt;We are hiring Software Engineering Interns across multiple offices. Please apply for the single location that you&#39;re the most interested in, and we will discuss more with you as you move through the process. We can only consider one application in 30 days.&amp;nbsp",
+      "postedAt": 1790985303,
       "score": 12,
       "reasons": [
-        "location: Remote",
-        "location: Kenya",
-        "location: Africa"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-price-comparison-portal-berlin-233707",
-      "source": "Arbeitnow",
-      "title": "Software Engineer",
-      "company": "Preiswecker",
-      "location": "Berlin",
-      "url": "https://www.preiswecker.com/",
-      "applyUrl": "https://www.preiswecker.com/",
-      "tags": [
-        "Software Engineering",
-        "E-Commerce"
-      ],
-      "description": " Preiswecker is a price comparison portal in Germany, helping thousands of users find the best deals online every day.  We are looking for a Software Engineer to join our team and help build our price comparison platform.  We are currently offering the following position:  Software Engineer - Price comparison portal  Responsibilities   Design, build, and maintain features for our price comparison platform  Develop and optimize data pipelines that process merchant price feeds  Work closely with Product and BI to ship reliable, scalable features  Write clean, well-tested code and participate in code reviews  Monitor and improve performance of our systems   Qualifications   completed degree in computer science or a related field, or equivalent experience  solid experience with backend development and relational databases  familiarity with modern software engineering practices (testing, CI/CD, version control)  analytical mindset and a strong sense of ownership  good German and English   Benefits   flexible working hours and remote work options  flat hierarchies and short decision-making paths  modern office in a central location  training budget  fair salary and growth opportunities  ",
-      "postedAt": 1786516800,
-      "score": 10,
-      "reasons": [
         "title: software engineer",
-        "location: Remote"
+        "title: full stack"
       ]
     },
     {
-      "id": "arbeitnow-backend-engineer-acquisition-technology-london-56174",
+      "id": "arbeitnow-tech4instore-senior-software-engineer-instore-lille-btwin-village-nord-nantes-loire-atlantique-204750",
       "source": "Arbeitnow",
-      "title": "Backend Engineer - Acquisition Technology",
-      "company": "iwoca",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/backend-engineer-acquisition-technology-london-56174",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/backend-engineer-acquisition-technology-london-56174",
+      "title": "Tech4instore Senior Software Engineer - INSTORE (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Lille - Btwin Village, Nord; Nantes, Loire-Atlantique",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/tech4instore-senior-software-engineer-instore-lille-btwin-village-nord-nantes-loire-atlantique-204750",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/tech4instore-senior-software-engineer-instore-lille-btwin-village-nord-nantes-loire-atlantique-204750",
       "tags": [
-        "Software Engineering and Tech"
+        "Engineering"
       ],
-      "description": " Backend Engineer - Acquisition Tech - DE  Hybrid in London or remote within the UK     We’re looking for a Backend Engineer   You'll be the first engineer on the German side of Acquisition Tech, owning the customer acquisition systems that decide which small businesses iwoca reaches and how they convert.     The company   Small businesses move fast. Opportunities often don’t wait, and cash flow pressures can appear overnight. To keep going, and growing, SMEs need finance that’s as flexible and responsive as they are.  That's why we built iwoca. Our smart technology, data science and five-star customer service ensures business owners can act with the speed, confidence and control they need, exactly when it's needed.  We’ve already cleared the way for 100,000 businesses with more than £4 billion in funding. Our passionate team is driven to help even more SMEs succeed, through access to better finance and other services that make running a business easier. Our ultimate mission is to support one million SMEs in their defining moments, creating lasting impact for the communities and economies they drive.     The team   The Acquisition Tech team owns how iwoca reaches German small busin",
-      "postedAt": 1790912405,
+      "description": "&lt;h1&gt;Tech4instore Senior Software Engineer (f/m/d)&lt;/h1&gt;\n&lt;p&gt;Lille ou Nantes, France&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Au sein du domaine &lt;strong&gt;In-Store&lt;/strong&gt;, nous souhaitons offrir le meilleur parcours aux coéquipiers en magasin et aux clients. La mission de l&#39;équipe&lt;strong&gt; Tech4instore&lt;/strong&gt; est d’adresser à l’échelle du domaine In Store les pain point tech, simplifier et accélérer le déploiement pour nos équipes, être un creuset de l’innovation et de l’exigence technique.&lt;/p&gt;\n&lt;p&gt;Si tu es passionné par l&#39;utilisation de la technologie pour améliorer l&#39;expérience sportive de milliers de magasins dans plus de 70 pays à travers le monde alors rencontrons-nous !&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;TA FUTURE CONTRIBUTION&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Nous recherchons un développeur d’application Spring boot senior avec une culture de la prod .&lt;/p&gt;\n&lt;p&gt;Le développeur intégrera une équipe de développeurs backend et frontend,&amp;nbsp; au sein d’une feature team travaillant en agile qui build et run plusieurs applications critiques de Deca",
+      "postedAt": 1790981708,
+      "score": 12,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer"
+      ]
+    },
+    {
+      "id": "arbeitnow-java-backend-entwickler-luzern-95490",
+      "source": "Arbeitnow",
+      "title": "Java Backend Entwickler",
+      "company": "Callista Group AG",
+      "location": "Luzern, Luzern, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/java-backend-entwickler-luzern-95490",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/java-backend-entwickler-luzern-95490",
+      "tags": [
+        "Software Engineering"
+      ],
+      "description": " Für den Neubau eines Vollprüfsystems für Kostengutsprachen bei einem Kunden in einem Versicherungsunternehmen suchen wir einen Senior Backend Software Engineer. Das neue System soll der steigenden Anzahl und Komplexität von Gesuchen um Kostenübernahme gerecht werden. Als Teil eines neu zusammengestellten Teams innerhalb eines Agile Release Trains bist du von Beginn an beim Green-Field-Aufbau dabei und gestaltest das System massgeblich mit.     Aufgaben       Mitarbeit im Scrum-Team als Backend-Entwickler beim Green-Field-Neubau des Vollprüfsystems    Erarbeitung von Lösungsdesigns für neue Anforderungen    Mitgestaltung und Weiterentwicklung der Architektur des neuen Systems und der Kernanwendungen    Umsetzung nach unternehmens- und teaminternen Vorgaben (z.B. Definition of Done)    Qualitätssicherung inkl. Produktregression         Mehrjährige Erfahrung in der Backend-Softwareentwicklung mit Java/Jakarta, Kubernetes und DevOps    Fundierte Erfahrung in Domain Driven Design und BPMN    Frontend-Kenntnisse in Angular von Vorteil    Mehrjährige Domänenerfahrung im Krankenversicherungsumfeld, idealerweise mit gutem Verständnis von Kostengutsprachen und Leistungsabwicklung, von Vorte",
+      "postedAt": 1790919009,
+      "score": 12,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-data-search-remote-europe-paris-389109",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer - Data Search (remote, Europe)",
+      "company": "Modash",
+      "location": "Paris, France · Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/modash/senior-software-engineer-data-search-remote-europe-paris-389109",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/modash/senior-software-engineer-data-search-remote-europe-paris-389109",
+      "tags": [
+        "Engineering",
+        "Computer Software",
+        "Data",
+        "Remote"
+      ],
+      "description": " Hey, I'm  Adrian . I’m hiring a Senior Software Engineer to join the Data Search team at Modash.  Modash helps brands find, understand, and work with creators across Instagram, TikTok, and YouTube. More than 2,700 companies—including Stanley 1913, Sennheiser, and NordVPN—use us to manage and scale their creator partnerships.  Behind that product is a fascinating search problem: helping customers find the right people across 400M+ creator profiles and billions of media files. We’re combining large-scale data processing, traditional retrieval, vector search, multimodal embeddings, and LLMs to make that possible.  That’s where you come in.  Why we're hiring  Search at Modash isn't an internal platform or a support function. It is one of the core products customers use to discover creators.  The scale is large, the data is messy, and the search intent is often complex. A customer might be looking for creators in a specific niche, people whose content conveys a certain visual style, or accounts that resemble a group they already know. Solving that well requires more than adding another filter or calling an LLM API.  We need a senior engineer who can work across the full retrieval syste",
+      "postedAt": 1790979613,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -905,25 +1044,6 @@
       ],
       "description": " \n Gravis Robotics is a high-growth Series A start-up backed by SoftBank, bringing Physical AI to the construction industry, turning heavy construction machines into autonomous robots.&nbsp; \n Gravis began as an ETH Zurich spin-out, and our unique combination of learning-based automation and augmented remote control lets one operator safely conduct a fleet of earthmoving machines in a gamified environment.&nbsp; \n Backed by deep robotics research and now deployed across multiple countries with leading construction and equipment partners, our team is rapidly growing to bring this technology to a trillion-dollar industry.&nbsp; \n The Gravis RACK is a machine-agnostic retrofit kit that adds autonomy to excavators and wheel loaders from 10 to 100+ tonnes: LiDAR and camera sensing, GNSS RTK, networking hardware and rugged edge compute that works offline. Paired with the Slate tablet and our Copilot software, it lets an operator run a machine manually, with AI assistance, or fully autonomously.&nbsp; Increasingly, we also build custom hardware to adapt our machines for highly specialized, robust applications beyond traditional excavation.&nbsp; \n   About the Job   \n The autonomy team at ",
       "postedAt": 1790874246,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-senior-software-engineer-quality-4113",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer, Quality",
-      "company": "Camunda",
-      "location": "Remote · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113",
-      "tags": [
-        "Products"
-      ],
-      "description": " Camunda is  the enterprise platform for agentic orchestration , enabling organizations to coordinate  AI agents, people, and systems  across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale.  Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.   Fully remote and global,  we are in the middle of something bigger:  transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.  Named   GP Bullhound’s Top 100 Next Unicorn list,    2025 Great Place to Work certified.    Visionary     in    2025 Gartner® Magic Quadrant™      for Business Orchestration and Automation Technologies. ranked  3rd in Flexa's 2026    Most Flexible Companies  , We’re growing fast and looking for top talent to join our team.  If you want meaningful work, visible impact and put something",
-      "postedAt": 1790638808,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1036,16 +1156,18 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-systems-modeling-all-genders-berlin-68085",
+      "id": "arbeitnow-duales-studium-bachelor-of-science-wirtschaftsinformatik-software-engineering-heidelberg-156665",
       "source": "Arbeitnow",
-      "title": "Software Engineer - Systems Modeling (all genders)",
-      "company": "Reflex Aerospace GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/software-engineer-systems-modeling-all-genders-berlin-68085",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/software-engineer-systems-modeling-all-genders-berlin-68085",
-      "tags": [],
-      "description": "  Your Mission:   Join the Pinnacle of Satellite Technology Advancement in Germany!       Reflex Aerospace is at the forefront of propelling high-performance satellite technology to new heights within the German aerospace landscape.      As part of Reflex Aerospace, you will play a pivotal role in shaping the trajectory of the space industry's future. This is an opportunity to contribute your expertise and enthusiasm to a team that stands for innovation and excellence.      As Software Engineer - Systems Modeling you will join the Architecture and Processes (A&amp;P) team to develop the system infrastructure that enables the rapid development of satellite missions. You will work closely with all engineering teams to develop tools, digital models, and processes to enable our mission teams.    Your Background:     You hold a university degree in Computer Science, Aerospace Engineering or a related field, or bring equivalent work experience.    You have experience with MBSE, SysMLv2, and code-based systems modeling.    You have strong Python skills and are experienced in architecture, testing, automation, databases, and API interfacing.    You are proficient with Git, GitLab, and CI p",
-      "postedAt": 1790906961,
+      "title": "Duales Studium: Bachelor of Science (m/w/d) Wirtschaftsinformatik Software Engineering",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/duales-studium-bachelor-of-science-wirtschaftsinformatik-software-engineering-heidelberg-156665",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/duales-studium-bachelor-of-science-wirtschaftsinformatik-software-engineering-heidelberg-156665",
+      "tags": [
+        "SLT-PE"
+      ],
+      "description": "  Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen- und Anlagenbau, Automotive, Life Science, Pharma und Chemie, mit denen wir viel gemeinsam haben.   Unser ausgezeichneter Ruf bei Hidden Champions öffnet Dir die Türen für anspruchsvolle Projekte mit einzigartigen Gestaltungsmöglichkeiten. Werde Teil einer der besten und verlässlichsten Beratungen und nutze vielfältige Entwicklungschancen. Als engagiertes Teammitglied kannst Du bei uns schnell Verantwortung übernehmen und über Dich hinauswachsen. Du triffst auf ein starkes Team, das zusammenhält und wirklich etwas bewegen will.   Zusammen mit unserem Hochschulpartner, der Dualen Hochschule Baden-Württemberg in Mannheim (DHBW), bieten wir zum   01. Oktober 2026  &nbsp;Studienplätze am Standort Heidelberg für den Studiengang   Wirtschaftsinformatik (B. Sc.) mit der Vertiefungsrichtung Software Engineering an.      Was Dich erwartet     Das Studium der Wirtschaftsinformatik beschäftigt sich mit der Entwicklung und Anwendung von",
+      "postedAt": 1790994636,
       "score": 9,
       "reasons": [
         "title: software engineer",
@@ -1053,18 +1175,35 @@
       ]
     },
     {
-      "id": "arbeitnow-strategic-account-director-financial-services-london-4695",
+      "id": "arbeitnow-senior-software-engineer-support-integration-c-digital-patient-model-munchen-340245",
       "source": "Arbeitnow",
-      "title": "Strategic Account Director - Financial Services",
-      "company": "Sayari",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sayari/strategic-account-director-financial-services-london-4695",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/sayari/strategic-account-director-financial-services-london-4695",
+      "title": "Senior Software Engineer, Support & Integration (C++) – Digital Patient Model",
+      "company": "Snke",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-support-integration-c-digital-patient-model-munchen-340245",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-support-integration-c-digital-patient-model-munchen-340245",
+      "tags": [],
+      "description": "  What you'll do  As a  Senior Software Engineer, Support &amp; Integration (C++) , you will join the  Snke Anatomy  Applications team and help ensure that our Digital Patient Model services are reliably integrated and supported in customer environments. In this role, you will handle escalated technical issues and provide third-level support through analysis, root cause investigation, and collaboration with the engineering team. You will also support legacy products through technical analysis and contribute to development work whenever support demand allows.    Investigate and analyze customer-reported issues in production systems, integration setups, and internal environments.  Reproduce issues, identify root causes, and provide clear technical findings to the responsible engineering team.  Support customers with the integration of our services, APIs, and data flows.  Analyze issues in legacy products and support their continued operation.  Work with modern C++20 services and understand older C++ code bases for debugging and support purposes.  Communicate technical findings clearly to internal teams and customers.  Contribute to development work when support priorities allow.     ",
+      "postedAt": 1790993358,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-founding-lead-support-engineer-berlin-berlin-72921",
+      "source": "Arbeitnow",
+      "title": "Founding Lead Support Engineer",
+      "company": "unframe",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/unframe/founding-lead-support-engineer-berlin-berlin-72921",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/unframe/founding-lead-support-engineer-berlin-berlin-72921",
       "tags": [
-        "Commercial Enterprise"
+        "Product Growth"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Sayari:&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;div&gt;\n&lt;p&gt;Sayari is the judgment infrastructure for trustworthy AI in economic security and commercial risk. The Sayari Commercial World Model resolves 11.7B+ primary-source records from 250+ jurisdictions forming the ground truth of global commerce. A Judgment Ontology, encoding over a decade of investigative tradecraft, and Superconductor, an agentic orchestration platform, deliver AI that reasons like an expert analyst, shows its work, and traces every finding to its source. Trusted by U.S. Customs and Border Protection, HM Revenue &amp;amp; Customs, and Fortune 500 enterprises, Sayari is used by thousands of professionals across 35+ countries to secure supply chains and dismantle illicit networks. Headquartered in Washington, D.C., with offices in London, Singapore, Tokyo, and Tel Aviv.&lt;/p&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;h3&gt;POSITION DESCRIPTION:&lt;/h3&gt;\n&lt;p data-path-to-node=&quot;7&quot;&gt;Sayari is seeking a seasoned, elite &lt;strong data-path-to-node=&quot;7&quot; data-index-in-node=&quot;36&quot;&gt;Enterprise Account Executive&lt;/str",
-      "postedAt": 1790891714,
+      "description": "&lt;h3&gt;&lt;strong&gt;About Unframe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Unframe is an AI-first startup helping the world’s largest enterprises bring LLM-powered applications to life in days - not months. We combine the speed of a product company with the flexibility of a consultancy, helping customers move from idea to deployed AI systems faster than anyone else in the market.&lt;/p&gt;\n&lt;p&gt;Backed by Bessemer, Craft, and TLV Partners with $100M in Series B funding, we’re building a fast-growing, revenue-generating company working with Fortune 500 customers globally.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-path-to-node=&quot;8&quot;&gt;We are looking for a &lt;strong data-path-to-node=&quot;8&quot; data-index-in-node=&quot;21&quot;&gt;Founding Lead Support Engineer&lt;/strong&gt; to establish and lead our enterprise support function while supporting large global enterprise customers using Unframe&#39;s AI-powered solutions.&lt;/p&gt;\n&lt;p data-path-to-node=&quot;9&quot;&gt;In this founding role, you will be the bridge between our Fortune 500 customers, Product, and Engineering. You will own the technical post-deployment customer exp",
+      "postedAt": 1790974510,
       "score": 9,
       "reasons": [
         "title: node",
@@ -1072,22 +1211,39 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-delta-platform-zurich-204451",
+      "id": "arbeitnow-mobile-team-tech-lead-london-contractor-127014",
       "source": "Arbeitnow",
-      "title": "Software Engineer - Delta Platform",
-      "company": "BLP Digital AG",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/blp-digital-ag/software-engineer-delta-platform-zurich-204451",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/blp-digital-ag/software-engineer-delta-platform-zurich-204451",
+      "title": "Mobile Team Tech Lead, London, Contractor",
+      "company": "ION Group",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ion-group/mobile-team-tech-lead-london-contractor-127014",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/ion-group/mobile-team-tech-lead-london-contractor-127014",
       "tags": [
-        "Engineering"
+        "Software Engineering"
       ],
-      "description": "  Join BLP and help make the world’s business processes autonomous!    Our agentic platform helps finance and operations teams worldwide remove manual work from their core business processes, so work runs end-to-end with greater control and significant productivity gains.   Today, over 550 enterprise customers use BLP across 1,300+ deployed projects. In the processes we automate, customers achieve productivity improvements of 5 to 10 times.   To date, BLP remains majority employee-owned, with Goldman Sachs holding a minority stake as a growth investor. Our success is driven by deep expertise in technology and business processes, a superior product with strong product-market fit, reflected in an expanding customer base that includes Fortune 500 companies.   BLP is one of Switzerland's fastest-growing SaaS scale-ups; we are now entering our next phase of growth. From our headquarters on Zürich's Bahnhofstrasse, we're expanding globally, with a growing presence across Europe and North America.    Join us and help make autonomous operations the new standard.        About the role  Delta builds BLP’s core software: the technical foundation that everything else at the company runs on.   ",
-      "postedAt": 1790682009,
+      "description": "    Lab49  &nbsp;  is an award-winning specialist consultancy that creates bespoke technology in partnership with the most important companies in finance. We were founded in 2002 to bring Silicon Valley solutions to Wall Street’s door. Since then, we have worked on successive waves of technological change, including distributed computing, high-speed automation, enterprise UX and digital distribution (for which Lab49 was among the first significant practices established on Wall Street), DevOps, cloud and data science.  \n  Today, we are an established partner in financial markets, having delivered hundreds of projects for clients including all the world’s tier-one investment banks and many of the largest buy-side firms globally.  \n   Lab49  &nbsp;   is currently looking for a&nbsp; Mobile Team Tech Lead  &nbsp; who&nbsp;will play a critical role on key projects for  Lab49  clients. Working in a collaborative and innovative project team, with direct client-facing interactions, you will have an opportunity to apply your skills and expertise to design innovative applications that solve complex problems and enhance performance and productivity at our marquis clients. You  &nbsp;will help",
+      "postedAt": 1790985879,
       "score": 9,
       "reasons": [
         "title: software engineer",
         "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-dynamics-365-power-platform-technical-lead-liebefeld-bern-switzerland-498734",
+      "source": "Arbeitnow",
+      "title": "Senior Dynamics 365 & Power Platform Technical Lead",
+      "company": "Speedgoat",
+      "location": "Liebefeld, Bern, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/speedgoat/senior-dynamics-365-power-platform-technical-lead-liebefeld-bern-switzerland-498734",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/speedgoat/senior-dynamics-365-power-platform-technical-lead-liebefeld-bern-switzerland-498734",
+      "tags": [],
+      "description": "  Your Impact  We are looking for a senior, hands-on Dynamics 365 &amp; Power Platform Technical Lead to own the technical development, integration, and lifecycle management of our Microsoft Dynamics 365 and Power Platform environment. The role covers Dynamics 365 Sales, Dynamics 365 Customer Service, and Dynamics 365 Marketing, together with Microsoft Dataverse, Power Apps, Power Automate, platform integrations, and related Azure services. You will translate business requirements into robust technical solutions and determine when to use standard platform capabilities, configuration, low-code development, or custom code. The role combines hands-on platform development with technical leadership, solution governance, and long-term ownership. This is primarily a  Dynamics 365   and Power Platform role . Strong professional software development experience with  C#/.NET, React, and TypeScript  is a valuable asset where requirements justify custom extensions, components, services, or integrations. You will work closely with business process owners across customer-facing teams, Technical Customer Support, Marketing, Data Engineering, and Corporate IT.     Your Contribution:      Own the p",
+      "postedAt": 1790917750,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
       ]
     },
     {
@@ -1114,25 +1270,6 @@
       ],
       "description": " Job Title: HR Operations SpecialistÂ   Type: Independent ContractorÂ   Location: Remote | South Africa    About Us  The Law Offices of Sabrina Li, P.C. is a leading, full-service U.S. immigration law firm with offices in Los Angeles, Pasadena, Santa Ana, and Dallas, as well as international operations across Asia, Africa, and Central and South America. We are dedicated to helping individuals, families, and businesses navigate complex legal challenges with skill, compassion, and integrity.  We are proud to be recognized as a 2025 Inc. Best Workplaces honoree, a distinction that reflects our intentional investment in our people and workplace culture. Our firm prioritizes professional development, clear career pathways, and a culture of accountability and respectâcreating a workplace where high performers can build meaningful, long-term careers.    The Opportunity  We are seeking a tech-savvy, proactive HR professional with excellent communication skills to support our HR team across recruitment, onboarding, compliance, and training. You'll work alongside firm leadership to keep day-to-day HR operations running smoothly and help identify smarter, more efficient ways to manage HR pr",
       "postedAt": "2026-09-12T00:00:05+00:00",
-      "score": 8,
-      "reasons": [
-        "location: Remote",
-        "location: Africa"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-network-developer-269751",
-      "source": "Arbeitnow",
-      "title": "Network Developer",
-      "company": "Share",
-      "location": "Remote · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-developer-269751",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-developer-269751",
-      "tags": [
-        "Network Engineering"
-      ],
-      "description": "  Senior Network Developer    About Share   Share is the global marketplace for bandwidth. We aggregate telco infrastructure across Africa (fiber routes, subsea capacity, data centers, cloud on-ramps) into a single intelligence layer. That lets ISPs, hyperscalers and AI companies get connectivity where they need it in seconds, not months.  Today, bandwidth is bought and sold through slow, private, one-off deals, with almost no price transparency. We're replacing that with one neutral exchange: an API on top of real infrastructure, with prices set by actual supply and demand. It's already live across East Africa, with thousands of kilometers of fiber, 12 infrastructure providers, 10 data centers, and around 8 million people served.   The Role   Our network is the foundation of the product. Every route a customer provisions through our API has to exist, perform and stay up on real hardware. We're hiring a Senior Network Developer to design and build that network as software: a distributed, multi-provider fabric that engineers change through code, not by logging into devices.  You'll own the network architecture end to end. That covers our BGP edge (transit, peering at KIXP and LINX, ",
-      "postedAt": 1790682013,
       "score": 8,
       "reasons": [
         "location: Remote",

@@ -1,51 +1,9 @@
 {
-  "scannedAt": "2026-10-05T05:21:04.930Z",
+  "scannedAt": "2026-10-06T05:11:28.121Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 48,
+  "count": 40,
   "jobs": [
-    {
-      "id": "arbeitnow-software-engineer-full-stack-backend-frontend-karlsruhe-141332",
-      "source": "Arbeitnow",
-      "title": "Software Engineer: Full-Stack, Backend, Frontend (m/w/d)",
-      "company": "Prenode",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-141332",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-141332",
-      "tags": [
-        "Typescript",
-        "Python",
-        "React",
-        "Angular",
-        "IIoT",
-        "KI",
-        "AI",
-        "Azure",
-        "DevOps",
-        "Kubernetes",
-        "Terraform",
-        "Javascript",
-        "NodeJS",
-        "Full-Stack",
-        "Backend",
-        "Frontend",
-        "Docker",
-        "Event-Driven Architecture"
-      ],
-      "description": "  Was wir bieten    Eine dynamische und ehrgeizige Umgebung, die dir eine steile Lernkurve und die Möglichkeit zum Wachstum garantiert.  Eine flexible und moderne Arbeitskultur, die dir die Vorteile der heutigen digitalen Möglichkeiten und Tools bietet.  Innovative Technologie und Herangehensweisen, die sicherstellen, dass deine tägliche Arbeit sinnvoll und wirkungsvoll ist.  Ein engagiertes Team, das zusammenarbeiten und voneinander lernen möchte.   Unsere Benefits im Überblick:   Gemeinsame Teamevents  EGYM Wellpass  Betriebliche Altersvorsorge  Kostenlose Getränke, Kaffee und Tee  Essenslieferung mit Cateroo  Stadtmobil (Carsharing)  Umfangreiche Weiterbildungsmöglichkeiten  Flexible Arbeitszeiten  Remote Work möglich  Workation möglich  Apple Hardware  Modernes Büro mit hochwertiger Ausstattung  und vieles mehr     Dein Impact    Begleite die Entwicklung von skalierbaren und robusten Cloud- und Edge-Services von der Konzeption bis zum Produktivbetrieb.  Entwickle innovative, skalierbare und robuste IIoT-Anwendungen und KI Lösungen für namhafte Kunden.  Sei Teil unseres agilen, interdisziplinären Entwicklungsteams und entwerfe und realisiere UI-Komponenten, Backend-Funktionalitä",
-      "postedAt": 1791166154,
-      "score": 46,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: javascript",
-        "title: software engineer",
-        "title: node",
-        "skill: javascript",
-        "skill: react",
-        "skill: git"
-      ]
-    },
     {
       "id": "remoteok-1137420",
       "source": "RemoteOK",
@@ -87,6 +45,31 @@
         "skill: react",
         "skill: html",
         "skill: css"
+      ]
+    },
+    {
+      "id": "arbeitnow-web-developer-paris-france-149922",
+      "source": "Arbeitnow",
+      "title": "Web Developer",
+      "company": "Novaspace",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/novaspace/web-developer-paris-france-149922",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/novaspace/web-developer-paris-france-149922",
+      "tags": [
+        "Digital & Data"
+      ],
+      "description": " \n \n  Are you passionate about web development, digital products, and the space sector? Would you like to expand your technical expertise while contributing to an innovative and rapidly evolving industry?  &nbsp;  \n \n \n  Joining Novaspace means becoming part of a fast-growing international consulting group specializing in the space sector. Novaspace is currently hiring a Web Engineer to support the development and continuous improvement of its digital platforms, websites, and web-based products.  &nbsp;  \n \n \n   As part of the Digital and Data team, the Web Engineer will contribute to Novaspace’s digital activities by developing and maintaining WordPress and WooCommerce websites, custom PHP solutions, React interfaces, and API integrations.  &nbsp;   \n \n   Responsibilities    \n \n\n  Develop, customize, and maintain WordPress and WooCommerce websites  \n  Build custom PHP features, themes, plugins, and backend functionality  \n  Develop responsive and user-friendly interfaces using React, HTML5, CSS3, and JavaScript  \n  Integrate third-party services, payment solutions, and internal systems through APIs  \n  Monitor, troubleshoot, and improve website performance, security, reliability, ",
+      "postedAt": 1791249855,
+      "score": 33,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "title: web developer",
+        "skill: javascript",
+        "skill: react",
+        "skill: html",
+        "skill: css",
+        "skill: git"
       ]
     },
     {
@@ -149,7 +132,7 @@
       ],
       "description": " Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  — the marketplace that connects you with hand-picked startups in the US and Europe. \n     \n  What we offer:  \n \n The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n \n   \n  Requirements for the Senior React &amp; Python Position:  \n ",
       "postedAt": "2026-10-02T13:30:06",
-      "score": 33,
+      "score": 31,
       "reasons": [
         "title: react",
         "title: javascript",
@@ -157,8 +140,7 @@
         "skill: javascript",
         "skill: react",
         "skill: node",
-        "location: Remote",
-        "posted this week"
+        "location: Remote"
       ]
     },
     {
@@ -427,44 +409,6 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-product-developer-berlin-140031",
-      "source": "Arbeitnow",
-      "title": "Full Stack Product Developer (m/w/d)",
-      "company": "Tablemedia",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-140031",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-140031",
-      "tags": [
-        "php",
-        "laravel",
-        "statamic",
-        "PostgreSQL",
-        "Livewire",
-        "html",
-        "css",
-        "javascript",
-        "RESTful APIs",
-        "Linux",
-        "frontend",
-        "backend",
-        "fullstack",
-        "product",
-        "productdevelopment"
-      ],
-      "description": "  Aufgaben      Du willst Technologie gestalten, die direkt etwas bewegt?   Bei Table.Briefings entwickeln wir digitale Produkte für ein wachsendes Medienunternehmen. Unsere Software hilft dabei, Prozesse effizienter zu machen, neue Geschäftsmodelle zu ermöglichen und unseren Redaktionen den Rücken freizuhalten – damit sie sich auf das konzentrieren können, was sie am besten können: hochwertigen Journalismus! Als dritter interner Entwickler bzw. dritte interne Entwicklerin übernimmst du eine zentrale Rolle in unserem Tech-Team. Du arbeitest an der gesamten Entwicklungskette: von der ersten Idee über Konzeption und Umsetzung bis zu Deployment, Betrieb und Weiterentwicklung. Dabei geht es nicht nur darum, Features zu programmieren. Du hilfst uns, die richtigen Probleme zu erkennen, Anforderungen zu schärfen und Lösungen zu entwickeln, die für unser Business, unsere Nutzerinnen und Nutzer und unsere Redaktionen wirklich einen Unterschied machen.       Deine Aufgaben       Du konzipierst, entwickelst und betreust unsere Webanwendungen, APIs und Apps.      Du arbeitest an unseren   Statamic  -basierten Plattformen und entwickelst unser CMS weiter.      Du entwickelst neue Funktionen mit",
-      "postedAt": 1791166178,
-      "score": 30,
-      "reasons": [
-        "title: frontend",
-        "title: javascript",
-        "title: full stack",
-        "skill: javascript",
-        "skill: html",
-        "skill: css",
-        "skill: git"
-      ]
-    },
-    {
       "id": "remotive-2069746",
       "source": "Remotive",
       "title": "Tech Lead Full-Stack Rails Engineer",
@@ -625,38 +569,6 @@
         "skill: css",
         "skill: git",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-internal-tools-automation-freiburg-76484",
-      "source": "Arbeitnow",
-      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
-      "company": "Wattfox",
-      "location": "Freiburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-76484",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-76484",
-      "tags": [
-        "Engineer",
-        "Python",
-        "JavaScript",
-        "TypeScript",
-        "Prototyp",
-        "MVP",
-        "FastAPI",
-        "Docker",
-        "CI",
-        "CD",
-        "Git",
-        "SQL"
-      ],
-      "description": "  Gemeinsam großartig – werde Teil des Teams   Du willst als  Software Engineer  mit  Python , APIs und Automatisierungen an Lösungen arbeiten, die direkt im operativen Alltag eingesetzt werden? In dieser Rolle entwickelst du interne Tools, Services und Schnittstellen, übersetzt Anforderungen aus den Fachbereichen in pragmatische technische Lösungen und verbindest bestehende Systeme sinnvoll miteinander. Dabei arbeitest du mit modernen Webtechnologien, Datenbanken und API-basierten Integrationen und entwickelst deine Lösungen von ersten Prototypen und MVPs Schritt für Schritt zu stabilen, wartbaren Anwendungen weiter.   Deine Mission    Du entwickelst neue und bestehende interne Anwendungen und Services mit Python weiter und setzt konkrete Anforderungen aus unserem operativen Geschäft technisch um.  Du arbeitest gemeinsam mit unseren Fachbereichen daran, Business-Anforderungen zu verstehen, zu strukturieren und daraus pragmatische technische Lösungsansätze, Prototypen und MVPs zu entwickeln.  Du erkennst gemeinsam mit dem Team Automatisierungs- und Optimierungspotenziale und verbindest bestehende Systeme über APIs, Datenbanken und Schnittstellen.  Du entwickelst funktionierende Pro",
-      "postedAt": 1791144584,
-      "score": 18,
-      "reasons": [
-        "title: javascript",
-        "title: software engineer",
-        "skill: javascript",
-        "skill: git"
       ]
     },
     {
@@ -843,6 +755,60 @@
       ]
     },
     {
+      "id": "arbeitnow-junior-fullstack-developer-hamburg-27740",
+      "source": "Arbeitnow",
+      "title": "Junior Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/junior-fullstack-developer-hamburg-27740",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/metergrid/junior-fullstack-developer-hamburg-27740",
+      "tags": [
+        "ScaleUp",
+        "StartUp",
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Engineering",
+        "Entwickler",
+        "Fullstack"
+      ],
+      "description": "  Deine Aufgaben    Du wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.    Das Team wächst gerade in zwei Bereichen:      Go-to-Market:       Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnung und das Partnerportal für Solarteure und Elektriker.      Projektumsetzung  :     Von der Unterschrift bis zum Produktivbetrieb. Ein neues Portal, das Messkonzept, Anmeldungen, Inbetriebnahme und erste Abrechnung aus Tabellen und E-Mail-Schleifen in eine App holt. Die erste Version wird gerade entworfen, du wärst von Anfang an dabei.    Du steigst in einem der beiden Bereiche ein. Welcher zu dir passt, klären wir im Gespräch.      Aufbau und Weiterentwicklung eines Produkts: Du übernimmst von Anfang an einen eigenen, überschaubaren Bereich unserer Software und wächst mit ihm      Enge, direkte Zusammenarbeit mit erfahrenen Entwicklern, Product und Design; in den ersten Monaten begleitet dich ein fester Buddy      Entwicklung von TypeScript-basierten Front- und Backends (React &amp; NestJS)      Umsetzung von Features end-to-end – vom Ticket über die erste Zeile C",
+      "postedAt": 1791241779,
+      "score": 15,
+      "reasons": [
+        "title: react",
+        "title: software engineer",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-fullstack-developer-hamburg-387687",
+      "source": "Arbeitnow",
+      "title": "Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/fullstack-developer-hamburg-387687",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/metergrid/fullstack-developer-hamburg-387687",
+      "tags": [
+        "ScaleUp",
+        "StartUp",
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Engineering",
+        "Entwickler",
+        "Fullstack"
+      ],
+      "description": "  Deine Aufgaben    Du wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.    Das Team wächst gerade in zwei Bereichen:      Go-to-Market:       Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnung und das Partnerportal für Solarteure und Elektriker.      Projektumsetzung  :     Von der Unterschrift bis zum Produktivbetrieb. Ein neues Portal, das Messkonzept, Anmeldungen, Inbetriebnahme und erste Abrechnung aus Tabellen und E-Mail-Schleifen in eine App holt. Die erste Version wird gerade entworfen, du wärst von Anfang an dabei.    Du steigst in einem der beiden Bereiche ein. Welcher zu dir passt, klären wir im Gespräch.       Aufbau und Weiterentwicklung eines Produkts: Du verantwortest einen eigenen Bereich unserer Software, von der Roadmap mit Product bis zur Qualität in Produktion      Enge, direkte Zusammenarbeit mit Product, Design und anderen Entwicklern; du klärst fachliche Anforderungen selbst und übersetzt sie in saubere Lösungen      Entwicklung von TypeScript-basierten Front- und Backends (React &amp; NestJS)      Umsetzung von Features end-to-en",
+      "postedAt": 1791241779,
+      "score": 15,
+      "reasons": [
+        "title: react",
+        "title: software engineer",
+        "skill: react"
+      ]
+    },
+    {
       "id": "remoteok-1137427",
       "source": "RemoteOK",
       "title": "Software Engineer",
@@ -856,7 +822,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNTIuMjQyLjI0Mi4xODU= when applying to show you read the job post completely (#RNTIuMjQyLjI0Mi4xODU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNTIuMjM0LjYuNDg= when applying to show you read the job post completely (#RNTIuMjM0LjYuNDg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -923,7 +889,7 @@
         "javascript",
         "typescript"
       ],
-      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RNTIuMjQyLjI0Mi4xODU= when applying to show you read the job post completely (#RNTIuMjQyLjI0Mi4xOD",
+      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RNTIuMjM0LjYuNDg= when applying to show you read the job post completely (#RNTIuMjM0LjYuNDg=). Thi",
       "postedAt": "2026-09-16T12:44:27+00:00",
       "score": 13,
       "reasons": [
@@ -946,7 +912,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTIuMjQyLjI0Mi4xODU= when applying to show you read the job post completely (#RNTIuMjQyLjI0Mi4xODU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTIuMjM0LjYuNDg= when applying to show you read the job post completely (#RNTIuMjM0LjYuNDg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -1020,38 +986,30 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-senior-frontend-engineer-vue-create-repository-management-62771",
+      "id": "arbeitnow-remote-maintainer-m-dw-d-342684",
       "source": "Arbeitnow",
-      "title": "Senior Frontend Engineer (Vue), Create:  Repository Management",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-frontend-engineer-vue-create-repository-management-62771",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-frontend-engineer-vue-create-repository-management-62771",
+      "title": "Maintainer (m/dw/d)",
+      "company": "Velptec",
+      "location": "Remote (Deutschland)",
+      "url": "https://www.arbeitnow.com/jobs/companies/velptec/remote-maintainer-m-dw-d-342684",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/velptec/remote-maintainer-m-dw-d-342684",
       "tags": [
-        "DevOps Engineering"
+        "maintainer",
+        "ki",
+        "ai",
+        "intelligence",
+        "software",
+        "engineering",
+        "code",
+        "backup",
+        "monitoring",
+        "cloud",
+        "aws",
+        "ci/cd",
+        "web application"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt;\n&lt;p&gt",
-      "postedAt": 1791140104,
-      "score": 13,
-      "reasons": [
-        "title: frontend",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-engineering-manager-ai-cicd-161384",
-      "source": "Arbeitnow",
-      "title": "Engineering Manager, AI CICD",
-      "company": "chainguard",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/engineering-manager-ai-cicd-161384",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/engineering-manager-ai-cicd-161384",
-      "tags": [
-        "R&D Engineering"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and Snowflake. &lt;br&gt;&lt;br&gt;Chainguard is venture-backed by leading investors, including Amplify, IVP, Kleiner Perkins, Lightspeed Venture Partners, Mantis VC, Redpoint Ventures, Sequoia Capital, and Spark Capital.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;The role, in a nutshell:&lt;/h3&gt;\n&lt;p&gt;At Chainguard we&#39;re focused on securing the software supply chain, and we&#39;re building the next generation of products at the intersection of security and AI. We&#39;re looking for an engineering manager to lead a fast-moving team shipping tools that developers will actually use — the Guardener, hardened GitHub Actions, Chainguard Agent Skills, and new products built on our microVM sandbox platfor",
-      "postedAt": 1791129313,
+      "description": "  Über uns   Richte dich neu aus. Auf deine Zukunft. Mit velpTEC.   velpTEC ist ein auf innovative Technologien ausgerichtetes Weiterbildungsinstitut, das Erfahrungen aus Wirtschaft, Zukunftsforschung und neuen Bildungsansätzen verbindet. Wir unterstützen Menschen durch unsere Bildungsangebote praxisnah dabei, ihre Fähigkeiten für künftige Zeiten zu stärken und damit aktiv ihren Lebensweg zu gestalten. In unserem Handeln legen wir Wert auf gesellschaftliche Verantwortung, Fortschritt und Selbstbestimmung.   Bereit für eine neue Mission? Dann entdecke jetzt deine Zukunftsperspektive bei velpTEC und werde Teil unseres multiprofessionellen und diversen Teams.   Wir bauen unsere digitalen Produkte in einem neuen, KI-nativen Produktteam mit fünf klaren Rollen: Prototyper, Builder, Sweeper, Grower und Maintainer. Jede Rolle hat einen eigenen Auftrag im Lebenszyklus eines Produkts, von der ersten Idee bis zum verlässlichen Betrieb. Gearbeitet wird an unserem Online-Campus, unseren Websites, unserem Shop und an neuen KI-gestützten Lern- und Vertriebsprodukten.   Du möchtest dafür sorgen, dass ein Produkt trägt, sobald Menschen sich darauf verlassen? Als Maintainer (m/w/d) hältst du unsere ",
+      "postedAt": 1791252581,
       "score": 13,
       "reasons": [
         "title: software engineer",
@@ -1060,42 +1018,43 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-senior-privacy-engineer-366025",
+      "id": "arbeitnow-polyglot-engineer-js-python-go-london-134432",
+      "source": "Arbeitnow",
+      "title": "Polyglot Engineer (JS/Python/Go)",
+      "company": "YLD.com",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/yldcom/polyglot-engineer-js-python-go-london-134432",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/yldcom/polyglot-engineer-js-python-go-london-134432",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  Location:  UK \n  Department:  Engineering \n  Employment Type:  Permanent \n About YLD: \n Our goal is to help our clients keep moving forward. We work with them to build the skills and capabilities they need to stay ahead of the competition, and we know our success only happens when they succeed. We’re a team of curious, talented people, and we’re committed to making YLD a place where great people want to work, grow, and stay. We’re a remote-first consultancy specialising in software engineering, product design, and data. Our teams are based across London, Lisbon, and Porto, and we create digital solutions that continue to deliver value long after our work is done. \n About the role: \n As a Senior Software Engineer at YLD, you’ll be part of a client team building innovative products. We’re looking for someone curious, passionate, driven, and enthusiastic. You should be skilled in problem-solving and experienced in designing scalable, resilient, and fault-tolerant architectures. You’re also an effective communicator and a strong team player. Together with your team, you’ll thrive in a fast-paced engineering environment, delivering outstanding results and exciting projects. \n Your day",
+      "postedAt": 1791217839,
+      "score": 13,
+      "reasons": [
+        "title: software engineer",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-senior-privacy-engineer-111342",
       "source": "Arbeitnow",
       "title": "Senior Privacy Engineer",
       "company": "Duck Duck Go",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-366025",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-366025",
+      "location": "Remote · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
       "tags": [
         "Engineering"
       ],
       "description": "  Who We Are   Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on  Mac ,  Windows ,  iOS , and  Android , our  search engine , and the  DuckDuckGo subscription . We also offer private, useful, and optional AI, including  Duck.ai , which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our  culture  of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!     Your Team and Role   Working on the Privacy Functional Team, you'll lead complex projects across key company-wide objectives. You'll protect the privacy of our users using Go, Node.js, Python, and (sometimes) Perl to write pragmatic, performant, testable code, and work on related projects. Potential projects include:    Designing systems for improving our search indexes and AI features witho",
-      "postedAt": 1791088807,
+      "postedAt": 1791081609,
       "score": 13,
       "reasons": [
         "title: node",
         "skill: node",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineering-intern-2027-start-london-297332",
-      "source": "Arbeitnow",
-      "title": "Software Engineering Intern (2027 Start) - London",
-      "company": "databricks",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineering-intern-2027-start-london-297332",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineering-intern-2027-start-london-297332",
-      "tags": [
-        "University Recruiting - Engineering"
-      ],
-      "description": "&lt;p&gt;P-1601&lt;/p&gt;\n&lt;p&gt;At Databricks, we are passionate about helping data teams solve the world&#39;s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world&#39;s best data and AI infrastructure platform so our customers can use deep data insights to improve their business.&lt;/p&gt;\n&lt;p&gt;As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We&#39;re hiring across all of our teams, including full stack, backend, infrastructure, systems, tools, cloud, databases, and customer-facing products. You will have a dedicated mentor and will join our 2027 intern cohort where you&#39;ll connect with engineers, other interns, and leaders from across the company.&lt;/p&gt;\n&lt;p&gt;We are hiring Software Engineering Interns across multiple offices. Please apply for the single location that you&#39;re the most interested in, and we will discuss more with you as you move through the process. We can only consider one application in 30 days.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;str",
-      "postedAt": 1791140105,
-      "score": 12,
-      "reasons": [
-        "title: software engineer",
-        "title: full stack"
       ]
     },
     {
@@ -1118,35 +1077,18 @@
       ]
     },
     {
-      "id": "arbeitnow-java-backend-entwickler-luzern-95490",
+      "id": "arbeitnow-senior-backend-engineer-ledger-platform-london-233024",
       "source": "Arbeitnow",
-      "title": "Java Backend Entwickler",
-      "company": "Callista Group AG",
-      "location": "Luzern, Luzern, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/java-backend-entwickler-luzern-95490",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/java-backend-entwickler-luzern-95490",
+      "title": "Senior Backend Engineer - Ledger Platform",
+      "company": "iwoca",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-backend-engineer-ledger-platform-london-233024",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-backend-engineer-ledger-platform-london-233024",
       "tags": [
-        "Software Engineering"
+        "Software Engineering and Tech"
       ],
-      "description": " Für den Neubau eines Vollprüfsystems für Kostengutsprachen bei einem Kunden in einem Versicherungsunternehmen suchen wir einen Senior Backend Software Engineer. Das neue System soll der steigenden Anzahl und Komplexität von Gesuchen um Kostenübernahme gerecht werden. Als Teil eines neu zusammengestellten Teams innerhalb eines Agile Release Trains bist du von Beginn an beim Green-Field-Aufbau dabei und gestaltest das System massgeblich mit.     Aufgaben       Mitarbeit im Scrum-Team als Backend-Entwickler beim Green-Field-Neubau des Vollprüfsystems    Erarbeitung von Lösungsdesigns für neue Anforderungen    Mitgestaltung und Weiterentwicklung der Architektur des neuen Systems und der Kernanwendungen    Umsetzung nach unternehmens- und teaminternen Vorgaben (z.B. Definition of Done)    Qualitätssicherung inkl. Produktregression         Mehrjährige Erfahrung in der Backend-Softwareentwicklung mit Java/Jakarta, Kubernetes und DevOps    Fundierte Erfahrung in Domain Driven Design und BPMN    Frontend-Kenntnisse in Angular von Vorteil    Mehrjährige Domänenerfahrung im Krankenversicherungsumfeld, idealerweise mit gutem Verständnis von Kostengutsprachen und Leistungsabwicklung, von Vorte",
-      "postedAt": 1790919009,
-      "score": 12,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-connectivity-c-berlin-301995",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer, Connectivity, C++",
-      "company": "vay",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vay/senior-software-engineer-connectivity-c-berlin-301995",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/vay/senior-software-engineer-connectivity-c-berlin-301995",
-      "tags": [],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ever imagined saying, “I helped launch the future of transportation”?&lt;/p&gt;\n&lt;p&gt;We’re rewriting the rules of urban mobility. At Vay, customers tap a button and a car arrives - with no one inside - powered by our world-first Remote Driving technology on real public streets.&lt;/p&gt;\n&lt;p&gt;We’re live in Las Vegas and scaling fast, powered by a strategic investment of up to $410 million from &lt;a href=&quot;https://www.grab.com/sg/&quot;&gt;Grab&lt;/a&gt;. Our mission is simple: replace private car ownership with a faster, cleaner, door-to-door mobility model. If you want to build something real, visible, and genuinely transformative, you’ll feel right at home here.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Curious to experience Vay yourself? Use the code &lt;em data-start=&quot;289&quot; data-end=&quot;303&quot;&gt;VAYCANDIDATE&lt;/em&gt; for $10 off your first trip in Las Vegas! Download the &quot;Vay&quot; app from the Apple or Google Play store &amp;amp; off you go!&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;What’s happening at Vay&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;First to roll out vehicles in b",
-      "postedAt": 1791168902,
+      "description": " Senior Back-End Engineer - Ledger Platform  Hybrid in London (UK) or Remote within the UK     We’re looking for a Senior Back-End Engineer   This role is a chance to tackle complex, high-impact challenges at the heart of our fintech platform. You will join the team that owns iwoca's ledger — the system of record for the money we lend and collect — and you will be responsible for scaling it across the full lifecycle of our credit card and lending products, building the reconciliation and reporting that prove it correct, and laying the foundations for our next generation of products. This is a hands-on role: you'll design these systems, write the code, and own them in production.     The company   Small businesses move fast. Opportunities often don’t wait, and cash flow pressures can appear overnight. To keep going, and growing, SMEs need finance that’s as flexible and responsive as they are.  That's why we built iwoca. Our smart technology, data science and five-star customer service ensures business owners can act with the speed, confidence and control they need, exactly when it's needed.  We’ve already cleared the way for 100,000 businesses with more than £4 billion in funding. O",
+      "postedAt": 1791258011,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1154,151 +1096,24 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-customer-success-manager-germany-183920",
+      "id": "arbeitnow-staff-ai-engineer-architecture-skills-488816",
       "source": "Arbeitnow",
-      "title": "Senior Customer Success Manager - Germany",
-      "company": "chainguard",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/chainguard/senior-customer-success-manager-germany-183920",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/chainguard/senior-customer-success-manager-germany-183920",
-      "tags": [
-        "Customer Success Management"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and Snowflake. &lt;br&gt;&lt;br&gt;Chainguard is venture-backed by leading investors, including Amplify, IVP, Kleiner Perkins, Lightspeed Venture Partners, Mantis VC, Redpoint Ventures, Sequoia Capital, and Spark Capital.&lt;/p&gt;&lt;/div&gt;&lt;table&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;div&gt;&lt;strong&gt;The role, in a nutshell:&lt;/strong&gt;&lt;br&gt;As a Customer Success Manager at Chainguard, you will be the post-sales primary point of contact for our customers. You will be responsible for taking lead on customer engagements across onboarding, implementation, and adoption. In this role, you will work closely with Solutions Architects, Technical Support, Product Management, Enginee",
-      "postedAt": 1791158102,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-senior-frontend-developer-all-genders-372910",
-      "source": "Arbeitnow",
-      "title": "Senior Frontend Developer (all genders)",
-      "company": "Contabo",
-      "location": "Remote (Germany) · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-372910",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-372910",
-      "tags": [
-        "it",
-        "infrastructure",
-        "code",
-        "cloud",
-        "hosting",
-        "data center",
-        "information technology",
-        "software",
-        "hybrid",
-        "remote",
-        "germany",
-        "company",
-        "tech",
-        "technology",
-        "frontend",
-        "developer"
-      ],
-      "description": "  Your creative field   We are looking for  two full-time, permanent Senior Frontend Developer  (all genders)  t  o start as soon as   possible . We live remote-first  within  Germany  , but you have the freedom to choose whether you want to work hybrid or completely on-site due to your proximity to one of our locations.   You’ll become an integral part of a new team which is going to be responsible for the creation and maintenance of Contabo's new product line. You’ll be part of a new team in a green field scenario making design, code and infrastructure decisions based on our product strategy and time-to-market.     We’re looking for brave, pragmatic risk takers who find a balance between speed and perfectionism, who participate in on-call but also proactively work with the team on improving the redundancy and up-time of our systems.  Your main focus is going to be on everything our customers can touch or use to interact with our platform – mainly GUI but also other cloud-native open source tools like terraform or CLIs etc, making sure we develop in the open with an active presence. You’ll be building on-top of an API teams and working closely with UX designers to build the best c",
-      "postedAt": 1791155371,
-      "score": 10,
-      "reasons": [
-        "title: frontend",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-platform-infrastructure-berlin-180628",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer - Platform & Infrastructure (f/m/d)",
-      "company": "Holoplot",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-software-engineer-platform-infrastructure-berlin-180628",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-software-engineer-platform-infrastructure-berlin-180628",
-      "tags": [],
-      "description": "  The product you will work on    The HOLOPLOT Matrix Array is a new type of sound system built around precise, software-defined control of sound in three dimensions - grounded in physics and implemented through a combination of custom hardware and purpose-built software. HOLOPLOT deployed Matrix Arrays in various venues, including the Sphere in Las Vegas - the world’s most advanced entertainment venue and, notably, home to the world’s largest audio installation in entertainment.      Audio processing in HOLOPLOT systems is distributed: every loudspeaker runs embedded Linux, and hundreds of them have to be configured, coordinated, monitored, and updated as one system. This is enabled by multiple open source and in-house developed services running on an on-premises Kubernetes cluster. AWS-hosted services connect venues to remote monitoring, telemetry, and configuration. Many venues are air-gapped or only intermittently connected for remote servicing, and that constraint shapes most of the design decisions in the platform.     The ideal candidate is    We are looking for a Senior Software Engineer who builds the platform our sound systems run on, and who takes responsibility for how ",
-      "postedAt": 1791155364,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-integration-engineer-agentic-systems-paris-based-18687",
-      "source": "Arbeitnow",
-      "title": "Software / Integration Engineer (Agentic Systems) - Paris based",
+      "title": "Staff AI Engineer - Architecture skills",
       "company": "shifttechnology",
       "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/software-integration-engineer-agentic-systems-paris-based-18687",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/software-integration-engineer-agentic-systems-paris-based-18687",
+      "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/staff-ai-engineer-architecture-skills-488816",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/staff-ai-engineer-architecture-skills-488816",
       "tags": [
         "Technology - Software Engineering",
         "Infrastructure",
         "and Security"
       ],
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;Shift delivers AI agents that transform insurers&#39; most critical work. By combining deep industry expertise and unmatched data resources, Shift provides proven results that have earned the trust of hundreds of the world&#39;s leading insurers. Our insurance-grade AI is accurate, explainable, and secure—empowering human experts to move with unmatched speed, total confidence, and a renewed focus on the people they serve.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;video poster=&quot;https://8595762.fs1.hubspotusercontent-na1.net/hubfs/8595762/2026%20Website%20Refresh/2026%20Shift%20Brand%20Video/thumbnail-violet.jpg&quot; controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;\n&amp;nbsp;&amp;nbsp;&lt;source src=&quot;https://8595762.fs1.hubspotusercontent-na1.net/hubfs/8595762/2026%20Website%20Refresh/2026%20Shift%20Brand%20Video/2026%20Shift%20Brand%20Video%20(English).mp4&quot; type=&quot;video/mp4&quot;&gt;\n&amp;nbsp;&amp;nbsp;Your browser does not support the video tag.&lt;/video&gt;&lt;/p&gt;",
-      "postedAt": 1791035723,
+      "postedAt": 1791240915,
       "score": 10,
       "reasons": [
         "title: software engineer",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-junior-backend-developer-c-net-paris-113660",
-      "source": "Arbeitnow",
-      "title": "Junior Backend Developer, C# .Net - Paris",
-      "company": "shifttechnology",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/junior-backend-developer-c-net-paris-113660",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/junior-backend-developer-c-net-paris-113660",
-      "tags": [
-        "Technology - Software Engineering",
-        "Infrastructure",
-        "and Security"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;Shift delivers AI agents that transform insurers&#39; most critical work. By combining deep industry expertise and unmatched data resources, Shift provides proven results that have earned the trust of hundreds of the world&#39;s leading insurers. Our insurance-grade AI is accurate, explainable, and secure—empowering human experts to move with unmatched speed, total confidence, and a renewed focus on the people they serve.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;video poster=&quot;https://8595762.fs1.hubspotusercontent-na1.net/hubfs/8595762/2026%20Website%20Refresh/2026%20Shift%20Brand%20Video/thumbnail-violet.jpg&quot; controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt;\n&amp;nbsp;&amp;nbsp;&lt;source src=&quot;https://8595762.fs1.hubspotusercontent-na1.net/hubfs/8595762/2026%20Website%20Refresh/2026%20Shift%20Brand%20Video/2026%20Shift%20Brand%20Video%20(English).mp4&quot; type=&quot;video/mp4&quot;&gt;\n&amp;nbsp;&amp;nbsp;Your browser does not support the video tag.&lt;/video&gt;&lt;/p&gt;",
-      "postedAt": 1791035723,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "remoteok-1137460",
-      "source": "RemoteOK",
-      "title": "Junior Crypto Analyst & Trader",
-      "company": "Empire Assets",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
-      "tags": [
-        "crypto",
-        "finance",
-        "trader",
-        "remote",
-        "part time",
-        "full time",
-        "web3",
-        "bitcoin",
-        "ethereum",
-        "blockchain",
-        "defi",
-        "work from home",
-        "Anywhere",
-        "junior",
-        "analyst",
-        "exec",
-        "ops"
-      ],
-      "description": "   Application URL   https://empireground.com/work/remoteok   Empire Assets is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern approaches to trading, analysis and decision-making in a dynamic market environment.  We are currently looking for aÂ  Junior Crypto Analyst &amp; Trader Â , a novice specialist who is ready to complete training, perform real trading operations and develop under the guidance of experienced mentors.    Your Responsibilities   Execution and support of trading operations on digital markets.  Tracking asset dynamics and market trends.  Maintaining internal records on transactions and statistics.  Analyzing market data, news, and charts for decision-making.  Work with analytical tools and participate in discussions with a team of traders.  The gradual formation and improvement of your own trading strategy.     What We Offer   Working for a young and growing international company.  Remote format â you can work from anywhere in the world.  Flexible schedule â up to 20 hours per week, convenient to combine with study or main activity.  Learning from scr",
-      "postedAt": "2026-10-02T12:53:01+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
       ]
     },
     {
@@ -1407,35 +1222,29 @@
       ]
     },
     {
-      "id": "arbeitnow-system-software-engineer-gn-cloud-simulation-dresden-13470",
+      "id": "arbeitnow-senior-fullstack-developer-business-automation-hamburg-59608",
       "source": "Arbeitnow",
-      "title": "System Software Engineer (gn) Cloud & Simulation",
-      "company": "Wandelbots GmbH",
-      "location": "Dresden",
-      "url": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/system-software-engineer-gn-cloud-simulation-dresden-13470",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/system-software-engineer-gn-cloud-simulation-dresden-13470",
-      "tags": [],
-      "description": "  Your mission   At Wandelbots, we are building NOVA, a platform that makes industrial robot programming accessible to everyone. Our Simulation team develops the technologies that allow partners, customers, and internal teams to work with photorealistic digital twins of real production environments.    This includes a pipeline that transforms real-world scans into usable 3D scenes through Gaussian Splatting, as well as a browser-based streaming platform built on     NVIDIA     Omniverse and Isaac Sim. Both technologies work today, but neither is yet operated as a product. Your mission is to change that.    The first step is internal standardization. We want to replace individually maintained environments and hand-crafted deployments with one reproducible, documented solution that teams can use independently: scene in, session out, without requiring the Simulation team to operate every setup.   The second step is external productization. The same capabilities need to be packaged so that partners and customers can operate them in their own environments.    E.g. with versioned releases, stable interfaces, tenant isolation, diagnostics, upgrade paths, and documentation.    You will joi",
-      "postedAt": 1791144556,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-anwendungsarchitekt-full-stack-java-spring-react-k8s-munich-321699",
-      "source": "Arbeitnow",
-      "title": "Anwendungsarchitekt - Full-Stack Java/Spring, React, K8s (m/w/d)",
-      "company": "Auxilius.ai",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/auxiliusai/anwendungsarchitekt-full-stack-java-spring-react-k8s-munich-321699",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/auxiliusai/anwendungsarchitekt-full-stack-java-spring-react-k8s-munich-321699",
+      "title": "Senior Fullstack Developer – Business Automation (m/w/d)",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/senior-fullstack-developer-business-automation-hamburg-59608",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/metergrid/senior-fullstack-developer-business-automation-hamburg-59608",
       "tags": [
-        "Software Development"
+        "Typescript",
+        "API Integration",
+        "Hubspot",
+        "Automation",
+        "CRM",
+        "SaaS",
+        "Erneuerbare Energien",
+        "Tenant Electricity",
+        "Energiewende",
+        "Mieterstrom",
+        "StartUp",
+        "ScaleUp"
       ],
-      "description": " Du wirst Teil eines KI-nativen Start-ups in einer frühen Entwicklungsphase, dessen Produkt seinen Product-Market-Fit bereits unter Beweis gestellt hat. Wir entwickeln modernste KI-Lösungen für Governance, Risikomanagement und Compliance (GRC) für Unternehmen weltweit. \n Unsere Kunden sind Auditoren, Risikomanager und Compliance-Teams. Deshalb sind gründliche Evaluierung, Auditierbarkeit und die Vorbereitung auf die Anforderungen der EU-KI-Verordnung für uns keine nachträglichen Ergänzungen, sondern feste Produktanforderungen. \n Aufgaben \n Als  Anwendungsarchitekt (m/w/d)  gehörst du zu unseren ersten Senior-Entwicklern in Vollzeit und arbeitest eng mit unserem Mitgründer und CTO zusammen. Du verantwortest die Backend-Architektur und hilfst dem Team, Qualität und Entwicklungsgeschwindigkeit mit dem Wachstum zu steigern. \n In den ersten  6–12 Monaten  wirst du: \n \n eine klare Zielarchitektur und eine solide Dokumentationsgrundlage mit  arc42  etablieren; \n das zentrale Domänenmodell anhand von  DDD-Prinzipien  präzisieren und im Team vermitteln; \n einen  KI-getriebenen Entwicklungsprozess  einführen und standardisieren – von der Feature-Spezifikation bis zur Bereitstellung in der Pr",
-      "postedAt": 1791140446,
+      "description": "  Deine Aufgaben    Wir verantworten u.a. das zentrale CRM HubSpot, über das alle Prozesse unserer Wertschöpfungskette laufen. Interne Software-Produkte integrieren sich genauso in unsere CRM-Infrastruktur wie spezifische Apps, z.B. zur Terminbuchung bei einer Kundenanfrage. Der nächste Skalierungs-Schritt erfordert einen noch stärkeren Fokus auf technisches Enablement unserer eigenen Organisation sowie den Ausbau und die Verbesserung unseres eigenen technischen Verantwortungsbereichs.    Du übernimmst dabei eine gewachsene, produktive Automatisierungslandschaft: Ein Teil unserer Geschäftslogik läuft heute als Custom Code direkt in HubSpot-Workflows, ein Teil in eigenen Backend-Services. Beides gehört dir – und du gestaltest aktiv mit, wohin sich diese Architektur entwickelt.   Softwareentwicklung     Entwicklung TypeScript-basierter Automatisierungen und Services entlang unserer gesamten Wertschöpfungskette im HubSpot CRM      Entwicklung von HubSpot-Apps und UI Extensions (React) für unsere internen Teams – von CRM-Cards bis Workflow-Actions      Verwaltung von Scopes, Token-Rotation, App-Versionierung und Deployments (CI/CD)     Automatisierungen &amp; Workflows     Entwicklung ",
+      "postedAt": 1791241779,
       "score": 9,
       "reasons": [
         "title: react",
@@ -1443,18 +1252,24 @@
       ]
     },
     {
-      "id": "arbeitnow-operations-engineer-london-36081",
+      "id": "arbeitnow-engineering-manager-core-team-hamburg-55221",
       "source": "Arbeitnow",
-      "title": "Operations Engineer",
-      "company": "Odin",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/operations-engineer-london-36081",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/odin/operations-engineer-london-36081",
+      "title": "Engineering Manager (m/w/d) – Core Team",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/engineering-manager-core-team-hamburg-55221",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/metergrid/engineering-manager-core-team-hamburg-55221",
       "tags": [
-        "Operations"
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Core Team",
+        "Energiewirtschaft",
+        "Django",
+        "React"
       ],
-      "description": " Odin is building the investment infrastructure for the future of private markets. We believe capital is one of the most powerful tools for shaping the world - and more people should know how to put it to work. Our mission is to make it radically easier to raise and deploy capital, so that anyone, anywhere, can back the companies and ideas they believe in.  Our first product is a full-stack platform for launching and running private investment firms, allowing you to run everything from your phone - think Shopify for VC and PE. We handle all the infrastructure: from legal structuring and investor onboarding to KYC/AML, payments, tax, reporting, and exits.  We're already trusted by over 10,000 angels, VCs, and founders. We administer over $750m in assets, covering investments from pre-seed to series E. This includes household names like ElevenLabs, OpenAI, SpaceX, xAI, Anduril, etc. but also new companies creating everything from synthetic brains to small nuclear reactors.   Why we're hiring      We are automating a decades old part of the financial services industry. AI pilled operators like you are the beating heart of this plan, because LLMs &amp; agents allow us to turn this serv",
-      "postedAt": 1791139202,
+      "description": "  Deine Aufgaben    Wir bauen die Software, mit der Mieterstromprojekte laufen: Zählerdaten rein, Abrechnung raus, und alles dazwischen. Das Core Team verantwortet das Betreiberportal, das Produkt, auf dem der laufende Betrieb unserer Kunden steht. Es ist unser fachlich tiefstes Team, und es wächst.    Das Betreiberportal ist kein generisches SaaS. Es bildet die Energiewirtschaft ab: Messstellenbetrieb, Marktkommunikation, Netzentgelte, Umlagen, Abrechnung nach Regeln, die der Gesetzgeber schreibt und regelmäßig ändert. Wer hier priorisiert, muss verstehen, was eine Anforderung für den Betreiber wirtschaftlich bedeutet und was passiert, wenn sie falsch umgesetzt wird.    Dafür suchen wir eine Person, die das Team führt und das Geschäft dahinter versteht. Nicht als Durchreiche für Tickets und nicht als Architekt, der alles selbst entscheidet, sondern als jemand, der Business-Anforderungen in technische Entscheidungen übersetzt und dafür sorgt, dass gute Entwickler gute Arbeit machen können: klare Ziele, wenig Reibung, ehrliches Feedback, verlässliche Lieferung.    Der Weg dahin ist bewusst gewählt: Du startest für rund sechs Monate als Entwickler im Core Team. Du baust Features, mac",
+      "postedAt": 1791241779,
       "score": 9,
       "reasons": [
         "title: react",
@@ -1462,18 +1277,18 @@
       ]
     },
     {
-      "id": "arbeitnow-research-scientist-computational-enzymology-cambridge-ma-56281",
+      "id": "arbeitnow-network-engineer-london-427158",
       "source": "Arbeitnow",
-      "title": "Research Scientist, Computational Enzymology",
-      "company": "Dayhoff Labs",
-      "location": "Cambridge, MA",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dayhoff-labs/research-scientist-computational-enzymology-cambridge-ma-56281",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/dayhoff-labs/research-scientist-computational-enzymology-cambridge-ma-56281",
+      "title": "Network Engineer",
+      "company": "Openai",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/network-engineer-london-427158",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/openai/network-engineer-london-427158",
       "tags": [
-        "In Silico"
+        "Security"
       ],
-      "description": "  About us  We're reverse-engineering the origin of life — one of the great unsolved problems in science, and one we think AI finally makes tractable. Understanding this transition, from geochemistry to biochemistry, is what will let us orchestrate molecular networks and build systems that are more capable, adaptive, and efficient.  If we succeed, the applications are vast: catalysis, green synthesis, ab initio synthetic biology, programmable matter. Understanding and harnessing these processes could let ten billion of us thrive on this planet — and let life keep evolving beyond it.  We're a small, diverse team of AI engineers, computational scientists, and bench scientists. We hold ourselves to the rigor of a research institute, but we ship like an engineering firm. Global team, HQs in Cambridge, MA and London, UK.   The role  You'll simulate enzyme-catalysed reactions from the physics up. Using reactive and free-energy methods you'll map how reactions proceed in the active site, compute transition states and barriers, and work out where the catalysis actually comes from: why a step has the barrier it does, which residues do the work, and how mutations move it. You'll work with th",
-      "postedAt": 1791128409,
+      "description": "  About the Team   OpenAI’s Network Security team designs and operates the secure, reliable connectivity behind our offices, labs, campuses, cloud environments, people, and devices. We combine strong network fundamentals with automation, observability, and close partnership across IT, Security, Research, Applied, and business teams.   About the Role   As a Network Engineer, you will design, operate, troubleshoot, and automate secure, reliable networks across offices, labs, cloud connectivity, and production services. You will balance strategic platform work—architecture, standards, roadmaps, lifecycle planning, and automation—with responsive operations such as incidents, escalations, break/fix, and time-sensitive delivery.  We’re looking for broad network engineers who meet users where they are, lead with curiosity, own outcomes end-to-end, move with urgency grounded in security, and iterate with purpose. You will turn operational signals and recurring reactive work into durable systems and standards.   In this role, you will:     End-to-end ownership of secure enterprise routing, switching, wireless, WAN, network services, and cloud connectivity.    A deliberate balance of strateg",
+      "postedAt": 1791247212,
       "score": 9,
       "reasons": [
         "title: react",

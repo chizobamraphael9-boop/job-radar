@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-10-07T05:12:35.116Z",
+  "scannedAt": "2026-10-08T05:12:46.709Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 41,
+  "count": 42,
   "jobs": [
     {
       "id": "remotive-2091149",
@@ -430,47 +430,39 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-ai-platform-berlin-berlin-48987",
+      "id": "arbeitnow-fullstack-software-engineer-munchen-24903",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer - AI Platform",
-      "company": "smartlyio",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-software-engineer-ai-platform-berlin-berlin-48987",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-software-engineer-ai-platform-berlin-berlin-48987",
+      "title": "Fullstack Software Engineer (m/w/d)",
+      "company": "Rhein Nadel Automation Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-24903",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-24903",
       "tags": [
-        "Research & Development"
+        "Python",
+        "Django",
+        "ORM-Tools",
+        "SQL",
+        "Javascript",
+        "React",
+        "Softwareentwickler",
+        "Software Developer",
+        "Prozessdigitalisierung",
+        "KI",
+        "Künstliche Intelligenz",
+        "AI",
+        "Physik-Simulationen",
+        "Docker"
       ],
-      "description": "&lt;p&gt;We are looking for a &lt;strong&gt;Senior Software Engineer &lt;/strong&gt;to join the AI Platform Team at Smartly! Our team works on helping marketers make the most of their ad creatives (images, video, text) and campaigns (product and performance data). We build and experiment with AI-based solutions across the media and creative workflows.You will have the opportunity to take ownership of and work on high impact projects.&lt;/p&gt;\n&lt;p&gt;Join us in building high impact ML-based solutions to help our customers to build better and more effective advertising experiences for their consumers. If you’re a growth minded individual who has a passion for ML and the marketing space, this team is for you!&lt;/p&gt;\n&lt;p&gt;We use Python, TypeScript, PostgreSQL, Node.js, Docker and Kubernetes for our microservices, TypeScript and React in the frontend of our products.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Here&#39;s What You&#39;ll Do...&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build and maintain backend services that sit at the core of Smartly.io’s campaign optimization products.&lt;/li&gt;\n&lt;li&gt;Be a core contributor of our team and our ways of working to build ",
-      "postedAt": 1791330910,
-      "score": 30,
+      "description": "  Wer wir sind      RNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfolgte der Anschluss des Startups an den Weltmarktführer in der Zuführtechnik, der Rhein-Nadel-Automation GmbH. Unser Fokus liegt zu 100% auf der Softwareentwicklung. Unsere Software-Teams verteilen sich auf die Standorte München und Aachen. In München entwickeln wir unsere Dienste für Künstliche Intelligenz und Simulation. In Aachen nutzen wir die Nähe zum Shop Floor für Sonder-Digitalisierungsprojekte und Shop Floor-bezogene Software.   Die Kombination von jahrzehntelanger Erfahrung im Bereich Zuführtechnik gepaart mit modernsten Technologien im Bereich der künstlichen Intelligenz ermöglicht es uns, die Zuführtechnik von Morgen zu entwickeln.   Zur Verstärkung unseres Entwicklungsteams suchen wir einen erfahrenen Fullstack Software Engineer (m/w/d) mit Sitz im Raum München. Die Arbeit erfolgt größtenteils mobil, jedoch ist eine regelmäßige Anwesenheit im Office in München vorgesehen (ca. 1 Mal pro Woche).   Deine Aufgab",
+      "postedAt": 1791425366,
+      "score": 27,
       "reasons": [
-        "title: frontend",
         "title: react",
+        "title: javascript",
         "title: software engineer",
-        "title: node",
+        "skill: javascript",
         "skill: react",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-ai-platform-berlin-181739",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer - AI Platform",
-      "company": "Smartly",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/smartly/senior-software-engineer-ai-platform-berlin-181739",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/smartly/senior-software-engineer-ai-platform-berlin-181739",
-      "tags": [],
-      "description": " We are looking for a  Senior Software Engineer  to join the AI Platform Team at Smartly! Our team works on helping marketers make the most of their ad creatives (images, video, text) and campaigns (product and performance data). We build and experiment with AI-based solutions across the media and creative workflows.You will have the opportunity to take ownership of and work on high impact projects. \n Join us in building high impact ML-based solutions to help our customers to build better and more effective advertising experiences for their consumers. If you're a growth minded individual who has a passion for ML and the marketing space, this team is for you! \n We use Python, TypeScript, PostgreSQL, Node.js, Docker and Kubernetes for our microservices, TypeScript and React in the frontend of our products. \n  Here's What You'll Do...  \n \n Design, build and maintain backend services that sit at the core of Smartly.io's campaign optimization products. \n Be a core contributor of our team and our ways of working to build high impact products. You'll actively be involved in work planning, retrospectives, and overall team improvement. \n Support data scientists in bringing machine learning ",
-      "postedAt": 1791319529,
-      "score": 30,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: software engineer",
-        "title: node",
-        "skill: react",
-        "skill: node"
+        "skill: git"
       ]
     },
     {
@@ -556,25 +548,6 @@
         "skill: react",
         "skill: git",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-junior-full-stack-developer-all-genders-berlin-196288",
-      "source": "Arbeitnow",
-      "title": "Junior Full Stack Developer (All Genders)",
-      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288",
-      "tags": [],
-      "description": "  Deine Aufgaben      Pflege, Konfiguration und Erweiterung unserer operativen Systeme     (  Zoho  CRM, Desk, Books,   Sign  und angrenzende Tools)      Entwicklung von Automationen und Business-Logik     mit   Deluge  , Python und JavaScript: Workflows,   Functions  , Client-Skripte und geplante Jobs      Entwicklung und Verbesserung LLM-gestützter Lösungen    : Du baust KI-Agenten und Automationen auf Basis von Large Language Models, entwickelst und testest Prompts, pflegst die zugrunde liegenden Wissensbasen und Trainingsdaten und misst systematisch, ob die Ergebnisse besser werden      Design und Implementierung von Datenaustausch zwischen Systemen     via REST-APIs, Webhooks und Automationsplattformen      Debugging von Integrationen und Behebung von Data-Quality-  Issues    : Logs lesen, API-Calls nachverfolgen, Ursachen finden und sauber beheben      Unterstützung interner Stakeholder    : Prozessanforderungen in funktionierende, wartbare Lösungen übersetzen      Dokumentation deiner Lösungen    , damit sie für andere und dich selbst nachvollziehbar bleiben      Mitarbeit an Frontend-/UI-Themen im Rahmen der CRM-Oberfläche       Dein Profil      Abgeschlossenes Studium (ode",
-      "postedAt": 1791338987,
-      "score": 21,
-      "reasons": [
-        "title: frontend",
-        "title: javascript",
-        "title: full stack",
-        "skill: javascript"
       ]
     },
     {
@@ -839,72 +812,22 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-developer-stuttgart-331661",
+      "id": "arbeitnow-software-developer-all-genders-augsburg-285502",
       "source": "Arbeitnow",
-      "title": "Full Stack Developer (m/w/d)",
-      "company": "Dehoga Baden-Württemberg",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-331661",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-331661",
-      "tags": [
-        "Informatik",
-        "Entwickler",
-        "Projektmanagement",
-        "Programmieren",
-        "Skriptsprache",
-        "Webframework",
-        "Front- und Backend"
-      ],
-      "description": "  Wir suchen   Für das Team Digitale Services an unserem Standort Stuttgart suchen wir einen  Full Stack Developer (m/w/d) mit Schwerpunkt Web.  Gemeinsam arbeiten wir an zahlreichen digitalen Projekten für den DEHOGA Baden-Württemberg. Hierzu gehören insbesondere der Aufbau einer modernen IT-Software-Landschaft, ein einheitliches DEHOGA-IT-Konzept sowie eine übergreifende CRM-/ERP-Plattform für alle Bereiche. Darüber hinaus entwickeln, integrieren und betreiben wir die Webseiten des DEHOGA Baden-Württemberg.  (Vollzeit / hybrides Arbeiten / Stuttgart)    Ihre Aufgaben    Sie sind Teil unseres Entwicklungsteams und wirken am Aufbau sowie der Weiterentwicklung der modernen IT- und Software-Landschaft des DEHOGA Baden-Württemberg mit.  Sie entwickeln unsere Webanwendungen und Webseiten weiter, von Frontend und Backend bis zur Anbindung von Drittsystemen über REST-APIs.  Sie betreuen und entwickeln unsere TYPO3-basierten Webauftritte weiter, erstellen Extensions, Templates und Landingpages und unterstützen die kontinuierliche Optimierung der Systeme.  Sie arbeiten an der Neu- und Weiterentwicklung von Anwendungen auf Basis von PHP, Laravel, Livewire und Bootstrap mit und übernehmen Ve",
-      "postedAt": 1791328194,
-      "score": 15,
+      "title": "Software Developer (all genders)",
+      "company": "Meteocontrol",
+      "location": "Augsburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/meteocontrol/software-developer-all-genders-augsburg-285502",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/meteocontrol/software-developer-all-genders-augsburg-285502",
+      "tags": [],
+      "description": "  Your mission:    Develop and maintain the device communication for the bluelog Neo and blue’Log X-Series  Improve the software architecture continuously  Test the written code using a simulator, remote access or real hardware  Review development requests for feasibility  Work closely together in a dedicated team  Communicate with other departments, manufactures and customers     Your profile:    Enthusiasm for our tech stack (Linux, TypeScript, Node.js, Rust)  Hands on experience with Object-oriented programming and unit/integration testing  Hands on experience with version management (Git, GitLab)  Ideally knowledge about:  PV devices (inverters, meters, sensors etc.)  Bonus:Knowledge about energy storage devices (batteries, battery inverters, hybrid inverters etc.)  Communication protocols, especially TCP/UDP and Modbus  Serial communication (RS485/422)    Very good knowledge of English     You can look forward to:     Working for a better future:  with us, you'll create a better future for us and all the generations after us   Flexibility:  With our home office and working time model   Team events:  Be part of a team not just at work, our summer and Christmas parties await    ",
+      "postedAt": 1791414565,
+      "score": 16,
       "reasons": [
-        "title: frontend",
-        "title: full stack",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-nodejs-typescript-london-86646",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer (Node.js, TypeScript)",
-      "company": "diligentcorporation",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-software-engineer-nodejs-typescript-london-86646",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-software-engineer-nodejs-typescript-london-86646",
-      "tags": [
-        "Software Development"
-      ],
-      "description": "&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Here’s&amp;nbsp;a summary of the role:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6,&amp;quot;335559738&amp;quot;:300,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:276}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;Build software that matters, take real technical ownership, and use modern AI tooling to do your best work. This is a hands-on senior engineering role for someone who enjoys solving complex product problems, shaping robust solutions, and helping teams deliver reliable services at scale.&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;You’ll&amp;nbsp;work on secure, scalable microservices and APIs using TypeScript, AWS, and modern engineering practices.&amp;nbsp;You’ll&amp;nbsp;play a leading role within a collaborative product engineering team, owning complex features end to end, contributing to design and architectural dec",
-      "postedAt": 1791334518,
-      "score": 15,
-      "reasons": [
-        "title: software engineer",
         "title: node",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-ai-automation-hybrid-367222",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer AI & Automation (d/m/w)",
-      "company": "Listan Gmbh",
-      "location": "Hybrid",
-      "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-367222",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-367222",
-      "tags": [
-        "Automation",
-        "KI",
-        "AI",
-        "Technical AI Developer"
-      ],
-      "description": "  Deine Aufgaben   Du entwickelst produktive Softwarelösungen, die Geschäftsprozesse automatisieren, Daten nutzbar machen und Mitarbeitende im Alltag unterstützen. Dabei kombinierst Du fundiertes Software Engineering mit modernen KI-Technologien, um skalierbare Anwendungen mit echtem Mehrwert für unsere Fachbereiche zu entwickeln:    Entwicklung produktionsreifer Software-, AI- und Automatisierungslösungen – von der Idee bis zum Go-Live    Konzeption und Umsetzung intelligenter Anwendungen, AI-Agenten und Assistenzsysteme auf Basis moderner LLM-Technologien    Entwicklung robuster Backend-Services, APIs und Frontends zur Integration interner und externer Systeme    Analyse bestehender Geschäftsprozesse sowie Identifikation und Umsetzung sinnvoller Automatisierungs- und Digitalisierungspotenziale gemeinsam mit den Fachbereichen    Bei uns arbeitest Du nicht an isolierten Proof-of-Concepts oder reinen Experimenten, sondern an produktiven Anwendungen, die täglich von Mitarbeitenden genutzt werden und einen direkten Beitrag zum Unternehmenserfolg leisten. Der Schwerpunkt dieser Rolle liegt auf professioneller Softwareentwicklung. KI-Technologien sind dabei ein Werkzeug, um innovative u",
-      "postedAt": 1791324586,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer",
-        "skill: git"
+        "skill: git",
+        "skill: node",
+        "location: Remote"
       ]
     },
     {
@@ -921,7 +844,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNzQuMjM1LjEyMy4xMA== when applying to show you read the job post completely (#RNzQuMjM1LjEyMy4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMjAuMTY4LjEwOS4xOTc= when applying to show you read the job post completely (#RMjAuMTY4LjEwOS4xOTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -988,7 +911,7 @@
         "javascript",
         "typescript"
       ],
-      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RNzQuMjM1LjEyMy4xMA== when applying to show you read the job post completely (#RNzQuMjM1LjEyMy4xMA",
+      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RMjAuMTY4LjEwOS4xOTc= when applying to show you read the job post completely (#RMjAuMTY4LjEwOS4xOT",
       "postedAt": "2026-09-16T12:44:27+00:00",
       "score": 13,
       "reasons": [
@@ -1011,7 +934,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNzQuMjM1LjEyMy4xMA== when applying to show you read the job post completely (#RNzQuMjM1LjEyMy4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuMTY4LjEwOS4xOTc= when applying to show you read the job post completely (#RMjAuMTY4LjEwOS4xOTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -1085,38 +1008,110 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-senior-privacy-engineer-111342",
+      "id": "arbeitnow-senior-software-engineer-robotics-london-30692",
       "source": "Arbeitnow",
-      "title": "Senior Privacy Engineer",
-      "company": "Duck Duck Go",
-      "location": "Remote · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
+      "title": "Senior Software Engineer - Robotics",
+      "company": "Applied",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-software-engineer-robotics-london-30692",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-software-engineer-robotics-london-30692",
       "tags": [
-        "Engineering"
+        "Software Engineering - Defense"
       ],
-      "description": "  Who We Are   Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on  Mac ,  Windows ,  iOS , and  Android , our  search engine , and the  DuckDuckGo subscription . We also offer private, useful, and optional AI, including  Duck.ai , which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our  culture  of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!     Your Team and Role   Working on the Privacy Functional Team, you'll lead complex projects across key company-wide objectives. You'll protect the privacy of our users using Go, Node.js, Python, and (sometimes) Perl to write pragmatic, performant, testable code, and work on related projects. Potential projects include:    Designing systems for improving our search indexes and AI features witho",
-      "postedAt": 1791081609,
+      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
+      "postedAt": 1791420008,
       "score": 13,
       "reasons": [
-        "title: node",
-        "skill: node",
+        "title: software engineer",
+        "skill: git",
         "location: Remote"
       ]
     },
     {
-      "id": "arbeitnow-principal-software-engineer-paris-496131",
+      "id": "arbeitnow-software-engineer-london-21588",
       "source": "Arbeitnow",
-      "title": "Principal Software Engineer",
-      "company": "Algolia",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/algolia/principal-software-engineer-paris-496131",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/algolia/principal-software-engineer-paris-496131",
+      "title": "Software Engineer",
+      "company": "Applied",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/software-engineer-london-21588",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/software-engineer-london-21588",
       "tags": [
-        "R&D"
+        "Software Engineering - Defense"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;&lt;span id=&quot;m_8220454926977230902gmail-docs-internal-guid-9a9f34f4-7fff-014a-c97c-98ca90610a47&quot;&gt;Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industry analyst firms. The Algolia platform turns a company&#39;s products, content, and business rules into data that humans, applications and AI agents can act upon. The result is trusted customer experiences with stronger conversions for measurable business impact.&lt;/span&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;\n&lt;p&gt;If you&#39;re a problem solver, able to think outside the box and eager to nurture others and learn from them, then this is your challenge!&lt;/p&gt;\n&lt;br&gt;As a &lt;strong&gt;principal engineer working across the entire frontend stack&lt;/strong&gt;, from design-system primitives to product-level architecture, you will shape how developers build with Algolia and how customers",
-      "postedAt": 1791327319,
+      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
+      "postedAt": 1791420008,
+      "score": 13,
+      "reasons": [
+        "title: software engineer",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-robotics-london-374638",
+      "source": "Arbeitnow",
+      "title": "Software Engineer - Robotics",
+      "company": "Applied",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/software-engineer-robotics-london-374638",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/software-engineer-robotics-london-374638",
+      "tags": [
+        "Software Engineering - Defense"
+      ],
+      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
+      "postedAt": 1791420008,
+      "score": 13,
+      "reasons": [
+        "title: software engineer",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-london-98655",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer",
+      "company": "Applied",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-software-engineer-london-98655",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-software-engineer-london-98655",
+      "tags": [
+        "Software Engineering - Defense"
+      ],
+      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
+      "postedAt": 1791420008,
+      "score": 13,
+      "reasons": [
+        "title: software engineer",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-44672",
+      "source": "Arbeitnow",
+      "title": "Full-Stack Software Engineer (m/f/d)",
+      "company": "TWAICE",
+      "location": "Munich, Hybrid",
+      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-44672",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-44672",
+      "tags": [
+        "Battery",
+        "Energy",
+        "SaaS",
+        "Backend",
+        "Frontend",
+        "Startup",
+        "Tech",
+        "AWS",
+        "Batteries",
+        "Software Development",
+        "BESS",
+        "Green Energy",
+        "Energy Transition"
+      ],
+      "description": "  About the role  As renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence, not guesswork.  We're accelerating the transition into a new energy era and we're looking for those who want to move fast with us.   As a  Full-Stack Software Engineer ,  you will be working in our product teams to create customer value at a high pace. This includes taking part in the full product development cycle, from understanding user problems and shaping solutions to building and iterating on them. You will work in a team with backgrounds in Software and Battery Engineering – creating solutions to get our projects from definition to customer value quickly while making sure we deliver robust, scalable, and extensible software products. Together, we will push our battery analytics to the next level.   Your daily business will involve     Contribute to and help shape the feature set of our SaaS product in incremental and result-oriented steps  Implement new software components ac",
+      "postedAt": 1791414566,
       "score": 12,
       "reasons": [
         "title: frontend",
@@ -1124,22 +1119,23 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-paris-64595",
+      "id": "arbeitnow-engineering-manager-iam-core-identity-f-h-lille-btwin-village-nord-paris-paris-497788",
       "source": "Arbeitnow",
-      "title": "Software Engineer",
-      "company": "Vocca",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/software-engineer-paris-64595",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/vocca/software-engineer-paris-64595",
+      "title": "Engineering Manager IAM – Core Identity (F/H)",
+      "company": "Decathlontechnology",
+      "location": "Lille - Btwin Village, Nord; Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/engineering-manager-iam-core-identity-f-h-lille-btwin-village-nord-paris-paris-497788",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/engineering-manager-iam-core-identity-f-h-lille-btwin-village-nord-paris-paris-497788",
       "tags": [
-        "Product & Engineering"
+        "Engineering"
       ],
-      "description": "  Our team shared’s mission is deploy AI agents to transform how patients and doctors connect   We believe healthcare shouldn’t be defined by missed calls, endless waiting lines, and overwhelmed staff. Patients and professionals deserve better.  Vocca builds AI voice agents that answer every call instantly, schedule and reschedule appointments, and free up staff to focus on what matters most: care.  Already trusted by 15 000+ providers, we’re transforming the patient–provider relationship, one call at a time.  Want to shape the future of healthcare?     Join us !     Discover  our company culture and values      Here is a product teaser      Eliott's interview for Welcome to the jungle      Eliott's quick interview for Speedinvest     Articles on our A round ( techfundingnews ,  Maddyness ,  les echos ,  our blog )       Your mission   We’re hiring a  Software Engineer  with a strong background in backend systems, APIs, and modern frontend development. You’ll own our technical stack end-to-end, from core services to user-facing dashboards, working hand-in-hand with the founders, design, and growth.  This is not just about shipping features. It’s about:     Designing healthcare-grad",
-      "postedAt": 1791326408,
+      "description": "&lt;p id=&quot;p-rc_b95da864803fe69e-99&quot; data-path-to-node=&quot;2&quot;&gt;&lt;span data-path-to-node=&quot;2,0&quot;&gt;&lt;strong data-path-to-node=&quot;2,0&quot; data-index-in-node=&quot;0&quot;&gt;Titre du poste : Engineering Manager IAM – Core Identity (F/H)&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;\n&lt;p data-path-to-node=&quot;2&quot;&gt;&lt;span data-path-to-node=&quot;2,0&quot;&gt;&lt;strong data-path-to-node=&quot;2,0&quot; data-index-in-node=&quot;76&quot;&gt;Lieu :&lt;/strong&gt; Paris (Hub) ou Lille (Btwin Village)&lt;/span&gt;&lt;/p&gt;\n&lt;p data-path-to-node=&quot;2&quot;&gt;&lt;span data-path-to-node=&quot;2,2&quot;&gt;&lt;strong data-path-to-node=&quot;2,2&quot; data-index-in-node=&quot;1&quot;&gt;Département :&lt;/strong&gt; Digital Workspace – Authentication &amp;amp; Access (IAM)&lt;/span&gt;&lt;/p&gt;\n&lt;p data-path-to-node=&quot;2&quot;&gt;&lt;span data-path-to-node=&quot;2,2&quot;&gt;&lt;strong&gt;&lt;span data-path-to-node=&quot;2,0&quot;&gt;Contacts : &lt;/span&gt;&lt;/strong&gt;Ahmed CHAARI (Responsable du recrutement) et&amp;nbsp;Eirini PETSI (Recruteur)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;En tant que future Sport Digital Company, Decathlon a besoin de ",
+      "postedAt": 1791381315,
       "score": 12,
       "reasons": [
-        "title: frontend",
-        "title: software engineer"
+        "title: node",
+        "skill: git",
+        "skill: node"
       ]
     },
     {
@@ -1166,41 +1162,23 @@
       ]
     },
     {
-      "id": "arbeitnow-staff-software-engineer-bug-burndown-487342",
+      "id": "arbeitnow-remote-senior-brand-designer-systems-lead-306282",
       "source": "Arbeitnow",
-      "title": "Staff Software Engineer-Bug Burndown",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/staff-software-engineer-bug-burndown-487342",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/mozilla/staff-software-engineer-bug-burndown-487342",
+      "title": "Remote Senior Brand Designer & Systems Lead (m/f/d)",
+      "company": "RoomPriceGenie",
+      "location": "Remote United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roompricegenie/remote-senior-brand-designer-systems-lead-306282",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/roompricegenie/remote-senior-brand-designer-systems-lead-306282",
       "tags": [
-        "Firefox"
+        "Marketing"
       ],
-      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help reduce Firefox’s WebCompat bug backlog by finishing or verifying the diagnosis of the long tail of site-breakage bugs, and by writing interventions or simple fixes (often with AI assistance). You turn a large queue of reported breakages into diagnosed, actionable, or fixed bugs.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Finish diagnosing, or verify the diagnosis of, long-tail WebCompat bugs.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write WebCompat interventions where appropriate.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write simple fixes (AI-assisted) and land them.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reproduce and triage incoming site-breakage reports.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Required qualific",
-      "postedAt": 1791330912,
-      "score": 10,
+      "description": "  About RoomPriceGenie  ✨🧞‍♂️  Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex and often resulting in lost revenue. This is where we come in!  We have developed a powerful solution that enables hotels to set the right prices in just seconds. ⏱️ Our state-of-the-art algorithm analyzes both internal hotel data and market trends to recommend pricing strategies that enhance revenue and improve booking rates.   With customers spanning the globe—from the USA and Canada to Iceland, South Africa, China, Slovenia, Italy, and the UK—RoomPriceGenie has made a meaningful impact in the hospitality industry, and our clients love the results. ❤️  Now, we are excited to expand our customer base and spread the word about how we can support hoteliers in optimizing their pricing strategies. We invite you to join us on this journey! We actively encourage applications from candidates with diverse backgrounds to enrich our team and drive innovation.      Your Responsibilities   Before an independent hotelier sees anything r",
+      "postedAt": 1791430807,
+      "score": 11,
       "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-engineering-manager-grafana-frontend-germany-remote-77412",
-      "source": "Arbeitnow",
-      "title": "Senior Engineering Manager, Grafana Frontend | Germany | Remote",
-      "company": "grafanalabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-engineering-manager-grafana-frontend-germany-remote-77412",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-engineering-manager-grafana-frontend-germany-remote-77412",
-      "tags": [
-        "R&D: Grafana"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at &lt;u&gt;&lt;span&gt;&lt;a href=&quot;http://grafana.com&quot; target=&quot;_blank&quot;&gt;grafana.com&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and follow us on &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://www.linkedin.com/company/grafana-labs/&quot; target=&quot;_blank&quot;&",
-      "postedAt": 1791320107,
-      "score": 10,
-      "reasons": [
-        "title: frontend",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "location: Africa"
       ]
     },
     {
@@ -1309,22 +1287,98 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-lifecycle-manager-reactivations-all-genders-berlin-berlin-306647",
+      "id": "arbeitnow-ios-entwickler-karlsruhe-471883",
       "source": "Arbeitnow",
-      "title": "Senior Lifecycle Manager, Reactivations (all genders)",
-      "company": "hellofresh",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-lifecycle-manager-reactivations-all-genders-berlin-berlin-306647",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-lifecycle-manager-reactivations-all-genders-berlin-berlin-306647",
+      "title": "iOS Entwickler (m/w/d)",
+      "company": "Skalbach GmbH",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/ios-entwickler-karlsruhe-471883",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/ios-entwickler-karlsruhe-471883",
       "tags": [
-        "Marketing"
+        "ios Entwicklung",
+        "ios",
+        "ios Karlsruhe",
+        "Softwareentwickler",
+        "Software Developer",
+        "Softwareentwickler Karlsruhe",
+        "Softwareentwickler Jobs Karlsruhe",
+        "Softwareentwickler Stellen Karlsruhe",
+        "ios Stellen Karlsruhe",
+        "ios Jobs Karlsruhe",
+        "Vollzeit",
+        "unbefristet",
+        "unbefristete Jobs Karlsruhe",
+        "ios Developer Karlsruhe",
+        "ios Developer jobs Karlsruhe"
       ],
-      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Are you passionate about re-engaging customers and driving growth through personalized marketing? As the &lt;strong&gt;Senior Audience Manager for Reactivations&lt;/strong&gt;, you will play a critical role in re-engaging the HelloFresh cancelled base globally. Between leveraging customer segmentation or overlooking market performance, you will be designing customer journeys that nurture and rebuild relationships with cancelled customers, while being accountable for driving reactivation results that contribute to Customer Lifetime Value (CLV).&lt;br&gt;&lt;br&gt;This role goes beyond crafting and optimizing campaigns, it’s about &lt;strong&gt;taking part in the development of the overarching reactivation strategy&lt;/strong&gt;, to help shape the vision for customer-centric journeys, and ensuring the delivery of industry-leading segmented campaigns that nurture, strengthen, and rebuild relationships with our canceled customer base.&lt;/p&gt;\n&lt;p&gt;You will create a seamless and impactful reactivation experience, collaborating closely with Creative, Marketing Analytics, CRM Operations, Pricing &amp;amp; Discounts",
-      "postedAt": 1791341711,
+      "description": "  Firmenprofil   Unser Mandant entwickelt moderne digitale Lösungen, die von namhaften Kunden aus unterschiedlichen Branchen genutzt werden. Das Unternehmen verbindet technologische Exzellenz mit einer offenen, entwicklerfreundlichen Unternehmenskultur und legt großen Wert auf nachhaltige Softwarearchitekturen, moderne Entwicklungsprozesse und die kontinuierliche Weiterentwicklung seiner Teams.  Hier erwartet Sie kein Umfeld, in dem Features „einfach nur ausgeliefert“ werden. Stattdessen arbeiten Sie gemeinsam mit erfahrenen Software Engineers, Product Ownern und UX-Experten an hochwertigen mobilen Anwendungen, die echten Mehrwert schaffen und von Beginn an technisch durchdacht werden.    Ihre Aufgaben    Entwicklung und kontinuierliche Weiterentwicklung nativer iOS-Applikationen mit Fokus auf Performance, Stabilität und Benutzerfreundlichkeit  Konzeption und Implementierung moderner Softwarearchitekturen sowie technischer Lösungen für komplexe fachliche Anforderungen  Enge Zusammenarbeit mit Produktmanagement, UX/UI Design und Backend-Teams innerhalb agiler Entwicklungsprozesse  Durchführung von Code Reviews sowie aktive Mitgestaltung von Best Practices, Coding Standards und Entwi",
+      "postedAt": 1791425370,
       "score": 9,
       "reasons": [
-        "title: react",
-        "skill: react"
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-all-genders-munchen-314025",
+      "source": "Arbeitnow",
+      "title": "Software Engineer (all genders)",
+      "company": "Raysono",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/raysono/software-engineer-all-genders-munchen-314025",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/raysono/software-engineer-all-genders-munchen-314025",
+      "tags": [],
+      "description": "  Digital transformation support  As part of our agile teams, you set new standards and celebrate real successes with your colleagues. Our projects are as wide-ranging and diverse as the challenges our customers face: from strategic experience design and digital communication to software development – we make digitalization tangible and effective.   You can look forward to exciting projects and a work culture that combines professionalism and respect with the joy of collaborating with people who share your passion. We’ll support you in developing your skills and encourage you to think strategically, develop innovative approaches, and play an active role in shaping the digital future of our customers.   Our creative solutions and customized strategies have stood for digital excellence since 1992. With over 140 dedicated employees, we design user experiences that work reliably and create lasting enthusiasm – from the initial idea to successful implementation.   Your responsibilities  As an Software Engineer (all genders), you will develop features and technical components independently. You will coordinate interfaces, evaluate solutions and reliably see your work through to release. ",
+      "postedAt": 1791414592,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-engineering-manager-munchen-13812",
+      "source": "Arbeitnow",
+      "title": "Engineering Manager (m/w/d)",
+      "company": "Xempus AG",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/xempus-ag/engineering-manager-munchen-13812",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/xempus-ag/engineering-manager-munchen-13812",
+      "tags": [
+        "Tech Lead",
+        "Engineering Lead",
+        "Java",
+        "Leitung Engineering",
+        "Tech People Lead",
+        "Softwareengineering",
+        "Technical Manager",
+        "Technologieentwicklung"
+      ],
+      "description": "  Wer wir sind   Wir sind Xempus, Deutschlands führende unabhängige Software-as-Service (SaaS)-Plattform für den Vertrieb und die Verwaltung betrieblicher Vorsorgelösungen. Unsere Mission: Betriebliche Vorsorge digital und verständlich, effizient und für jeden zugänglich zu machen. Seit 2007 arbeiten wir stetig daran, die Digitalisierung der Versicherungsbranche voranzutreiben. Wir bei Xempus sind davon überzeugt, dass wir alle gemeinsam etwas bewirken können – egal von wo! Ob von einem unserer Büros oder von zu Hause ­– Komm zu uns und lass uns gemeinsam eine sicherere Zukunft für alle schaffen!    Was Dich erwartet    Du führst unsere Software Engineers disziplinarisch und fachlich. Dabei arbeitest du eng mit mehreren cross-funktionalen Teams zusammen und unterstützt sie bei ihrer persönlichen und fachlichen Entwicklung.  Du stellst sicher, dass unsere Engineering-Aktivitäten mit der Unternehmensvision und den strategischen Produktzielen von Xempus im Einklang stehen.  Du verantwortest technische Initiativen von der Konzeption bis zum produktiven Betrieb – einschließlich technischer Planung, Architektur, Qualitätssicherung und Weiterentwicklung.  Gemeinsam mit Product Ownern prio",
+      "postedAt": 1791414560,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-product-engineer-full-stack-berlin-220595",
+      "source": "Arbeitnow",
+      "title": "Senior Product Engineer (Full Stack)",
+      "company": "Andercore",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/senior-product-engineer-full-stack-berlin-220595",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/andercore/senior-product-engineer-full-stack-berlin-220595",
+      "tags": [
+        "Platform Development"
+      ],
+      "description": "  About Andercore   Andercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond.  We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, quality, pricing, sales, logistics, and embedded financing. For the customer, it feels like buying from their preferred local supplier; for our partners, it is the most convenient and safe way to do business across borders. Behind it, our software and agentic AI do the heavy lifting that used to take an asset-intensive supply chain with four or five intermediaries and weeks of manual coordination.  Where we are today:    Strong triple-digit-million euro turnover    Seven European markets live    80+ people across Berlin (HQ), offices in London, Mumbai, and Shanghai    $40M Series B just closed, $75M raised to date from Atomico, Project A, and Inven Capital, institutional financing from international banks.  We are building the world's first and last industrial-grade AI operating system for materials, redefining how global trade works in one of the largest and most essential industri",
+      "postedAt": 1791405608,
+      "score": 9,
+      "reasons": [
+        "title: full stack",
+        "skill: git"
       ]
     },
     {

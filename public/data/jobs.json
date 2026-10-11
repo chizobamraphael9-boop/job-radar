@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-10-10T05:11:25.620Z",
+  "scannedAt": "2026-10-11T05:11:06.674Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 46,
+  "count": 41,
   "jobs": [
     {
       "id": "remotive-2091149",
@@ -91,6 +91,43 @@
         "skill: react",
         "skill: html",
         "skill: css"
+      ]
+    },
+    {
+      "id": "remoteok-1137475",
+      "source": "RemoteOK",
+      "title": "Senior React Full stack Developer",
+      "company": "Lemon.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+      "tags": [
+        "dev",
+        "engineer",
+        "remote",
+        "python",
+        "aws",
+        "gcp",
+        "javascript",
+        "react",
+        "node",
+        "ruby",
+        "typescript",
+        "full time",
+        "full stack"
+      ],
+      "description": " Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  â the marketplace that connects you with hand-picked startups in the US and Europe.   What we offer:    The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.  No more hunting for clients or negotiating rates â let us handle the business side of things so you can focus on what you do best.  We'll manually find the best project for you according to your skills and preferences.  Choose a schedule that works best for you. Itâs possible to communicate async or minimally overlap within team working hours.  We respect your seniority so you can expect no micromanagement or screen trackers.  Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?  We will support you from the time you submit the application throughout all cooperation stages.  Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.  Through our community, we will connect you with the best developers from more ",
+      "postedAt": "2026-10-09T13:09:18+00:00",
+      "score": 39,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "title: full stack",
+        "title: node",
+        "skill: javascript",
+        "skill: react",
+        "skill: node",
+        "location: Remote"
       ]
     },
     {
@@ -430,6 +467,48 @@
       ]
     },
     {
+      "id": "remoteok-1137478",
+      "source": "RemoteOK",
+      "title": "Product Engineering Lead",
+      "company": "Tether Operations Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
+      "tags": [
+        "design",
+        "bitcoin",
+        "react",
+        "exec",
+        "technical",
+        "recruiter",
+        "marketing",
+        "dev",
+        "virtual assistant",
+        "javascript",
+        "finance",
+        "education",
+        "cloud",
+        "api",
+        "mobile",
+        "ops",
+        "sys admin",
+        "engineer",
+        "digital nomad"
+      ],
+      "description": "    Join Tether and Shape the Future of Digital Finance      At Tether, weâre not just building products, weâre pioneering a global financial revolution. Our cutting-edge solutions empower businessesâfrom exchanges and wallets to payment processors and ATMsâto seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction.        Innovate with Tether       Tether Finance:    Our innovative product suite features the worldâs most trusted stablecoin,    USDT   , relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.    But thatâs just the beginning:     Tether Power:    Driving sustainable growth, our energy solutions optimize excess power for Bitcoin mining using eco-friendly practices in state-of-the-art, geo-diverse facilities.     Tether Data:    Fueling breakthroughs in AI and peer-to-peer technology, we reduce infrastructure costs and enhance global communica",
+      "postedAt": "2026-10-10T00:00:05+00:00",
+      "score": 27,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: react",
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
       "id": "remotive-2069746",
       "source": "Remotive",
       "title": "Tech Lead Full-Stack Rails Engineer",
@@ -474,6 +553,46 @@
         "skill: html",
         "skill: css",
         "skill: git"
+      ]
+    },
+    {
+      "id": "remoteok-1137474",
+      "source": "RemoteOK",
+      "title": "Product Design Lead",
+      "company": "Fuel50",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
+      "tags": [
+        "design",
+        "saas",
+        "sys admin",
+        "front end",
+        "technical",
+        "marketing",
+        "dev",
+        "virtual assistant",
+        "javascript",
+        "css",
+        "html",
+        "microsoft",
+        "exec",
+        "senior",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "description": " Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences and responsible AI to help people and organisations take their next step.Â   We are looking for a Product Design Lead to shape the next chapter of our product experience and design organisation.Â   This is a senior player-coach role. You will lead and develop our product design team while staying close to the work, setting direction, shaping product strategy, prototyping ideas and helping teams ship high-quality experiences.Â   You will work closely with Product and Engineering as a leadership trio, influencing decisions across the organisation and helping Fuel50 build products that are simple, trusted and valuable.Â   If youâre a strategic design leader who still loves getting close to the work, developing people and shipping real product, weâd love to hear from you!Â  What you'll do:   Lead, manage and coach our product designers, supporting their growth and helping them reach their next level.Â     Set and communicate a clear product desig",
+      "postedAt": "2026-10-09T08:00:04+00:00",
+      "score": 24,
+      "reasons": [
+        "title: javascript",
+        "skill: javascript",
+        "skill: html",
+        "skill: css",
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -553,28 +672,6 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-399408",
-      "source": "Arbeitnow",
-      "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
-      "company": "Bling",
-      "location": "Berlin · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-399408",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-399408",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " Deine Mission \n Wir bauen den ersten Payment-Dienstleister, mit dem Schulen und Kitas in Deutschland wirklich alles bargeldlos abwickeln können und suchen Verstärkung. Als Product Engineer im Bling Schule Team übernimmst du von Tag eins an echte Ownership: viel Freiheit, kurze Wege und die Chance, ein Produkt von Grund auf mitzugestalten und unsere bestehenden Systeme weiterzuentwickeln. Du shippst Features end-to-end, bist also von der ersten Idee über die Entwicklung bis zum Launch verantwortlich. Dabei triffst du gemeinsam mit unserem CTO und unserem Lead Developer die technischen Entscheidungen, die zählen und ihr funktioniert dabei wie ein eigenes kleines Startup im Startup. Am Ende trägt deine Arbeit direkt dazu bei, dass Bling Schule zu der robusten, sicheren und skalierbaren Plattform wird, auf der Zahlungen für tausende Familien und Schulen reibungslos laufen. \n Deine Aufgaben \n \n Du entwickelst gemeinsam mit unserem CTO und unserem Lead Developer Bling Schule weiter, von ersten Ideen über die technische Konzeption bis zum Go-live neuer Features. \n Du gestaltest und optimierst die technische Infrastruktur (u. a. Node.js/TypeScript-Services, Datenbanken, AWS-Umgebung), die",
-      "postedAt": 1791592236,
-      "score": 19,
-      "reasons": [
-        "title: full stack",
-        "title: node",
-        "skill: node",
-        "location: Remote"
-      ]
-    },
-    {
       "id": "remotive-1680495",
       "source": "Remotive",
       "title": "Remote Office Assistant",
@@ -612,27 +709,6 @@
         "skill: css",
         "skill: git",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-154998",
-      "source": "Arbeitnow",
-      "title": "Software Engineer Backend / KI (m/w/d) - verhandlungssicheres Deutsch erforderlich",
-      "company": "Intrafind Software Ag",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/intrafind-software-ag/software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-154998",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/intrafind-software-ag/software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-154998",
-      "tags": [
-        "verhandlungssichere Deutschkenntnisse"
-      ],
-      "description": "  Deine Aufgaben      Du entwickelst Backend-Systeme und Microservices mit Java, Python oder Node.js.      Du designst und implementierst   RESTful   APIs.      Du integrierst relationale und NoSQL-Datenbanken.      Du sorgst für Skalierbarkeit, Sicherheit und Performance deiner Services in der Cloud, auch bei lastintensiven Prozessen.      Du sicherst die Qualität durch Unit- und Integrationstests sowie Code-Reviews.      Du integrierst KI-basierte Komponenten wie LLMs, RAG und KI-Agenten in bestehende und neue Backend-Systeme.      Du arbeitest agil im Team, von der Sprint-Planung bis zur Retro, und unterstützt bei Architekturkomponenten und technischen Problemen.       Dein Profil    Für die Kommunikation mit Kunden sind verhandlungssichere Deutschkenntnisse erforderlich    Erfahrung im Umgang mit Programmiersprachen wie Java, Python oder Node.js      Erfahrung mit   RESTful   APIs und Microservices, Datenbanken (relational und NoSQL),       Sicherer Umgang mit Versionskontrollsysteme wie   Git      Kenntnisse in DevOps-Praktiken und Tools wie Docker und   Kubernetes      Erfahrung mit Cloud-Infrastrukturen und skalierbaren Systemen      Neugier auf KI-Technologien und Lust, dic",
-      "postedAt": 1791576567,
-      "score": 18,
-      "reasons": [
-        "title: software engineer",
-        "title: node",
-        "skill: git",
-        "skill: node"
       ]
     },
     {
@@ -819,23 +895,69 @@
       ]
     },
     {
-      "id": "arbeitnow-lead-software-engineer-berlin-490399",
+      "id": "arbeitnow-software-engineer-london-342570",
       "source": "Arbeitnow",
-      "title": "Lead Software Engineer (m/f/d)",
-      "company": "Alteos GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/alteos-gmbh/lead-software-engineer-berlin-490399",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/alteos-gmbh/lead-software-engineer-berlin-490399",
+      "title": "Software Engineer",
+      "company": "Unmind",
+      "location": "London, HQ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unmind/software-engineer-london-342570",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/unmind/software-engineer-london-342570",
       "tags": [
-        "Software Development"
+        "Product & Tech"
       ],
-      "description": " These tasks are waiting for you \n \n Take technical ownership of Configuration Experience — the team that builds and manages our insurance products — and set the direction for how the team delivers. \n Spend the bulk of your time hands-on: researching technical solutions, writing RFCs, building PoCs with other teams, and shipping the resulting code yourself. \n Act as a sparring partner for product managers and stakeholders on key business and technical decisions. \n Keep delivery on track — plan realistically, follow agile principles, hit deadlines. \n Lead people by example: give feedback, run team meetings, support colleagues' growth. This is a smaller part of the role — most of your time stays technical. \n Spot obstacles early, resolve them, and keep stakeholders proactively informed. \n \n This is what you bring to the table \n You don't need to tick every box. If this sounds like your kind of work, we want to hear from you. \n \n Solid hands-on experience as a software engineer with Node.js and TypeScript. \n First experience leading or managing people — you don't need years of management under your belt, but you've done it at least once and want to grow into it further. \n Full-stack u",
-      "postedAt": 1791592238,
-      "score": 15,
+      "description": "   Location:  UK Based, Remote-first (with monthly travel to London)     At Unmind, we're here to create  better mental health.   We believe mental health should be a source of strength, not struggle – for people, teams, and entire organisations.  We combine science, technology, and human care to help companies like Uber, Disney, Major League Baseball, and the NHS improve mental health and drive performance.  Now we’re looking for more brilliant people to help us do it.     🚀 Our Values   We’re building a company where ambition and empathy go hand in hand.   Outpace the rest  –  Move fast. Deliver excellence.    Stronger together  –  We go further, faster, together.    Client first  –  We win, when our clients win.      🌈 Inclusion &amp; Belonging   We’re building a place where everyone feels seen, heard, and supported – and where difference is celebrated.  If you need adjustments during the process, tell us when you apply or email  Learn more about how we hire and our commitment to equity in our   Candidate FAQ →       🎯 The Role — Software Engineer (Full Stack)    We're looking for a Software Engineer to join our team! You'll ship features that directly help the employees of o",
+      "postedAt": 1791668412,
+      "score": 16,
       "reasons": [
         "title: software engineer",
-        "title: node",
-        "skill: node"
+        "title: full stack",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-stuttgart-22007",
+      "source": "Arbeitnow",
+      "title": "Full Stack Developer (m/w/d)",
+      "company": "Dehoga Baden-Württemberg",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-22007",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-22007",
+      "tags": [
+        "Informatik",
+        "Entwickler",
+        "Projektmanagement",
+        "Programmieren",
+        "Skriptsprache",
+        "Webframework",
+        "Front- und Backend"
+      ],
+      "description": "  Wir suchen   Für das Team Digitale Services an unserem Standort Stuttgart suchen wir einen  Full Stack Developer (m/w/d) mit Schwerpunkt Web.  Gemeinsam arbeiten wir an zahlreichen digitalen Projekten für den DEHOGA Baden-Württemberg. Hierzu gehören insbesondere der Aufbau einer modernen IT-Software-Landschaft, ein einheitliches DEHOGA-IT-Konzept sowie eine übergreifende CRM-/ERP-Plattform für alle Bereiche. Darüber hinaus entwickeln, integrieren und betreiben wir die Webseiten des DEHOGA Baden-Württemberg.  (Vollzeit / hybrides Arbeiten / Stuttgart)    Ihre Aufgaben    Sie sind Teil unseres Entwicklungsteams und wirken am Aufbau sowie der Weiterentwicklung der modernen IT- und Software-Landschaft des DEHOGA Baden-Württemberg mit.  Sie entwickeln unsere Webanwendungen und Webseiten weiter, von Frontend und Backend bis zur Anbindung von Drittsystemen über REST-APIs.  Sie betreuen und entwickeln unsere TYPO3-basierten Webauftritte weiter, erstellen Extensions, Templates und Landingpages und unterstützen die kontinuierliche Optimierung der Systeme.  Sie arbeiten an der Neu- und Weiterentwicklung von Anwendungen auf Basis von PHP, Laravel, Livewire und Bootstrap mit und übernehmen Ve",
+      "postedAt": 1791684599,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: full stack",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-staff-software-engineer-agentic-engineering-united-kingdom-132010",
+      "source": "Arbeitnow",
+      "title": "Staff Software Engineer (Agentic Engineering)",
+      "company": "Coder",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/staff-software-engineer-agentic-engineering-united-kingdom-132010",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/coder/staff-software-engineer-agentic-engineering-united-kingdom-132010",
+      "tags": [
+        "Research & Development"
+      ],
+      "description": " As a Staff Software Engineer on Coder’s Agentic Engineering team, you’ll shape the systems behind our agentic development experience. You’ll work across the agent harness, integrations, and workflows that connect agents with real development environments.  You’ll stay hands-on while setting the team's technical direction. You’ll lead complex work, make sound architectural decisions, and help other engineers do their best work.     What you’ll do here     Set technical direction across Coder’s agent harness, integrations, and workflows.    Design and build production systems in Go, with work across React and TypeScript where needed.    Evolve agent execution, tool use, context management, streaming, and long-running workflows.    Extend our provider-agnostic architecture as models and capabilities change.    Lead complex projects from early ambiguity through production.    Raise the engineering bar through design reviews, code reviews, and technical mentorship.    Partner with Product and Design on clear, useful agent experiences.    Improve the reliability, performance, and operability of agentic systems.       What we’re looking for     Deep experience building and operating prod",
+      "postedAt": 1791690007,
+      "score": 15,
+      "reasons": [
+        "title: react",
+        "title: software engineer",
+        "skill: react"
       ]
     },
     {
@@ -852,7 +974,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMjAuMTY4LjEyNS4xMTU= when applying to show you read the job post completely (#RMjAuMTY4LjEyNS4xMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNjQuMjM2LjIwMC45OQ== when applying to show you read the job post completely (#RNjQuMjM2LjIwMC45OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -919,7 +1041,7 @@
         "javascript",
         "typescript"
       ],
-      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RMjAuMTY4LjEyNS4xMTU= when applying to show you read the job post completely (#RMjAuMTY4LjEyNS4xMT",
+      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RNjQuMjM2LjIwMC45OQ== when applying to show you read the job post completely (#RNjQuMjM2LjIwMC45OQ",
       "postedAt": "2026-09-16T12:44:27+00:00",
       "score": 13,
       "reasons": [
@@ -942,7 +1064,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuMTY4LjEyNS4xMTU= when applying to show you read the job post completely (#RMjAuMTY4LjEyNS4xMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNjQuMjM2LjIwMC45OQ== when applying to show you read the job post completely (#RNjQuMjM2LjIwMC45OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -1016,165 +1138,6 @@
       ]
     },
     {
-      "id": "arbeitnow-solution-architect-london-215448",
-      "source": "Arbeitnow",
-      "title": "Solution Architect",
-      "company": "Applied",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-architect-london-215448",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-architect-london-215448",
-      "tags": [
-        "Software Engineering - Defense"
-      ],
-      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
-      "postedAt": 1791603602,
-      "score": 13,
-      "reasons": [
-        "title: software engineer",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-gnc-engineer-london-321144",
-      "source": "Arbeitnow",
-      "title": "Senior GNC Engineer",
-      "company": "Applied",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-gnc-engineer-london-321144",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-gnc-engineer-london-321144",
-      "tags": [
-        "Software Engineering - Defense"
-      ],
-      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
-      "postedAt": 1791603602,
-      "score": 13,
-      "reasons": [
-        "title: software engineer",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-solution-engineer-air-london-98632",
-      "source": "Arbeitnow",
-      "title": "Solution Engineer, Air",
-      "company": "Applied",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-engineer-air-london-98632",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-engineer-air-london-98632",
-      "tags": [
-        "Software Engineering - Defense"
-      ],
-      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
-      "postedAt": 1791603602,
-      "score": 13,
-      "reasons": [
-        "title: software engineer",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-solution-engineer-land-london-149232",
-      "source": "Arbeitnow",
-      "title": "Solution Engineer, Land",
-      "company": "Applied",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-engineer-land-london-149232",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-engineer-land-london-149232",
-      "tags": [
-        "Software Engineering - Defense"
-      ],
-      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
-      "postedAt": 1791603602,
-      "score": 13,
-      "reasons": [
-        "title: software engineer",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-solution-engineer-maritime-london-245619",
-      "source": "Arbeitnow",
-      "title": "Solution Engineer - Maritime",
-      "company": "Applied",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-engineer-maritime-london-245619",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-engineer-maritime-london-245619",
-      "tags": [
-        "Software Engineering - Defense"
-      ],
-      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
-      "postedAt": 1791603602,
-      "score": 13,
-      "reasons": [
-        "title: software engineer",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-cloud-infrastructure-engineer-london-151442",
-      "source": "Arbeitnow",
-      "title": "Senior Cloud Infrastructure Engineer",
-      "company": "Applied",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-cloud-infrastructure-engineer-london-151442",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-cloud-infrastructure-engineer-london-151442",
-      "tags": [
-        "Software Engineering - Defense"
-      ],
-      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
-      "postedAt": 1791603602,
-      "score": 13,
-      "reasons": [
-        "title: software engineer",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-fullstack-engineer-london-51189",
-      "source": "Arbeitnow",
-      "title": "Senior Fullstack Engineer",
-      "company": "Applied",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-fullstack-engineer-london-51189",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-fullstack-engineer-london-51189",
-      "tags": [
-        "Software Engineering - Defense"
-      ],
-      "description": " Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at  applied.co .   We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home b",
-      "postedAt": 1791603602,
-      "score": 13,
-      "reasons": [
-        "title: software engineer",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-sr-software-engineer-sheffield-110741",
-      "source": "Arbeitnow",
-      "title": "Sr. Software Engineer",
-      "company": "pendo",
-      "location": "Sheffield",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pendo/sr-software-engineer-sheffield-110741",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/pendo/sr-software-engineer-sheffield-110741",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "&lt;h1&gt;Sr. Software Engineer&lt;/h1&gt;\n&lt;h2&gt;The Team + The Role&lt;/h2&gt;\n&lt;p&gt;Pendo&#39;s engineering teams build the product experiences that help customers understand, improve, and act on product usage data. This team is focused on AI-powered features that turn raw usage signals into automatic, actionable suggestions, reducing the manual work customers need to do before they can get value from Pendo.&lt;/p&gt;\n&lt;p&gt;As a Senior Software Engineer, you will help shape and ship intelligent product experiences from discovery through delivery. You will work full-stack with a lean toward frontend, using TypeScript, Vue.js, backend services, and AI coding tools to build high-quality features on a small, fast-moving team. This role also owns product judgment: validating problems with customers, sizing opportunities, defining success metrics, and making pragmatic tradeoffs in ambiguous spaces.&lt;/p&gt;\n&lt;p&gt;This role is based in our Sheffield office.&lt;/p&gt;\n&lt;h2&gt;What this looks like day-to-day&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;AI-powered feature delivery:&lt;/strong&gt; Build and ship features that use AI to turn product usage data into actionabl",
-      "postedAt": 1791582913,
-      "score": 12,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer"
-      ]
-    },
-    {
       "id": "arbeitnow-full-stack-software-engineer-zurich-403786",
       "source": "Arbeitnow",
       "title": "Full Stack Software Engineer",
@@ -1199,57 +1162,37 @@
       ]
     },
     {
-      "id": "arbeitnow-initiativbewerbung-berlin-16430",
+      "id": "arbeitnow-staff-software-engineer-402150",
       "source": "Arbeitnow",
-      "title": "Initiativbewerbung (m/w/d)",
-      "company": "Nitrado (marbis GmbH)",
-      "location": "Berlin · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiativbewerbung-berlin-16430",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiativbewerbung-berlin-16430",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " Einleitung \n Es ist momentan keine für dich passende Stelle ausgeschrieben? Wir sind immer auf der Suche nach motivierten und kreativen Köpfen, die Ihren Beruf mit Leidenschaft machen. Das trifft auf dich zu? Dann lass uns gerne eine Initiativbewerbung zukommen! ​​​​ \n Deine Aufgaben \n Dich erwarten spannende und abwechslungsreiche Aufgaben, bei denen Verantwortung und Teamgeist wichtig sind. Du unterstützt dein Team in den Bereichen Softwareentwicklung, Business Intelligence, Marketing, Controlling oder im Customer Support. Du übernimmst die eigenverantwortliche Bearbeitung verschiedener Themenstellungen. Du arbeitest aktiv in unterschiedlichen Projekten mit. \n Dein Profil \n Du hast ein abgeschlossenes Hochschulstudium in einem relevanten Fachbereich oder eine vergleichbare Berufsausbildung. Du findest dich in einem dieser Bereiche wieder: Grafikdesign/Frontend, Backend, Business Intelligence, Marketing, Controlling oder Customer Support und hast entsprechend fundierte Fachkenntnisse. Du bist offen für neue Technologien die uns weiterbringen. Du bist selber Gamer:in oder weißt was Gamer:innen wollen und fühlst dich in diesem Umfeld wohl. Du besitzt Eigeninitiative und arbeitest e",
-      "postedAt": 1791592233,
-      "score": 10,
-      "reasons": [
-        "title: frontend",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-retail-media-240947",
-      "source": "Arbeitnow",
-      "title": "Full Stack Engineer: Retail Media",
-      "company": "Constructor",
-      "location": "Remote - EMEA",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "  About Us   Constructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personalization capabilities to power everything from search itself to recommendations to shopping agents. Engineering is by far our largest department, and we’ve built our proprietary engine to be the best on the market, having never lost an A/B test to a competitive technology. We’re passionate about maintaining this and work on the bleeding edge of AI to do so.  Out of necessity, our engine is built for extreme scale and powers over 1 billion queries every day across 150 languages and roughly 100 countries. It is used by some of the biggest ecommerce companies in the world like Sephora, Under Armour, and Petco.  We’re a passionate team who love solving problems and want to make our customers’ and coworkers’ lives better. We value empathy, openness, curiosity, continuous improvement, and are excited by metrics that matter. We believe that empowering everyone in a company to do what they do",
-      "postedAt": 1791582007,
-      "score": 10,
-      "reasons": [
-        "title: full stack",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-new-markets-uk-remote-475166",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer New Markets - UK Remote",
-      "company": "alpaca",
+      "title": "Staff Software Engineer",
+      "company": "parloa",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/alpaca/senior-software-engineer-new-markets-uk-remote-475166",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/alpaca/senior-software-engineer-new-markets-uk-remote-475166",
+      "url": "https://www.arbeitnow.com/jobs/companies/parloa/staff-software-engineer-402150",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/parloa/staff-software-engineer-402150",
       "tags": [
         "Engineering"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure&amp;nbsp;&lt;/strong&gt;for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.&lt;br&gt;&lt;br&gt;Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerage accounts.&lt;br&gt;&lt;br&gt;Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of opening financial services to everyone on the planet. We&#39;re deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Alpaca is proudly backed by $400 million in funding from top-tier global investors including Portage Ventures",
-      "postedAt": 1791572104,
+      "description": "&lt;h2&gt;&lt;strong&gt;About Parloa&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Parloa’s mission is to make every customer conversation feel effortless for both customers and the companies serving them. As agentic AI accelerates, Parloans are shaping the foundation of a new era in customer experience, one where customer support is no longer transactions, but meaningful exchanges. It is not just a vision; Parloa has powered over ONE BILLION interactions between global enterprise brands and their customers, with companies like &lt;a href=&quot;http://booking.com&quot;&gt;Booking.com&lt;/a&gt;, HealthEquity, Allianz, SAP, BarmeniaGothaer, and TUI already deploying Parloa at scale.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Join us in reimagining customer experience with Agentic AI. As a &lt;strong&gt;Staff&lt;/strong&gt;, you will play a critical role in shaping Parloa’s engineering strategy and architecture while staying close to the code. This role is about building resilient, enterprise-grade systems that can scale globally and helping us set the benchmark for engineering excellence in Europe and beyond.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Areas of o",
+      "postedAt": 1791665707,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-pdlc-sdlc-expert-python-genai-h-f-351172",
+      "source": "Arbeitnow",
+      "title": "PDLC/SDLC Expert – Python & GenAI H/F",
+      "company": "capco",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/capco/pdlc-sdlc-expert-python-genai-h-f-351172",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/capco/pdlc-sdlc-expert-python-genai-h-f-351172",
+      "tags": [
+        "Tech & Engineering"
+      ],
+      "description": "&lt;h1&gt;&lt;/h1&gt;\n&lt;p&gt;Capco France recherche un·e&amp;nbsp;&lt;strong&gt;PDLC/SDLC Expert – Python &amp;amp; GenAI&lt;/strong&gt; pour accompagner les acteurs majeurs de la banque et des services financiers dans l&#39;optimisation et la transformation de leurs cycles de développement produit et logiciel.&lt;/p&gt;\n&lt;p&gt;Au sein de notre Practice Technology &amp;amp; Engineering, vous interviendrez à l’intersection du Software Engineering, de l’automatisation et de l’intelligence artificielle pour concevoir et déployer des solutions améliorant la qualité, la rapidité et la fiabilité du développement logiciel.&lt;/p&gt;\n&lt;p&gt;Vous travaillerez aux côtés des équipes Engineering, Architecture, DevOps et Product pour analyser les pratiques existantes, identifier les opportunités d’amélioration et accompagner l’évolution des méthodes de développement.&lt;/p&gt;\n&lt;p&gt;Vous jouerez un rôle clé dans l’intégration de la GenAI et des workflows AI-enabled au sein des cycles PDLC/SDLC, de la conception à la mise en production, en veillant à maintenir la supervision humaine, la sécurité, la traçabilité et les standards de qualité.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&g",
+      "postedAt": 1791662121,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1273,6 +1216,75 @@
       "reasons": [
         "title: software engineer",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137480",
+      "source": "RemoteOK",
+      "title": "Junior Sales Development Representative IT Industry",
+      "company": "Huzzle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
+      "tags": [
+        "saas",
+        "technical",
+        "marketing",
+        "finance",
+        "c",
+        "cloud",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "sales",
+        "ecommerce",
+        "full time"
+      ],
+      "description": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative companies where you become a valued member of the team.    Role Type: Full-time  Engagement: Full-time (Offshore, EST Business Hours)   Job Summary Join a cutting-edge AI company that is redefining the future of network infrastructure. This team provides the worldâs first AI-driven autonomous multi-agentic Network Operations Center (NOC) platform, helping global enterprises automate complex cloud environments and eliminate downtime. As a Junior SDR, you will be the engine of our growth, reaching out to high-level IT leaders to introduce a revolutionary technology that solves their most critical operational challenges. This is a high-volume, high-impact role for a hunter who thrives on the phones and wants to be at the forefront of the AI revolution.   Key Responsibilities   Execute high-v",
+      "postedAt": "2026-10-10T00:00:17+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137479",
+      "source": "RemoteOK",
+      "title": "Academic Dean for MiaPrep Online Academy of Ohio",
+      "company": "Miaplaza",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479",
+      "tags": [
+        "design",
+        "infosec",
+        "teaching",
+        "education",
+        "exec",
+        "coordinator",
+        "customer support",
+        "testing",
+        "marketing",
+        "virtual assistant",
+        "video",
+        "admin",
+        "content writing",
+        "ops",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad"
+      ],
+      "description": "   Location   : 100% remote (Ohio residency required)     Classification   : Full-time, exempt    Reports to   : School Leader     Pay Range   : $40.00 - $48.00 per hour       Welcome to Miaplaza!     Our vision is to elevate online learning by applying the most successful approaches in virtual education to create an accessible and inclusive homeschool curriculum platform where all students can be successful!      MiaPrep Online Academy of Ohio     is our newest offering for Ohio families looking for a flexible public school option. The school will serve grades  7-11 in its first year. The school aims to serve 250 students year one, with plans to grow to over 1,000 students by 2030.  ð      Role Summary     The Academic Dean leads the instructional team and is the school's authority on academic standards at MiaPrep Online Academy of Ohio (MOAO), including student conduct, attendance compliance, and academic integrity. This person is the primary leader for teacher supervision and development, oversees academic data and testing coordination, and works closely with the Student Support team (counselors and advisors), who lead student interventions and support. As a member of the MOA",
+      "postedAt": "2026-10-10T00:00:11+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1381,65 +1393,37 @@
       ]
     },
     {
-      "id": "arbeitnow-ai-consultant-frankfurt-422512",
+      "id": "arbeitnow-principal-engineer-product-security-munchen-bayern-244154",
       "source": "Arbeitnow",
-      "title": "AI Consultant [m/w/d]",
-      "company": "GBC Group",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/gbc-group/ai-consultant-frankfurt-422512",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/gbc-group/ai-consultant-frankfurt-422512",
-      "tags": [
-        "AI",
-        "KI",
-        "API",
-        "JSON",
-        "RAG",
-        "Agentic Workflows",
-        "Automatisierung",
-        "Python",
-        "JavaScript",
-        "LLM"
-      ],
-      "description": "  Wer wir sind   Die GBC Group GmbH ist eine inhabergeführte IT-Unternehmensgruppe mit über 500 Mitarbeitenden an mehr als 10 Standorten in Deutschland. Nach dem Buy-and-Build-Prinzip vereinen wir 12 spezialisierte Tochtergesellschaften unter einem Dach, jede mit eigener Expertise und einer gemeinsamen Vision. Wir verstehen uns als starker IT-Partner für den deutschen Mittelstand und bieten unseren Kunden ganzheitliche Lösungen entlang der gesamten IT-Wertschöpfungskette: von Managed Services über Cloud-Infrastruktur bis hin zu IT-Security.      Was uns antreibt? Der Anspruch, mittelständische Unternehmen mit maßgeschneiderter, zuverlässiger IT pragmatisch und partnerschaftlich nach vorne zu bringen.    Dein Wirkungsfeld   Als AI Consultant [m/w/d] machst Du aus Geschäftsprozessen belastbare Automatisierungs- und KI-Lösungen. Dein Ausgangspunkt ist dabei nicht das Tool, sondern der Prozess. Du analysierst, wie ein Prozess tatsächlich funktioniert, zerlegst ihn in Trigger, Entscheidungen, Datenflüsse, Ausnahmen und Schnittstellen und identifizierst, wo Automatisierung und KI einen messbaren und sinnvollen Mehrwert schaffen. Anschließend übersetzt Du diese Erkenntnisse in robuste Wor",
-      "postedAt": 1791576594,
-      "score": 9,
-      "reasons": [
-        "title: javascript",
-        "skill: javascript"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-capture-manager-uk-united-kingdom-162734",
-      "source": "Arbeitnow",
-      "title": "Senior Capture Manager - UK",
-      "company": "TRM Labs",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/trm-labs/senior-capture-manager-uk-united-kingdom-162734",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/trm-labs/senior-capture-manager-uk-united-kingdom-162734",
-      "tags": [
-        "Go-To-Market"
-      ],
-      "description": " Build a Safer World.  TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure.  TRM Labs is hiring a Senior Capture Manager (UK) to support our most complex, high-impact deals, with an initial focus on public sector opportunities.  This is not a traditional proposal writer or reactive Deal Desk role. The Senior Capture Manager will operate upstream in the sales cycle, partnering closely with Sales, Product, Legal, Security, and RevOps to shape deal strategy, influence decision criteria, and improve win probability before formal procurement begins.  This role exists to increase quality, speed, and consistency across complex deals — while reducing risk, rework, and late-stage friction.   What You’ll Do  Capture &amp; Deal Strategy    Own capture strategy for PubSec opportunities globally and strategic public sector deals    Engage early in the sales cycle (pre-RFP where possible) to:    Shape",
-      "postedAt": 1791603610,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-backend-london-156647",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer | Backend",
-      "company": "Apron",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/apron/senior-software-engineer-backend-london-156647",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/apron/senior-software-engineer-backend-london-156647",
+      "title": "Principal Engineer, Product Security (m/f/x)",
+      "company": "commercetools",
+      "location": "München, Bayern",
+      "url": "https://www.arbeitnow.com/jobs/companies/commercetools/principal-engineer-product-security-munchen-bayern-244154",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/commercetools/principal-engineer-product-security-munchen-bayern-244154",
       "tags": [
         "Engineering"
       ],
-      "description": "  About Apron   Small businesses are the backbone of the economy, but the systems they rely on for payments are slow, manual and were never built for them. Apron is fixing that. We digitise and simplify how SMBs manage cash flow: capturing invoices, issuing expense cards, and moving money in one place.  Founded in 2021, we've grown to ~100 people across the UK, Germany, Spain and raised $50M, backed by Index Ventures, Bessemer Venture Partners, Zinal Grow and Tony Fadell.  Our next phase of growth isn’t incremental. We’re building a category-defining, global fintech business with a clear path to significant revenue scale and international expansion. This phase requires not just a great product but a world-class engineering team.     Our engineering culture      We build with the customer in mind.  Top-tier technology, in service of making their lives genuinely easier.     We own our work.  We plan, break it down, and ship it end to end.     We embrace the complexity of finance.  Money means intricate business logic and real edge cases. Precision matters here.     We write code we're proud of.  Fast doesn't mean sloppy, we build for the long term.     We use AI where it helps.  The ",
-      "postedAt": 1791592806,
+      "description": "&lt;div class=&quot;ng-tns-c879422873-771&quot;&gt;\n&lt;section id=&quot;processing-state-26&quot; class=&quot;processing-state_container ng-tns-c879422873-771 is-gpi-avatar is-done-processing ng-trigger ng-trigger-processingStateShowHide ng-star-inserted&quot;&gt;\n&lt;div id=&quot;processing-state-26-summary&quot; class=&quot;processing-state_details ng-trigger ng-trigger-menuExpansion ng-tns-c879422873-771 is-gpi-avatar ng-star-inserted&quot;&gt;\n&lt;h2&gt;About Commercetools&lt;/h2&gt;\n&lt;/div&gt;\n&lt;/section&gt;\n&lt;/div&gt;\n&lt;div class=&quot;response-content ng-tns-c263290053-769&quot;&gt;\n&lt;div class=&quot;container&quot;&gt;\n&lt;div id=&quot;model-response-message-contentr_bfb50fc8f1f4512c&quot; class=&quot;markdown markdown-main-panel stronger enable-updated-hr-color&quot;&gt;\n&lt;p data-path-to-node=&quot;1&quot;&gt;Real innovation starts with a strong foundation, and at commercetools, that comes from the perfect balance of our product and our people. Behind every leap forward is a collective of builders, explorers, doers, makers, and problem-solvers. The kind of people who not only pioneered a more flexible approach to commerce architecture but also shaped the cultu",
+      "postedAt": 1791654921,
+      "score": 9,
+      "reasons": [
+        "title: node",
+        "skill: node"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-belfast-northern-ireland-440055",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer",
+      "company": "Everquote",
+      "location": "Belfast, Northern Ireland",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everquote/senior-software-engineer-belfast-northern-ireland-440055",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/everquote/senior-software-engineer-belfast-northern-ireland-440055",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;Senior Software Engineer, B2B Platform Services&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;Belfast, NI / Hybrid&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;(This role requires working in-office 3 days per week.)&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;EverQuote is a leading AI-powered growth solutions partner for regulated property and casualty insurance entities, enabling the largest insurance carriers and thousands of agents to maximize customer acquisition across digital channels. Fueled by our proprietary data assets and our AI traffic engine, EverQuote is transforming the way providers attract and engage consumers to grow market share.&lt;/p&gt;\n&lt;p&gt;Joining our team puts you at the forefront of this transformation. You will collaborate with a group of builders to solve complex problems and reshape a massive industry. If you want to drive real-world impact and do the best work of your career, you’ve found your home. We move fast, follow the data, and hold ourselves to high standards. If that&#39;s how you work too, this is the role for you.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quo",
+      "postedAt": 1791680106,
       "score": 9,
       "reasons": [
         "title: software engineer",

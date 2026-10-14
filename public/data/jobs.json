@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-10-13T05:13:52.813Z",
+  "scannedAt": "2026-10-14T09:56:18.924Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 42,
+  "count": 40,
   "jobs": [
     {
       "id": "remotive-2091149",
@@ -128,31 +128,6 @@
         "skill: react",
         "skill: node",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-java-fullstack-developer-hamburg-337529",
-      "source": "Arbeitnow",
-      "title": "(Senior) Java Fullstack Developer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-337529",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-337529",
-      "tags": [
-        "Customer Cluster Finance"
-      ],
-      "description": " Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance.     DEINE MISSION   Als ( Senior) Java Fullstack Developer (m/w/d)  gestaltest du leistungsfähige Anwendungen, vom Backend mit Java, Java EE und Spring bis zum Frontend mit React und JSF (PrimeFaces). Dabei bringst du deine Expertise in Softwarearchitektur, Datenbank-Design und -Optimierung sowie in die Qualitätssicherung der Software ein.    Deine Aufgaben     Entwicklung und Weiterentwicklung von Backend-Komponenten auf Basis von Java/Java EE und Spring, unter anderem unter Einsatz von Hibernate    Umsetzung moderner Benutzeroberflächen mit React und JSF (PrimeFaces) sowie JavaScript, HTML/CSS und XML    Konzeption und Implementierung von SOAP- und REST-Webservices zur Anbindung fachlicher Systeme    Design, Konzeption und Optimierung von ",
-      "postedAt": 1791847822,
-      "score": 33,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: html",
-        "skill: css",
-        "skill: git"
       ]
     },
     {
@@ -492,29 +467,6 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-java-fullstack-developer-hamburg-133162",
-      "source": "Arbeitnow",
-      "title": "Senior Java Fullstack Developer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-133162",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-133162",
-      "tags": [
-        "Customer Cluster Finance"
-      ],
-      "description": " Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance.     DEINE MISSION   Als  Senior Java Fullstack Developer (m/w/d)  gestaltest du leistungsfähige Anwendungen, vom Backend mit Java und Spring bis zum Frontend mit React. Dabei bringst du deine Expertise in die Entwicklung, automatisierte Bereitstellung und Qualitätssicherung der Software ein.    Deine Aufgaben     Entwicklung und Weiterentwicklung von Backend-Komponenten auf Basis von Java/Java EE und Spring    Umsetzung moderner Benutzeroberflächen mit React und JavaScript/TypeScript    Implementierung von Datenbankzugriffen und Anbindung relationaler Datenbanken wie Oracle oder PostgreSQL    Containerisierung von Anwendungen mit Docker sowie Verwaltung und Bereitstellung mit Kubernetes    Einbindung und Weiterentwicklung von CI/CD-Pipelines",
-      "postedAt": 1791847822,
-      "score": 27,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: git"
-      ]
-    },
-    {
       "id": "remotive-2069746",
       "source": "Remotive",
       "title": "Tech Lead Full-Stack Rails Engineer",
@@ -603,6 +555,28 @@
       ]
     },
     {
+      "id": "arbeitnow-forward-deployed-engineer-london-407434",
+      "source": "Arbeitnow",
+      "title": "Forward Deployed Engineer",
+      "company": "True Talent Solutions Partners",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-407434",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-407434",
+      "tags": [
+        "Client Roles"
+      ],
+      "description": " About the Role  Join a product engineering team building AI-powered software for certification, inspection, and compliance workflows. You will work closely with customers to understand how their operations run and turn those insights into production-ready systems.  What You'll Do    Embed with customer teams to learn how certification, inspection, and compliance work in practice.    Lead customer conversations, write product specifications, and build end-to-end systems across the frontend, backend, data model, and AI layer.    Own product areas from discovery through deployment, shipping early and refining solutions based on direct user feedback.    Review customer documents and workflow outputs to develop AI-enabled tools for scheduling, technical review, conformity assessment, field inspection, and document intelligence.    Use sound product judgment to distinguish broadly useful needs from one-off requests.    What We're Looking For    Three to six years of software or product engineering experience, with a track record of shipping production software.    Full-stack capability, including Python, TypeScript, React, Node.js, SQL, data modeling, and cloud infrastructure.    Experi",
+      "postedAt": 1791956422,
+      "score": 24,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "title: node",
+        "skill: react",
+        "skill: node"
+      ]
+    },
+    {
       "id": "remoteok-1137474",
       "source": "RemoteOK",
       "title": "Product Design Lead",
@@ -642,6 +616,47 @@
       ]
     },
     {
+      "id": "remotive-1680495",
+      "source": "Remotive",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "applyUrl": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "tags": [
+        "CSS",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "MySQL",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jQuery",
+        "Ajax"
+      ],
+      "description": " Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. \n As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. \n We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. \n   \n  Why Join Coalition Technologies?  \n Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, ",
+      "postedAt": "2026-10-11T20:17:27",
+      "score": 21,
+      "reasons": [
+        "title: frontend",
+        "skill: html",
+        "skill: css",
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
       "id": "remoteok-1137062",
       "source": "RemoteOK",
       "title": "DESARROLLADOR FULL STACK",
@@ -676,25 +691,6 @@
         "title: frontend",
         "title: full stack",
         "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-backend-software-engineer-typescript-nestjs-nodejs-paris-163769",
-      "source": "Arbeitnow",
-      "title": "Senior Backend Software Engineer (TypeScript, NestJS/Node.js) (m/f/x)",
-      "company": "Atolls",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/atolls/senior-backend-software-engineer-typescript-nestjs-nodejs-paris-163769",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/atolls/senior-backend-software-engineer-typescript-nestjs-nodejs-paris-163769",
-      "tags": [],
-      "description": "    \n \n  Atolls is the world's largest community-driven shopping platform, active in 20+ markets.&nbsp;  \n We help millions make smarter spending decisions across discovery, evaluation, and (re-)purchase by connecting people with the right brands and retailers. \n Our 1,000+ team across 10 countries builds products used every day at global scale, where you'll have real ownership and see your impact. Want to shape the destinations people rely on to shop with confidence? Keep reading.   \n  \n  About This Role:  \n We are looking for a  Senior Backend Software Engineer (TypeScript, NestJS/Node.js)  to join our  Fulfilment  team in  Paris  or &nbsp;working remotely from France.  At Atolls, your role will be instrumental in helping us develop and launch our innovative saving and rewards programs, creating exceptional user experiences and empowering consumers to make informed and confident shopping decisions. As a key part of the team, you'll be directly involved in our mission to make it easy for customers to join, stay safe, and get help without friction - through secure authentication, scalable self-services, and proactive fraud prevention that protects users before they need to contact ",
-      "postedAt": 1791733523,
-      "score": 19,
-      "reasons": [
-        "title: software engineer",
-        "title: node",
-        "skill: node",
         "location: Remote"
       ]
     },
@@ -882,46 +878,70 @@
       ]
     },
     {
-      "id": "arbeitnow-junior-frontend-developer-react-berlin-69516",
+      "id": "arbeitnow-senior-full-stack-software-developer-observability-221039",
       "source": "Arbeitnow",
-      "title": "Junior Frontend Developer (React)",
-      "company": "dkbcodefactory",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-frontend-developer-react-berlin-69516",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-frontend-developer-react-berlin-69516",
+      "title": "Senior Full Stack Software Developer - Observability",
+      "company": "Elastic",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-full-stack-software-developer-observability-221039",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-full-stack-software-developer-observability-221039",
       "tags": [
-        "Technology & Infrastructure"
+        "Obs - Application Observability"
       ],
-      "description": "&lt;p&gt;&lt;strong&gt;We&lt;/strong&gt;&lt;strong&gt;lcome to DKB Code Factory…&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(185, 106, 217);&quot;&gt;&lt;strong&gt;{ { … &lt;/strong&gt;&lt;strong&gt;a_place_to_stay_yourself:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://i.imgur.com/CFPUYqd.png&quot; alt=&quot;&quot; width=&quot;700&quot;&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(185, 106, 217);&quot;&gt;} } ;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(224, 62, 45);&quot;&gt;&lt;strong&gt;{ { … &lt;/strong&gt;&lt;strong&gt;a_place_to_stay_curious:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;strong&gt;Build and grow as a React developer while shipping customer‑facing features that reduce friction for thousands of banking customers.&lt;/strong&gt; In this role you will join the Chargeback team to implement and improve the micro‑frontend for disputing card transactions, learn modern frontend engineering practices, and ship production code under mentorship. You’ll gain hands‑on experien",
-      "postedAt": 1791849305,
-      "score": 15,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for a Senior Software Engineer to join our Streams UI team, where you&#39;ll have the chance to shape and enhance our user interface, making it more intuitive and engaging for our users. In this role, you&#39;ll work on Fleet. Fleet is the central management experience for Elastic Agent in Kibana. You&#39;ll also work on Streams. Streams is our new tool for handling log data. This includes ingestin",
+      "postedAt": 1791957367,
+      "score": 16,
       "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react"
+        "title: software engineer",
+        "title: full stack",
+        "location: Remote"
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-ai-automation-hybrid-117253",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer AI & Automation (d/m/w)",
-      "company": "Listan Gmbh",
-      "location": "Hybrid",
-      "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-117253",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-117253",
+      "id": "remoteok-1137508",
+      "source": "RemoteOK",
+      "title": "Principal Software Engineer",
+      "company": "Vytalize Health",
+      "location": "Kansas ",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
       "tags": [
-        "Automation",
-        "KI",
-        "AI",
-        "Technical AI Developer"
+        "dev",
+        "design",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "recruiter",
+        "customer support",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "finance",
+        "java",
+        "c",
+        "cloud",
+        "api",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "stats",
+        "sys admin",
+        "golang",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
       ],
-      "description": "  Deine Aufgaben   Du entwickelst produktive Softwarelösungen, die Geschäftsprozesse automatisieren, Daten nutzbar machen und Mitarbeitende im Alltag unterstützen. Dabei kombinierst Du fundiertes Software Engineering mit modernen KI-Technologien, um skalierbare Anwendungen mit echtem Mehrwert für unsere Fachbereiche zu entwickeln:    Entwicklung produktionsreifer Software-, AI- und Automatisierungslösungen – von der Idee bis zum Go-Live    Konzeption und Umsetzung intelligenter Anwendungen, AI-Agenten und Assistenzsysteme auf Basis moderner LLM-Technologien    Entwicklung robuster Backend-Services, APIs und Frontends zur Integration interner und externer Systeme    Analyse bestehender Geschäftsprozesse sowie Identifikation und Umsetzung sinnvoller Automatisierungs- und Digitalisierungspotenziale gemeinsam mit den Fachbereichen    Bei uns arbeitest Du nicht an isolierten Proof-of-Concepts oder reinen Experimenten, sondern an produktiven Anwendungen, die täglich von Mitarbeitenden genutzt werden und einen direkten Beitrag zum Unternehmenserfolg leisten. Der Schwerpunkt dieser Rolle liegt auf professioneller Softwareentwicklung. KI-Technologien sind dabei ein Werkzeug, um innovative u",
-      "postedAt": 1791724148,
-      "score": 15,
+      "description": "  Your Opportunity   As a  Principal Engineer , you will help design, build, and operate the clinical decision support and API-driven data delivery platform that enables Vytalize Health to embed timely, actionable clinical insights directly into provider workflows. Working cross-functionally with Data Engineering, Product, Clinical Operations, and EMR partners, your solutions will transform how clinicians access dataâmoving from external tools and workarounds to seamless, in-workflow decision support via CDS Hooks and real-time APIs.    You will own the technical foundation for Clinical Decision Support (CDS) Hooks, REST APIs, and the architectural patterns that ensure clinical data is accessible, trustworthy, and performant at the moment of care. This role sits at the intersection of healthcare interoperability standards, modern API design, and operational excellence. You will establish reliability metrics and SLAs that ensure CDS Hooks and APIs serve clinician workflows with consistent quality and performance. You will be part of a small, high-performing healthcare engineering team where engineers support each other's growth through mentorship and tight collaboration.   Primary",
+      "postedAt": "2026-10-13T00:00:18+00:00",
+      "score": 14,
       "reasons": [
-        "title: frontend",
         "title: software engineer",
-        "skill: git"
+        "skill: git",
+        "skill: rest api",
+        "posted this week"
       ]
     },
     {
@@ -938,7 +958,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMjAuNjIuMjU1LjIx when applying to show you read the job post completely (#RMjAuNjIuMjU1LjIx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNTIuMTc2LjMyLjE2OQ== when applying to show you read the job post completely (#RNTIuMTc2LjMyLjE2OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -994,18 +1014,18 @@
     {
       "id": "remoteok-1137399",
       "source": "RemoteOK",
-      "title": "AI agent engineer",
+      "title": "SI agent engineer",
       "company": "Sticker Mule",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+      "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
       "tags": [
-        "ai",
         "golang",
+        "ai",
         "javascript",
         "typescript"
       ],
-      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.     We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess AI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on AI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RMjAuNjIuMjU1LjIx when applying to show you read the job post completely (#RMjAuNjIuMjU1LjIx). Thi",
+      "description": "   Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.     We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers.      Work performed     Identify where agents can help and build them accordingly.    Work with department leads to assess SI needs.    Help connect agents to appropriate third-party and internal tools.    Measure results and remove agents that don't deliver.    Test new tools and models as they ship and adopt what works.    Advise others on SI capabilities to help them perform.        Requirements     Experience building agents that run on their own and do meaningful work    Strong with Grok, Claude, OpenAI, and open source    Comfortable in Go, TypeScript, GraphQL, Postgres, GCP    Writes clearly in English        Compensation     Salary: $150,000â$250,000 USD    $20,000 signing bonus    4 weeks vacation + country-specific holidays    Fully remote       Please mention the word **HUMOUR** and tag RNTIuMTc2LjMyLjE2OQ== when applying to show you read the job post completely (#RNT",
       "postedAt": "2026-09-16T12:44:27+00:00",
       "score": 13,
       "reasons": [
@@ -1028,7 +1048,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuNjIuMjU1LjIx when applying to show you read the job post completely (#RMjAuNjIuMjU1LjIx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTIuMTc2LjMyLjE2OQ== when applying to show you read the job post completely (#RNTIuMTc2LjMyLjE2OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -1102,22 +1122,43 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-full-stack-engineer-zurich-422586",
+      "id": "arbeitnow-staff-software-engineer-fmx-london-471763",
       "source": "Arbeitnow",
-      "title": "Senior Full Stack Engineer",
-      "company": "Saeki",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/saeki/senior-full-stack-engineer-zurich-422586",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/saeki/senior-full-stack-engineer-zurich-422586",
+      "title": "Staff Software Engineer - FMX",
+      "company": "Fanaticsfbg",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/staff-software-engineer-fmx-london-471763",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/staff-software-engineer-fmx-london-471763",
       "tags": [
-        "Senior Software Engineer",
-        "Full Stack Lead",
-        "Robotics",
-        "Advanced Manufacturing",
-        "DefenceTech"
+        "Gaming - Markets (FMX)"
       ],
-      "description": "  SAEKI - Manufacturing at software speed   Europe's defense industrial base cannot respond at the speed modern conflict requires. Legacy suppliers operate on month-long timelines. Tribal knowledge is retiring. Supply chains are fragile. SAEKI is building the operating system for autonomous factories — the infrastructure that lets Europe manufacture mission-critical components at software speed.    Every part we make generates data, decisions, and handoffs. Your job is to capture that knowledge, automate the work around it, and remove whatever slows production down. When a critical defense program needs parts by next week, the systems you build are why we can deliver.    The Role    As a Full-Stack Software Engineer on our manufacturing intelligence team, you'll work wherever the leverage is highest. One week that means turning an operator's spreadsheet into a proper workflow; the next it means wiring machine data into scheduling, or cutting a manual quoting step out of the order flow.     You'll own problems end to end across our customer portal, Enterprise Resource Planning / Manufacturing Execution System, and the data layer connecting them to the shop floor.      Based at our H",
-      "postedAt": 1791716956,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 class=&quot;job-details__description-header text-color-secondary font-family-secondary&quot; data-bind=&quot;i18n: &#39;job-details.employer-description-title&#39;&quot;&gt;About Us&lt;/h2&gt;\n&lt;div class=&quot;job-details__description-content basic-formatter&quot; data-bind=&quot;html: pageData().job.corporateDescription&quot;&gt;\n&lt;div&gt;Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Betting &amp;amp; Gaming, allowing sports fans to Buy, Collect, and Bet. Through the Fanatics platform, sports fans can buy licensed fan gear, jerseys, lifestyle and streetwear products, headwear, and hardgoods; collect physical and digital trading cards, sports memorabilia, and other digital assets; and bet as the company builds its Sportsbook and iGaming platform. Fanatics has an established database of over 100 million global sports fans; a global partner network with approximately 900 sports properties, inclu",
+      "postedAt": 1791957373,
+      "score": 12,
+      "reasons": [
+        "title: software engineer",
+        "skill: html",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-zurich-191106",
+      "source": "Arbeitnow",
+      "title": "Full Stack Software Engineer",
+      "company": "Felfel",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/felfel/full-stack-software-engineer-zurich-191106",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/felfel/full-stack-software-engineer-zurich-191106",
+      "tags": [
+        "Full-Stack Developer Zürich",
+        "Softwareentwickler Zürich",
+        "Kotlin Android Developer",
+        "Fullstack Entwickler",
+        "GraphQL",
+        "Logistics / Warehouse Software"
+      ],
+      "description": "  IN SHORT   Are you a versatile problem-solver who wants to write software that impacts the physical world? As a  Full Stack Software Engineer  (100%) in Zurich, you will be at the core of our operations, building systems that touch everything from warehouse automation to customer-facing smart fridges.    YOUR RESPONSIBILITIES     Take ownership of warehouse and supplier web apps used daily for inbound processing, picking, labeling, and inventory.  Develop and maintain our internal back-office tool, including the backend and GraphQL API that runs menus, deliveries, inventory, and customer sites.  Manage the service connecting automated picking lanes to the rest of the system to ensure uninterrupted warehouse operations.  Maintain and update the Point of Sale Android app running on hundreds of fridges, managing the release process for the entire fleet.  Integrate and support payment systems (Card, TWINT), our ERP, and other partner integrations.  Participate in the on-call rotation to debug live issues directly alongside the operations team.  Visit the warehouse on-site to test changes and gather feedback from the people actually using the software.  Translate vague problems from n",
+      "postedAt": 1791932974,
       "score": 12,
       "reasons": [
         "title: software engineer",
@@ -1125,20 +1166,76 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-linnworks-uk-275822",
+      "id": "arbeitnow-remote-full-stack-engineer-frontend-leaning-creativemusic-231100",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer",
-      "company": "Linnworks",
-      "location": "Linnworks-UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/linnworks/senior-software-engineer-linnworks-uk-275822",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/linnworks/senior-software-engineer-linnworks-uk-275822",
-      "tags": [],
-      "description": "  Your Mission    Senior Software Engineer    Reports to: Engineering Team Lead    Works closely with: Engineering Tech Lead, QA team members    Software: C#    Location: UK / Estonia / US (remote-friendly within these regions)       Role purpose    The Senior Software Engineer is a high-impact individual contributor who delivers complex work and raises the effectiveness of the team around them.    This role exists to tackle technically challenging problems, support less experienced engineers, and contribute to sound technical decisions — all while remaining aligned with agreed architecture and standards.        Experience and capabilities       Strong experience as a software engineer in a production SaaS environment      Proven ability to deliver complex, high-quality solutions      Strong understanding of testing, performance, and maintainability      Ability to mentor others and influence through example      Sound technical judgement under pressure            Why this role matters     Senior engineers set the technical tone within teams.          Done well, this role:       Improves delivery quality and resilience      Develops other engineers      Reduces technical risk      ",
-      "postedAt": 1791839373,
+      "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
+      "company": "ElevenLabs",
+      "location": "Remote · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-creativemusic-231100",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-creativemusic-231100",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "description": " About ElevenLabs  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.  We have expanded from voice into three main platforms:    ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.    ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.    ElevenAPI gives developers access to our leading AI audio foundational models.    Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders.",
+      "postedAt": 1791945619,
+      "score": 10,
+      "reasons": [
+        "title: frontend",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-senior-software-engineer-ai-303663",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer, AI",
+      "company": "Muckrack",
+      "location": "Remote (Bulgaria, Ireland",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-ai-303663",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-ai-303663",
+      "tags": [
+        "Engineering - Software Engineering"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Muck Rack is trusted by thousands of organizations around the world to understand how their brands show up across news, social media and AI-generated answers.&lt;/p&gt;\n&lt;p&gt;Our AI-powered platform connects the entire PR workflow in one place, helping communications teams manage media relationships, understand the conversations shaping their brands, take action and measure their impact. Combined with analyst-led Media Intelligence and advisory services, Muck Rack turns signals into insights and insights into action.&lt;/p&gt;\n&lt;p&gt;Founder-controlled and growing&amp;nbsp; profitably and sustainably, we have the freedom to build forward-thinking products, put our customers first, and offer an inclusive culture that welcomes diverse perspectives.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Our Agents team at Muck Rack is building AI for PR and communications professionals. Our first agent helps customers understand their media coverage. Next, we’re building agents that can plan and carry out multi-step workflows.&lt;/p&gt;\n&lt;p&gt;You’ll take features from idea to production, working across our Python agent runtime, MCP server, and Django",
+      "postedAt": 1791968150,
       "score": 10,
       "reasons": [
         "title: software engineer",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137507",
+      "source": "RemoteOK",
+      "title": "Graphic Designer & Video Editor",
+      "company": "BlueTuskr",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
+      "tags": [
+        "design",
+        "designer",
+        "customer support",
+        "testing",
+        "marketing",
+        "web dev",
+        "video",
+        "mobile",
+        "photoshop",
+        "stats",
+        "sales",
+        "illustrator",
+        "ecommerce",
+        "shopify",
+        "part time",
+        "digital nomad"
+      ],
+      "description": "Description BlueTuskr is a full-service e-commerce growth agency built exclusively for e-commerce brands. We combine paid media, owned media, creative, and analytics to help our clients scale profitably. Our team is made up of specialists who are deeply invested in their craft â and in the success of the brands they serve.  This isn't a \"jack of all trades\" environment. We hire people who are exceptional at what they do, then give them the resources and autonomy to do it well.    The Opportunity  We're looking for a Graphic Designer and Video Editor who creates with conversion in mind. You know that a beautiful email that doesn't get clicks isn't finished yet, and that a product page is a sales tool first. This is a hands-on role for someone who has spent real time designing for e-commerce brands â emails, landing pages, website sections, and social/ad creative â and can explain exactly why each design choice was made.  You'll design across a portfolio of e-commerce clients, working closely with our email, CRO, Shopify development, and paid media teams. You'll also use Claude and other AI tools as a real part of your workflow â to move faster on ideation, variations, and pr",
+      "postedAt": "2026-10-13T00:00:06+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1164,38 +1261,6 @@
       ],
       "description": "  ð Why Midnite?   Midnite is a next-generation sports betting and gaming platform built for a new wave of players.  We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actually play today.  Over 400,000 players have already made the move, and weâre only just getting started.  Weâre a high-performance team operating at pace. High ownership. Constant iteration. No hiding behind processes. We move quickly, test relentlessly, and turn ambitious ideas into real impact. If youâre driven, creative, and thrive in fast-moving environments where you can shape meaningful outcomes - keep reading.  Not your grandadâs bookie.   ð The Role    Title:  Product Design Director   Team:  Design   Location:  Remote, UK  Experience quality is one of the clearest ways Midnite differentiates in a category that too often settles for functional and familiar. As a Product Design Director, you will ensure craft, quality and ambition remain central to how we build, as we scale. You will lead Product Design, shape company wide experience direction, and embed Design in the most important product decisions. Th",
       "postedAt": "2026-10-11T16:00:03+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137481",
-      "source": "RemoteOK",
-      "title": "Manager Clinical Data Management",
-      "company": "EDETEK",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
-      "tags": [
-        "exec",
-        "design",
-        "sys admin",
-        "education",
-        "customer support",
-        "dev",
-        "testing",
-        "travel",
-        "junior",
-        "ops",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "description": " Manager, Clinical Data Management leads clinical data management team to handle project management documentation, preform clinical data management activities and system implementations for EDETEKâs CONFORM eClinical, write design specifications for the system (forms, reports, etc.), and facilitate testing of system implementations. In addition to stay hands-on with clinical data management operations and activities, Manager of Clinical Data Management oversees data management projects to ensure quality, timely delivery and ongoing client satisfaction; identifies client needs and develops creative solutions for projects, leveraging expertise, operational capabilities and technologies; communicates with clients and internal teams.  The Manager, Clinical Data Management should thoroughly understand the requirements for Good Clinical Data Management services, including its documentation; be involved in start-up or wrap-up of in-house and client-specific data management projects; have an understanding of the relevant therapeutic indications, study hypotheses, and trial design; and have a solid understanding of database design and structure. ESSENTIAL FUNCTIONS  Support internal clini",
-      "postedAt": "2026-10-10T08:00:08+00:00",
       "score": 9,
       "reasons": [
         "skill: git",
@@ -1309,24 +1374,18 @@
       ]
     },
     {
-      "id": "arbeitnow-scrum-master-delivery-enabler-ki-gestutzte-softwareentwicklung-munich-186972",
+      "id": "arbeitnow-senior-software-engineer-data-factory-villeneuve-dascq-nord-185021",
       "source": "Arbeitnow",
-      "title": "Scrum Master / Delivery Enabler (m/w/d) - KI-gestützte Softwareentwicklung",
-      "company": "Maibornwolff",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/maibornwolff/scrum-master-delivery-enabler-ki-gestutzte-softwareentwicklung-munich-186972",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/maibornwolff/scrum-master-delivery-enabler-ki-gestutzte-softwareentwicklung-munich-186972",
+      "title": "Senior Software Engineer - Data Factory (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Villeneuve-d'Ascq, Nord",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-software-engineer-data-factory-villeneuve-dascq-nord-185021",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-software-engineer-data-factory-villeneuve-dascq-nord-185021",
       "tags": [
-        "Scrum",
-        "Agile",
-        "Software Engineering",
-        "AI",
-        "KI",
-        "SAFe",
-        "LeSS"
+        "Data"
       ],
-      "description": "       Du begeisterst dich für agile Delivery  und willst die sich wandelnde Rolle des  Scrum Masters im KI-Zeitalter  aktiv mitgestalten? Und, du bist an vielfältigen Projekten in einem kollegialen Arbeitsumfeld interessiert?  Dann schau dir MaibornWolff einmal näher an!    Wir bei MaibornWolff sind ein  inhabergeführtes, mittelständisches IT-Beratungsunternehmen  mit über 30 Jahren Expertise. Mit rund 800 Tech-begeisterten Menschen beraten wir unsere Kunden bei ihren Digitalisierungsstrategien und entwickeln moderne, individuelle Softwarelösungen. 2024 sind wir in die Lünendonk-Liste der „ führenden mittelständischen IT-Beratungen in Deutschland \" aufgestiegen, worauf wir sehr stolz sind.  In unserer  Delivery-Enabler Gilde  arbeiten aktuell elf  Scrum Master:innen, Agile Coaches und Delivery Enabler  an mehreren Standorten in Deutschland. Unsere Mission: Delivery Enablement als starke, zukunftsfähige Rolle etablieren und Projekt-Teams auch im KI-Wandel wirksam unterstützen. Wir teilen Wissen, gestalten unsere Rolle gemeinsam weiter und bringen unterschiedliche Stärken ein. Unsere Projekte reichen von einzelnen Entwicklungsteams bis hin zu internationalen Programmen in Branchen w",
-      "postedAt": 1791857350,
+      "description": "&lt;h3&gt;&lt;strong&gt;Notre &lt;/strong&gt;&lt;strong&gt;Team&lt;/strong&gt;&lt;strong&gt; Data Observability recherche un·e Senior Software Engineer basé·e à Lille ou Paris.&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Au cœur de l’entité Decathlon Digital, nous recherchons nos futur.es &lt;strong&gt;Senior Software Engineer&lt;/strong&gt; pour rejoindre les équipes Data Factory.&lt;/p&gt;\n&lt;p&gt;Cette plateforme technologique, globale à tout le groupe de manière internationale, soutient le développement de l’usage de la Data chez Decathlon, du calcul du chiffre d’affaires à l’aide de conception de produits innovants.&lt;/p&gt;\n&lt;p&gt;Nous opérons une Modern Data Stack de pointe, avec un Lakehouse comme centre de gravité. Notre mission ? Garantir la scalabilité, l&#39;automatisation et l&#39;excellence des pratiques de développement pour l&#39;ensemble de nos communautés (Data Engineers, Analysts, Scientists).&lt;/p&gt;\n&lt;p&gt;Notre équipe &lt;strong&gt;Data Observability&lt;/strong&gt; est une brique essentielle de cette mission. Organisée autour de 3 axes clés, l&#39;équipe Data Observability est chargée d&#39;exposer le patrimoine de donnée de Decathlon ainsi que sa mat",
+      "postedAt": 1791968159,
       "score": 9,
       "reasons": [
         "title: software engineer",
@@ -1334,37 +1393,18 @@
       ]
     },
     {
-      "id": "arbeitnow-customer-support-manager-london-342317",
+      "id": "arbeitnow-software-engineer-java-geneva-212915",
       "source": "Arbeitnow",
-      "title": "Customer Support Manager",
-      "company": "Vitesse",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vitesse/customer-support-manager-london-342317",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/vitesse/customer-support-manager-london-342317",
+      "title": "Software Engineer (Java)",
+      "company": "Sonarsource",
+      "location": "Geneva",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/software-engineer-java-geneva-212915",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/sonarsource/software-engineer-java-geneva-212915",
       "tags": [
-        "Commercial"
+        "Code Orchestration"
       ],
-      "description": "  We are Vitesse – the treasury and payment partner of choice for insurance.    Your next adventure awaits!   Join the team who are redefining the payments space.   About Us   At Vitesse, we're more than just a payments platform – we're the trusted financial infrastructure connecting the global insurance ecosystem. Tailor-made for insurers, brokers, MGAs, and TPAs, our unified platform optimises claims funds, enables real-time global payments, and delivers full financial control. Our impact is real: over $20 billion in payments across 200+ countries, hundreds of millions returned to insurers’ balance sheets, and counting. We’re licensed in the UK (FCA), Europe (DNB), and New York (NYDFS), with over 260 amazing colleagues worldwide. With $93 million recently raised in Series C funding from KKR, our journey is just beginning, and our ambitions are sky-high.  Headquartered in the heart of London and expanding across Europe and the US, Vitesse is where your ideas power tomorrow’s insurance solutions. Are you ready to make a difference? You're in the right place.   THE CURRENT TEAM AND OUR MISSION   Customer Support at Vitesse is in the middle of a step change. We're moving from a react",
-      "postedAt": 1791841204,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-mobile-qa-engineer-contract-london-366677",
-      "source": "Arbeitnow",
-      "title": "Senior Mobile QA Engineer - Contract",
-      "company": "Waracle",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/senior-mobile-qa-engineer-contract-london-366677",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/waracle/senior-mobile-qa-engineer-contract-london-366677",
-      "tags": [
-        "QA"
-      ],
-      "description": "  Waracle are looking for a    Senior QA   &nbsp; for an exciting new role joining our world-class digital technology consultancy and home to a diverse, smart, curious and ambitious community of specialists in technology-driven transformation.    We work with ambitious clients to help them solve their biggest business and customer challenges. We help our clients to innovate and create intelligent digital products and services. We thrive on complex&nbsp; challenges and deliver business-critical IT transformation projects, moving seamlessly from strategy, design and delivery to operations.      This is a    Hybrid role    working from our    London    office 2 days a week and is available on a    Contract       (Inside IR35)    basis, initially for 6 months.    Are you a technical quality specialist who thrives on collaboration, engineering rigor, and robust automation? We are looking for a Senior Quality Engineer who combines strong software engineering discipline with deep test automation expertise to deliver scalable, reliable, and maintainable quality solutions across mobile and API platforms.     Key Deliverables &amp; Responsibilities      Strategy &amp; Framework Architecture:",
-      "postedAt": 1791829828,
+      "description": " \n  Who is Sonar?  \n Sonar is driving the future of agent-centric software development. As the leader in AI code verification and governance, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure, and maintainable. \n Integrating seamlessly with Claude Code, Codex, Cursor, GitHub Copilot, Gemini, and Devin, we help over 75% of the Fortune 100 build trusted, reliable, compliant software. Customers who use Sonar are 44% less likely to report an outage due to AI-generated code. \n We believe code verification is the critical missing link in the Agent-Centric Development Cycle (AC/DC). Industry giants like Nvidia, ServiceNow,   Booking.com, Goldman Sachs, AstraZeneca, and Ford Motor Company count on us to provide independent, explainable, consistent review and governance of their AI-generated code via products like: \n \n SonarQube: The world’s leading AI code review and verification platform. \n SonarQube Foundation Agent: Currently topping the leaderboards for agentic software repair. \n SonarSweep &amp; Sonar Context Augmentation: Providing the enterprise-grade context and constraints agents need to be truly effect",
+      "postedAt": 1791933845,
       "score": 9,
       "reasons": [
         "title: software engineer",
@@ -1372,56 +1412,18 @@
       ]
     },
     {
-      "id": "arbeitnow-infrastructure-engineer-ml-systems-paris-372930",
+      "id": "arbeitnow-member-of-technical-staff-zurich-473361",
       "source": "Arbeitnow",
-      "title": "Infrastructure Engineer (ML Systems) - Paris",
-      "company": "Hcompany",
-      "location": "Hybrid Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/infrastructure-engineer-ml-systems-paris-372930",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/hcompany/infrastructure-engineer-ml-systems-paris-372930",
+      "title": "Member of Technical Staff (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Zurich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/member-of-technical-staff-zurich-473361",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/member-of-technical-staff-zurich-473361",
       "tags": [
-        "Engineering"
+        "Software"
       ],
-      "description": " You’ll own the GPU compute that powers our model training, evaluation and serving systems.  This role sits in our Infrastructure team, which works at the lowest layers of our stack, from Kubernetes down to the GPU hardware. You’ll run the clusters, GPUs and schedulers that our research, product and platform teams depend on, and manage the capacity we buy from our cloud providers.    What success looks like  Success is measured by how well we use our GPUs: keeping production reliable and improving the performance of our training and serving stack.    What you’ll be doing    Running Kubernetes clusters for GPU training and inference    Improving how GPU work is scheduled and placed    Detecting, draining and repairing unhealthy GPU nodes    Managing capacity with our cloud providers    Debugging failures in GPUs, Linux, storage and networking      The first year  By month 3, you’ll be handling a share of cluster incidents on your own and will have shipped one change to scheduling or node health, such as automatically detecting and draining unhealthy GPU nodes. By month 6, you’ll own one part of the compute layer outright: scheduling and placement, node health and repair, or capacity",
-      "postedAt": 1791855609,
-      "score": 9,
-      "reasons": [
-        "title: node",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-payments-paris-193385",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer, Payments",
-      "company": "Lemonway",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/senior-software-engineer-payments-paris-193385",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lemonway/senior-software-engineer-payments-paris-193385",
-      "tags": [
-        "Tech"
-      ],
-      "description": "   Lemonway is a licensed payment institution at the heart of Europe’s new digital economy.        We secure payments for crowdfunding platforms, the collaborative economy, marketplaces and online retailers, with a strong commitment to fighting fraud and protecting funds.       Regulated by the ACPR and benefiting from the European passport in 29 countries, Lemonway is based in Paris and Hamburg and brings together 150 multicultural and committed    Lemonheroes   .       More than 400 marketplaces trust us. We manage 1.4 million user wallets and have raised €50 million from Breega, Speedinvest and Toscafund.       Profitable for the past four years and growing by 25% in 2025, Lemonway aims to remain one of Europe’s leading payment providers through healthy and sustainable growth.      About the role      We are looking for a Senior Software Enginee   r    for the    Payments Tribe,    a critical part of our platform powering the payment experience across all channels. You will report to the Engineering Manager of the Tribe, and work closely with 8 engineers across 2 squads (Core banking, Payments).       You will architect, design, and drive the enhancement of our platform by speci",
-      "postedAt": 1791844215,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-general-accountant-lead-analyst-paris-paris-25006",
-      "source": "Arbeitnow",
-      "title": "General Accountant Lead & Analyst (x/f/m)",
-      "company": "Doctolib",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/general-accountant-lead-analyst-paris-paris-25006",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/general-accountant-lead-analyst-paris-paris-25006",
-      "tags": [
-        "Finance & Legal"
-      ],
-      "description": "&lt;div data-page-number=&quot;1&quot;&gt;\n&lt;div class=&quot;react-pdf__Page shadow-md&quot; data-page-number=&quot;1&quot;&gt;\n&lt;div class=&quot;react-pdf__Page__textContent textLayer selecting&quot; data-main-rotation=&quot;0&quot;&gt;\n&lt;h2&gt;&lt;strong&gt;Vos missions&lt;/strong&gt;&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;react-pdf__Page__annotations annotationLayer&quot; data-main-rotation=&quot;0&quot;&gt;\n&lt;p class=&quot;p3&quot;&gt;Notre équipe Finance SSC (Shared Service Center) réinvente la comptabilité chez Doctolib. Là où la plupart des entreprises commencent à peine à mentionner l&#39;IA dans leurs fiches de poste comptables, nous l&#39;intégrons déjà au cœur de nos processus. Nous sommes en avance sur le marché — et nous assumons cette ambition.&lt;br&gt;&lt;br&gt;Nous recherchons un(e) General Accountant Lead &amp;amp; Analyst pour rejoindre l&#39;équipe General Ledger (GL). Ce rôle est bien plus qu&#39;un poste de comptable senior : vous couvrirez l&#39;intégralité des flux d&#39;activités courantes (cycles fournisseurs, clients, immobilisations), avec un fort degré de reporting transverse en clôture, tout en portant un œil critique de contrôle de gestio",
-      "postedAt": 1791824110,
+      "description": "  Who We Are:   We are a rapidly growing embodied AI company revolutionizing human labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across multiple industries—empowering businesses to streamline operations, boost productivity, and unlock new possibilities.     Overview:   We are looking for a world-class robotics professionals to join our R&amp;D hub in the  Zurich area . In this role, you will be at the forefront of developing Vision-Language-Action (VLA) models that enable robots to understand and interact with the world with unprecedented generalization. You will work on the intersection of large-scale foundation models and real-world robotic execution, bridging the gap between state-of-the-art research and deployed embodied intelligence.     Your Responsibilities:    Research &amp; Development:     Design, implement, and scale VLA models and foundation architectures for robotic manipulation and navigation.     Scaling Laws &amp; Data:     Develop strategies for multi-modal data collection, synthetic data generation, and efficient fine-tuning of large-scale models.     Algorithm Op",
+      "postedAt": 1791902448,
       "score": 9,
       "reasons": [
         "title: react",
@@ -1429,20 +1431,24 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-dynamics-365-power-platform-technical-lead-liebefeld-bern-switzerland-374694",
+      "id": "arbeitnow-remote-care-account-manager-clinical-europe-west-africa-france-106455",
       "source": "Arbeitnow",
-      "title": "Senior Dynamics 365 & Power Platform Technical Lead",
-      "company": "Speedgoat",
-      "location": "Liebefeld, Bern, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/speedgoat/senior-dynamics-365-power-platform-technical-lead-liebefeld-bern-switzerland-374694",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/speedgoat/senior-dynamics-365-power-platform-technical-lead-liebefeld-bern-switzerland-374694",
-      "tags": [],
-      "description": "  Your Impact  We are looking for a senior, hands-on Dynamics 365 &amp; Power Platform Technical Lead to own the technical development, integration, and lifecycle management of our Microsoft Dynamics 365 and Power Platform environment. The role covers Dynamics 365 Sales, Dynamics 365 Customer Service, and Dynamics 365 Marketing, together with Microsoft Dataverse, Power Apps, Power Automate, platform integrations, and related Azure services. You will translate business requirements into robust technical solutions and determine when to use standard platform capabilities, configuration, low-code development, or custom code. The role combines hands-on platform development with technical leadership, solution governance, and long-term ownership. This is primarily a  Dynamics 365   and Power Platform role . Strong professional software development experience with  C#/.NET, React, and TypeScript  is a valuable asset where requirements justify custom extensions, components, services, or integrations. You will work closely with business process owners across customer-facing teams, Technical Customer Support, Marketing, Data Engineering, and Corporate IT.     Your Contribution:      Own the p",
-      "postedAt": 1791706202,
-      "score": 9,
+      "title": "Care Account Manager (Clinical), Europe & West Africa",
+      "company": "Intellecthq",
+      "location": "France · Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/intellecthq/remote-care-account-manager-clinical-europe-west-africa-france-106455",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/intellecthq/remote-care-account-manager-clinical-europe-west-africa-france-106455",
+      "tags": [
+        "Mental Health Care",
+        "Clinical",
+        "Remote"
+      ],
+      "description": "  The Role   Intellect delivers a clinically governed mental health programme to enterprise clients in the mining and resources sector, supporting remote and expatriate workforces. This is not a standard EAP. Cases begin with acute risk assessment on remote sites and run through structured treatment, fitness-for-work assessment and return-to-work clearance, in direct coordination with the client's chaplaincy, medical and people teams.  This role covers the client's United Kingdom operations and a West African project site where the working language is French. It is a combined clinical delivery and case management role: the postholder conducts the assessments, delivers the therapy, writes the reports and owns the case, rather than coordinating a provider network. That design reflects the absence of an established provider network in the West African market at launch, and gives the client a single clinician who knows each case end to end.  Full professional fluency in French and English is a non-negotiable requirement. Welfare calls, clinical assessment, case documentation and client communication in the West African market are conducted in French.  Responsibilities   Clinical assess",
+      "postedAt": 1791962424,
+      "score": 8,
       "reasons": [
-        "title: react",
-        "skill: react"
+        "location: Remote",
+        "location: Africa"
       ]
     }
   ]

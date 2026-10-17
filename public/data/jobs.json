@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-10-16T09:30:49.833Z",
+  "scannedAt": "2026-10-17T09:01:33.894Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 43,
+  "count": 46,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -116,6 +116,56 @@
         "skill: git",
         "skill: node",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137527",
+      "source": "RemoteOK",
+      "title": "Senior Software Engineer II Applied AI",
+      "company": "Wrapbook",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "tags": [
+        "dev",
+        "design",
+        "amazon",
+        "sys admin",
+        "backend",
+        "infosec",
+        "python",
+        "education",
+        "technical",
+        "customer support",
+        "accounting",
+        "payroll",
+        "javascript",
+        "finance",
+        "java",
+        "typescript",
+        "node",
+        "node.js",
+        "content writing",
+        "senior",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "description": "  About Us:   Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting.   Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen Horowitz, Bessemer Venture Partners, and Jeffrey Katzenberg's WndrCo, our team of 350+ is using AI to transform how finance teams work and empower them to do more with less.     The Opportunity: Senior Software Engineer II, Applied AI (Remote - USA / Canada)    We are looking for a Senior Software Engineer II, Applied AI to join our Agentic Systems team, where you'll build AI agents that automate workflows for teams across Wrapbook. You'll partner directly with internal teams like Marketing, Sales, Support, Operations and Finance to find high-leverage processes, then design, ship and iterate on agents that take real work off their plates. This is a chance to define how a 400+ person company runs on AI. You'll see the impact of your work every day, while shaping the patterns, tools and standards for how we build agents at Wrapbo",
+      "postedAt": "2026-10-15T16:00:03+00:00",
+      "score": 33,
+      "reasons": [
+        "title: javascript",
+        "title: software engineer",
+        "title: node",
+        "skill: javascript",
+        "skill: git",
+        "skill: node",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -583,27 +633,6 @@
       ]
     },
     {
-      "id": "arbeitnow-principal-software-engineer-manchester-210830",
-      "source": "Arbeitnow",
-      "title": "Principal Software Engineer",
-      "company": "Cytix",
-      "location": "Manchester",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cytix/principal-software-engineer-manchester-210830",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/cytix/principal-software-engineer-manchester-210830",
-      "tags": [
-        "Product"
-      ],
-      "description": " You’ll be a Technical Leader, unblock the engineering team by resolving complex technical impasses, standardising engineering practices, and owning cross-functional initiatives.  You'll still be a highly hands-on engineer, responsible for rapidly prototyping, shipping MVPs, and turning product ideas into polished user experiences. You’ll work across the stack, collaborating closely with product, design, and engineering teams while operating with a high degree of independence.      What you'll do        Build and ship new product features end-to-end    Lead rapid prototyping and MVP development    Develop modern frontend applications using TypeScript, Vue 3 Composition API, and Tailwind    Contribute to backend services using Node, Bun, Koa, PostgreSQL, Prisma, and AWS    Collaborate closely with cross-functional teams to shape product direction    Improve performance, reliability, and developer experience across the platfor    Support on hiring, performance and technical roadmaps.         What you'll need        Extensive experience building modern frontend applications with TypeScript and Vue3    Solid backend experience with Node-based services and relational databases    Experi",
-      "postedAt": 1792118417,
-      "score": 21,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer",
-        "title: node",
-        "skill: node"
-      ]
-    },
-    {
       "id": "arbeitnow-senior-frontend-engineer-luzern-121805",
       "source": "Arbeitnow",
       "title": "Senior Frontend Engineer",
@@ -701,6 +730,27 @@
         "skill: css",
         "skill: git",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-cybersecurity-intern-stuttgart-351050",
+      "source": "Arbeitnow",
+      "title": "Cybersecurity Intern",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/cybersecurity-intern-stuttgart-351050",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/cybersecurity-intern-stuttgart-351050",
+      "tags": [
+        "Software"
+      ],
+      "description": "  Cybersecurity Intern    Company:  Sereact GmbH  Location:  Stuttgart, Germany   About the role   Help us improve the security and monitoring of our cloud infrastructure and internal systems. A key project will be building and rolling out our SIEM platform for centralized security monitoring and threat detection. You’ll also work on vulnerability management and ISO 27001/SOC 2 controls, while developing security tools and automation using Python, JavaScript, and TypeScript.  You’ll receive technical guidance and gradually take ownership of practical security projects.   Responsibilities     Help build, deploy, and maintain our SIEM platform, integrating logs from cloud infrastructure, applications, identity systems, and network devices.    Configure monitoring dashboards, detection rules, and alerts to monitor infrastructure health and security.    Improve infrastructure security through access reviews, secure configurations, and vulnerability remediation.    Investigate alerts and support incident response.    Develop and maintain security automation and integrate checks into CI/CD workflows.    Support ISO 27001 and SOC 2 controls, audit evidence collection, and documentation.  ",
+      "postedAt": 1792183218,
+      "score": 18,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: react"
       ]
     },
     {
@@ -887,46 +937,6 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-frontend-engineer-germany-61275",
-      "source": "Arbeitnow",
-      "title": "Senior Frontend Engineer",
-      "company": "Trading212",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/trading212/senior-frontend-engineer-germany-61275",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/trading212/senior-frontend-engineer-germany-61275",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "   Our mission is to enable everyone to build wealth  We reinvent how trading and investing work by creating exceptional products people love.  That takes high standards, high velocity and engineers who own what they ship.  Today, we serve over 6 million clients, with more than €38 billion in assets under management. At that scale, frontend performance, correctness and clarity are part of the product.  Our frontend platform spans web and mobile: TypeScript, React, React Native and React Native Web in an Nx and pnpm monorepo, with TanStack Query, Zustand, Playwright, Detox and Jest. Around 95% of our code is reused across web and mobile.    About the role  Senior Frontend Engineers work across our product domains. Your team match will reflect your strengths, interests and where you can contribute most.  Across every team, the model is the same: small, autonomous groups, a weekly release cycle and ownership from problem definition through production.    What you’ll do    Own complex frontend features end to end across web and mobile.    Design and evolve React and React Native systems, shared libraries and durable abstractions.    Identify and resolve rendering, state-management, bun",
-      "postedAt": 1792129217,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-staff-frontend-engineer-germany-21705",
-      "source": "Arbeitnow",
-      "title": "Staff Frontend Engineer",
-      "company": "Trading212",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/trading212/staff-frontend-engineer-germany-21705",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/trading212/staff-frontend-engineer-germany-21705",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "   Our mission is to enable everyone to build wealth  We reinvent how trading and investing work by creating exceptional products people love.  That takes high standards, high velocity and engineers who own what they ship.  Today, we serve over 6 million clients, with more than €38 billion in assets under management. At that scale, frontend architecture, performance and product quality have material business consequences.  Our frontend platform spans web and mobile: TypeScript, React, React Native and React Native Web in an Nx and pnpm monorepo, with TanStack Query, Zustand, Playwright, Detox and Jest. Around 95% of our code is reused across web and mobile.     About the role  Staff Frontend Engineers shape architecture and engineering direction across product teams while remaining close to the code. Your scope will include shared libraries, platform capabilities, developer tooling and difficult product-system problems.  This is not a people-management role. Its leverage comes from technical judgement, credible execution and making other engineers and teams more effective.     What you’ll do    Set direction for frontend architecture across React, React Native and the shared monore",
-      "postedAt": 1792129217,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
       "id": "arbeitnow-senior-net-developer-luzern-209251",
       "source": "Arbeitnow",
       "title": "Senior .NET Developer",
@@ -960,7 +970,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTMuODYuMjQwLjIxMA== when applying to show you read the job post completely (#RMTMuODYuMjQwLjIxMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTcyLjE4NC4yMTEuMjE= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMjE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -1027,7 +1037,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTMuODYuMjQwLjIxMA== when applying to show you read the job post completely (#RMTMuODYuMjQwLjIxMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTcyLjE4NC4yMTEuMjE= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMjE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -1101,22 +1111,43 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-web-engineer-react-remote-friendly-berlin-330724",
+      "id": "arbeitnow-legal-product-manager-legal-engineer-jurist-in-berlin-124081",
       "source": "Arbeitnow",
-      "title": "Senior Web Engineer (React) - Remote friendly",
-      "company": "Qonto",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/qonto/senior-web-engineer-react-remote-friendly-berlin-330724",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/qonto/senior-web-engineer-react-remote-friendly-berlin-330724",
+      "title": "Legal Product Manager | Legal Engineer (Jurist/in) (x/w/m)",
+      "company": "Hopkins Rechtsanwaltsgesellschaft mbH",
+      "location": "Berlin · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/legal-product-manager-legal-engineer-jurist-in-berlin-124081",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/legal-product-manager-legal-engineer-jurist-in-berlin-124081",
       "tags": [
-        "Web"
+        "Remote",
+        "Product Management"
       ],
-      "description": "   Our mission and customers:    We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace   with banking at its core, augmented by financial tools. We are proud to be     rated 4.8 on Trustpilot      ,     &nbsp;   based on 55,000+ reviews.     Our culture     &nbsp;   puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75  (more about our culture   here  ).   \n   Our journey:&nbsp;   Founded in 2017 by &nbsp;      Alexandre      and      Steve       ,   Qonto has grown to 1,700 Qontoers serving over 750,000 customers across 8 European countries. We have been profitable since 2023, and we are just getting started.  \n   Our beliefs:    We hire for skills and potential. With 80+ nationalities, 45% women, of which 56% of women in our leadership team, diversity isn't a program; It's who we are.      We've built a discrimination-free hiring process      because the best teams are built on merit.  \n   AI at Qonto:    AI is deeply embedded in how we work (    here    ) &nbsp;-    Every Qontoer gets unlimited access to the best AI tools. We want people who experiment without waiting for permission, push AI bey",
-      "postedAt": 1792117813,
+      "description": "  Hopkins  ist eine auf die Rechte von Privatpersonen spezialisierte, deutschlandweit tätige Kanzlei. Gegründet 2019 durch Arend Liese, zuvor Rechtsanwalt bei Freshfields Bruckhaus Deringer, denkt Hopkins das Prinzip Kanzlei und Rechtsdurchsetzung täglich neu - mit großem Fokus auf moderne Technologie und interdisziplinäre Zusammenarbeit. Mit einem Team von mehr als 150 Personen berät und vertritt Hopkins Privatpersonen deutschlandweit in allen rechtlichen Belangen.  Aufgaben    Du bist Teil der Mission, die Zukunft der Rechtsberatung für Privatpersonen neu zu formen    Du arbeitest direkt mit der Geschäftsführung zusammen und optimierst mithilfe unserer proprietären Software juristische Prozesse, erstellst Vorlagen und automatisierst Abläufe, überwiegend mit No-Code-Tools und zunehmend auch durch Programmierung (JavaScript)    Du setzt KI-Tools gezielt ein, entwickelst und testest Prompts und erstellst KI-gestützte Lösungen, die unsere Arbeitsabläufe effizienter machen    Du betreust unsere Softwarekunden, unterstützt sie bei der Arbeit mit unserer Software und löst fachliche wie technische Fragen    Du bist Schnittstelle zu den Stakeholdern des Kerngeschäfts (Anwält/innen, Refas,",
+      "postedAt": 1792170051,
       "score": 13,
       "reasons": [
-        "title: react",
-        "skill: react",
+        "title: javascript",
+        "skill: javascript",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-ml-engineer-kimchi-inference-stack-optimization-375002",
+      "source": "Arbeitnow",
+      "title": "Senior ML Engineer | Kimchi (Inference Stack Optimization)",
+      "company": "Kimchi",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/kimchi/senior-ml-engineer-kimchi-inference-stack-optimization-375002",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/kimchi/senior-ml-engineer-kimchi-inference-stack-optimization-375002",
+      "tags": [
+        "Technology"
+      ],
+      "description": "&lt;h4&gt;Why Kimchi?&lt;/h4&gt;\n&lt;p&gt;Great models are raw ingredients. Kimchi is what happens when you ferment them with good engineering. We started inside CAST AI helping companies run LLMs on their own Kubernetes clusters; today we run our own coding harness on any model you pick, and we run the models underneath it ourselves.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Kimchi Inference&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;One API line and a customer&#39;s existing client just works: DeepSeek, GLM, Kimi, MiniMax, Nemotron served serverless from our own GPU fleet (OpenAI- and Anthropic-compatible, pay per token, spend visible per user, team, and key). When control matters, the same models run on the customer&#39;s own cluster instead. Behind that one line sits the machinery you&#39;ll own: SGLang and vLLM engines, B300 nodes, a shared cluster filesystem that holds every checkpoint exactly once, KV caches riding coding traffic with heavy prefix reuse, and the benchmark harness that gates every change we ship.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em data-prosemirror-content-type=&quot;mark&quot; data-prosemirror-mark-name=&quot;em&quot;&gt;&lt;span id=&quot;edb2bdea-40e7-48f0-9485-a0b",
+      "postedAt": 1792140925,
+      "score": 13,
+      "reasons": [
+        "title: node",
+        "skill: node",
         "location: Remote"
       ]
     },
@@ -1167,18 +1198,18 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-query-execution-392794",
+      "id": "arbeitnow-senior-software-engineer-firefox-security-210327",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer, Query Execution",
-      "company": "mongodb",
+      "title": "Senior Software Engineer, Firefox Security",
+      "company": "mozilla",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/mongodb/senior-software-engineer-query-execution-392794",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/mongodb/senior-software-engineer-query-execution-392794",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-firefox-security-210327",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-firefox-security-210327",
       "tags": [
-        "Online Transaction Processing"
+        "Firefox"
       ],
-      "description": "&lt;p&gt;The MongoDB Query Execution Team is hiring software engineers who want to join us in developing a high performing, reliable and modular distributed query system. Our engineers work on implementing and maintaining execution algorithms, building new query language features, tuning database performance, and more to power our customers&#39; critical workloads.&lt;/p&gt;\n&lt;p&gt;This role can be based remotely in Germany.&lt;/p&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Understand and improve current functionality of the MongoDB query engine&lt;/li&gt;\n&lt;li&gt;Contribute high quality C++ code and give and solicit feedback in code reviews&lt;/li&gt;\n&lt;li&gt;Identify, design, implement, test, and support new features related to query performance and robustness, query language enhancements, diagnostics for query performance problems, and integration with other products and tools&lt;/li&gt;\n&lt;li&gt;Work constructively with peers to deliver excellent technical solutions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in systems programming&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in databases",
-      "postedAt": 1792119316,
+      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we’re doing this while never losing our focus on our core mission – to make the internet better for people.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren’t beholden to any shareholders — only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design, build and distribute &lt;/span&gt;&lt;st",
+      "postedAt": 1792173331,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1205,23 +1236,81 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-software-test-engineer-bern-277047",
+      "id": "arbeitnow-contract-software-engineer-dom-core-firefox-gecko-402762",
       "source": "Arbeitnow",
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Remote job · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-277047",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-277047",
+      "title": "Contract Software Engineer - DOM Core Firefox/Gecko",
+      "company": "mozilla",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mozilla/contract-software-engineer-dom-core-firefox-gecko-402762",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/mozilla/contract-software-engineer-dom-core-firefox-gecko-402762",
       "tags": [
-        "Software Engineering",
-        "Remote"
+        "Firefox"
       ],
-      "description": " Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.  Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen.     Must-have Anforderungen     Mehrjährige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten    Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray    Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform    Sehr gutes Deutsch und fliessendes Englisch       Nice-to-have Anforderungen     ISTQB Zertifizierung    Kenntnisse in Power Platform oder Azure       Das erwartet dich     Flexibler Homeoffice-Anteil, du entscheidest frei, ob du von zu Hause oder im Büro arbeites",
-      "postedAt": 1792009947,
+      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write Web-Platform tests to improve the coverage, and Gecko mochitests as needed&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fix the problems and pass the tests to improve the Gecko correctness&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work through code review with the relevant Gecko module owners and iterate to landing&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Definition of done&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Improved Session History test coverage and",
+      "postedAt": 1792173331,
       "score": 10,
       "reasons": [
         "title: software engineer",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-query-execution-163699",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer, Query Execution",
+      "company": "mongodb",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mongodb/senior-software-engineer-query-execution-163699",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/mongodb/senior-software-engineer-query-execution-163699",
+      "tags": [
+        "Online Transaction Processing"
+      ],
+      "description": "&lt;p&gt;The MongoDB Query Execution Team is hiring software engineers who want to join us in developing a high performing, reliable and modular distributed query system. Our engineers work on implementing and maintaining execution algorithms, building new query language features, tuning database performance, and more to power our customers&#39; critical workloads.&lt;/p&gt;\n&lt;p&gt;This role can be based remotely in Netherlands.&lt;/p&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Understand and improve current functionality of the MongoDB query engine&lt;/li&gt;\n&lt;li&gt;Contribute high quality C++ code and give and solicit feedback in code reviews&lt;/li&gt;\n&lt;li&gt;Identify, design, implement, test, and support new features related to query performance and robustness, query language enhancements, diagnostics for query performance problems, and integration with other products and tools&lt;/li&gt;\n&lt;li&gt;Work constructively with peers to deliver excellent technical solutions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in systems programming&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in datab",
+      "postedAt": 1792119316,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137530",
+      "source": "RemoteOK",
+      "title": "Director of IT and Workplace",
+      "company": "Hippocratic AI",
+      "location": "Menlo Park",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+      "tags": [
+        "exec",
+        "saas",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "testing",
+        "marketing",
+        "dev",
+        "finance",
+        "education",
+        "c",
+        "admin",
+        "microsoft",
+        "senior",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "description": "  The Role   We've grown to roughly 265 people working onsite from our Menlo Park headquarters, supported by a large network of remote U.S.-licensed clinicians â and part of the Series C is earmarked for acquisitions. The systems and the spaces holding all of that together were built for a much smaller company. We're hiring a Director of IT &amp; Workplace to own them properly.  You'll own two halves of the same problem: the employee technology platform â identity, endpoints, networking, the SaaS portfolio, and our IT security posture â and the physical environment the company runs on, from space planning and physical security to the AV that customer demos and all-hands depend on. You'll inherit a small, capable team and be accountable for leveling it up. You'll be the named owner for IT controls in our HIPAA and SOC 2 programs, you'll own the IT and workplace budget, and when we acquire a company, you'll be the one integrating it.     Our Environment      Identity and access:  Okta for SSO, MFA, and lifecycle provisioning.     Productivity:  Microsoft 365 and Google Workspace, both in active use across the company.     Endpoints:  a Mac-primary fleet with Windows machines al",
+      "postedAt": "2026-10-16T00:00:50+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1279,26 +1368,6 @@
       ],
       "description": " UtopiaÂ is an ultra-luxury hospitality and lifestyle brand creating a global ecosystem of properties and experiences.  We develop private villa retreats in beautiful locations around the world, each with high-end service.Â UtopiaÂ also offers a wider ecosystem of leisure experiences and services available both to those staying on property and to external visitors.  UtopiaÂ designs and builds its properties in-house. Our projects span the full journey: from concept and architecture to construction, interiors, landscape, guest experience, and long-term operation. For architects and designers, this means contributing on properties from the ground up, with the ability to influence how each place is planned, built, and experienced. For hospitality professionals, it means collaborating with a brand where service is personal, attentive, and built around each guestâs stay.  Weâre a young, ambitious team with high standards and a hands-on approach. We value strong ideas, practical thinking, attention to detail, and people who are ready to take ownership of their part of each project. If youâre interested in architecture, design, hospitality, or guest experience, we invite you to expl",
       "postedAt": "2026-10-14T16:00:05+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137512",
-      "source": "RemoteOK",
-      "title": "Customer Support Specialist",
-      "company": "Ultimate Marketing",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
-      "tags": [
-        "customer support"
-      ],
-      "description": "  Join Our Global Customer Engagement Network   Company: Ultimate Marketing LLC Location: Worldwide | Remote Employment Type: Independent Contractor (1099 for eligible U.S. contractors) Compensation: Performance-Based | Payments Every 3 Calendar Days        About the Opportunity   Ultimate Marketing LLC is expanding its global network of remote professionals to support our brands:  Our growing global business ecosystem includes the following brands, platforms, and specialized services:   Direct Acquisitionsâ¢  Tokenized Fundingâ¢  Perfect Data Directâ¢  Cybersecurity &amp; Compliance  Juris Audit on-Demandâ¢  Insights by PDDâ¢  Web4Comâ¢ (Web4â¢)   Together, these initiatives support business acquisitions, financial innovation, digital infrastructure, cybersecurity, regulatory compliance, and global business development.  We are seeking motivated individuals interested in customer engagement, digital communications, business development, and online support opportunities.  Our growing business ecosystem includes business acquisitions, digital technology, cybersecurity, compliance, and innovative financial solutions.  This opportunity provides flexibility (your time zone), rem",
-      "postedAt": "2026-10-14T01:31:49+00:00",
       "score": 9,
       "reasons": [
         "skill: git",
@@ -1412,41 +1481,79 @@
       ]
     },
     {
-      "id": "arbeitnow-staff-backend-engineer-germany-361881",
+      "id": "arbeitnow-senior-director-ux-operations-berlin-berlin-311145",
       "source": "Arbeitnow",
-      "title": "Staff Backend Engineer",
-      "company": "Trading212",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/trading212/staff-backend-engineer-germany-361881",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/trading212/staff-backend-engineer-germany-361881",
+      "title": "(Senior) Director UX, Operations",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-director-ux-operations-berlin-berlin-311145",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-director-ux-operations-berlin-berlin-311145",
       "tags": [
-        "Engineering"
+        "Tech Consumer - Product"
       ],
-      "description": "   Our mission is to enable everyone to build wealth  We reinvent how trading and investing work by creating exceptional products people love.  That takes high standards, high velocity and engineers who own what they ship.  Today, we serve over 6 million clients, with more than €38 billion in assets under management. At that scale, performance, reliability and data integrity are part of the product.  Our platform is powered by a modern, high-performance engineering stack designed for scale and reliability: Java 21 (Spring), Go, Node.js (TypeScript), PostgreSQL, MariaDB, Redis, Kafka, ClickHouse, Elasticsearch, Docker, Grafana, AWS, Kubernetes and Kibana.  About the role  Staff Backend Engineers shape technical direction across teams while remaining close to the systems and code. You will take on problems whose consequences extend beyond one service or delivery cycle.  This is not a people-management role. Its leverage comes from technical judgement, credible execution and the ability to help other engineers make better decisions.  What you’ll do    Own high-consequence backend problems that span services, teams or product domains.    Establish clear system boundaries and architectu",
-      "postedAt": 1792129217,
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;About the role&lt;/h2&gt;\n&lt;p&gt;HelloFresh is reorganising UX to work AI-native — practitioners either go deep as platform and skills experts, or broad as generalists who move fluidly across product, design and engineering to drive experience quality and innovation. This role leads UX for our Operations organisation: the part of the business that bridges technology with physical fulfilment, procurement, quality assurance and supply chain, across every market and brand we operate in.&lt;/p&gt;\n&lt;p&gt;You&#39;ll take over from a Director who spent two years shifting this function from reactive delivery to a high-leverage, AI-native strategic partner — including building an internal design platform, integrated with AI tooling, that other parts of the business have since adopted. You inherit that trajectory, not a finished product: some of our highest-stakes bets for 2026, including how we plan menus algorithmically at scale and how we run the internal tools that power supply-chain decision-making, are still being actively designed, not maintained.&lt;/p&gt;\n&lt;p&gt;This is a Berlin-based, in-person leadership role. Operations is one of sev",
+      "postedAt": 1792173337,
       "score": 9,
       "reasons": [
-        "title: node",
-        "skill: node"
+        "title: react",
+        "skill: react"
       ]
     },
     {
-      "id": "arbeitnow-senior-backend-engineer-germany-484303",
+      "id": "arbeitnow-frontend-engineering-lead-london-87291",
       "source": "Arbeitnow",
-      "title": "Senior Backend Engineer",
-      "company": "Trading212",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/trading212/senior-backend-engineer-germany-484303",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/trading212/senior-backend-engineer-germany-484303",
+      "title": "Frontend Engineering Lead",
+      "company": "Omnea",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/frontend-engineering-lead-london-87291",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/omnea/frontend-engineering-lead-london-87291",
+      "tags": [
+        "Tech"
+      ],
+      "description": "  Our Mission   At Omnea, we’re reinventing how enterprise businesses operate, starting with the most painful parts:  procurement  – where a single purchase can drag on for months, trigger  50+ emails , and pull in  Finance, Legal, Security, and IT  just to get something approved.  We’ve raised  $75M from Khosla Ventures, Insight Partners,  and  Accel  to change that. Our AI-native platform connects every person, step, and system so buying is fast, safe, and efficient – one place to request, automated approvals and renewals, real-time supplier risk, and complete spend visibility.   The opportunity is massive.  Every enterprise on the planet has this problem and nobody has solved it . We’ve 10x’d ARR to double-digit millions in 18 months and are trusted by global enterprises like Spotify, MongoDB, Monzo, and Albertsons. We’re now the    4th fastest growing startup    in Europe &amp; the Sunday Times' #1 Best Medium Sized Tech Company To Work for.   Our team previously scaled Tessian  ( cybersecurity tech,  backed by Sequoia, Balderton, Accel ,  acquired post-Series C), and our team includes ex-founders operators who’ve grown unicorns, shipped world-class products, and executed at th",
+      "postedAt": 1792215631,
+      "score": 9,
+      "reasons": [
+        "title: frontend",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-mobile-engineer-react-native-paris-paris-490024",
+      "source": "Arbeitnow",
+      "title": "Mobile Engineer - React Native",
+      "company": "Alma31",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alma31/mobile-engineer-react-native-paris-paris-490024",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/alma31/mobile-engineer-react-native-paris-paris-490024",
       "tags": [
         "Engineering"
       ],
-      "description": "   Our mission is to enable everyone to build wealth  We reinvent how trading and investing work by creating exceptional products people love.  That takes high standards, high velocity and engineers who own what they ship.  Today, we serve over 6 million clients, with more than €38 billion in assets under management - a testament to the scale and trust we have built in just a few years. At that scale, performance, reliability and data integrity are part of the product.  Our platform is powered by a modern, high-performance engineering stack designed for scale and reliability: Java 21 (Spring), Go, Node.js (TypeScript), PostgreSQL, MariaDB, Redis, Kafka, ClickHouse, Elasticsearch, Docker, Grafana, AWS, Kubernetes and Kibana.    About the role  Senior Backend Engineers work across our backend organisation. Your team match will reflect your strengths, interests and where you can contribute most.  Across every team, the model is the same: small, autonomous groups, short release cycles and ownership from problem definition through production.    What you’ll do    Own backend solutions end to end: understand the business problem, shape the requirements, design the solution, build it, tes",
-      "postedAt": 1792129217,
+      "description": "&lt;h3 class=&quot;p1&quot;&gt;🧡&lt;strong&gt; About Alma&lt;/strong&gt;&lt;/h3&gt;\n&lt;p class=&quot;p2&quot;&gt;At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred payment solutions help merchants boost sales by 20% or more, increase customer loyalty, and deliver a seamless shopping experience - without encouraging bad debt. As the buy now pay later leader in France and active in 10 European countries, we&#39;ve empowered over +25,000 merchants and 10 million consumers. With 400+ Almakers and €100M+ ARR, Alma is scaling rapidly across Europe as a member of the Next40, and we&#39;re just getting started!&lt;/p&gt;\n&lt;h3 class=&quot;p1&quot;&gt;👐&lt;strong&gt; About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p class=&quot;p2&quot;&gt;The Consumer Tribe builds the Alma app for consumers. To tackle more topics and accelerate the development of the consumer experience, the current Consumer squad is splitting into two dedicated squads: Alma Wallet and Consumer Engagement.&lt;/p&gt;\n&lt;p class=&qu",
+      "postedAt": 1792184143,
       "score": 9,
       "reasons": [
-        "title: node",
-        "skill: node"
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-research-engineer-zurich-327456",
+      "source": "Arbeitnow",
+      "title": "Research Engineer (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Zurich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-327456",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-327456",
+      "tags": [
+        "Software"
+      ],
+      "description": " Research Engineer, Manipulation Data &amp; Teleoperation — Zurich  This role owns the data generation layer of Sereact's VLA stack: teleoperation systems and data collection infrastructure that feed Cortex, built from our Zurich research hub.  About Sereact  Sereact is a Series B embodied-AI company. Cortex, our VLA model, is deployed in live warehouse robotic cells across the EU and US. Zurich is our newest research hub, focused on the manipulation and control problems that sit underneath Cortex.    The role  This is a Research Engineer position. It is scoped to the data generation layer of the VLA stack: teleoperation hardware and software, retargeting pipelines that map human demonstrations onto robot hands, and the data collection infrastructure that feeds Cortex. It requires building the systems that produce the data those models train on, and working closely with the training team on what that data needs to look like.    What you'll do    Build and operate teleoperation systems for dexterous manipulation, including retargeting algorithms that map human hand and arm motion onto robot end-effectors    Design and maintain scalable, UMI-style data collection hardware and softwar",
+      "postedAt": 1792183219,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
       ]
     },
     {

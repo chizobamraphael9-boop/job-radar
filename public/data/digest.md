@@ -1,4 +1,4 @@
-# Job Radar digest (2026-10-20)
+# Job Radar digest (2026-10-21)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
@@ -14,29 +14,29 @@
    https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133
 7. **Senior back-end Engineer** — Lemon.io (31)
    https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132
-8. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
+8. **Full Stack Blockchain Engineer for RWA market** — Blockvora (28)
+   https://www.arbeitnow.ch/jobs/companies/blockvora/full-stack-blockchain-engineer-for-rwa-market-zug-393337
+9. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
-9. **Product Engineering Lead** — Tether Operations Limited (25)
+10. **Product Engineering Lead** — Tether Operations Limited (25)
    https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
-10. **Product Design Lead** — Fuel50 (22)
+11. **Product Design Lead** — Fuel50 (22)
    https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474
-11. **Software Engineer AI Coding Tasks** — Askable (19)
+12. **Software Engineer AI Coding Tasks** — Askable (19)
    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
-12. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
+13. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
-13. **Remote Office Assistant** — Coalition Technologies  (19)
+14. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
-14. **Sr Solutions Architect** — ExtraHop (16)
+15. **Sr Solutions Architect** — ExtraHop (16)
    https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394
-15. **Senior Software Engineer** — Sothebyâs (15)
+16. **Senior Software Engineer** — Sothebyâs (15)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545
-16. **Senior .NET Developer** — SwissPeak Partners GmbH (15)
-   https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-254546
-17. **Software Engineer, AI Coding Tasks** — Askable (15)
-   https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158
-18. **Software Engineer** — Prenosis (13)
+17. **Senior Frontend Engineer - React** — Researchgate (15)
+   https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-463681
+18. **Senior Control Systems Engineer** — Fusionality (15)
+   https://www.arbeitnow.ch/jobs/companies/fusionality/senior-control-systems-engineer-lausanne-423621
+19. **Software Engineer** — Prenosis (13)
    https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427
-19. **Senior .NET Software Engineer** — OkWhen (13)
-   https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411
 20. **Software Engineer** — Mirantis (13)
    https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387

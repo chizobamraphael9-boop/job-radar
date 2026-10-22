@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-21T09:50:43.651Z",
+  "scannedAt": "2026-10-22T09:51:27.367Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
   "count": 42,
@@ -359,30 +359,6 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-blockchain-engineer-for-rwa-market-zug-393337",
-      "source": "Arbeitnow",
-      "title": "Full Stack Blockchain Engineer for RWA market",
-      "company": "Blockvora",
-      "location": "Zug · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/full-stack-blockchain-engineer-for-rwa-market-zug-393337",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/blockvora/full-stack-blockchain-engineer-for-rwa-market-zug-393337",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " About Blockvora  Blockvora is scaling its engineering capacity with 5 new Full Stack Blockchain Engineer positions for the real-world asset (RWA) market. Operating as a fully remote team across the globe, we build infrastructure that bridges traditional finance and decentralized ledgers.  Your responsibilities  You will design, develop, and maintain decentralized applications and smart contracts that power our RWA marketplace.    Write secure, gas-optimized smart contracts for asset tokenization.    Build responsive front-end interfaces using modern web frameworks.    Integrate blockchain networks with backend services and APIs.    Audit and test codebase security to protect user assets and transactions.    Collaborate with product and design teams to ship new protocol features.    Requirements    Proven professional experience in full stack software development and blockchain engineering.    Strong proficiency in Solidity and JavaScript or TypeScript.    Deep understanding of token standards, DeFi protocols, and Web3 libraries.    Experience with modern front-end frameworks like React or Next.js.    Familiarity with secure smart contract development practices and automated testin",
-      "postedAt": 1792512065,
-      "score": 28,
-      "reasons": [
-        "title: react",
-        "title: javascript",
-        "title: full stack",
-        "skill: javascript",
-        "skill: react",
-        "location: Remote"
-      ]
-    },
-    {
       "id": "remotive-2069746",
       "source": "Remotive",
       "title": "Tech Lead Full-Stack Rails Engineer",
@@ -575,6 +551,51 @@
       ]
     },
     {
+      "id": "arbeitnow-senior-contract-c-javascript-software-engineer-firefox-browser-engine-300146",
+      "source": "Arbeitnow",
+      "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
+      "company": "mozilla",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-contract-c-javascript-software-engineer-firefox-browser-engine-300146",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-contract-c-javascript-software-engineer-firefox-browser-engine-300146",
+      "tags": [
+        "Firefox"
+      ],
+      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write Web-Platform tests to improve the coverage, and Gecko mochitests as needed&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fix the problems and pass the tests to improve the Gecko correctness&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work through code review with the relevant Gecko module owners and iterate to landing&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Definition of done&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Improved Session History test coverage and",
+      "postedAt": 1792659320,
+      "score": 19,
+      "reasons": [
+        "title: javascript",
+        "title: software engineer",
+        "skill: javascript",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-senior-full-stack-engineer-web-infrastructure-germany-245745",
+      "source": "Arbeitnow",
+      "title": "Senior Full-Stack Engineer (Web + Infrastructure)",
+      "company": "Searoutes",
+      "location": "Germany · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/searoutes/remote-senior-full-stack-engineer-web-infrastructure-germany-245745",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/searoutes/remote-senior-full-stack-engineer-web-infrastructure-germany-245745",
+      "tags": [
+        "Engineering",
+        "Logistics and Supply Chain",
+        "Product",
+        "Remote"
+      ],
+      "description": " Searoutes makes the emissions data that shippers use to run and reduce their logistics. It is an operational problem before it is an environmental one, and in our hands it is mostly an engineering one.    We are hiring a&nbsp; senior engineer &nbsp;who works across our web frontend and our infrastructure — the same two codebases, in the same week. Someone who ships a product screen on Monday, changes an identity-provider flow on Wednesday, and considers those the same job.    We are looking for a broad profile rather than a specialist. The next year is mostly platform work with a user-facing edge —&nbsp; user management, API gateway   management, payments, SEO, and a great deal of compliance, GDPR and ISO 27001.     If you are passionate about the environment, proactive and pragmatic in getting things done, and love to work in a complex but fascinating industry where you learn every day — then this is the place for you.     The work in front of us     Some of the items on our tech roadmap for the coming year. Bets are picked a cycle at a time and shared out, so you would take the ones that suit you and grow into the rest.      Product and marketing UI in React &nbsp;— multi-brand,",
+      "postedAt": 1792657205,
+      "score": 19,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "skill: react",
+        "location: Remote"
+      ]
+    },
+    {
       "id": "remotive-1680495",
       "source": "Remotive",
       "title": "Remote Office Assistant",
@@ -662,54 +683,13 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNTcuMTU0LjE2Ny4yMTc= when applying to show you read the job post completely (#RNTcuMTU0LjE2Ny4yMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNTIuMjQxLjMwLjcw when applying to show you read the job post completely (#RNTIuMjQxLjMwLjcw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
-      "score": 15,
+      "score": 13,
       "reasons": [
         "title: software engineer",
         "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-frontend-engineer-react-berlin-463681",
-      "source": "Arbeitnow",
-      "title": "Senior Frontend Engineer - React",
-      "company": "Researchgate",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-463681",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-463681",
-      "tags": [
-        "Engineering"
-      ],
-      "description": " \n ResearchGate is the professional network for scientists and researchers. From climate change and emerging diseases to food security and the responsible development of AI, the challenges facing our world are complex. Still, we’re optimistic about the power of millions of scientists working together to tackle them. We provide scientists with the help and support they need by connecting them to the world’s most active scientific community. \n We've built a platform that gives the world's scientists the tools and services they need to connect, collaborate, and advance their research. Over 25 million members from 193 countries use ResearchGate to share, discover, and discuss research. \n   Objective of the role   \n We're looking for an enthusiastic frontend engineer with the skills and ability to turn great ideas into reality. You should have an in-depth understanding of current web technologies and front-end development, and be passionate about creating a great user experience. Your input will help us grow and maintain our React front-end. \n Join a team that encourages you to explore, learn, and go beyond, while seeing your work lead to actionable results. Put your creative problem-so",
-      "postedAt": 1792537782,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-control-systems-engineer-lausanne-423621",
-      "source": "Arbeitnow",
-      "title": "Senior Control Systems Engineer",
-      "company": "Fusionality",
-      "location": "Lausanne",
-      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/senior-control-systems-engineer-lausanne-423621",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/fusionality/senior-control-systems-engineer-lausanne-423621",
-      "tags": [
-        "Engineering"
-      ],
-      "description": " Fusionality is building the measurement, simulation and control stack of the fusion energy reactors of the future. \n Our technology enables effective and reliable operation, monitoring, and analysis of high-temperature plasmas in fusion devices — which will one day provide clean, practically limitless power to the grid. We have spun out of EPFL’s Swiss Plasma Center and have just completed our pre-seed fundraise. \n We are looking for a  Senior Control Systems Engineer  to join our founding team in Lausanne and help build our core technology. \n This job is for you if you are a passionate engineer with deep knowledge cutting across real-time / embedded systems, software and hardware, and excited about building the systems to monitor and control real-world fusion plasmas. \n Tasks \n \n Implement real-time control, analysis, data acquisition systems in the kHz to MHz range, as individual contributor and in a team. \n Integrate solutions across a variety of company products and services as well as on our in-house test beds. \n Provide technical leadership within a growing real-time control and software engineering team that you will help to build. \n Translate customer needs into requiremen",
-      "postedAt": 1792513852,
-      "score": 15,
-      "reasons": [
-        "title: react",
-        "title: software engineer",
-        "skill: react"
+        "location: Remote"
       ]
     },
     {
@@ -726,7 +706,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNTcuMTU0LjE2Ny4yMTc= when applying to show you read the job post completely (#RNTcuMTU0LjE2Ny4yMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNTIuMjQxLjMwLjcw when applying to show you read the job post completely (#RNTIuMjQxLjMwLjcw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -749,7 +729,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTcuMTU0LjE2Ny4yMTc= when applying to show you read the job post completely (#RNTcuMTU0LjE2Ny4yMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTIuMjQxLjMwLjcw when applying to show you read the job post completely (#RNTIuMjQxLjMwLjcw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -782,6 +762,27 @@
       ],
       "description": "At Evolve, weâre on a mission to make vacation rental easy for everyone. Our high-performing, customer-obsessed team runs on curiosity, communication, and accountabilityâworking together to create exceptional experiences for our owners and guests. Whether solving big challenges, delivering outstanding results, or celebrating wins, we approach every day with purpose and passion. If youâre ready to join a mission-driven company where every teammate has the opportunity to thrive, Evolve might just be the place for you.\n\nWhy this role\nWe're looking for a highly motivated Staff Engineer to join our Engineering Team to help us build, secure, and scale the infrastructure that powers Evolve end-to-end. You will be a sought-out engineer for the most impactful and broad-ranging problems â from driving DevOps transformation and architecting secure, reliable systems to setting the standard for how we adopt and critically evaluate emerging AI tooling. This is a critical role where you will regularly influence the direction of platform architecture across multiple teams and domains, lead initiatives that tackle systemic tech debt, and ensure cross-functional dependencies and risks are we",
       "postedAt": "2026-08-12T00:00:23+00:00",
+      "score": 13,
+      "reasons": [
+        "title: software engineer",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-python-amp-cloud-native-software-engineer-76078-winterthur-74030",
+      "source": "Arbeitnow",
+      "title": "Python &amp; Cloud Native Software Engineer (76078)",
+      "company": "IQ Plus AG",
+      "location": "Winterthur · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/python-amp-cloud-native-software-engineer-76078-winterthur-74030",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/python-amp-cloud-native-software-engineer-76078-winterthur-74030",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "description": " Wir suchen für einen unserer Kunden einen erfahrenen Python & Cloud Native Software Engineer. Als Senior Software Engineer übernimmst du eine zentrale technische Rolle in einem agilen Entwicklungsteam der Telekom. Neben der Entwicklung anspruchsvoller Softwarelösungen verantwortest du die technische Qualität der Umsetzung, unterstützt das Team als fachlicher Ansprechpartner und gestaltest die Softwarearchitektur aktiv mit. Du führst das Team technisch, etablierst Best Practices und sorgst durch Code Reviews, Architekturentscheidungen und Mentoring für eine nachhaltige und qualitativ hochwertige Softwareentwicklung. Dabei arbeitest du eng mit Product Ownern, Architekten und anderen Entwicklungsteams zusammen. Die Digital Solution Connectivity (DSO CNS) setzt sich aus Mitarbeitern sowohl aus dem Business als auch aus   \n dem technischen Bereich zusammen und ist für die Konzeption, Entwicklung, den Betrieb und die kontinuierliche Weiterentwicklung digitaler Konnektivitätslösungen verantwortlich. Für das Team «RIO» suchen wir einen engagierten, eigenverantwortlichen und motivierten Senior Software Entwickler. Team «RIO» sorgt dafür, dass unsere technischen Daten, Netzressourcen und In",
+      "postedAt": 1792594850,
       "score": 13,
       "reasons": [
         "title: software engineer",
@@ -870,58 +871,18 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-solutions-consultant-berlin-munich-244123",
+      "id": "arbeitnow-senior-software-engineer-java-angular-im-zahlungsverkehr-zurich-33555",
       "source": "Arbeitnow",
-      "title": "Senior Solutions Consultant",
-      "company": "newrelic",
-      "location": "Berlin; Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/newrelic/senior-solutions-consultant-berlin-munich-244123",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/newrelic/senior-solutions-consultant-berlin-munich-244123",
+      "title": "Senior Software Engineer – Java / Angular im Zahlungsverkehr",
+      "company": "PROSTAFF Schweiz GmbH",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/senior-software-engineer-java-angular-im-zahlungsverkehr-zurich-33555",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/senior-software-engineer-java-angular-im-zahlungsverkehr-zurich-33555",
       "tags": [
-        "Technical Solution Sales"
+        "Software Development"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;We are a global team of innovators and pioneers dedicated to shaping the future of observability. At New Relic, we build an intelligent platform that empowers companies to thrive in an AI-first world by giving them unparalleled insight into their complex systems. As we continue to expand our global footprint, we&#39;re looking for passionate people to join our mission. If you&#39;re ready to help the world&#39;s best companies optimize their digital applications, we invite you to explore a career with us!&lt;/p&gt;&lt;/div&gt;&lt;div id=&quot;model-response-message-contentr_c57d2138b14e9ae2&quot; class=&quot;markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color stronger tutor-markdown-rendering&quot;&gt;\n&lt;h3 data-path-to-node=&quot;2&quot;&gt;&lt;strong data-path-to-node=&quot;2&quot; data-index-in-node=&quot;0&quot;&gt;Your Opportunity:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p data-path-to-node=&quot;3&quot;&gt;Are you ready to take ownership of high-value technical evaluations for new enterprise prospects across some of the world&#39;s most recognizable brands? Join New Relic as a Senior Solution",
-      "postedAt": 1792572912,
-      "score": 12,
-      "reasons": [
-        "title: node",
-        "skill: git",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-partner-sales-manager-london-474276",
-      "source": "Arbeitnow",
-      "title": "Senior Partner Sales Manager",
-      "company": "newrelic",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/newrelic/senior-partner-sales-manager-london-474276",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/newrelic/senior-partner-sales-manager-london-474276",
-      "tags": [
-        "Enterprise"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;We are a global team of innovators and pioneers dedicated to shaping the future of observability. At New Relic, we build an intelligent platform that empowers companies to thrive in an AI-first world by giving them unparalleled insight into their complex systems. As we continue to expand our global footprint, we&#39;re looking for passionate people to join our mission. If you&#39;re ready to help the world&#39;s best companies optimize their digital applications, we invite you to explore a career with us!&lt;/p&gt;&lt;/div&gt;&lt;div id=&quot;model-response-message-contentr_9a2fd7fcfa95277b&quot; class=&quot;markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color stronger tutor-markdown-rendering&quot;&gt;\n&lt;h3 data-path-to-node=&quot;2&quot;&gt;Your Opportunity&lt;/h3&gt;\n&lt;div&gt;&lt;span data-path-to-node=&quot;3,0&quot;&gt;Are you looking to take your enterprise sales or alliance management career to the next level by driving growth for one of the industry&#39;s most critical cloud channels&lt;/span&gt;&lt;span data-path-to-node=&quot;3,2&quot;&gt;? At New Relic, we believe in the power",
-      "postedAt": 1792572912,
-      "score": 12,
-      "reasons": [
-        "title: node",
-        "skill: git",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-map-route-london-united-kingdom-127957",
-      "source": "Arbeitnow",
-      "title": "Software Engineer - Map & Route",
-      "company": "Wayve",
-      "location": "London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/software-engineer-map-route-london-united-kingdom-127957",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/wayve/software-engineer-map-route-london-united-kingdom-127957",
-      "tags": [
-        "Vehicle SW Engineering"
-      ],
-      "description": "         Before the detail, here's the challenge you'd help us solve.    We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the team, plugs into that.    Here’s what this particular role covers.      🛠️ About our Map &amp; Route Team   Our Map &amp; Route team sits within Wayve’s Automotive Platforms division in Vehicle Software Engineering, and builds the geospatial foundations behind our AI driver. Working with global-scale data, the team turns road-network and navigation data into reliable products used across Wayve, building geospatial services and data products to support company operations. We work with our model development, experimentation, and evaluation platforms to build an AI driver that uses maps and navigation data like an expert human driver by using map information to enhance training and evaluation of performance. We are a full-stack team owning mapping end to end, getting to touch work that is infrastructure, data engineering, data science, backend and frontend.      🧠 Your day-to-day     Write full-stack services in Pyth",
-      "postedAt": 1792572016,
+      "description": " Für unseren Kunden im Bankenumfeld suchen wir einen erfahrenen Senior Software Engineer. Du unterstützt die Weiterentwicklung und den Betrieb der Zahlungsverkehrsapplikationen EBICS, SWIFT und MBCLT. Dabei arbeitest du in einem bestehenden Scrum-Team mit sieben IT- und zwei Fachmitarbeitenden. \n \n  Selbständige Umsetzung von Features und User Stories im Scrum-Team \n \n  Analyse der fachlichen Anforderungen in enger Zusammenarbeit mit den Fachbereichen \n \n  Technische Konzeption und Design von Lösungen für bankfachliche Anforderungen \n \n  Entwicklung von Backend-Komponenten mit Java/Spring und Frontend-Komponenten mit Angular \n \n  Verantwortung für die Qualität und termingerechte Lieferung der entwickelten Komponenten \n \n  Weiterentwicklung und Betreuung der Applikationen im Zahlungsverkehr, insbesondere im Umfeld von SWIFT und EBICS \n \n  Übernahme des 2nd-Level-Supports und Incident Managements innerhalb der vereinbarten Arbeitszeiten \n \n  Enge Zusammenarbeit mit weiteren IT-Teams und Fachbereichen \n \n  Mehrjährige Erfahrung als Senior-Entwickler oder in einer vergleichbaren Rolle; angestrebtes Erfahrungsniveau von fünf bis acht Jahren \n \n  Fundierte Entwicklungserfahrung mit Java/",
+      "postedAt": 1792582273,
       "score": 12,
       "reasons": [
         "title: frontend",
@@ -952,18 +913,18 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-ai-enablement-273088",
+      "id": "arbeitnow-contract-staff-software-engineer-firefox-cstorage-encryption-22897",
       "source": "Arbeitnow",
-      "title": "Software Engineer, AI Enablement",
-      "company": "Tailscale",
+      "title": "Contract Staff Software Engineer - (Firefox) C++,Storage Encryption",
+      "company": "mozilla",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tailscale/software-engineer-ai-enablement-273088",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/tailscale/software-engineer-ai-enablement-273088",
+      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/contract-staff-software-engineer-firefox-cstorage-encryption-22897",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/mozilla/contract-staff-software-engineer-firefox-cstorage-encryption-22897",
       "tags": [
-        "Strategic Projects"
+        "Firefox"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Thank you for considering Tailscale. If this job description resonates with you, please apply.&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. &lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;We encourage you to help us break that statistic!&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Tailscale&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We&#39;re building a future for the Internet that&#39;s easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we&#39;re backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;span style=&quot;font-size: 12pt;&quot;&",
-      "postedAt": 1792572914,
+      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM LWS team to implement tasks for Storage Encryption everywhere, helping to drive the in-progress project through to completion .&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contributing to delivering Storage Encryption Everywhere in Gecko, which may include tasks such as migrating data between schemas, implementing data storage in PBM and integration testing.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write and pass Web Platform Tests, and add Gecko tests as needed.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work through code review with the relevant Gecko module owners and iterate to landing.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Surface and help resolve any specif",
+      "postedAt": 1792659320,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -971,21 +932,79 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-full-stack-developer-ai-team-101278",
+      "id": "arbeitnow-contract-staff-software-engineer-bug-burndown-24999",
       "source": "Arbeitnow",
-      "title": "Senior Full Stack Developer - AI Team",
-      "company": "Think Cell",
+      "title": "Contract Staff Software Engineer-Bug Burndown",
+      "company": "mozilla",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/think-cell/senior-full-stack-developer-ai-team-101278",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/think-cell/senior-full-stack-developer-ai-team-101278",
+      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/contract-staff-software-engineer-bug-burndown-24999",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/mozilla/contract-staff-software-engineer-bug-burndown-24999",
       "tags": [
-        "Product Development"
+        "Firefox"
       ],
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About The Role&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;At thinkcell, we are continuously improving how professionals create business presentations by introducing smarter automation and assistance features into our product. In this role, you will help turn new ideas and early AI-driven concepts into reliable features used by more than 1.3 million users worldwide.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;201341983&amp;quot;:0,&amp;quot;335551550&amp;quot;:1,&amp;quot;335551620&amp;quot;:1,&amp;quot;335559685&amp;quot;:0,&amp;quot;335559737&amp;quot;:0,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240,&amp;quot;335559740&amp;quot;:279}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;You will build production-ready systems th",
-      "postedAt": 1792562117,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help reduce Firefox’s WebCompat bug backlog by finishing or verifying the diagnosis of the long tail of site-breakage bugs, and by writing interventions or simple fixes (often with AI assistance). You turn a large queue of reported breakages into diagnosed, actionable, or fixed bugs.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Finish diagnosing, or verify the diagnosis of, long-tail WebCompat bugs.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write WebCompat interventions where appropriate.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write simple fixes (AI-assisted) and land them.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reproduce and triage incoming site-breakage reports.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Required qualific",
+      "postedAt": 1792659320,
       "score": 10,
       "reasons": [
-        "title: full stack",
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-solutions-architect-pre-sales-german-defense-intelligence-412802",
+      "source": "Arbeitnow",
+      "title": "Solutions Architect, Pre-Sales - German Defense & Intelligence",
+      "company": "planetlabs",
+      "location": "Remote · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-solutions-architect-pre-sales-german-defense-intelligence-412802",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-solutions-architect-pre-sales-german-defense-intelligence-412802",
+      "tags": [
+        "Pre-Sales and Services"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.&lt;/p&gt;\n&lt;p&gt;Customers and users across the globe use Planet&#39;s data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.&lt;/p&gt;\n&lt;p&gt;As we control every component of hardware design, manufacturing, data processing, and software engineering, our office is a truly inspiring mix of experts from a variety of domains.&lt;/p&gt;\n&lt;p&gt;We have a people-centric approach toward culture and community and we strive to iterate in a way that puts our team members first and prepares our company for growth. Join Planet and be a part of our mission to change the way people see the world.&lt;/p&gt;\n&lt;p&gt;Pl",
+      "postedAt": 1792648522,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-account-executive-defence-intelligence-france-286139",
+      "source": "Arbeitnow",
+      "title": "Account Executive, Defence & Intelligence, France",
+      "company": "planetlabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/planetlabs/remote-account-executive-defence-intelligence-france-286139",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/planetlabs/remote-account-executive-defence-intelligence-france-286139",
+      "tags": [
+        "Account Executive"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.&lt;/p&gt;\n&lt;p&gt;Customers and users across the globe use Planet&#39;s data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.&lt;/p&gt;\n&lt;p&gt;As we control every component of hardware design, manufacturing, data processing, and software engineering, our office is a truly inspiring mix of experts from a variety of domains.&lt;/p&gt;\n&lt;p&gt;We have a people-centric approach toward culture and community and we strive to iterate in a way that puts our team members first and prepares our company for growth. Join Planet and be a part of our mission to change the way people see the world.&lt;/p&gt;\n&lt;p&gt;Pl",
+      "postedAt": 1792648523,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-ai-native-software-engineer-coach-zurich-476608",
+      "source": "Arbeitnow",
+      "title": "Senior AI-Native Software Engineer / Coach",
+      "company": "Coopers Group AG",
+      "location": "Zürich · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-ai-native-software-engineer-coach-zurich-476608",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-ai-native-software-engineer-coach-zurich-476608",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "description": " ................  For our  banking client in Zurich , we are looking for an experienced  Senior AI-Native Software Engineer   / Coach  to drive the transformation of software development through the practical application of AI.  The objective of this project is to fundamentally transform the Product Development Lifecycle (PDLC) and Software Development Lifecycle (SDLC) by leveraging AI, enabling AI agents to increasingly take over engineering tasks while humans focus on direction, validation and quality assurance.  The ideal candidate combines a strong software engineering background with extensive hands-on experience using AI-powered development tools, coding agents and agentic workflows.   Your r  esponsibilities  :    Drive the transition towards an end-to-end AI-powered and increasingly autonomous software development model  Design and implement agentic workflows in which AI agents analyse requirements, write and modify code, execute tests and support code reviews  Integrate and automate AI-driven solutions within existing enterprise applications and complex development environments  Define quality standards, human approval gates and governance practices to ensure the safe and",
+      "postedAt": 1792584061,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
         "location: Remote"
       ]
     },
@@ -1009,21 +1028,41 @@
       ]
     },
     {
-      "id": "arbeitnow-head-of-software-engineering-lausanne-192376",
+      "id": "arbeitnow-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-173655",
       "source": "Arbeitnow",
-      "title": "Head of Software Engineering",
-      "company": "Adaptyv",
-      "location": "Lausanne / Hybrid / Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/head-of-software-engineering-lausanne-192376",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/adaptyv/head-of-software-engineering-lausanne-192376",
+      "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+      "company": "mozilla",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mozilla/contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-173655",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/mozilla/contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-173655",
       "tags": [
-        "Software"
+        "Firefox"
       ],
-      "description": "  Adaptyv is building an automated lab that lets AI agents run biology experiments.    We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical world.  We are one of the fastest growing biotech companies, trusted by leading biopharmas, frontier AI labs, and the techbio companies pushing the field forward. This is a rare chance to help advance some of the most important work happening in biotech today.  Our automated lab is powered by a deep software + hardware stack: lab instruments worth millions of USD reverse-engineered into API-controllable hardware, dozens of devices orchestrated through complex workflows, full observability on everything that happens in the lab, processing pipelines for messy physical-world data, and AI systems that troubleshoot production results and accelerate assay development.  We’re growing rapidly and are hiring for talented people to scale and support the massive demand for AI-driven wet lab experi",
-      "postedAt": 1792496419,
+      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build and improve WebCompat dashboards (triage, reporting, and metrics).&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Improve the broken-site-report screenshot capture and pipeline.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with the WebCompat team (including QA) to turn reporting and triage needs into reliable tooling.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Required qualifications&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=",
+      "postedAt": 1792659321,
       "score": 10,
       "reasons": [
         "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-product-designer-netherlands-77442",
+      "source": "Arbeitnow",
+      "title": "Product Designer",
+      "company": "Mlabs",
+      "location": "Netherlands · Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-product-designer-netherlands-77442",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-product-designer-netherlands-77442",
+      "tags": [
+        "STE",
+        "Remote"
+      ],
+      "description": "  Location:&nbsp; UK, central Europe, and Latin America   Remote&nbsp;| Full-time    Compensation: Competitive Compensation     Our client is seeking an experienced, full-time Product Designer to shape the core user experience of their trend intelligence platform. In this role, the designer will play a key part in designing and evolving the platform’s primary dashboard—where brand innovation teams, product marketers, social media teams, and agencies explore trends, generate reports, and interact with LLM-powered features.  As the platform rebuilds around LLM-driven capabilities, the successful candidate will be responsible for defining not just how features look, but how complex data and AI experiences should function. The primary focus is transforming dense, aggregated trend data into clear, intuitive, and actionable insights.  This position joins a close-knit Frontend &amp; UX team reporting directly to the Frontend Lead. The role is 100% remote and open to candidates based between US Central Time (UTC−6) and Central European Time (UTC+1). Candidates must be available during core collaboration hours of 9:00 AM–12:00 PM Eastern Standard Time (2:00 PM–5:00 PM UK / 3:00 PM–6:00 PM C",
+      "postedAt": 1792650009,
+      "score": 10,
+      "reasons": [
+        "title: frontend",
         "location: Remote"
       ]
     },
@@ -1162,60 +1201,22 @@
       ]
     },
     {
-      "id": "arbeitnow-teilprojektleiter-hardware-digital-plattform-und-gerat-berlin-274346",
+      "id": "arbeitnow-agentic-software-engineer-basel-30040",
       "source": "Arbeitnow",
-      "title": "Teilprojektleiter Hardware Digital (Plattform) und Gerät (m/w/d)",
-      "company": "citema systems GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/teilprojektleiter-hardware-digital-plattform-und-gerat-berlin-274346",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/teilprojektleiter-hardware-digital-plattform-und-gerat-berlin-274346",
+      "title": "Agentic Software Engineer (w/m/d)",
+      "company": "YOO AG",
+      "location": "Basel",
+      "url": "https://www.arbeitnow.ch/jobs/companies/yoo-ag/agentic-software-engineer-basel-30040",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/yoo-ag/agentic-software-engineer-basel-30040",
       "tags": [
-        "Project Management"
+        "Software Development"
       ],
-      "description": " Deine Mission  Wir suchen Dich als Teilprojektleiter Hardware Digital (Plattform) und Gerät (m/w/d) am Standort Berlin (hybrid).  Deine Aufgaben dabei sind:    Du führst ein kleines Team fachlich und steuerst Arbeitspakete, Ergebnisse, Termine und Fortschritt.    Du entwickelst und bewertest Architekturkonzepte (z. B. FPGA, SoC, ADC/DAC, JESD204B) und führst sie zu einem tragfähigen Systemdesign zusammen.    Du erarbeitest gemeinsam mit dem technischen Projektleiter und den Architekten das Gesamtkonzept und baust tiefes Systemwissen auf, idealerweise inklusive grundlegender HF-Messungen.    Du verantwortest die Multi-Board-Architektur und die Schnittstellen zwischen Hard- und Software sowie die Anbindung des HF-Frontends an den Digitalteil.    Du koordinierst die Zusammenarbeit von Hardware, Firmware und Software und bereitest fundierte Architekturentscheidungen vor.    Du verantwortest die Geräteintegration und -verifikation und stimmst die Meilensteine mit den beteiligten Teams und der Teilprojektleitung Produktion ab.    Du erstellst und pflegst Produktbeschreibungen, Testverfahren und Datenblätter und steuerst die gerätebezogenen Quality Gates.    Du bewertest Aufwand, Machbar",
-      "postedAt": 1792567868,
+      "description": " Über YOO  Sali. Wir sind YOO, die Basler Digitalagentur. Wir entwickeln digitale Lösungen, die Prozesse vereinfachen und Teams produktiver machen.  Dafür arbeiten bei uns Menschen aus unterschiedlichsten Disziplinen eng zusammen – strategisch, kreativ und technisch. Wenn du Verantwortung übernehmen und im digitalen Projektalltag etwas bewegen willst, bist du bei uns richtig. Wir suchen per sofort oder nach Vereinbarung.  Aufgaben    Entwicklung von Softwarelösungen für Kund:innen aus unterschiedlichsten Branchen.    Effektiver Einsatz von Coding Agents, LLMs und AI APIs im Entwicklungsalltag.    Anforderungen von Kund:innen verstehen und gemeinsam mit UX, Design und Projektmanagement kritisch auf Vollständigkeit, Eindeutigkeit und technische Machbarkeit prüfen.    Features so spezifizieren, dass sie effizient AI-gestützt umgesetzt werden können.    Aktive Mitgestaltung unserer AI-gestützten Entwicklungsprozesse (Tooling, Workflows, Guidelines), um Kundenlösungen schneller und besser umzusetzen.    Qualifikation    Mindestens fünf Jahre Erfahrung in der professionellen Softwareentwicklung.    Fundierte Kenntnisse in Software-Architektur und Software-Design.    Praktische Erfahrung ",
+      "postedAt": 1792598443,
       "score": 9,
       "reasons": [
-        "title: frontend",
+        "title: software engineer",
         "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-director-of-cloud-infrastructure-and-security-berlin-212475",
-      "source": "Arbeitnow",
-      "title": "Director of Cloud infrastructure and security",
-      "company": "Vestiairecollective",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vestiairecollective/director-of-cloud-infrastructure-and-security-berlin-212475",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/vestiairecollective/director-of-cloud-infrastructure-and-security-berlin-212475",
-      "tags": [
-        "Engineering"
-      ],
-      "description": " Vestiaire Collective is the leading global online marketplace for desirable pre-loved fashion. Our mission is to transform the fashion industry for a more sustainable future by empowering our community to promote the circular fashion movement. Vestiaire was founded in 2009 and is headquartered in Paris with offices in London, Berlin, New York, Singapore, Ho Chi Minh, and warehouses in Tourcoing (France), Crawley (UK), Hong Kong and New York.     We currently have a diverse global team of 600 employees representing more than 50 nationalities. Our values are Activism, Transparency, Dedication and Greatness and Collective.      \n  About the Role:  \n  Vestiaire Collective runs a global marketplace on AWS and GCP — Kubernetes, Kafka, Terraform, Vault, Cloudflare, Datadog, a large PHP application under active modernisation, a series of microservices in different tech stacks (Goland, PHP, Node) and a fast-growing surface of AI-powered services.&nbsp;  \n  &nbsp;  \n  As    Director of Cloud Infrastructure and Security   , you will lead a    small team of six senior individual contributors    across Cloud Infrastructure (DevOps/SRE) and Security. This is a    hands-on Director role   : alon",
-      "postedAt": 1792537781,
-      "score": 9,
-      "reasons": [
-        "title: node",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-research-scientist-synthetic-organic-chemistry-cambridge-ma-240915",
-      "source": "Arbeitnow",
-      "title": "Research Scientist, Synthetic Organic Chemistry",
-      "company": "Dayhoff Labs",
-      "location": "Cambridge, MA",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dayhoff-labs/research-scientist-synthetic-organic-chemistry-cambridge-ma-240915",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/dayhoff-labs/research-scientist-synthetic-organic-chemistry-cambridge-ma-240915",
-      "tags": [
-        "Experimental"
-      ],
-      "description": "  About us   We're reverse-engineering the origin of life — one of the great unsolved problems in science, and one we think AI finally makes tractable. Understanding this transition, from geochemistry to biochemistry, is what will let us orchestrate molecular networks and build systems that are more capable, adaptive, and efficient.  If we succeed, the applications are vast: catalysis, green synthesis, ab initio synthetic biology, programmable matter. Understanding and harnessing these processes could let ten billion of us thrive on this planet — and let life keep evolving beyond it.  We're a small, diverse team of AI engineers, computational scientists, and bench scientists. We hold ourselves to the rigor of a research institute, but we ship like an engineering firm. Global team, HQs in Cambridge, MA and London, UK.   The role   We're looking for a chemist who combines organic synthesis with strong analytical expertise. You'll synthesise biological molecules — including peptides, nucleic acid derivatives, and modified building blocks — and develop methods to understand how they behave in chemical and biochemical reactions.  Analytical method development is a central part of the ro",
-      "postedAt": 1792561214,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
       ]
     },
     {

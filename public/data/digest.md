@@ -1,4 +1,4 @@
-# Job Radar digest (2026-10-22)
+# Job Radar digest (2026-10-23)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
@@ -18,25 +18,25 @@
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
 9. **Product Engineering Lead** — Tether Operations Limited (25)
    https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
-10. **Product Design Lead** — Fuel50 (22)
+10. **Senior Backend Engineer** — DuckDuckGo (24)
+   https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551
+11. **Product Design Lead** — Fuel50 (22)
    https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474
-11. **Software Engineer AI Coding Tasks** — Askable (19)
+12. **Software Engineer AI Coding Tasks** — Askable (19)
    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
-12. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
+13. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
-13. **Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)** — mozilla (19)
-   https://www.arbeitnow.com/jobs/companies/mozilla/senior-contract-c-javascript-software-engineer-firefox-browser-engine-300146
-14. **Senior Full-Stack Engineer (Web + Infrastructure)** — Searoutes (19)
-   https://www.arbeitnow.com/jobs/companies/searoutes/remote-senior-full-stack-engineer-web-infrastructure-germany-245745
-15. **Remote Office Assistant** — Coalition Technologies  (19)
+14. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
+15. **Full Stack Developer** — GradeMatch (18)
+   https://www.arbeitnow.nl/jobs/companies/gradematch/full-stack-developer-eindhoven-293496
 16. **Sr Solutions Architect** — ExtraHop (16)
    https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394
-17. **Senior Software Engineer** — Sothebyâs (13)
+17. **Senior Software Engineer (Team Contract)** — Sunweb Group (15)
+   https://www.arbeitnow.nl/jobs/companies/sunweb-group/senior-software-engineer-team-contract-rotterdam-357415
+18. **Senior Software Engineer** — Sothebyâs (13)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545
-18. **Software Engineer** — Prenosis (13)
+19. **Software Engineer** — Prenosis (13)
    https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427
-19. **Software Engineer** — Mirantis (13)
+20. **Software Engineer** — Mirantis (13)
    https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387
-20. **Staff Software Engineer** — Evolve (13)
-   https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447

@@ -1,4 +1,4 @@
-# Job Radar digest (2026-10-23)
+# Job Radar digest (2026-10-24)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
@@ -26,17 +26,17 @@
    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
 13. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
-14. **Remote Office Assistant** — Coalition Technologies  (19)
+14. **Principal Product Security Researcher** — chainguard (19)
+   https://www.arbeitnow.co.uk/jobs/companies/chainguard/principal-product-security-researcher-81984
+15. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
-15. **Full Stack Developer** — GradeMatch (18)
-   https://www.arbeitnow.nl/jobs/companies/gradematch/full-stack-developer-eindhoven-293496
-16. **Sr Solutions Architect** — ExtraHop (16)
+16. **Software Engineer, Web (Full stack)** — Amo (18)
+   https://www.arbeitnow.fr/jobs/companies/amo/software-engineer-web-full-stack-paris-462123
+17. **Sr Solutions Architect** — ExtraHop (16)
    https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394
-17. **Senior Software Engineer (Team Contract)** — Sunweb Group (15)
-   https://www.arbeitnow.nl/jobs/companies/sunweb-group/senior-software-engineer-team-contract-rotterdam-357415
-18. **Senior Software Engineer** — Sothebyâs (13)
-   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545
-19. **Software Engineer** — Prenosis (13)
-   https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427
-20. **Software Engineer** — Mirantis (13)
-   https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387
+18. **Blockchain Engineer** — Blockvora (16)
+   https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866
+19. **Backend Engineer** — Blockvora (16)
+   https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470
+20. **Senior Frontend Engineer (m/f/d)** — Quantum-Systems GmbH (15)
+   https://www.arbeitnow.co.uk/jobs/companies/quantum-systems-gmbh/senior-frontend-engineer-london-53961

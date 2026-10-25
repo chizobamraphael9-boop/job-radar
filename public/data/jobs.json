@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-10-24T09:18:50.071Z",
+  "scannedAt": "2026-10-25T09:35:36.720Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 48,
+  "count": 66,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -45,6 +45,53 @@
         "skill: react",
         "skill: html",
         "skill: css"
+      ]
+    },
+    {
+      "id": "remoteok-1137562",
+      "source": "RemoteOK",
+      "title": "Senior Frontend Engineer",
+      "company": "B2spin",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "embedded",
+        "sys admin",
+        "game dev",
+        "technical",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "javascript",
+        "finance",
+        "css",
+        "html",
+        "typescript",
+        "seo",
+        "mobile",
+        "senior",
+        "stats",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "description": "  About B2Spin  We are B2Spin, and we are dedicated to delivering the best Free-to-Play Social Casino and gaming experiences by creating captivating, engaging, and unique products that are accessible to everyone. We have built a team of talented professionals from all over the globe, who are working to continually improve the experiences of our players. We are not looking to just be part of the industry, but to revolutionize it.   AI-Driven Engineering Culture   We are actively building an AI-driven engineering organization with a clear and deliberate stance: artificial intelligence is a core part of how we build and deliver software â not an experiment, not a trend, and not an optional add-on.  AI is embedded into our engineering workflows, from system design and prototyping to refactoring, testing, and code review. We expect engineers to be fully comfortable working in AI-driven environments and to treat AI as a primary productivity multiplier. Strong engineering judgment, architectural ownership, and accountability remain essentialâAI amplifies our engineers, it doesnât replace responsibility for technical decisions.   What you will be doing:  â¢ Write well-designed, test",
+      "postedAt": "2026-10-23T16:00:12+00:00",
+      "score": 39,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: react",
+        "skill: html",
+        "skill: css",
+        "skill: git"
       ]
     },
     {
@@ -116,6 +163,31 @@
         "skill: git",
         "skill: node",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-praktikum-anwendungsentwicklung-berlin-174622",
+      "source": "Arbeitnow",
+      "title": "Praktikum Anwendungsentwicklung (w/m/d)",
+      "company": "SWOOFLE GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/swoofle-gmbh/praktikum-anwendungsentwicklung-berlin-174622",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/swoofle-gmbh/praktikum-anwendungsentwicklung-berlin-174622",
+      "tags": [
+        "Software Development"
+      ],
+      "description": " SWOOFLE ist der einzige Eventmöbelanbieter, der via InstantBooking online Möbel vermietet. Unsere Designmöbel werden nachhaltig in Berlin produziert. Unser Team ist von Anfang 20 bis 80 sehr breit aufgestellt, wodurch Hierarchien entfallen und Innovation aus Tradition gewonnen wird.  Du suchst noch nach einem Pflichtpraktikum für deine Ausbildung oder dein Studium im Bereich Anwendungsentwicklung? Oder möchtest du ein freiwilliges Praktikum absolvieren? Zum nächstmöglichen Zeitpunkt suchen wir Studenten und Studentinnen für ein dreimonatiges oder längeres Praktikum.  Aufgaben  · Wartung und Erweiterung unserer Website und des innovativen InstantBooking-Tools.  · Pflege und Administration der Datenbank.  · Wartung und Erweiterung diverser interner Webanwendungen.  · Umsetzung von neuen und innovativen Anwendungen.    Qualifikation  · Grundkenntnisse in JavaScript, PHP, CSS und HTML-Methoden  · Von Vorteil sind Kenntnisse zu WordPress, WooCommerce, Node.js sowie npm  · Verständnis von Git sowie von Frontend-Frameworks wie Vue 3  · Entwicklung auf Betriebssystemen wie Windows 11 und Linux Debian  · Grundlegendes Verständnis zum Arbeiten über SSH und CLI  · Du denkst „Out-of-the-box“,",
+      "postedAt": 1792879229,
+      "score": 33,
+      "reasons": [
+        "title: frontend",
+        "title: javascript",
+        "title: node",
+        "skill: javascript",
+        "skill: html",
+        "skill: css",
+        "skill: git",
+        "skill: node"
       ]
     },
     {
@@ -463,14 +535,13 @@
       ],
       "description": "  Who We Are    Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on  Mac ,  Windows ,  iOS , and  Android , our  search engine , and the  DuckDuckGo subscription . We also offer private, useful, and optional AI, including  Duck.ai , which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place.     Our  culture  of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!      Your Team and Role    Working on the Backend Functional Team, you'll lead complex projects across key company-wide objectives. Using Perl (Version 5), Go, and Node.js, youâll write pragmatic, performant, testable code that works consistently, and work on related projects. Recent projects include:    Implementing AI-assisted answers and integrating them into our Search p",
       "postedAt": "2026-10-21T14:29:21+00:00",
-      "score": 24,
+      "score": 22,
       "reasons": [
         "title: javascript",
         "title: node",
         "skill: javascript",
         "skill: node",
-        "location: Remote",
-        "posted this week"
+        "location: Remote"
       ]
     },
     {
@@ -508,6 +579,28 @@
         "skill: javascript",
         "skill: html",
         "skill: css",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-fullstack-entwickler-php-symfony-react-berlin-348681",
+      "source": "Arbeitnow",
+      "title": "Senior Fullstack-Entwickler (m/w/d) – PHP/Symfony & React – Berlin",
+      "company": "MRP My Recruitment Partners Ltd.",
+      "location": "Berlin, Brandenburg, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/mrp-my-recruitment-partners-ltd/senior-fullstack-entwickler-php-symfony-react-berlin-348681",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/mrp-my-recruitment-partners-ltd/senior-fullstack-entwickler-php-symfony-react-berlin-348681",
+      "tags": [
+        "Girona"
+      ],
+      "description": "  Senior Fullstack-Entwickler (m/w/d) – PHP/Symfony &amp; React – Berlin     Der Plan steht, jetzt fehlst du: Bring unsere Software von Legacy-PHP auf Symfony und React.      Auf einen Blick        Stack:   PHP 8.1 (Legacy) → Symfony · jQuery/Vanilla-JS → React · MySQL/MariaDB, SingleStore · Git, CI/CD      Gehalt:   52.000–62.000 € brutto/Jahr, für außergewöhnliche Profile auch mehr · unbefristet, Vollzeit      Arbeitsmodell:   hybrid, 3 Tage Büro / 2 Tage remote      Standort:   Berlin-Zehlendorf, direkt am S-Bahnhof Zehlendorf (S1)      Produkt:   Konsentas, ein Termin- und Vorgangsmanagement für Behörden      Start:   so bald wie möglich oder nach Vereinbarung      Die Rolle    Unser Kernprodukt Konsentas ist über viele Jahre gewachsen, und das sieht man dem Code an. Das Backend läuft auf PHP 8.1 ohne Framework. Im Frontend stehen jQuery und Vanilla-JS neben React, und automatisierte Tests gibt es bisher wenige.  Wohin es gehen soll, ist klar: Das Backend wird schrittweise auf Symfony umgestellt, das Frontend auf React vereinheitlicht. Bis Ende 2027 soll die Migration abgeschlossen sein. Was dafür fehlt, ist kein Plan, sondern Kapazität.  Du triffst eigenständig technische Ents",
+      "postedAt": 1792884690,
+      "score": 22,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "skill: react",
         "skill: git",
         "location: Remote"
       ]
@@ -578,23 +671,23 @@
       ]
     },
     {
-      "id": "arbeitnow-principal-product-security-researcher-81984",
+      "id": "arbeitnow-senior-java-engineer-distributed-systems-serverless-elasticsearch-244252",
       "source": "Arbeitnow",
-      "title": "Principal Product Security Researcher",
-      "company": "chainguard",
+      "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "company": "Elastic",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/principal-product-security-researcher-81984",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/principal-product-security-researcher-81984",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/senior-java-engineer-distributed-systems-serverless-elasticsearch-244252",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elastic/senior-java-engineer-distributed-systems-serverless-elasticsearch-244252",
       "tags": [
-        "Product Security"
+        "Platform - Elasticsearch"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and Snowflake. &lt;br&gt;&lt;br&gt;Chainguard is venture-backed by leading investors, including Amplify, IVP, Kleiner Perkins, Lightspeed Venture Partners, Mantis VC, Redpoint Ventures, Sequoia Capital, and Spark Capital.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Principal Product Security Researcher&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location: US, Canada, UK&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Imagine a world where we’re not just reacting to the latest security headline, but shaping the future threat landscape so our customers sleep better at night (and so do we).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As a &lt;strong&gt;Principal Product Security Researcher&lt;/strong&gt; at Chainguard, you’",
-      "postedAt": 1792821318,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What Is The Role:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are on the lookout for a &lt;strong&gt;Senior Software Engineer&lt;/strong&gt; to join our &lt;strong&gt;Elasticsearch - Distributed Systems team&lt;/strong&gt; and focus on how Elasticsearch provides scale, performance, and resilience, especially in the context of our Serverless offering. You will be tackling deep distributed systems challenges in how nodes in an Elasticsearch cluster communicate, and how data ",
+      "postedAt": 1792853733,
       "score": 19,
       "reasons": [
-        "title: react",
         "title: software engineer",
-        "skill: react",
+        "title: node",
+        "skill: node",
         "location: Remote"
       ]
     },
@@ -691,121 +784,58 @@
       ]
     },
     {
-      "id": "arbeitnow-blockchain-engineer-zug-291866",
+      "id": "arbeitnow-junior-full-stack-engineer-london-143121",
       "source": "Arbeitnow",
-      "title": "Blockchain Engineer",
-      "company": "Blockvora",
-      "location": "Zug · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " The role  We are hiring a Blockchain Engineer to design and implement smart contracts and chain integrations. You will work closely with backend and product teams to ship secure, production-ready on-chain systems. This is a hands-on role focused on correctness, gas efficiency, and operational safety.  What you'll do    Design and implement smart contracts    Integrate on-chain systems with backend and frontend services    Write tests, deployment scripts, and upgrade paths    Review contract security and operational risks    Support indexing, events, and transaction monitoring    Collaborate on token, custody, and market flows    What we're looking for  Must-have experience and skills for this role.    3+ years of software engineering experience    Strong Solidity or equivalent smart contract experience    Understanding of EVM fundamentals and common patterns    Experience with Hardhat / Foundry (or similar)    Ability to reason about security and edge cases    Comfort collaborating with backend and product teams    Nice to have    Audit experience or formal verification exposure    L2 networks (Polygon, Arbitrum, Optimism)    ethers.js / web3.js integrations    RWA, DeFi, or finte",
-      "postedAt": 1792782048,
-      "score": 16,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-backend-engineer-zug-145470",
-      "source": "Arbeitnow",
-      "title": "Backend Engineer",
-      "company": "Blockvora",
-      "location": "Zug · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " The role  We are hiring a Backend Engineer to design, build, and maintain scalable backend services. You will own APIs, data models, and integrations with blockchain and third-party systems. Stack is not limited to Node — strong engineers in Rust, Go, Java, Python, or Ruby are welcome. This is a hands-on role focused on reliability, security, and production readiness.  What you'll do  Build and maintain backend services in one or more of: Node.js, Rust, Go, Java, Python, Ruby  Design REST and/or GraphQL APIs  Model data and own PostgreSQL / Redis (or equivalent) usage  Integrate blockchain APIs, wallets, and external services  Implement auth, permissions, and operational controls  Write tests, improve observability, and participate in reviews  Ship production-ready services with CI/CD  What we're looking for  Must-have experience and skills for this role.  3+ years of backend engineering experience  Strong proficiency in at least one of: Node.js/TypeScript, Rust, Go, Java, Python, or Ruby  Experience with relational databases (PostgreSQL preferred) and caching  Solid understanding of REST APIs and system design basics  Experience integrating external APIs or microservices  Strong ",
-      "postedAt": 1792778451,
-      "score": 16,
-      "reasons": [
-        "title: node",
-        "skill: node",
-        "skill: rest api",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-frontend-engineer-london-53961",
-      "source": "Arbeitnow",
-      "title": "Senior Frontend Engineer (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "London, Greater London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-systems-gmbh/senior-frontend-engineer-london-53961",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/quantum-systems-gmbh/senior-frontend-engineer-london-53961",
-      "tags": [
-        "Software"
-      ],
-      "description": " We are seeking a talented&nbsp; Front End Engineer &nbsp;with over 5 years of professional experience to join our new UK team. You will be responsible for building sleek, responsive, and user-friendly interfaces to enable real-time control and monitoring of robotic swarms and sensor systems. Your work will directly contribute to the usability and efficiency of our cutting-edge robotics solutions.      What is your Day to Day Mission:     Design, develop, and optimize frontend applications for controlling and visualizing robotic swarms and sensor data.    Collaborate with backend engineers to integrate APIs and ensure seamless data flow between frontend and backend systems.    Build intuitive, performant, and responsive user interfaces using modern frontend frameworks such as React or comparable web component frameworks.    Work closely with UX/UI designers to translate designs into functional applications.    Ensure code quality, maintainability, and scalability through clean coding practices and code reviews.    Troubleshoot and optimize frontend performance for real-time applications.          What you bring to the team:     5+ years of professional experience in frontend develo",
-      "postedAt": 1792821098,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-forward-deployed-engineer-london-186759",
-      "source": "Arbeitnow",
-      "title": "Forward Deployed Engineer",
-      "company": "True Talent Solutions Partners",
+      "title": "Junior Full Stack Engineer",
+      "company": "Bloom & Wild Group",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-186759",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-186759",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bloom-wild-group/junior-full-stack-engineer-london-143121",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/bloom-wild-group/junior-full-stack-engineer-london-143121",
       "tags": [
-        "Client Roles"
+        "Bloom & Wild"
       ],
-      "description": " About the Role  Join a team building AI-enabled SaaS tools for certification, inspection, and compliance workflows. You will work directly with customer teams to understand operational needs and turn them into production software.  What You'll Do    Embed with customer operations teams to understand how certification, inspection, and compliance work in practice.    Lead customer conversations, write specifications, and build end-to-end systems across the frontend, backend, data model, and AI layer.    Own product areas and ship software quickly, iterating based on direct feedback from users.    Use sound judgment to identify which customer needs can serve broader workflows and which are specific to one customer.    Review customer documents and outputs to develop AI-powered workflows for scheduling, technical review, conformity assessment, field inspection, and document intelligence.    What We're Looking For    Three to six years of experience in software or product engineering, including building and shipping production systems.    Full-stack capability, including Python backend development, TypeScript and React frontend development, data modeling, and AI or model-layer integrat",
-      "postedAt": 1792820422,
+      "description": " 📍 Location: UK or Netherlands \n 🛠️ Tech stack: Ruby, Angular, TypeScript, SASS, design system, Contentful, GitHub Actions \n 🎯 Focus: hands-on full stack product work, with room to grow into frontend \n About Tech at Bloom &amp; Wild Group 🌸 \n We're Europe's largest direct-to-consumer flower and gifting business (Bloom &amp; Wild, bloomon and Bergamotte). Our Tech team builds the software behind the shops, warehouses and delivery. The P&amp;L squad is hiring a Junior Full Stack Engineer who will spend their time building in the product and learning from experienced engineers. You can read more about the stack and how we work on our tech blog, Code &amp; Wild.   The Role   \n You will work across our Ruby backend and our multi-brand Angular and TypeScript frontend, scoping what to build and how with engineers, designers and product managers, and growing your career in a supportive engineering culture. \n Key responsibilities: \n\n \n  Full stack features:  Help deliver the squad roadmap by building features across Ruby services and our Angular and TypeScript apps, from brief to something a customer can use. \n \n \n  Quality in the pages you touch:  Accessibility, states, performance, te",
+      "postedAt": 1792897652,
       "score": 15,
       "reasons": [
         "title: frontend",
-        "title: react",
-        "skill: react"
+        "title: full stack",
+        "skill: git"
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-fullstack-kotlin-react-paris-paris-235143",
+      "id": "arbeitnow-senior-net-developer-luzern-129651",
       "source": "Arbeitnow",
-      "title": "Software Engineer Fullstack Kotlin / React (x/f/m)",
-      "company": "Doctolib",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/software-engineer-fullstack-kotlin-react-paris-paris-235143",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/doctolib/software-engineer-fullstack-kotlin-react-paris-paris-235143",
+      "title": "Senior .NET Developer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Luzern, Luzern, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-129651",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-129651",
       "tags": [
-        "Engineering"
+        "Software Engineering"
       ],
-      "description": "&lt;h2&gt;&lt;strong&gt;What we do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Join a team of passionate and hardworking entrepreneurs to transform healthcare!&lt;/p&gt;\n&lt;p&gt;Working in the tech team at Doctolib involves building innovative products and features to improve the daily lives of care teams and patients. We work in feature teams in an agile environment, while collaborating with product, design, and business teams.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a Software Engineer FullStack to join the DOPE (Doctor Practice Evolution) team in the Clinical domain.&lt;/p&gt;\n&lt;p&gt;As a Software Engineer, you will help doctors create and deliver all types of prescriptions, covering the full lifecycle from drug prescription creation and renewal to medication search and paramedical care, across France and Germany. Team is also responsible for the creation of more than 2M prescriptions per week.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You will work within a regulatory-heavy environment, collaborate with external drug database providers, and contribute to medication alert features based on patient profiles.&lt;/p&gt;\n&lt;h2&gt;&lt;",
-      "postedAt": 1792778119,
+      "description": " Wir suchen einen erfahrenen Senior .NET Developer für ein etabliertes Schweizer IT-Dienstleistungsunternehmen im Raum Bern. Du arbeitest in einem motivierten SCRUM-Team an anspruchsvollen Kundenprojekten und übernimmst Verantwortung für Architektur, Codequalität und technische Entscheidungen.     Aufgaben       Entwicklung und Weiterentwicklung von Backend-Services und APIs auf Basis von .NET Core    Mitarbeit an Frontend-Komponenten mit Blazor oder Razor    Design und Umsetzung von Microservices- und Integrationsarchitekturen    Sicherstellung von Codequalität durch automatisierte Tests und Code Reviews    Aktive Mitgestaltung von Architekturentscheidungen im Team               Anforderungen       Mehr als 5 Jahre Erfahrung in der Softwareentwicklung mit .NET    Fundierte Kenntnisse in .NET Core, Entity Framework, Blazor und REST APIs    Erfahrung mit Microsoft Azure und Azure DevOps    Kenntnisse in Microservices und Integrationsarchitekturen    Kenntnisse in Kubernetes, Kafka, xUnit oder API Kana von Vorteil    Erfahrung mit agilen Methoden (Scrum, Kanban oder SAFe)    Sehr gute Deutschkenntnisse       Was dich erwartet       Festanstellung bei einem stabilen, finanzstarken Unt",
+      "postedAt": 1792899069,
       "score": 15,
       "reasons": [
-        "title: react",
+        "title: frontend",
         "title: software engineer",
-        "skill: react"
+        "skill: rest api"
       ]
     },
     {
-      "id": "arbeitnow-software-entwicklerin-net-azure-80-100-bern-143843",
+      "id": "arbeitnow-frontend-developer-intern-zurich-262783",
       "source": "Arbeitnow",
-      "title": "Software-Entwickler:in .NET / Azure 80-100%",
-      "company": "p3b AG",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/p3b-ag/software-entwicklerin-net-azure-80-100-bern-143843",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/p3b-ag/software-entwicklerin-net-azure-80-100-bern-143843",
+      "title": "Frontend Developer Intern",
+      "company": "ParetoLabs",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
       "tags": [
         "Software Development"
       ],
-      "description": " Dank deiner Erfahrung auf \"Professional\" Level, entwickelst du mit dem Team moderne Applikationen – von der Idee bis zum erfolgreichen Abschluss. \n Aufgaben \n  Dein Job  \n \n Du entwickelst  Business-Applikationen  für anspruchsvolle Benutzer:innen aus unterschiedlichen Branchen \n Von der  Datenmodellierung  über das  Backend  bis zum  Frontend  bringst du deine Fachkenntnisse ein \n Die Anforderungen der Kund:innen übersetzt du gekonnt und vermittelst erfolgreich zwischen den Parteien \n Qualität ist sehr wichtig: Deinen Code ergänzt du um  Unit-  und  Integrations-Tests  zum Wohle der Nachhaltigkeit \n \n  Ausserdem  \n \n bist du Teil eines agilen Teams, welches sich sinnvoll selbst organisiert \n übernimmst du Mitverantwortung für den Tech-Stack und entscheidest bei künftigen Technologien mit \n stehst du unseren Kund:innen bei technischen Anliegen beratend zur Seite \n \n Qualifikation \n  Dein Profil  \n \n Abgeschlossene Aus-/Weiterbildung in Informatik auf Stufe EFZ, HF oder ähnlich \n Du kannst mindestens 4 Jahre Berufserfahrung in der  Microsoft   Software-Entwicklung  ausweisen \n Kenntnisse im  Backend : C# / .NET mit Visual Studio \n Kenntnisse im  Frontend : Angular oder React mit Ja",
-      "postedAt": 1792749689,
+      "description": " ParetoLabs is looking for a motivated and passionate  Frontend Developer Intern  with a love for building great user interfaces to join our growing team.  As part of our dynamic team, you will build the interfaces people use to work with our AI-driven applications. You will gain hands-on experience in designing, developing, testing, and shipping web applications for clients across a wide range of industries.   About ParetoLabs   ParetoLabs is a Zurich-based software studio that develops customized, AI-powered applications for conversational and text-processing use cases. We help companies quickly test, implement, and scale AI applications within their specific business environments.  Founded in 2023, ParetoLabs is a Microsoft for Startups partner that combines innovative AI technologies with the individual requirements of Swiss companies.  Tasks   Build modern, responsive user interfaces for AI applications, including chat assistants, copilots and internal tools.  Turn designs into accessible, well-structured components in React and TypeScript (Next.js).  Connect the frontend to our APIs and handle loading, errors and streaming AI responses gracefully.  Collaborate closely with ou",
+      "postedAt": 1792857646,
       "score": 15,
       "reasons": [
         "title: frontend",
@@ -829,7 +859,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNC4yNDIuMTk3LjY3 when applying to show you read the job post completely (#RNC4yNDIuMTk3LjY3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTcyLjIwMi4xMTkuMTcy when applying to show you read the job post completely (#RMTcyLjIwMi4xMTkuMTcy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -852,7 +882,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNC4yNDIuMTk3LjY3 when applying to show you read the job post completely (#RNC4yNDIuMTk3LjY3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTcyLjIwMi4xMTkuMTcy when applying to show you read the job post completely (#RMTcyLjIwMi4xMTkuMTcy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -875,7 +905,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNC4yNDIuMTk3LjY3 when applying to show you read the job post completely (#RNC4yNDIuMTk3LjY3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTcyLjIwMi4xMTkuMTcy when applying to show you read the job post completely (#RMTcyLjIwMi4xMTkuMTcy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -885,63 +915,22 @@
       ]
     },
     {
-      "id": "arbeitnow-commercial-account-executive-338536",
+      "id": "arbeitnow-technical-support-engineer-germany-188563",
       "source": "Arbeitnow",
-      "title": "Commercial Account Executive",
-      "company": "boxinc",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/boxinc/commercial-account-executive-338536",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/boxinc/commercial-account-executive-338536",
+      "title": "Technical Support Engineer (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-support-engineer-germany-188563",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-support-engineer-germany-188563",
       "tags": [
-        "Sales AEs"
+        "Operations"
       ],
-      "description": "&lt;div class=&quot;ace-line&quot;&gt;\n&lt;div class=&quot;ace-line&quot; data-node-type=&quot;line&quot;&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;WHAT IS BOX?&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Box (NYSE:BOX) is the leader in Intelligent Content Management. Our platform enables organizations to fuel collaboration, manage the entire content lifecycle, secure critical content, and transform business workflows with enterprise AI. We help companies thrive in the new AI-first era of business. Founded in 2005, Box simplifies work for leading global organizations, including JLL, Morgan Stanley, and Nationwide. Box is headquartered in Redwood City, CA, with offices across the United States, Europe, and Asia.&lt;/p&gt;\n&lt;p&gt;By joining Box, you will have the unique opportunity to continue driving our platform forward. Content powers how we work. It’s the billions of files and information flowing across teams, departments, and key business processes every single day: contracts, invoices, employee records, financials, product specs, marketing assets, and more. Our mission is to bring intelligence to the world of content management and empower our customers to c",
-      "postedAt": 1792821316,
+      "description": "  Who We Are   We are a fast-growing embodied AI company building robots that reason and act in real warehouse and factory environments. Our AI-powered systems help businesses streamline operations, boost productivity and transform physical work.    Overview   We are seeking a highly motivated and technically strong individual to join our Technical Support team. You will be responsible for providing exceptional support to our customers, ensuring smooth operation and rapid resolution of technical issues. You will remotely access and diagnose robots using tools like SSH, Docker and Python and guiding customers through structured problem-solving processes on-site and collaborating with internal teams to resolve complex hardware and software issues. This role involves significant travel (approximately 50-75%) to customer sites across Europe.    Your Responsibilities    Support :    Provide first-line technical support to customers for our AI robotics systems.    Serve as the primary point of contact for customers, delivering technical support with a focus on clear communication, active listening, and empathetic problem-solving to ensure a positive customer experience.    Diagnose and t",
+      "postedAt": 1792885212,
       "score": 13,
       "reasons": [
-        "title: node",
-        "skill: node",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-sales-engineer-france-454019",
-      "source": "Arbeitnow",
-      "title": "Senior Sales Engineer, France",
-      "company": "Horizon3Ai",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/horizon3ai/senior-sales-engineer-france-454019",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/horizon3ai/senior-sales-engineer-france-454019",
-      "tags": [
-        "Sales"
-      ],
-      "description": "  Get to Know Us   Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs.   We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results.     ",
-      "postedAt": 1792766419,
-      "score": 13,
-      "reasons": [
-        "title: node",
-        "skill: node",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-senior-agentic-ai-ci-cd-software-engineer-zurich-60907",
-      "source": "Arbeitnow",
-      "title": "Remote Senior Agentic AI / CI/CD Software Engineer",
-      "company": "PROSTAFF Schweiz GmbH",
-      "location": "Zürich · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/remote-senior-agentic-ai-ci-cd-software-engineer-zurich-60907",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/remote-senior-agentic-ai-ci-cd-software-engineer-zurich-60907",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " For a leading Swiss organisation, we are looking for an experienced Senior / Principal Agentic AI & CI/CD Software Engineer to support a strategic Agentic Engineering initiative. \n The project focuses on establishing secure, scalable and repeatable engineering practices for AI agent capabilities, modernising software delivery processes, and improving engineering productivity through automation and measurable development metrics. \n The ideal candidate combines strong hands-on CI/CD engineering expertise with a solid understanding of software supply chain security, GitHub/Bitbucket ecosystems and emerging Agentic AI development practices. \n The assignment is structured into two phases: \n \n  Phase 1 (November–December 2026) : Initial implementation, validation and delivery of key engineering capabilities. \n  Phase 2 (January–March 2027):  Continuous improvement, integration enhancements and optimisation based on pilot feedback \n \n  Agentic AI Skills & Lifecycle Management  \n \n Establish secure and repeatable processes for validating, reviewing, approving and publishing AI agent skills. \n Implement governance and quality controls for agent skills and related engineering workflows. \n D",
-      "postedAt": 1792762256,
-      "score": 13,
-      "reasons": [
-        "title: software engineer",
-        "skill: git",
+        "title: react",
+        "skill: react",
         "location: Remote"
       ]
     },
@@ -1061,21 +1050,21 @@
       ]
     },
     {
-      "id": "arbeitnow-lead-software-engineer-zurich-369297",
+      "id": "arbeitnow-fullstack-engineer-united-kingdom-158685",
       "source": "Arbeitnow",
-      "title": "Lead Software Engineer",
-      "company": "Zurich Soft Robotics GmbH",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
+      "title": "Fullstack Engineer",
+      "company": "Kpler",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/fullstack-engineer-united-kingdom-158685",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/kpler/fullstack-engineer-united-kingdom-158685",
       "tags": [
-        "Software Development"
+        "Engineering Maritime & Logistic"
       ],
-      "description": " Building the intelligence behind Solskin  Are you a driven person who wants to make buildings come alive?  We are Zurich Soft Robotics (ZSR), a Zurich-based startup developing Solskin – a climate-adaptive solar facade. Solskin is not just a PV system or a shading system; it’s an intelligent skin that uses weather and building data, occupant feedback, and AI algorithms to decide how the facade moves, so buildings stay comfortable, avoid overheating, and use energy as efficiently as possible. Solskin is already running on several buildings across Switzerland, with many more to follow.  In this role, you own the software that makes that happen. You write the code that runs Solskin, keep it reliable in the field, and constantly improve it. You will also architect and lead our future sensor-to-data platform. Your focus is where software meets hardware, and the control and AI on top of it. You don't need to be a front-end specialist.  What you will do  This is a hands-on leadership position: you code every day.   Own the full stack:  You maintain and develop the whole software stack, from cloud and data management to user-facing applications, and from low-level embedded firmware to high",
-      "postedAt": 1792747892,
+      "description": "  At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors.   \n &nbsp; \n  Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.  \n &nbsp;     About the Role    \n    \n  \n As a Full Stack Engineer at Kpler, you will play a central role in designing, building, and operating responsive web applications and backend APIs that deliver real-time trade intelligence to global market leaders. Working   across frontend user interfaces and microservice architectures, you will turn complex datasets into intuitive, high-impact features. Your contributions will directly enhance how clients interact with critical maritime analytics, drivi",
+      "postedAt": 1792897653,
       "score": 12,
       "reasons": [
-        "title: software engineer",
+        "title: frontend",
         "title: full stack"
       ]
     },
@@ -1103,13 +1092,53 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-privacy-23607",
+      "id": "arbeitnow-strategic-account-executive-uki-334945",
+      "source": "Arbeitnow",
+      "title": "Strategic Account Executive (UKI)",
+      "company": "Pingidentity",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/strategic-account-executive-uki-334945",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/strategic-account-executive-uki-334945",
+      "tags": [
+        "6100 Sales Quota"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Ping Identity:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it&#39;s not just something we provide our customers. It&#39;s something that inspires our company. People don&#39;t come here to join a culture that&#39;s built on digital freedom. They come to cultivate it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&amp;nbsp;&lt;a href=&quot;https://www.pingidentity.com/en/company/championing-every-identity.html&quot;&gt;We champion every identity.&lt;/a&gt; One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re headquartered in Denver, Colorado and we ",
+      "postedAt": 1792911318,
+      "score": 10,
+      "reasons": [
+        "skill: html",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-director-sales-middle-east-356498",
+      "source": "Arbeitnow",
+      "title": "Director, Sales (Middle East)",
+      "company": "Pingidentity",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/director-sales-middle-east-356498",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/director-sales-middle-east-356498",
+      "tags": [
+        "6250 Sales Management"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Ping Identity:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it&#39;s not just something we provide our customers. It&#39;s something that inspires our company. People don&#39;t come here to join a culture that&#39;s built on digital freedom. They come to cultivate it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&amp;nbsp;&lt;a href=&quot;https://www.pingidentity.com/en/company/championing-every-identity.html&quot;&gt;We champion every identity.&lt;/a&gt; One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re headquartered in Denver, Colorado and we ",
+      "postedAt": 1792911318,
+      "score": 10,
+      "reasons": [
+        "skill: html",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-privacy-299929",
       "source": "Arbeitnow",
       "title": "Senior Software Engineer, Privacy",
       "company": "mozilla",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-software-engineer-privacy-23607",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-software-engineer-privacy-23607",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-privacy-299929",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-privacy-299929",
       "tags": [
         "Firefox"
       ],
@@ -1122,73 +1151,19 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-cloud-services-rust-munich-192549",
+      "id": "arbeitnow-remote-software-test-engineer-bern-487044",
       "source": "Arbeitnow",
-      "title": "Software Engineer – Cloud Services – Rust",
-      "company": "Tensordyne",
-      "location": "Munich, Bavaria, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/software-engineer-cloud-services-rust-munich-192549",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/tensordyne/software-engineer-cloud-services-rust-munich-192549",
-      "tags": [],
-      "description": " \n  About Tensordyne&nbsp;  \n AI is transforming our world. It can perform cognitive functions that previously only humans could do, such as perceiving interactions across different modalities and environments - with the ability to quickly learn and then solve complex problems. Tensordyne is an AI system solution company that builds very high-performance, low-power generative AI inference systems. Our mission, through the creation of custom silicon, hardware and software, is to enable multimodal Generative AI inference acceleration at scale, with safe, sustainable, high-performance systems for our hyperscaler and neocloud data center customers. We are at the leading edge of advancing the latest research and product improvements for generative Al inference solutions that will make Al even more advantageous for compelling new generative AI applications.Tensordyne is a well funded, fast-paced startup company with headquarters in both Sunnyvale, CA, and Munich, Germany. We also have many talented team members working remotely across North America and Europe. We take care of our people and their families with comprehensive benefits, competitive compensation, flexible spending options, a",
-      "postedAt": 1792788324,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-principal-product-security-engineer-72343",
-      "source": "Arbeitnow",
-      "title": "Principal Product Security Engineer",
-      "company": "chainguard",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/principal-product-security-engineer-72343",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/principal-product-security-engineer-72343",
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-487044",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-487044",
       "tags": [
-        "Product Security"
+        "Software Engineering",
+        "Remote"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and Snowflake. &lt;br&gt;&lt;br&gt;Chainguard is venture-backed by leading investors, including Amplify, IVP, Kleiner Perkins, Lightspeed Venture Partners, Mantis VC, Redpoint Ventures, Sequoia Capital, and Spark Capital.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Principal Product Security Engineer&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The role, in a nutshell&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Chainguard, our security posture is our competitive advantage. In this principal‑level role, you will:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Set product security direction across major products and platforms.&lt;/li&gt;\n&lt;li&gt;Lead multi‑quarter, cross‑functional security initiatives that material",
-      "postedAt": 1792821318,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-full-stack-engineer-paris-164464",
-      "source": "Arbeitnow",
-      "title": "Senior Full Stack Engineer",
-      "company": "Upflow",
-      "location": "Paris or Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/upflow/senior-full-stack-engineer-paris-164464",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/upflow/senior-full-stack-engineer-paris-164464",
-      "tags": [
-        "Product & Engineering"
-      ],
-      "description": "  Updated in October 2026      Target start date:   March 1, 2027    Compensation:   70,000 to 85,000 EUR yearly gross, depending on profile    Location:   Either in-office in Paris (Grands Boulevards, 75002) or full remote on Paris timezone            About Upflow      Upflow is the Financial Relationship Management (FRM) platform that helps B2B finance teams collect smarter and get paid by their customers faster, with AI agents working alongside the team.  Today, the order-to-cash process is mission critical for businesses, yet it remains fragmented across tools, teams, and workflows. Upflow brings this entire process into one system — four products covering the cycle from invoice to cash (Insights, Collections, Payments, and Cash Application), with AI agents that work alongside the team and a shared intelligence layer underneath.  We serve 500+ companies across 30+ countries, including Vercel, Lattice, and Productboard, and are backed by leading investors including Y Combinator, Hedosophia, Hexa, and Lorimer. With teams across the US and Europe, we're building a category-defining company at the intersection of finance, payments, and AI.  To learn more about what we do, visit  up",
-      "postedAt": 1792820426,
-      "score": 10,
-      "reasons": [
-        "title: full stack",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-managing-principal-software-engineering-architecture-h-f-177389",
-      "source": "Arbeitnow",
-      "title": "Managing Principal - Software Engineering & Architecture H/F",
-      "company": "capco",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/capco/managing-principal-software-engineering-architecture-h-f-177389",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/capco/managing-principal-software-engineering-architecture-h-f-177389",
-      "tags": [
-        "Tech & Engineering"
-      ],
-      "description": "&lt;p&gt;&lt;strong&gt;Managing Principal - Software Engineering &amp;amp; Architecture H/F&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Location: Paris (Hybrid) | Practice Area: Technology &amp;amp; Engineering | Type: Permanent&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Nous recherchons un(e) Managing Principal - Software Engineering &amp;amp; Architecture pour piloter et développer notre expertise en software engineering, tout en accompagnant nos clients dans leurs transformations les plus complexes.&lt;/p&gt;\n&lt;p&gt;Ce rôle de leadership technologique, s&#39;articule autour de trois dimensions essentielles : Engineering Leadership, Architecture &amp;amp; Transformation et Client Development.&lt;/p&gt;\n&lt;p&gt;En tant que Software Engineering Chapter Lead, vous définirez les orientations techniques, renforcerez les standards d&#39;ingénierie et accompagnerez le développement de notre communauté de Tech Leads, d&#39;architectes et d&#39;ingénieurs seniors.&lt;/p&gt;\n&lt;p&gt;Vous aurez une forte proximité avec les technologies et la réalisation des projets, tout en collaborant avec les décideurs de haut niveau chez nos clients afin de structurer leurs transformations, d&#39;influen",
-      "postedAt": 1792767325,
+      "description": " Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.  Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen.     Must-have Anforderungen     Mehrjährige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten    Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray    Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform    Sehr gutes Deutsch und fliessendes Englisch       Nice-to-have Anforderungen     ISTQB Zertifizierung    Kenntnisse in Power Platform oder Azure       Das erwartet dich     Flexibler Homeoffice-Anteil, du entscheidest frei, ob du von zu Hause oder im Büro arbeites",
+      "postedAt": 1792899069,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1216,22 +1191,75 @@
       ]
     },
     {
-      "id": "arbeitnow-forward-deployed-engineer-354025",
-      "source": "Arbeitnow",
-      "title": "Forward Deployed Engineer",
-      "company": "Banyansoftware",
+      "id": "remoteok-1137568",
+      "source": "RemoteOK",
+      "title": "Solutions Engineer",
+      "company": "Onebrief",
       "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/banyansoftware/forward-deployed-engineer-354025",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/banyansoftware/forward-deployed-engineer-354025",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
       "tags": [
-        "Technology"
+        "design",
+        "ansible",
+        "grafana",
+        "sys admin",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "recruiter",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "travel",
+        "finance",
+        "cloud",
+        "exec",
+        "senior",
+        "ops",
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. With a buy-grow-and-hold-for-life approach and a permanent capital base, Banyan acquires and grows companies worldwide, honoring founder legacies and helping portfolio companies modernize through shared AI expertise and operational discipline. Founded in 2016, Banyan operates more than 120 portfolio companies across North and South America, Europe, and APAC, and has appeared on the Inc. 5000 list for six consecutive years. The Banyan Software Foundation, endowed with $100 million in Banyan stock, leverages technology to build a greener and more equitable world.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for an exceptional full-stack software engineer who will act as a &lt;strong&gt;Forward Deployed Engineer (FDE)&lt;/strong&gt; to serve as the critical interface between the central AI Application Modernization Factory and our application teams. The FDE will be temporarily embedded within delivery teams to directly drive the moderniza",
-      "postedAt": 1792713327,
-      "score": 10,
+      "description": "  Consequential Work. Dedicated People.     About Onebrief    Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination.  Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helping teams test strategies, adapt to changing conditions, and make decisions with greater clarity when the stakes are real.  We are a distributed team of builders from military, operational, and technology backgrounds who care deeply about improving how important work gets done. Some team members work remotely, while others work directly alongside customers in operational environments around the world.  Founded in 2019, Onebrief is backed by leading investors including General Catalyst, Battery Ventures, Insight Partners, Sapphire Ventures, and Human Capital. Valued at more than $2 billion, we continue to invest in product innovation, AI capabilities, and team growth.     Why This Role Exists   As a Solutions Engineer at Onebrief, you work where mission, engineering, and compliance",
+      "postedAt": "2026-10-24T00:00:02+00:00",
+      "score": 9,
       "reasons": [
-        "title: software engineer",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137563",
+      "source": "RemoteOK",
+      "title": "Sales Development Representative German Speaking",
+      "company": "Huzzle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+      "tags": [
+        "saas",
+        "sys admin",
+        "dev",
+        "marketing",
+        "finance",
+        "c",
+        "exec",
+        "sales",
+        "medical",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "description": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative companies where you become a valued member of the team.   About the company Our client is a fast-growing PropTech company revolutionizing the real estate market by bridging the gap between property seekers and managers. Their innovative platform acts as a centralized ecosystem, aggregating listings from all major portals while providing exclusive access to off-market opportunities. By automating the listing and search processes, the team delivers a seamless, data-driven experience that simplifies high-stakes transactions for both individual tenants and professional administrators.  Operating within the dynamic European real estate sector, this scale-up focuses on high-impact automation and intelligent matching technology. The team is dedicated to building a scalable, two-sided marketplace w",
+      "postedAt": "2026-10-23T16:00:18+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1286,82 +1314,6 @@
       ],
       "description": " \n  Position Overview \n We are seeking dependable and customer-focused individuals to join our team as a Travel Support Specialist. This remote role focuses on assisting clients with travel-related inquiries, supporting reservation coordination, and ensuring a smooth and positive customer experience throughout the booking process. \n This is an entry-level opportunity within the travel industry. No prior travel experience is required. Structured onboarding and training are provided. \n  \\n      Key Responsibilities  \n \n Respond to client inquiries regarding travel options, reservations, and itinerary details \n Assist with coordinating and confirming bookings for hotels, cruises, and vacation packages \n Review travel information for accuracy, including dates, traveler details, and accommodations \n Provide timely updates and clear communication before and after travel \n Maintain organized records of client interactions and reservations \n Deliver professional and responsive customer support \n \n     Qualifications  \n \n Strong written and verbal communication skills \n Customer-focused mindset with attention to detail \n Comfortable using online systems and digital platforms \n Ability to wo",
       "postedAt": "2026-10-23T00:00:05+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137556",
-      "source": "RemoteOK",
-      "title": "Senior Finance Manager Management Accountant",
-      "company": "D2B",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
-      "tags": [
-        "exec",
-        "accounting",
-        "saas",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "controller",
-        "payroll",
-        "finance",
-        "education",
-        "php",
-        "senior",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "description": " Position\t\t\t\t: Senior Finance Manager / Management AccountantÂ   Salary\t\t\t\t: PHP 90,000 - PHP 110,000 /month  Working Hours &amp; Conditions: Observing AU business hours  Holidays\t\t\t\t: Observing AU holidays    ROLE OVERVIEW:  Our client is an end-to-end B2B SaaS platform delivering specialized workforce management software designed for operational precision across scheduling, compliance, time tracking, invoicing, and payroll. Operating in a high-volume, multi-entity environment undergoing rapid international expansion and strategic acquisitions, the organization is bringing its core finance operations fully in-house to support scalable long-term growth. Working closely with executive leadership, this critical role goes beyond traditional accounting to take complete ownership of financial consolidations, month-end close optimization, SaaS performance metrics, and commercial analysis. We are seeking a proactive leader with a Financial Controller mindset who can independently challenge assumptions, eliminate operational bottlenecks, and bring clear financial visibility to strategic executive decisions.Â     RESPONSIBILITIES:   Financial Close, Reporting &amp; Multi-Entity Consolidatio",
-      "postedAt": "2026-10-22T08:00:04+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137555",
-      "source": "RemoteOK",
-      "title": "Accounting & Finance Manager",
-      "company": "Political Asylum Lawyers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
-      "tags": [
-        "exec",
-        "accounting",
-        "design",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "controller",
-        "payroll",
-        "finance",
-        "microsoft",
-        "content writing",
-        "senior",
-        "ops",
-        "excel",
-        "legal",
-        "medical",
-        "digital nomad"
-      ],
-      "description": "Who We Are Political Asylum Lawyers is a Houston-based immigration law firm focused on asylum cases. We help immigrants all over the United States secure their futures here through asylum, combining exceptional standards with deep respect for the human reality behind every case.Â   Our work changes lives. The standards we maintain, the discipline behind our work, and the way we show up every day can determine whether someone is able to stay safe and build a stable future in the United States. That is why we operate with integrity, urgency, and excellence, and why we expect every team member to take full ownership of their role.  Everything we do is guided by our core values: integrity, excellence, accountability, teamwork and passion.   Working here means:   High-stakes responsibility: our work is of great consequence for our clients  Deeply meaningful outcomes: our work changes lives for the better  Emotionally demanding moments: resilience and maturity are essential  High standards and constant growth: excellence and continuous improvement are expected  Mission-driven teamwork: weâre passionate about helping immigrants secure their future in the United States through asylum, an",
-      "postedAt": "2026-10-22T00:00:21+00:00",
       "score": 9,
       "reasons": [
         "skill: git",
@@ -1426,6 +1378,422 @@
       "reasons": [
         "title: software engineer",
         "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-product-manager-fiscal-berlin-464956",
+      "source": "Arbeitnow",
+      "title": "Senior Product Manager - Fiscal (f/m/d)",
+      "company": "Apaleo",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-product-manager-fiscal-berlin-464956",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-product-manager-fiscal-berlin-464956",
+      "tags": [],
+      "description": " Join Apaleo and Shape the Future of Hospitality Tech! \n  At&nbsp;Apaleo,&nbsp;we're&nbsp;building the open, API-first property management platform for hospitality. With integrations across hundreds of apps through the&nbsp;Apaleo&nbsp;Store, we simplify operations, elevate the guest journey and drive revenue growth for our customers.  &nbsp;  \n  We're looking for a  Senior Product Manager - Fiscal (f/m/d)  to help us make&nbsp;Apaleo&nbsp;compliant, fast, wherever we grow next.&nbsp;You'll&nbsp;own the delivery of features that keep our platform compliant across markets, working closely with a Senior Product&nbsp;Management&nbsp;Lead&nbsp;who sets the strategic direction for the wider fiscal and tax domain.  &nbsp;  \n &nbsp; \n   What You'll Be Up To   &nbsp;  \n \n  Owning the&nbsp;end to end&nbsp;delivery of one or two product crews within the fiscal and legal domain, for example invoicing or taxation.  &nbsp;  \n \n \n  Turning roadmap priorities into clear, well scoped work your engineering team can execute against.  &nbsp;  \n \n \n  Balancing planned roadmap delivery with the steady stream of regulatory and reactive work that comes with keeping&nbsp;Apaleo&nbsp;compliant in markets&n",
+      "postedAt": 1792914332,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-chief-science-officer-stuttgart-369217",
+      "source": "Arbeitnow",
+      "title": "Chief Science Officer",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/chief-science-officer-stuttgart-369217",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/chief-science-officer-stuttgart-369217",
+      "tags": [
+        "Leadership"
+      ],
+      "description": "  Chief Science Officer @ Sereact 🦾   Chief Science Officer (m/f/d) · Zurich or Stuttgart, Boston possible · Reports to the CEO · Full-time    Who we are   Sereact builds the robot brain for physical work.  Cortex , our vision-language-action foundation model, is hardware-agnostic: the same model runs single-arm and dual-arm systems, mobile manipulators and humanoids that pick, sort and handle returns in live production across Europe and the US. Customers include Zalando, IKEA, BMW, Rohlik and DHL.  Founded in 2021 in Stuttgart, with an R&amp;D hub in Zurich and a US office in Boston. We have raised more than $145 million, most recently a $116 million Series B led by Headline, with Zalando as a strategic investor. We work in small, senior teams with a flat structure; execution counts more than titles.    Why this role, why now   Our robots produce data no lab can stage. Our fleet has recorded more than 500 million manipulation interactions in live warehouse operations; Cortex 2.0 was trained on a curated 10 million of them and added a world model that plans before it acts (  arXiv 2604.20246  ).   Cortex 2.5   learns a new task from a few demonstrations instead of a training run. ",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-director-technical-support-field-service-stuttgart-370872",
+      "source": "Arbeitnow",
+      "title": "Director Technical Support & Field Service",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-technical-support-field-service-stuttgart-370872",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-technical-support-field-service-stuttgart-370872",
+      "tags": [
+        "Leadership"
+      ],
+      "description": "  Who We Are:   We build the intelligence that lets robots sense, reason, and act in the real world, moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can't solve. We are on a mission to redefine how physical work gets done, and we're looking for curious, bold thinkers to help shape the future of robotics with us.   Overview:   Our AI-driven pick-and-place and returns-handling cells combine robot arms, adaptive force-controlled grippers, AI vision and a safety cabinet, all driven by Cortex, our vision-language-action model. They run in live warehouse and logistics operations across the EU and US, and our deployed fleet is growing from around 50 cells to several hundred. Customer uptime now needs a dedicated owner. We're looking for a Director of Technical Support to build our customer-facing support function, covering everything from a customer opening a ticket to a cell back at target uptime. This is a player-coach role: you will stay hands-on technically while you hire the team and put the systems in place. You will work closely with our Hardware Product Engineering and Sup",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-director-supply-chain-hardware-operations-stuttgart-388921",
+      "source": "Arbeitnow",
+      "title": "Director Supply Chain & Hardware Operations",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-supply-chain-hardware-operations-stuttgart-388921",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-supply-chain-hardware-operations-stuttgart-388921",
+      "tags": [
+        "Leadership"
+      ],
+      "description": "  Who We Are:   We build the intelligence that lets robots sense, reason, and act in the real world, moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can't solve. We are on a mission to redefine how physical work gets done, and we're looking for curious, bold thinkers to help shape the future of robotics with us.   Overview:   Our AI-driven pick-and-place and returns-handling cells combine robot arms, adaptive force-controlled grippers, AI vision and a safety cabinet, all driven by Cortex, our vision-language-action model. They already run in live customer operations across the EU and US. We are scaling from around 50 units a year to several hundred, and getting there means moving production to external contract manufacturers with full quality control at the supplier. We're looking for a Director of Supply Chain &amp; Hardware Operations to own the path from a release-ready design to a QA'd unit shipped to the customer. You will report to the CEO and receive frozen designs from our Director of Hardware Product Engineering &amp; Industrialization through a shared Design-Trans",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-director-npi-industrialization-stuttgart-400119",
+      "source": "Arbeitnow",
+      "title": "Director NPI & Industrialization",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-npi-industrialization-stuttgart-400119",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-npi-industrialization-stuttgart-400119",
+      "tags": [
+        "Leadership"
+      ],
+      "description": "  Who We Are:   We build the intelligence that lets robots sense, reason, and act in the real world, moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can't solve. We are on a mission to redefine how physical work gets done, and we're looking for curious, bold thinkers to help shape the future of robotics with us.   Overview:   Our AI-driven pick-and-place and returns-handling cells combine robot arms, adaptive force-controlled grippers, AI vision and a safety cabinet, all driven by Cortex, our vision-language-action model. They already run in live warehouse operations across the EU and US. After our Series B, we are scaling from around 50 units a year to several hundred, built by external contract manufacturers. We're looking for a Director of NPI &amp; Industrialization to own the hardware product from architecture to a frozen, documented design that a contract manufacturer can build to spec and our customers can rely on. You will report to the CEO and CTO and work closely with our Director of Supply Chain &amp; Hardware Operations, who takes your released designs into volu",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-industrial-designer-stuttgart-370962",
+      "source": "Arbeitnow",
+      "title": "Industrial Designer",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/industrial-designer-stuttgart-370962",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/industrial-designer-stuttgart-370962",
+      "tags": [
+        "Engineering"
+      ],
+      "description": " Who We Are  We are a rapidly growing embodied AI company revolutionizing human labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across multiple industries — empowering businesses to streamline operations, boost productivity, and unlock new possibilities.    Overview  We're looking for a talented Industrial Designer to shape the look, feel, and usability of our next-generation autonomous robot systems. In this role, you'll translate technical requirements into compelling product designs, working closely with our Mechanical Engineering team to ensure your designs are both visually strong and grounded in engineering reality.    Your Responsibilities    Design and Concept Development:      Design housings, enclosures, and user-facing components for autonomous robot systems, balancing aesthetics, ergonomics, and brand identity.    Develop concept sketches, renderings, and 3D models to communicate design intent to stakeholders.    Translate design concepts into manufacturable geometry in close collaboration with Mechanical Engineers.      Collaboration and Iteration:      Work hand-in-hand",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-product-designer-stuttgart-52023",
+      "source": "Arbeitnow",
+      "title": "Product Designer (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-designer-stuttgart-52023",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-designer-stuttgart-52023",
+      "tags": [
+        "Engineering"
+      ],
+      "description": " Who We Are  We are a rapidly growing embodied AI company revolutionizing human labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across multiple industries — empowering businesses to streamline operations, boost productivity, and unlock new possibilities.    Overview  We're looking for a Product Designer with a technical background to help define how our autonomous robot systems look, feel, and are experienced by the people who work alongside them. In this role, you'll own the design language of our products end-to-end — from early concept through to a design that's ready to be engineered and manufactured.    Your Responsibilities    Product Design:      Define the overall design language and visual identity across our autonomous robot systems product line.    Create concept designs, sketches, and high-fidelity renderings for new products and product iterations.    Design for usability and human interaction, considering how operators and technicians engage with the hardware day-to-day.      Technical Integration:      Partner closely with Mechanical and Hardware teams to ensure design",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-mechaniker-mechatroniker-robotersysteme-stuttgart-329615",
+      "source": "Arbeitnow",
+      "title": "Mechaniker / Mechatroniker (m/w/d) – Robotersysteme",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/mechaniker-mechatroniker-robotersysteme-stuttgart-329615",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/mechaniker-mechatroniker-robotersysteme-stuttgart-329615",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  Mechaniker / Mechatroniker (m/w/d) – Robotersysteme    Wer wir sind  Wir sind ein schnell wachsendes Unternehmen im Bereich Embodied AI, das die menschliche Arbeitswelt revolutioniert. Mit modernster Robotik und fortschrittlicher künstlicher Intelligenz entwickeln wir transformative Technologien, die neu definieren, wie Arbeit über verschiedenste Branchen hinweg erledigt wird — und ermöglichen es Unternehmen, Abläufe zu optimieren, die Produktivität zu steigern und neue Möglichkeiten zu erschließen.   Überblick  Wir suchen einen erfahrenen Mechaniker, der die mechanische Montage, Justage und Instandhaltung unserer autonomen Robotersysteme übernimmt. In dieser Rolle arbeitest du eng mit unserem Elektronik- und Hardware-Team zusammen, um sicherzustellen, dass alle mechanischen Komponenten zuverlässig funktionieren und nahtlos in die Gesamtsysteme integriert sind.   Deine Aufgaben  Montage und Installation:    Montage und Installation der gesamten Roboterzelle, mechanischer / mechatronischer Baugruppen, Antriebe und Strukturkomponenten in unseren Robotersystemen.    Aufbau von Gestellen, Greifern, Achsen und Sensorhalterungen nach technischen Zeichnungen.    Ausrichtung, Justage und",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-operativer-einkauf-stuttgart-238870",
+      "source": "Arbeitnow",
+      "title": "Operativer Einkauf",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/operativer-einkauf-stuttgart-238870",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/operativer-einkauf-stuttgart-238870",
+      "tags": [
+        "Operations"
+      ],
+      "description": "  Wer wir sind:  Wir entwickeln die Intelligenz, die es Robotern ermöglicht, die reale Welt wahrzunehmen, zu verstehen und in ihr zu handeln – über das Labor hinaus und hinein in den industriellen Alltag, etwa in Lagerhallen und Fabriken. Unsere Technologie schließt die Automatisierungslücken, an denen klassische Systeme scheitern. Wir haben es uns zur Aufgabe gemacht, die Art und Weise, wie körperliche Arbeit verrichtet wird, neu zu denken, und suchen neugierige, mutige Köpfe, die die Zukunft der Robotik gemeinsam mit uns gestalten wollen.    Überblick:  Wir suchen eine prozessorientierte Person, die im operativen technischen Einkauf, das kaufmännische Fundament unserer innovativen Robotiklösungen bei Sereact stärkt. Du übernimmst die Verantwortung für unsere internen kaufmännischen Abläufe und bist ein echtes Organisationstalent, das sich gerne mitten ins Geschehen stürzt und dafür sorgt, dass unser Tagesgeschäft im Hintergrund reibungslos läuft. Die Stelle ist in Stuttgart angesiedelt und eignet sich ideal für jemanden, der gerne strukturierte Prozesse aufbaut, kaufmännische Aufgaben steuert und ein Team unterstützt, das an modernster Technologie arbeitet.    Deine Aufgaben:    ",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-teleoperation-trainer-germany-52601",
+      "source": "Arbeitnow",
+      "title": "Teleoperation Trainer (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/teleoperation-trainer-germany-52601",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/teleoperation-trainer-germany-52601",
+      "tags": [
+        "Software"
+      ],
+      "description": "  Who We Are   We build the intelligence that lets robots sense, reason, and act in the real world, moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can't solve. We are on a mission to redefine how physical work gets done, and we're looking for curious, bold thinkers to help shape the future of robotics with us.   Overview   We are looking for a Teleoperation Trainer to sit at the intersection of our operations and engineering teams. In this role, you will train and quality-manage a team of teleoperation operators, establish and maintain data collection standards, and act as the critical bridge between project management and the technical teams developing our teleoperation and policy systems. You will maintain direct teleoperation proficiency and translate operational insight into actionable engineering feedback, and vice versa. This role starts hands-on and grows in scope and ownership as we scale.   Your Responsibilities   Training &amp; Quality Management    Onboard and train new teleoperation operators, establishing consistent standards for task execution, data quality, ",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-technical-procurement-purchasing-officer-stuttgart-348796",
+      "source": "Arbeitnow",
+      "title": "Technical Procurement / Purchasing Officer",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-procurement-purchasing-officer-stuttgart-348796",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-procurement-purchasing-officer-stuttgart-348796",
+      "tags": [
+        "Operations"
+      ],
+      "description": "  Who We Are:   We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.    Overview:   We are looking for a highly process-driven  Technical Procurement / Purchasing Officer  to strengthen the commercial foundation of our innovative robotics solutions at Sereact.  You will take ownership of our internal commercial workflows, acting as a true organizational talent who loves to dive into the thick of things and keep our operations running smoothly behind the scenes.  This role is based in Stuttgart and is ideal for someone who thrives on building structured processes, managing commercial tasks, and supporting a team building cutting-edge technology.     Your Responsibilities:      Project &amp; Order Management:  Manage our projects from a commercial perspective, from the initial order to final delivery.     Purchasing &amp; Material Manag",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-elektroniker-stuttgart-247772",
+      "source": "Arbeitnow",
+      "title": "Elektroniker (m/w/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/elektroniker-stuttgart-247772",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/elektroniker-stuttgart-247772",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  Wer wir sind   Wir sind ein schnell wachsendes Unternehmen im Bereich Embodied AI, das die menschliche Arbeitswelt revolutioniert. Mit modernster Robotik und fortschrittlicher künstlicher Intelligenz entwickeln wir transformative Technologien, die neu definieren, wie Arbeit über verschiedenste Branchen hinweg erledigt wird — und ermöglichen es Unternehmen, Abläufe zu optimieren, die Produktivität zu steigern und neue Möglichkeiten zu erschließen.     Überblick   Wir suchen einen erfahrenen Electroniker, der die elektrische Verkabelung und Steuerungssysteme unserer autonomen Robotersysteme installiert, verkabelt und in Stand hält. In dieser Rolle arbeitest du eng mit unserem Mechanical- und Hardware-Team zusammen, um sicherzustellen, dass alle elektrischen Komponenten zuverlässig funktionieren und nahtlos in die Gesamtsysteme integriert sind.     Deine Aufgaben     Elektrokonstruktion und Planung:      Elektrokonstruktion gemäß geltenden Richtlinien und Normen.    Erstellung von Schaltplänen für unsere Robotersysteme.      Installation und Verkabelung:      Verkabelung und Installation elektrischer Komponenten und Steuerungssysteme in unseren Robotersystemen.    Montage von Schalt",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-strategic-accounts-manager-stuttgart-239266",
+      "source": "Arbeitnow",
+      "title": "Strategic Accounts Manager (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/strategic-accounts-manager-stuttgart-239266",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/strategic-accounts-manager-stuttgart-239266",
+      "tags": [
+        "G2M"
+      ],
+      "description": "  Who We Are:   We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.   Overview:   We are hiring one of our first Strategic Accounts Managers to own and grow Sereact’s most important customer relationships. You will ensure customers get successful value generation of our AI-powered robotics solutions, drive measurable customer outcomes, and unlock expansion opportunities across Fashion, General Merchandise, E-Grocery, and 3PL customers.  This is a hands-on, high-impact role combining strategic account management, customer success, and commercial growth in a fast-scaling AI robotics company.  Willingness to travel: up to 50%   Your Responsibilities:     Own strategic customer relationships end-to-end: onboarding, adoption, retention, and expansion    Act as trusted advisor to operational and executive stakeholders    Drive customer val",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-product-manager-intern-stuttgart-455900",
+      "source": "Arbeitnow",
+      "title": "Product Manager Intern (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-manager-intern-stuttgart-455900",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-manager-intern-stuttgart-455900",
+      "tags": [
+        "Product & Design"
+      ],
+      "description": "  Product Manager Intern (m/f/d) -    Boston (US) / Stuttgart (DE)      Who We Are:   We are a rapidly growing embodied AI company revolutionizing physical labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across warehouses and fulfillment operations worldwide. Our products represent the frontier of what intelligent, dexterous automation can do — and we are only getting started.   Overview:   We are seeking a Product Manager Intern to support the product management team across the product lifecycle — from concept and roadmap development to field deployment across 50+ production sites. This is a high-learning, cross-functional role at the intersection of AI, robotics hardware, and industrial operations. Working alongside experienced product leaders, you will help bridge communication between our AI/R&amp;D team, software &amp; hardware engineering, solutions architects, and customers — assisting in translating real-world operational complexity into scalable product requirements.   Your Responsibilities:    Product Strategy &amp; Roadmap Support     Assist in maintaining and updating the",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-product-marketing-intern-stuttgart-108143",
+      "source": "Arbeitnow",
+      "title": "Product Marketing Intern",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-marketing-intern-stuttgart-108143",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-marketing-intern-stuttgart-108143",
+      "tags": [
+        "Product & Design"
+      ],
+      "description": "  Product Marketing Intern (f/m/d)    Overview   We are looking for a motivated  Product Marketing Intern (m/f/d)  to support how our AI robotics products are positioned and brought to market. You will work closely with our Product, Sales, and Engineering teams to help communicate the value of our technology and support go-to-market activities.  This internship is an opportunity to gain hands-on experience in  B2B product marketing for cutting-edge AI and robotics systems  used by enterprise logistics companies. You will contribute to messaging, content creation, market research, and sales enablement while learning how technical products are successfully introduced to the market.      Your Responsibilities      Messaging &amp; Positioning   Support the development of product messaging and value propositions for different use cases and customer segments  Help translate technical AI and robotics capabilities into clear and engaging communication materials  Assist in maintaining consistent messaging across presentations, website content, and marketing materials      Go-to-Market Support   Assist with product and feature launch preparations  Help coordinate internal communications betw",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-generalist-in-logistik-supply-chain-stuttgart-137610",
+      "source": "Arbeitnow",
+      "title": "Generalist in Logistik & Supply Chain (m/w/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/generalist-in-logistik-supply-chain-stuttgart-137610",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/generalist-in-logistik-supply-chain-stuttgart-137610",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  Generalist in Logistik &amp; Supply Chain (m/w/d)  Deine Aufgaben     Abwicklung von Import- und Exportsendungen (EU und Drittland, u. a. China, Schweiz, USA), inkl. Zollpapieren, Incoterms und Speditionskoordination    Warenursprungs- und Präferenzkalkulationen sowie Zolltarifierung (HS-Codes) unserer Komponenten    Operative Lagerlogistik: Wareneingang, Kommissionierung und Versand von Komponenten an unsere Baustellen und Kunden    Koordination &amp; disposition der Materialflüsse (Dropshipping, Lagerversand, Ersatzteile)    Pflege logistikrelevanter Stammdaten und Prozesse in unserem ERP-System (Odoo)    Unterstützung angrenzender Bereiche — z. B. Einkauf, Auftragsabwicklung oder Lager — wo gerade Hände gebraucht werden       Was du mitbringst     Berufserfahrung im Bereich Logistik, Zoll oder Spedition — ob mit Ausbildung oder Studium, ist uns egal. Was zählt, ist, was du kannst    Macher-Mentalität: Du willst gestalten und aufbauen, aber identifizierst dich nicht über Titel — operative Arbeit ist für dich selbstverständlich    Generalist:in mit Logistik-Schwerpunkt: Du denkst über deinen Bereich hinaus und springst auch mal woanders ein    Hands-on, strukturiert, eigenverant",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-partner-manager-stuttgart-447405",
+      "source": "Arbeitnow",
+      "title": "Partner Manager (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/partner-manager-stuttgart-447405",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/partner-manager-stuttgart-447405",
+      "tags": [
+        "G2M"
+      ],
+      "description": "  Who We Are:   We are a rapidly growing embodied AI company revolutionizing human labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across multiple industries—empowering businesses to streamline operations, boost productivity, and unlock new possibilities.     Overview:   As Partner Sales Manager, you will be the driving force behind the development and implementation of our partner strategy. You will be working closely with leading integrators in Europe and the US to expand our market reach and scale sales of our AI-powered solutions. You will be responsible for building strong partnerships, designing processes and structures and supporting our partners in the successful implementation of our solutions.     Your Responsibilities:    Building partnerships     Identifying, developing and supporting strategic integration partners such as Element Logic, TGW, Kardex, Toyota Automated Logistics, and other leading players in Europe and the US.     Go-to-market strategies     Developing and implementing sales strategies with partners, including license sales and co-branded solutions.     Tea",
+      "postedAt": 1792885212,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-mission-control-software-munich-247496",
+      "source": "Arbeitnow",
+      "title": "Software Engineer – Mission Control Software",
+      "company": "The Exploration Company",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+      "tags": [
+        "Digital Systems"
+      ],
+      "description": " Here at The Exploration Company, we are building spacecrafts for humanity.  Join us as a Software Engineer – Mission Control Software, where you will develop mission-critical software that powers our integrated testing and mission operations. You will primarily work on our Mission Control Software and build supporting tools used by flight controllers and engineering teams.    Key Responsibilities  In your capacity as a Software Engineer - Ground Segment you will:    Develop robust software used in testing and mission operations    Contribute across the full software development lifecycle, from design to deployment    Build scalable systems that support TEC’s expanding mission activities    Collaborate with testing, engineering, and operations teams to understand and meet operational needs    Write performant, maintainable, and well-documented code    Ensure reliability through automated testing and operational validation    Support users and contribute to improving development workflows and tooling    Mentor junior engineers and contribute to a strong engineering culture      What we would love to see from you  The ideal candidate will have:    Experience with backend development ",
+      "postedAt": 1792885211,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-member-of-technical-staff-software-engineer-fraud-prevention-london-460512",
+      "source": "Arbeitnow",
+      "title": "Member of Technical Staff (Software Engineer, Fraud Prevention)",
+      "company": "Perplexity",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perplexity/member-of-technical-staff-software-engineer-fraud-prevention-london-460512",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/perplexity/member-of-technical-staff-software-engineer-fraud-prevention-london-460512",
+      "tags": [
+        "Search"
+      ],
+      "description": "  About the role   Perplexity's fraud prevention team protects our products, users, and infrastructure from fraud and abuse across the whole lifecycle: sign-up, authentication, payments, API usage, and product features. We build and operate a real-time decisioning platform together with the surrounding systems: data pipelines for detection and model training, integrations with product and payment systems, and internal tooling for investigation and response. As a software engineer on the team, you will own services end to end, from design to production operations, and work closely with fraud analysts, ML engineers, and product teams to make abuse expensive and legitimate usage frictionless.    Responsibilities     Design, build, and operate high-throughput, low-latency backend services for fraud detection and prevention    Build data pipelines and real-time feature computation that power detections and ML models    Collect and process trust signals    Integrate fraud decisions into product, auth, and payment flows across Perplexity    Own reliability of production services: observability, alerting, safe rollouts, incident response    Build internal tooling for investigation, enforce",
+      "postedAt": 1792910415,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-i-paris-123796",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer I",
+      "company": "Checkout.com",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/checkoutcom/senior-software-engineer-i-paris-123796",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/checkoutcom/senior-software-engineer-i-paris-123796",
+      "tags": [
+        "All Departments"
+      ],
+      "description": "   Company Description     We’re        Checkout.com   . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day.      We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppers.     Whether you want to book a holiday, order food, renew a subscription, or check out online, there’s a good chance our tech powers the payments behind the scenes. Our platform helps the most ambitious businesses deliver effortless digital experiences, at scale.     If you want to do career-defining work, you’ve come to the right place. We move fast, think globally, and believe great teams are built by hiring exceptional people with conviction, curiosity, and the desire to make an impact.     With 20 offices across six continents and London as our HQ, we’re shaping the future of fintech – and we’re just getting started.      About the role:  As a Senior Software Developer at  Checkout.com , you will be embedded within the Identity Verification Team, a critical function focused on building innovative products to verify the identities of indi",
+      "postedAt": 1792874417,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-member-of-technical-staff-zurich-24981",
+      "source": "Arbeitnow",
+      "title": "Member of Technical Staff (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Zurich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/member-of-technical-staff-zurich-24981",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/member-of-technical-staff-zurich-24981",
+      "tags": [
+        "Software"
+      ],
+      "description": "  Who We Are:   We are a rapidly growing embodied AI company revolutionizing human labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across multiple industries—empowering businesses to streamline operations, boost productivity, and unlock new possibilities.     Overview:   We are looking for a world-class robotics professionals to join our R&amp;D hub in the  Zurich area . In this role, you will be at the forefront of developing Vision-Language-Action (VLA) models that enable robots to understand and interact with the world with unprecedented generalization. You will work on the intersection of large-scale foundation models and real-world robotic execution, bridging the gap between state-of-the-art research and deployed embodied intelligence.     Your Responsibilities:    Research &amp; Development:     Design, implement, and scale VLA models and foundation architectures for robotic manipulation and navigation.     Scaling Laws &amp; Data:     Develop strategies for multi-modal data collection, synthetic data generation, and efficient fine-tuning of large-scale models.     Algorithm Op",
+      "postedAt": 1792885215,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-research-engineer-zurich-318019",
+      "source": "Arbeitnow",
+      "title": "Research Engineer (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Zurich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-318019",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-318019",
+      "tags": [
+        "Software"
+      ],
+      "description": " Research Engineer, Manipulation Data &amp; Teleoperation — Zurich  This role owns the data generation layer of Sereact's VLA stack: teleoperation systems and data collection infrastructure that feed Cortex, built from our Zurich research hub.  About Sereact  Sereact is a Series B embodied-AI company. Cortex, our VLA model, is deployed in live warehouse robotic cells across the EU and US. Zurich is our newest research hub, focused on the manipulation and control problems that sit underneath Cortex.    The role  This is a Research Engineer position. It is scoped to the data generation layer of the VLA stack: teleoperation hardware and software, retargeting pipelines that map human demonstrations onto robot hands, and the data collection infrastructure that feeds Cortex. It requires building the systems that produce the data those models train on, and working closely with the training team on what that data needs to look like.    What you'll do    Build and operate teleoperation systems for dexterous manipulation, including retargeting algorithms that map human hand and arm motion onto robot end-effectors    Design and maintain scalable, UMI-style data collection hardware and softwar",
+      "postedAt": 1792885215,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
       ]
     },
     {

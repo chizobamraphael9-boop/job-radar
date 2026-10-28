@@ -1,4 +1,4 @@
-# Job Radar digest (2026-10-27)
+# Job Radar digest (2026-10-28)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
@@ -18,25 +18,25 @@
    https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133
 9. **Senior back-end Engineer** — Lemon.io (31)
    https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132
-10. **Full Stack Developer** — Learned (27)
-   https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079
-11. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
+10. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
-12. **Product Engineering Lead** — Tether Operations Limited (25)
+11. **Product Engineering Lead** — Tether Operations Limited (25)
    https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
-13. **Senior Software Engineer LATAM** — Wagmo (24)
+12. **Senior Software Engineer LATAM** — Wagmo (24)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
-14. **Web & Mobile Full Stack Developer** — Learned (24)
-   https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136
-15. **Senior Backend Engineer** — DuckDuckGo (22)
+13. **Senior Backend Engineer** — DuckDuckGo (22)
    https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551
-16. **Product Design Lead** — Fuel50 (22)
+14. **Product Design Lead** — Fuel50 (22)
    https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474
-17. **Senior Fullstack-Entwickler (m/w/d) – PHP/Symfony & React** — MRP My Recruitment Partners (22)
-   https://www.arbeitnow.com/jobs/companies/mrp-my-recruitment-partners/senior-fullstack-entwickler-php-symfony-react-berlin-340319
-18. **Senior Software-Entwickler (m/w/d) – PHP/Symfony & React – Berlin - Hybrid** — MRP My Recruitment Partners Ltd. (22)
-   https://www.arbeitnow.com/jobs/companies/mrp-my-recruitment-partners-ltd/senior-software-entwickler-php-symfony-react-berlin-hybrid-207674
-19. **Software Engineer AI Coding Tasks** — Askable (19)
+15. **Software Engineer AI Coding Tasks** — Askable (19)
    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
-20. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
+16. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
+17. **Remote Office Assistant** — Coalition Technologies  (19)
+   https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
+18. **Sr Solutions Architect** — ExtraHop (16)
+   https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394
+19. **Lead Full Stack Software Engineer - Internal Platforms (f/m/d)** — isaraerospace (15)
+   https://www.arbeitnow.com/jobs/companies/isaraerospace/lead-full-stack-software-engineer-internal-platforms-parsdorf-bavaria-277361
+20. **Full Stack Engineer - AI Marketplace** — Loftorbital (15)
+   https://www.arbeitnow.fr/jobs/companies/loftorbital/full-stack-engineer-ai-marketplace-toulouse-occitanie-488817

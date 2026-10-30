@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-10-29T11:18:56.010Z",
+  "scannedAt": "2026-10-30T11:11:27.534Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 38,
+  "count": 39,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -591,28 +591,6 @@
       ]
     },
     {
-      "id": "arbeitnow-forward-deployed-engineer-london-205943",
-      "source": "Arbeitnow",
-      "title": "Forward Deployed Engineer",
-      "company": "True Talent Solutions Partners",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-205943",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-205943",
-      "tags": [
-        "Client Roles"
-      ],
-      "description": " About the Role  Join a B2B SaaS team building software for certification, inspection, and compliance workflows. You will work directly with customers to understand how their operations function and turn those needs into production-ready products, including AI-powered tools.  What You'll Do    Embed with customer teams to learn how certification, inspection, and compliance work in practice.    Lead customer calls, write specifications, and build end-to-end systems across frontend, backend, data models, and AI capabilities.    Own product areas and deliver production software quickly, improving it based on direct user feedback.    Use judgment to distinguish customer requests that apply broadly from those that are specific to one workflow.    Review customer documents, calls, and outputs to develop AI-powered workflows for scheduling, technical review, conformity assessment, field inspection, and document intelligence.    What We're Looking For    Three to six years of software or product engineering experience, with a track record of shipping systems used by customers.    Full-stack development skills, including Python, TypeScript, React, Node.js, SQL, and cloud infrastructure.    ",
-      "postedAt": 1793245216,
-      "score": 24,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: node",
-        "skill: react",
-        "skill: node"
-      ]
-    },
-    {
       "id": "remoteok-1137572",
       "source": "RemoteOK",
       "title": "Senior Software Engineer LATAM",
@@ -815,6 +793,26 @@
       ]
     },
     {
+      "id": "arbeitnow-software-engineer-frontend-paris-34099",
+      "source": "Arbeitnow",
+      "title": "Software Engineer,  Frontend",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-frontend-paris-34099",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-frontend-paris-34099",
+      "tags": [
+        "Engineering & Infra"
+      ],
+      "description": "  About Mistral   Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can run on their terms.  We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low-ego and team-spirited.     Role summary   We are seeking passionate and skilled Frontend Engineers to join our growing team. In this role, you will have the unique opportunity to work on our complete range of products, contributing to its development and enhancement. Your work will directly impact the user experience, making it more engaging, efficient, and intuitive.      What you will do      Full Stack Development:  Design, develop, and maintain scalable and robust features, ensuring seamless integration between front-end and back-end",
+      "postedAt": 1793310016,
+      "score": 18,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer",
+        "title: full stack"
+      ]
+    },
+    {
       "id": "remoteok-1137394",
       "source": "RemoteOK",
       "title": "Sr Solutions Architect",
@@ -847,23 +845,23 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-nodejs-typescript-london-468247",
+      "id": "arbeitnow-senior-net-developer-luzern-306079",
       "source": "Arbeitnow",
-      "title": "Senior software engineer (Node.js/TypeScript)",
-      "company": "Seccl",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/senior-software-engineer-nodejs-typescript-london-468247",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/seccl/senior-software-engineer-nodejs-typescript-london-468247",
+      "title": "Senior .NET Developer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Luzern, Luzern, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-306079",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-306079",
       "tags": [
-        "Engineering"
+        "Software Engineering"
       ],
-      "description": "  Hybrid working based at one of our offices in London, Bath or Edinburgh. Your contract will be hybrid, although we don’t currently require a set number of office days. We support flexible working and trust teams to agree how and where they work best, taking a pragmatic approach based on the needs of the role and team.      About us   Seccl is the Octopus-owned embedded investment platform, on a mission to help more people invest, and invest well.    We’re building the infrastructure behind the next generation of investing. Our technology already powers some of the UK’s most ambitious fintechs, banks, financial advisers and wealth firms, with close to a million investors relying on Seccl-powered platforms. And we’re now expanding into Europe.    We’ve got a proven product, strong momentum and big ambitions for what comes next: helping more household-name brands launch and scale investment propositions, entering new markets and replacing outdated investment infrastructure with technology that’s faster, simpler and built for scale.    We’re proud to be part of Octopus, one of the UK’s most successful privately held investment and technology groups. That gives us the backing and long",
-      "postedAt": 1793245214,
+      "description": " Wir suchen einen erfahrenen Senior .NET Developer für ein etabliertes Schweizer IT-Dienstleistungsunternehmen im Raum Bern. Du arbeitest in einem motivierten SCRUM-Team an anspruchsvollen Kundenprojekten und übernimmst Verantwortung für Architektur, Codequalität und technische Entscheidungen.     Aufgaben       Entwicklung und Weiterentwicklung von Backend-Services und APIs auf Basis von .NET Core    Mitarbeit an Frontend-Komponenten mit Blazor oder Razor    Design und Umsetzung von Microservices- und Integrationsarchitekturen    Sicherstellung von Codequalität durch automatisierte Tests und Code Reviews    Aktive Mitgestaltung von Architekturentscheidungen im Team               Anforderungen       Mehr als 5 Jahre Erfahrung in der Softwareentwicklung mit .NET    Fundierte Kenntnisse in .NET Core, Entity Framework, Blazor und REST APIs    Erfahrung mit Microsoft Azure und Azure DevOps    Kenntnisse in Microservices und Integrationsarchitekturen    Kenntnisse in Kubernetes, Kafka, xUnit oder API Kana von Vorteil    Erfahrung mit agilen Methoden (Scrum, Kanban oder SAFe)    Sehr gute Deutschkenntnisse       Was dich erwartet       Festanstellung bei einem stabilen, finanzstarken Unt",
+      "postedAt": 1793320284,
       "score": 15,
       "reasons": [
+        "title: frontend",
         "title: software engineer",
-        "title: node",
-        "skill: node"
+        "skill: rest api"
       ]
     },
     {
@@ -882,7 +880,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMjAuODMuMjI4LjY5 when applying to show you read the job post completely (#RMjAuODMuMjI4LjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTcyLjE3NC4yMjEuMjI3 when applying to show you read the job post completely (#RMTcyLjE3NC4yMjEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -905,7 +903,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMjAuODMuMjI4LjY5 when applying to show you read the job post completely (#RMjAuODMuMjI4LjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTcyLjE3NC4yMjEuMjI3 when applying to show you read the job post completely (#RMTcyLjE3NC4yMjEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -928,12 +926,32 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuODMuMjI4LjY5 when applying to show you read the job post completely (#RMjAuODMuMjI4LjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTcyLjE3NC4yMjEuMjI3 when applying to show you read the job post completely (#RMTcyLjE3NC4yMjEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
         "title: software engineer",
         "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-commercial-account-executive-uk-amsterdam-188057",
+      "source": "Arbeitnow",
+      "title": "Commercial Account Executive, UK",
+      "company": "Horizon3Ai",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/commercial-account-executive-uk-amsterdam-188057",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/commercial-account-executive-uk-amsterdam-188057",
+      "tags": [
+        "Sales"
+      ],
+      "description": "  Get to Know Us   Horizon3.ai is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organisations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product,  the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organisations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs.  We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results.  ",
+      "postedAt": 1793342417,
+      "score": 13,
+      "reasons": [
+        "title: node",
+        "skill: node",
         "location: Remote"
       ]
     },
@@ -1018,39 +1036,42 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-java-baden-dattwil-305322",
+      "id": "arbeitnow-full-stack-software-engineer-berlin-213368",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer Java (m/w/d)",
-      "company": "Axenta Ag",
-      "location": "Baden-Dättwil",
-      "url": "https://www.arbeitnow.ch/jobs/companies/axenta-ag/senior-software-engineer-java-baden-dattwil-305322",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/axenta-ag/senior-software-engineer-java-baden-dattwil-305322",
-      "tags": [],
-      "description": "  Kurzbeschrieb  Du bist leidenschaftlicher Softwareentwickler und verfügst über solide Engineering Qualitäten. Zusammen mit deinen Teamkolleginnen und -kollegen analysierst, konzeptionierst und entwickelst du neue Funktionalitäten auf der Basis von aktuellen Technologiestandards. Bestehende Softwarekomponenten werden durch dich gewartet, ausgebaut und modernisiert. Du fühlst dich im Backend, Frontend sowie allenfalls auch im Web gleichermassen zu Hause.     Pensum 80 bis 100 %    Arbeitsort Baden-Dättwil / Homeoffice    Eintritt  per sofort oder nach Vereinbarung       Deine Aufgaben   Du übernimmst die Verantwortung für Kern Komponenten (Bsp. Workflow Engine), entwickelst diese weiter und stellst deren zuverlässigen Betrieb und die Integration in unsere Applikationen sicher  Du entwickelst Features und Storys im Frontend sowie auch im Backend - beginnend beim Design bis zur Produktivsetzung  Du arbeitest eng mit Product Owner und Tester:Innen zusammen, um nutzerfreundliche und performante Features für unsere bestehenden und neue Applikationen zu realisieren  Du sicherst die Code-Qualität, Testbarkeit und Wartbarkeit durch Clean Code, automatisierte Tests und Code Reviews      Das",
-      "postedAt": 1793244811,
-      "score": 12,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-fullstack-amsterdam-449365",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer - Fullstack",
-      "company": "databricks",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/senior-software-engineer-fullstack-amsterdam-449365",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/databricks/senior-software-engineer-fullstack-amsterdam-449365",
+      "title": "Full Stack Software Engineer (m/w/d)",
+      "company": "Odoo DE GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/odoo-de-gmbh/full-stack-software-engineer-berlin-213368",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/odoo-de-gmbh/full-stack-software-engineer-berlin-213368",
       "tags": [
-        "Engineering - Pipeline"
+        "Software Development"
       ],
-      "description": "&lt;p&gt;P-1321&lt;/p&gt;\n&lt;p&gt;At Databricks, we are passionate about enabling data teams to solve the world&#39;s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world&#39;s best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers — and customer obsessed — we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we&#39;re only getting started.&lt;/p&gt;\n&lt;p&gt;Unlike traditional enterprise software, we design and build modern SaaS products that bring delight to all of the stakeholders: decision makers, admins, and end users. As a full stack software engineer, you will work closely with your team and product management to bring that delight through great user experience.&lt;/p&gt;\n&lt;p&gt;Below are some example teams you can join:&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;SQL Analytics Console: &lt;/strong&gt;SQL Analytics is a new product that pro",
-      "postedAt": 1793159724,
+      "description": " Über Odoo DE GmbH  Odoo entwickelt eine Suite von Open-Source-Betriebsanwendungen, die Unternehmensprozesse von CRM und E-Commerce bis hin zu Buchhaltung und Lagerhaltung abdecken. Das Ziel ist es, einer der weltweit führenden Open-Source-Anbieter zu sein und Software bereitzustellen, die gleichzeitig einfach zu bedienen und voll integriert ist.  Deine Aufgaben  Während wir den Großteil unserer Kund:innen mit der Odoo-Standardversion begeistern, entwickeln wir für spezielle Anforderungen maßgeschneiderte Features. Als  Software Engineer  verwandelst du diese Anforderungen in die Realität und begleitest den gesamten Prozess von der technischen Analyse über die Entwicklung bis hin zum Support. Dabei arbeitest du eng mit unseren Inhouse Business Analysten zusammen.   Wofür bist du verantwortlich?      Wirkungsvolle Lösungen entwickeln:  In engem Austausch mit unseren Business Analysten übersetzt du die Wünsche unserer Kund:innen aus unterschiedlichsten Branchen in smarte, maßgeschneiderte Odoo-Features.     Enge Schnittstellen-Kommunikation:  Du arbeitest Hand in Hand mit unseren Berliner Business Analysten und stehst im ständigen Austausch mit unseren internationalen Developer-Teams",
+      "postedAt": 1793350901,
       "score": 12,
       "reasons": [
         "title: software engineer",
         "title: full stack"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-sr-product-manager-revenue-management-1-year-contract-237883",
+      "source": "Arbeitnow",
+      "title": "Remote Sr. Product Manager - Revenue Management - 1 year contract (m/f/d)",
+      "company": "Roompricegenie",
+      "location": "Remote Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-revenue-management-1-year-contract-237883",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-revenue-management-1-year-contract-237883",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "description": "  About RoomPriceGenie  ✨🧞‍♂️  Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex and often resulting in lost revenue. This is where we come in!  We have developed a powerful solution that enables hotels to set the right prices in just seconds. ⏱️ Our state-of-the-art algorithm analyzes both internal hotel data and market trends to recommend pricing strategies that enhance revenue and improve booking rates.   With customers spanning the globe—from the USA and Canada to Iceland, South Africa, China, Slovenia, Italy, and the UK—RoomPriceGenie has made a meaningful impact in the hospitality industry, and our clients love the results. ❤️  Now, we are excited to expand our customer base and spread the word about how we can support hoteliers in optimizing their pricing strategies. We invite you to join us on this journey! We actively encourage applications from candidates with diverse backgrounds to enrich our team and drive innovation.      Your Role   As Senior Product Manager for one of our Revenue Managemen",
+      "postedAt": 1793320815,
+      "score": 11,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "location: Africa"
       ]
     },
     {
@@ -1111,61 +1132,102 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-ai-ml-195477",
+      "id": "arbeitnow-senior-software-ai-engineer-germany-187751",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer - AI/ML",
-      "company": "mitratech",
+      "title": "Senior Software/AI Engineer",
+      "company": "Eggai",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/eggai/senior-software-ai-engineer-germany-187751",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/eggai/senior-software-ai-engineer-germany-187751",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  EggAI  · Full-time · Remote (EU &amp; UK)  The Role  A very strong senior software engineer with deep, hands-on experience building and operating production systems. We hire for engineering strength first: people who write good software, reason about failure, and own what they ship.  You will work in a team of  2 to 6 engineers on a client project . Clients come to us because we work at the forefront of AI in the enterprise; you help implement our AI strategy.   AI experience is required.  Much of our work involves LLM-powered and agentic systems, and while you may not be working directly on LLMs, you will be working on LLM based systems.  What You'll Do    Build and operate the production systems at the centre of the engagement, end to end — you own what you ship, including after it's reached production    Lead architecture discussions for your part of the system, with the support of the wider team    Take ownership: pick up the ambiguous problem, chase down the answer, and say so when something is going wrong    Work directly with the client's engineers and with our project manager / product owner    Work in a \"normal\" team rhythm — daily standups, planning, retrospectives, cod",
+      "postedAt": 1793353213,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-backend-engineer-introducer-tech-london-99893",
+      "source": "Arbeitnow",
+      "title": "Senior Backend Engineer - Introducer Tech",
+      "company": "iwoca",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-backend-engineer-introducer-tech-london-99893",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-backend-engineer-introducer-tech-london-99893",
+      "tags": [
+        "Software Engineering and Tech"
+      ],
+      "description": " Senior Backend Engineer - Introducer Tech - DE  Hybrid in London / Remote within the UK     We’re looking for a Senior Backend Engineer   You'll own the Lending API in Germany, which banks, fintechs, brokers, and comparison sites build on to offer iwoca's finance to their customers. You'll decide how it evolves and help build the features that make partners choose iwoca.     The company   Small businesses move fast. Opportunities often don’t wait, and cash flow pressures can appear overnight. To keep going, and growing, SMEs need finance that’s as flexible and responsive as they are.  That's why we built iwoca. Our smart technology, data science and five-star customer service ensures business owners can act with the speed, confidence and control they need, exactly when it's needed.  We’ve already cleared the way for 100,000 businesses with more than £5 billion in funding. Our passionate team is driven to help even more SMEs succeed, through access to better finance and other services that make running a business easier. Our ultimate mission is to support one million SMEs in their defining moments, creating lasting impact for the communities and economies they drive.     The team  ",
+      "postedAt": 1793331615,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-informationssicherheitsberater-aarau-351039",
+      "source": "Arbeitnow",
+      "title": "Informationssicherheitsberater",
+      "company": "Callista Group AG",
+      "location": "Remote job · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/remote-informationssicherheitsberater-aarau-351039",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/remote-informationssicherheitsberater-aarau-351039",
+      "tags": [
+        "Software Engineering",
+        "Remote"
+      ],
+      "description": " Für die Informationssicherheit eines kantonalen Departements in der öffentlichen Verwaltung suchen wir einen externen Berater für Informationssicherheit. Du unterstützt die informationssicherheitsbeauftragte Person fachlich und sorgst dafür, dass Sicherheitsanforderungen in Projekten und Fachbereichen systematisch geprüft, dokumentiert und umgesetzt werden. Dabei arbeitest Du eng mit rund 60 Applikationsverantwortlichen zusammen und trägst dazu bei, sensible Informationen vor Verlust, Manipulation und unbefugtem Zugriff zu schützen.     Aufgaben       Begleitung und Schulung von Applikationsverantwortlichen bei der Erstellung von Schutzbedarfsanalysen und ISDS-Konzepten (Informationssicherheit und Datenschutz)    Beratung von Applikationsverantwortlichen zur Erreichung eines definierten Informationssicherheits-Levels sowie formelle und inhaltliche Prüfung von ISDS-Konzepten    Prüfung und Einforderung angemessener Informationssicherheits-Klauseln in Verträgen sowie Kontakt mit Lieferanten bei Lieferantenauswahl, Vertragserarbeitung und Pentests    Einforderung und Nachverfolgung von Massnahmen zu identifizierten Schwachstellen aus Pentests und Audits    Überprüfung der Notwendigke",
+      "postedAt": 1793352685,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-software-test-engineer-bern-463546",
+      "source": "Arbeitnow",
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-463546",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-463546",
+      "tags": [
+        "Software Engineering",
+        "Remote"
+      ],
+      "description": " Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.  Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen.     Must-have Anforderungen     Mehrjährige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten    Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray    Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform    Sehr gutes Deutsch und fliessendes Englisch       Nice-to-have Anforderungen     ISTQB Zertifizierung    Kenntnisse in Power Platform oder Azure       Das erwartet dich     Flexibler Homeoffice-Anteil, du entscheidest frei, ob du von zu Hause oder im Büro arbeites",
+      "postedAt": 1793320284,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137597",
+      "source": "RemoteOK",
+      "title": "Front End Developer",
+      "company": "Edconic",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/mitratech/senior-software-engineer-ai-ml-195477",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/mitratech/senior-software-engineer-ai-ml-195477",
+      "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
       "tags": [
-        "Development"
+        "other",
+        "front end"
       ],
-      "description": "&lt;h4&gt;&lt;strong&gt;At Mitratech, we are a team of technocrats focused on building world-class products that simplify operations in the Legal, Risk, Compliance, and HR functions. We are a close-knit, globally dispersed team that thrives in an ecosystem that supports individual excellence and takes pride in its diverse and inclusive work culture centered around great people practices, learning opportunities, and having fun! Our culture is the ideal blend of entrepreneurial spirit and enterprise investment, enabling the chance to move at a rapid pace with some of the most complex, leading-edge technologies available.&lt;/strong&gt;&lt;/h4&gt;\n&lt;h4&gt;&lt;strong&gt;For over 35 years, the experts at Mitratech have been focused on solving complex needs. Today, we serve 20,000 client companies of all sizes globally, representing 30% of the Fortune 500 and over 500,000 users in over 160 countries.&lt;/strong&gt;&lt;/h4&gt;\n&lt;h4&gt;&lt;strong&gt;As we continue to grow, we’re always looking for resourceful, enthusiastic, and fresh perspectives. Join our global team and see what makes Mitratech a truly exceptional place to work!&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
-      "postedAt": 1793267715,
-      "score": 10,
+      "description": "   Job Title:  Front-End Developer  Location:  Fully Remote (US)  Department:  Global Enrollment Marketing and Sales  Reports to:  Director of Web Development  Classification:  Regular, Full-time  FLSA Status:  Exempt  Prepared by:  Global Head of Creative  Prepared Date:  10/1/26  Salary range: Â $85,000â$100,000    About Edconic   Edconic is a leading player in the alternative, experiential education space. We partner with the world's largest and most well-known brands to create and run schools that capture the legacy and value of each brand. Our students get truly unique, once-in-a-lifetime experiences that help shape their future and give them the skills they need to reach their goals.   The Role   We're looking for an experienced Front-End Developer to join our web team, which owns every Edconic digital property â from our school websites to landing pages and email templates. You'll work alongside designers, IT, and MarTech to build solutions that serve real business needs while protecting each brand's unique identity.  You'll be one of two developers on the team, working directly with our lead developer. That means real ownership of your work, a genuine voice in how we bu",
+      "postedAt": "2026-10-28T21:53:15+00:00",
+      "score": 9,
       "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-265169",
-      "source": "Arbeitnow",
-      "title": "AI Benchmark Engineer | Native Language Specialist - French (France) - Remote",
-      "company": "LILT (Production)",
-      "location": "France (Remote)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-265169",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-265169",
-      "tags": [
-        "LiltLancer Community"
-      ],
-      "description": "  About The Opportunity   We are building a rigorous, verifiable evaluation suite of Terminal-Bench tasks designed to test the limits of large language models on multilingual software challenges. Our goal is to measure multilingual robustness across prompt language effects, non-English data processing, and complex locale/encoding edge cases in terminal workflows.  We are seeking experienced native-speaking software engineers to design, build, and validate these benchmarks. You will create high-signal, high-quality tasks that genuinely test a model's ability to handle multilingual environments without relying on English translation crutches.   Note this is a remote, freelance opportunity      What You’ll Deliver      Task Engineering: Evaluating Coding Agents.    Asset Creation: Build realistic task environments using datasets and files in your native language.  Crucially, these assets must remain in the target language to genuinely measure multilingual handling.     Prompting &amp; Translation: finding failure points where AI does not work, in your native language     Implementation &amp; Verification: Support the development of robust solutions (reference implementations) and writ",
-      "postedAt": 1793266831,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-architekt-mit-microservice-architektur-76040-winterthur-126120",
-      "source": "Arbeitnow",
-      "title": "Software Architekt mit Microservice-Architektur (76040)",
-      "company": "IQ Plus AG",
-      "location": "Winterthur · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/software-architekt-mit-microservice-architektur-76040-winterthur-126120",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/software-architekt-mit-microservice-architektur-76040-winterthur-126120",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " Wir suchen für einen unserer Kunden einen erfahrenen Software Architekten mit Microservice-Architektur. Sie sind der Lead Architekt der neuen Steuerlösung und legen den architektonischen Grundstein für neue Features. Dabei behalten Sie kontinuierlich die Kunden- sowie die IT-Anforderungen im Fokus. Sie unterstützen das Produktmanagement beim Erarbeiten der Facharchitektur und koordinieren zusammen mit dem Team technische Verbesserungen im System und deren Umsetzung. Weiter erarbeiten Sie mit den Teams Vorgaben und Qualitätsstandards für den agilen Entwicklungsprozess. Weiter erstellen Sie Grobkonzepte, unterstützen bei der Erstellung von Offerten und pflegen eine enge Zusammenarbeit mit den Kollegen bei der Business Analyse, der Entwicklung und den Kunden. \n \n mehrjährige Erfahrung als Architekt beim Design und Betrieb einer komplexen Microservice-Architektur \n Erfahrung im Bereich DevOps \n Sehr gute Kenntnisse in Java, Kafka, REST, Angular oder anderen Frontendframeworks \n Sehr gute Sprachkenntnisse in Deutsch und Englisch \n Hochschul- oder Fachhochschulabschluss in Informatik oder vergleichbare Ausbildung sowie ausgewiesene Berufserfahrung \n Wohnsitz Schweiz \n  Find  Jobs in Swi",
-      "postedAt": 1793205074,
-      "score": 10,
-      "reasons": [
-        "title: frontend",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1196,31 +1258,18 @@
       ]
     },
     {
-      "id": "remoteok-1136795",
-      "source": "RemoteOK",
-      "title": "Senior Software Engineer Case Execution",
-      "company": "Pivotal Health",
-      "location": "New York City",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
+      "id": "arbeitnow-operations-manager-ai-automation-traineeship-cologne-164599",
+      "source": "Arbeitnow",
+      "title": "Operations Manager & AI Automation - Traineeship (m/w/d)",
+      "company": "Digitale Leute School",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/operations-manager-ai-automation-traineeship-cologne-164599",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/operations-manager-ai-automation-traineeship-cologne-164599",
       "tags": [
-        "dev",
-        "front end",
-        "python",
-        "customer support",
-        "design",
-        "admin",
-        "exec",
-        "senior",
-        "ops",
-        "sys admin",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
+        "Business Operations"
       ],
-      "description": " About Pivotal Health  Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape.  Today, many providers face persistent underpayment from health insurance companies, despite delivering high-quality care. While processes like IDR (Independent Dispute Resolution) were designed to promote fairness, theyâre often administrative-heavy, time-consuming, and difficult to navigate without the right tools.  Pivotal Health combines software, data, and service into a seamlessly integrated, AI-driven platform that simplifies these complex reimbursement workflows. We help providers efficiently dispute underpaid claims, reduce administrative burden, and recover the reimbursement theyâre entitled to; without adding more work to already stretched teams.  Our full-service IDR solution is just the starting point. Weâre building solutions that enable providers to operate with clarity, control, and confidence across the reimbursement journey.   About the Role   We're hiring a Senior Software Engineer to join Pivotal's Case Execution team. This team owns critical parts of the case execution workflow, includ",
-      "postedAt": "2026-08-16T00:00:03+00:00",
+      "description": "  Einleitung:  Brennst du für digitale Produkte, Tech und AI – und arbeitest gern strukturiert im Hintergrund, damit vorne alles läuft? Dann bist du bei der Digitale Leute School richtig.  In unseren Online-Bootcamps bilden wir Talente zu AI Software Engineers, Vibe Codern, Product Managern und Product Designern (UX/UI) aus. Als Assistent für die Bootcamp-Teams hältst du die Operations am Laufen, über  unsere  Bootcamps hinweg. Du sorgst dafür, dass Kursmaterialien sitzen, Abläufe funktionieren und unsere AI-Automationen zuverlässig arbeiten.  Aufgaben   Kursmaterialien & Dokumentation     Du pflegst und aktualisierst Schulungsmaterialien im Online-Classroom – bootcamp-übergreifend    Du sorgst dafür, dass Inhalte aktuell, sauber strukturiert und im Einklang mit unserem Branding sind    Du hältst unsere Dokumentation und Prozess-Wikis (z. B. in Notion) gepflegt und auffindbar     AI-Automationen     Du pflegst und verbesserst unsere AI-Automationen (z. B. in Make und n8n) und hältst sie am Laufen    Du lernst neue Automationen an, testest sie und meldest, wenn etwas hakt     Koordination & Support     Du unterstützt bei On- und Offboarding-Prozessen der Teilnehmenden über alle Boot",
+      "postedAt": 1793352659,
       "score": 9,
       "reasons": [
         "title: software engineer",
@@ -1228,62 +1277,22 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-business-development-representative-london-20742",
+      "id": "arbeitnow-head-of-operations-gpu-fleet-berlin-13546",
       "source": "Arbeitnow",
-      "title": "Senior Business Development Representative",
-      "company": "Acewaves",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/acewaves/senior-business-development-representative-london-20742",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/acewaves/senior-business-development-representative-london-20742",
+      "title": "Head of Operations (GPU Fleet)",
+      "company": "Lyceum",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/lyceum/head-of-operations-gpu-fleet-berlin-13546",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/lyceum/head-of-operations-gpu-fleet-berlin-13546",
       "tags": [
-        "Business Development",
-        "New accounts",
-        "Outbound"
+        "Operations"
       ],
-      "description": "  About Ace Waves    Customer service is being rebuilt from the ground up with the arrival of the latest AI tech. At Ace Waves, we’re building an AI agents platform that handles real customer conversations end-to-end for leading consumer brands.    Started in stealth, Ace Waves is now a fast-growing startup with strong funding (undisclosed publicly for now) and a growing customer base across Europe.    The Mission  . The Go-To-Market (GTM) team is the engine behind our global expansion. Positioned at the intersection of Product, AI Automation, and Sales, we don’t just market a tool - we build repeatable revenue engines and define how Agentic AI transforms enterprise outreach.    The Leadership.   You’ll be joining a team led by   serial entrepreneurs   Antanas Bakšys, Ringaudas Kalinauskas, and Lukas Mikuckis. This is their second major venture together following the   successful acquisition of their previous scale-up, SearchNode, in 2022  .    The Culture.   As an early team member, you will operate in a   founder-led GTM culture  . You’ll work directly with the leadership team, having a seat at the table where strategic decisions are made. This is a high-autonomy, high-impact rol",
-      "postedAt": 1793244808,
+      "description": "  Your mission   Demand for sovereign European compute is not our constraint. Capacity is. As Head of Operations you own Lyceum's GPU fleet end to end: every GPU we own, lease or operate for partners, from the first conversation with a data center to the day a node goes live and every day it runs after that.  The job has two halves. Grow the fleet: turn new financing into live GPUs, fast. Run the fleet: keep everything we operate available, efficient and under contract. Your north star is GPUs under management. You report directly to the CEO and work closely with the CFO, CTO and engineering. Depending on experience, we hire this role at Head or VP level.     What You'll Do     Secure data center capacity across Europe: power, liquid cooling, space, connectivity and colocation leases    Own relationships with OEMs and suppliers for servers, networking and storage, and manage lead times so hardware arrives when we need it    Run every deployment as a programme, from logistics and installation to burn-in, acceptance and handover to engineering    Keep the financing side of deployments clean: schedules, drawdown milestones, asset records, insurance and lender reporting    Run the live",
+      "postedAt": 1793320816,
       "score": 9,
       "reasons": [
         "title: node",
         "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-strategic-partnership-manager-london-31753",
-      "source": "Arbeitnow",
-      "title": "Strategic Partnership Manager",
-      "company": "Andela",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andela/strategic-partnership-manager-london-31753",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/andela/strategic-partnership-manager-london-31753",
-      "tags": [
-        "Solutions"
-      ],
-      "description": "  About Andela:   At Andela, we know brilliance is evenly distributed around the world, but opportunity is not. For over 10 years, Andela has connected its customers with top global, remote technical talent from over 135 countries with the majority residing in emerging markets like Africa and Latin America.  As one of the world’s largest talent marketplaces, Andela gives companies greater flexibility to quickly deploy qualified technologists. With talent highly skilled in advanced technologies to support Application Development, Artificial Intelligence, Cloud &amp; DevOps, Data Engineering, and much more, customers experience 33% faster project delivery. The company’s exclusive AI-powered platform, Andela Talent Cloud ,  is the industry’s only unified platform managing the complete global talent lifecycle and enables customers to fill individual roles or engage fully managed teams up to 66% faster.  Andela is on the precipice of two breakout industry transformations: one in staffing/hiring and the other in software development, both accelerated by generative AI.  Are you an exceptional, hungry leader seasoned in scaling businesses through transformation and growth? Join us and chan",
-      "postedAt": 1793256014,
-      "score": 8,
-      "reasons": [
-        "location: Remote",
-        "location: Africa"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-backend-engineer-mobility-london-45545",
-      "source": "Arbeitnow",
-      "title": "Senior Backend Engineer - Mobility",
-      "company": "M Kopa",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/senior-backend-engineer-mobility-london-45545",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/senior-backend-engineer-mobility-london-45545",
-      "tags": [
-        "Fintech"
-      ],
-      "description": "      Join our expanding Mobility engineering team! We’re actively recruiting a Senior Backend Engineer as  M-KOPA Mobility, our fast-growing e-mobility business, which has a 3x year-on-year growth rate!  Build the event-driven microservices that power clean, affordable transport for riders and entrepreneurs across Africa, with AI tools like Claude Code alongside you. Because Mobility is scaling quickly, an entrepreneurial spirit will serve you well: you’ll enjoy building in a fast-growing business and taking real ownership.          The Impact  – Africa’s transport sector is massive, underserved, and at an inflection point, and the shift to electric is accelerating, led by East Africa. Your code will directly power the technology behind Kenya’s leading e-mobility financing platform. M-KOPA has already served over 7 million customers and unlocked more than $2 billion in credit. In Mobility, we’ve financed over 11,000 electric motorbikes, helping riders save more than $3 a day and cutting air pollution by 90%. It’s your chance to build tech for a business that’s literally transforming lives across an entire continent 🌍          The Opportunity      🚀  Scale challenges: M-KOPA Mobi",
-      "postedAt": 1793245215,
-      "score": 8,
-      "reasons": [
-        "location: Kenya",
-        "location: Africa"
       ]
     }
   ]

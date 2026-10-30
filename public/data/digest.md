@@ -1,4 +1,4 @@
-# Job Radar digest (2026-10-29)
+# Job Radar digest (2026-10-30)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
@@ -24,19 +24,19 @@
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
 12. **Product Engineering Lead** — Tether Operations Limited (25)
    https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
-13. **Forward Deployed Engineer** — True Talent Solutions Partners (24)
-   https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-205943
-14. **Senior Software Engineer LATAM** — Wagmo (22)
+13. **Senior Software Engineer LATAM** — Wagmo (22)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
-15. **Senior Backend Engineer** — DuckDuckGo (22)
+14. **Senior Backend Engineer** — DuckDuckGo (22)
    https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551
-16. **Product Design Lead** — Fuel50 (22)
+15. **Product Design Lead** — Fuel50 (22)
    https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474
-17. **Software Engineer AI Coding Tasks** — Askable (19)
+16. **Software Engineer AI Coding Tasks** — Askable (19)
    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
-18. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
+17. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
-19. **Remote Office Assistant** — Coalition Technologies  (19)
+18. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
+19. **Software Engineer,  Frontend** — Mistral.ai (18)
+   https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-frontend-paris-34099
 20. **Sr Solutions Architect** — ExtraHop (16)
    https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394

@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-10-31T10:44:31.800Z",
+  "scannedAt": "2026-11-01T11:41:28.195Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 43,
+  "count": 41,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -163,31 +163,6 @@
         "skill: git",
         "skill: node",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-java-fullstack-developer-hamburg-295419",
-      "source": "Arbeitnow",
-      "title": "(Senior) Java Fullstack Developer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-295419",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-295419",
-      "tags": [
-        "Customer Cluster Finance"
-      ],
-      "description": " Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance.     DEINE MISSION   Als ( Senior) Java Fullstack Developer (m/w/d)  gestaltest du leistungsfähige Anwendungen, vom Backend mit Java, Java EE und Spring bis zum Frontend mit React und JSF (PrimeFaces). Dabei bringst du deine Expertise in Softwarearchitektur, Datenbank-Design und -Optimierung sowie in die Qualitätssicherung der Software ein.    Deine Aufgaben     Entwicklung und Weiterentwicklung von Backend-Komponenten auf Basis von Java/Java EE und Spring, unter anderem unter Einsatz von Hibernate    Umsetzung moderner Benutzeroberflächen mit React und JSF (PrimeFaces) sowie JavaScript, HTML/CSS und XML    Konzeption und Implementierung von SOAP- und REST-Webservices zur Anbindung fachlicher Systeme    Design, Konzeption und Optimierung von ",
-      "postedAt": 1793428288,
-      "score": 33,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: html",
-        "skill: css",
-        "skill: git"
       ]
     },
     {
@@ -392,73 +367,6 @@
       ]
     },
     {
-      "id": "remotive-2091132",
-      "source": "Remotive",
-      "title": "Senior back-end Engineer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "applyUrl": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "tags": [
-        ".Net",
-        "android",
-        "C",
-        "C#",
-        "C++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "kubernetes",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "UI/UX",
-        "wordpress",
-        "blockchain",
-        "AI/ML",
-        "automation",
-        "project management",
-        "react native",
-        "research",
-        "rust",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "Ethereum",
-        "graphic design",
-        "Typescript ",
-        "hardware",
-        "angular ",
-        "firebase",
-        "data engineering",
-        "Site Reliability",
-        "Symfony",
-        "next.js",
-        "infrastructure",
-        "flutter"
-      ],
-      "description": "  Senior Developer? Work Remote. Get Paid Well. Build What Matters.  \n     \n  Lemon.io  connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. \n We're currently hiring for a  research-driven AI company  on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. \n     \n  Open roles:  Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python &amp; LLM Developer, Senior Back-end Engineer (Python) \n     \n  Why this one's worth a look:  \n You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field. \n Locations: the UK, Singapore, the US, and Canada. \n     \n  Requirements for Senior Back-end Developers:  \n \n 5+ years of software development experience \n 3+ years of experience with Golang and/or Python \n 2+ years of experience with Kubernetes \n 2+ years of e",
-      "postedAt": "2026-09-30T13:15:26",
-      "score": 31,
-      "reasons": [
-        "title: react",
-        "title: javascript",
-        "title: node",
-        "skill: javascript",
-        "skill: react",
-        "skill: node",
-        "location: Remote"
-      ]
-    },
-    {
       "id": "remotive-2091165",
       "source": "Remotive",
       "title": "Full-Stack Developer",
@@ -506,29 +414,6 @@
         "skill: react",
         "skill: git",
         "posted this week"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-java-fullstack-developer-hamburg-371554",
-      "source": "Arbeitnow",
-      "title": "Senior Java Fullstack Developer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-371554",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-371554",
-      "tags": [
-        "Customer Cluster Finance"
-      ],
-      "description": " Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance.     DEINE MISSION   Als  Senior Java Fullstack Developer (m/w/d)  gestaltest du leistungsfähige Anwendungen, vom Backend mit Java und Spring bis zum Frontend mit React. Dabei bringst du deine Expertise in die Entwicklung, automatisierte Bereitstellung und Qualitätssicherung der Software ein.    Deine Aufgaben     Entwicklung und Weiterentwicklung von Backend-Komponenten auf Basis von Java/Java EE und Spring    Umsetzung moderner Benutzeroberflächen mit React und JavaScript/TypeScript    Implementierung von Datenbankzugriffen und Anbindung relationaler Datenbanken wie Oracle oder PostgreSQL    Containerisierung von Anwendungen mit Docker sowie Verwaltung und Bereitstellung mit Kubernetes    Einbindung und Weiterentwicklung von CI/CD-Pipelines",
-      "postedAt": 1793428288,
-      "score": 27,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: git"
       ]
     },
     {
@@ -785,48 +670,6 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo-paris-243176",
-      "source": "Arbeitnow",
-      "title": "Software Engineer Full Stack (.NET / React) – Projet From Scratch – | Practice SE MARGO",
-      "company": "MARGO",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/margo/software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo-paris-243176",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/margo/software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo-paris-243176",
-      "tags": [
-        "Software Engineering"
-      ],
-      "description": " \n  Qui sommes nous ?  \n  Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel.     C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le développement de solutions logicielles à haute performance : architectures distribuées, plateformes cloud, systèmes temps réel et applications critiques à grande échelle.  \n  Aujourd’hui, nous recherchons un    Software Engineer Full Stack    pour participer à la création d'une plateforme innovante au service des enjeux de transition énergétique.&nbsp;  \n  Vos missions  \n \n \n  Concevoir et développer une    plateforme web stratégique    destinée à des utilisateurs métier à forte expertise  \n \n \n  Participer à la    construction d’un produit développé from scratch   , de la conception à la mise en production  \n \n \n  Développer des outils permettant de modéliser, valoriser et piloter des offres complexes  \n \n \n  Concevoir des    interfaces modernes    facilitant la prise de décision et le suivi opérationnel  \n \n \n  Collaborer étroitement avec les équipes métier afin de transformer d",
-      "postedAt": 1793417236,
-      "score": 21,
-      "reasons": [
-        "title: react",
-        "title: software engineer",
-        "title: full stack",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-developpeur-full-stack-java-react-practice-se-margo-paris-124399",
-      "source": "Arbeitnow",
-      "title": "Développeur Full Stack - Java/React |  Practice SE MARGO",
-      "company": "MARGO",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-java-react-practice-se-margo-paris-124399",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-java-react-practice-se-margo-paris-124399",
-      "tags": [
-        "Software Engineering"
-      ],
-      "description": "  Qui sommes nous  ? \n &nbsp; \n Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le développement de solutions logicielles à haute performance : architectures distribuées, plateformes cloud, systèmes temps réel et applications critiques à grande échelle. \n &nbsp; \n Pourquoi rejoindre la practice Software Engineering ? \n &nbsp; \n Vous évoluerez au sein d’une équipe encadrée par Paul Blois, Practice Manager chez MARGO depuis 6 ans. Travailler à ses côtés, c’est bénéficier d'une parfaite connaissance de l’entreprise, être accompagné de près dans votre évolution et contribuer à des projets IT exigeants et à fort impact pour nos clients. \n &nbsp; \n  Vos missions  :&nbsp; \n \n Nous recherchons un  Software Engineer Full Stack expérimenté  pour intervenir sur une plateforme critique au cœur des activités de marché. \n Cette plateforme orchestre un volume très important de traitements et joue un rôle central dans le fonctionnement quotidien des équipes (calculs, pilotage",
-      "postedAt": 1793417236,
-      "score": 21,
-      "reasons": [
-        "title: react",
-        "title: software engineer",
-        "title: full stack",
-        "skill: react"
-      ]
-    },
-    {
       "id": "remoteok-1137538",
       "source": "RemoteOK",
       "title": "Software Engineer AI Coding Tasks",
@@ -888,6 +731,27 @@
         "title: frontend",
         "title: full stack",
         "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-developer-java-react-120706",
+      "source": "Arbeitnow",
+      "title": "Full Stack Developer - Java & React (f/m/d)",
+      "company": "ecosio",
+      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
+      "tags": [
+        "Web App Development"
+      ],
+      "description": "&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Company Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).&lt;br&gt;&lt;br&gt;Our brand slogan is&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Connections That Work&lt;/em&gt; as we believe strong connections are central to successful business relationships - both external and internal. At ecosio, we hire individuals from all backgrounds and are committed to creating an inclusive work environment. We are technology lovers, set the highest standards for our solutions, and put innovative ideas first.&lt;/p&gt;\n&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Job Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;&lt;strong&gt;You&#39;ll connect with the role if you enjoy...&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and maintain features for our web applications&lt;/li&gt;\n&lt;li",
+      "postedAt": 1793472928,
+      "score": 19,
+      "reasons": [
+        "title: react",
+        "title: full stack",
+        "skill: react",
         "location: Remote"
       ]
     },
@@ -964,23 +828,23 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-net-developer-luzern-306079",
+      "id": "arbeitnow-senior-frontend-engineer-react-berlin-436621",
       "source": "Arbeitnow",
-      "title": "Senior .NET Developer",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Luzern, Luzern, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-306079",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-306079",
+      "title": "Senior Frontend Engineer - React",
+      "company": "Researchgate",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-436621",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-436621",
       "tags": [
-        "Software Engineering"
+        "Engineering"
       ],
-      "description": " Wir suchen einen erfahrenen Senior .NET Developer für ein etabliertes Schweizer IT-Dienstleistungsunternehmen im Raum Bern. Du arbeitest in einem motivierten SCRUM-Team an anspruchsvollen Kundenprojekten und übernimmst Verantwortung für Architektur, Codequalität und technische Entscheidungen.     Aufgaben       Entwicklung und Weiterentwicklung von Backend-Services und APIs auf Basis von .NET Core    Mitarbeit an Frontend-Komponenten mit Blazor oder Razor    Design und Umsetzung von Microservices- und Integrationsarchitekturen    Sicherstellung von Codequalität durch automatisierte Tests und Code Reviews    Aktive Mitgestaltung von Architekturentscheidungen im Team               Anforderungen       Mehr als 5 Jahre Erfahrung in der Softwareentwicklung mit .NET    Fundierte Kenntnisse in .NET Core, Entity Framework, Blazor und REST APIs    Erfahrung mit Microsoft Azure und Azure DevOps    Kenntnisse in Microservices und Integrationsarchitekturen    Kenntnisse in Kubernetes, Kafka, xUnit oder API Kana von Vorteil    Erfahrung mit agilen Methoden (Scrum, Kanban oder SAFe)    Sehr gute Deutschkenntnisse       Was dich erwartet       Festanstellung bei einem stabilen, finanzstarken Unt",
-      "postedAt": 1793320284,
+      "description": " \n ResearchGate is the professional network for scientists and researchers. From climate change and emerging diseases to food security and the responsible development of AI, the challenges facing our world are complex. Still, we’re optimistic about the power of millions of scientists working together to tackle them. We provide scientists with the help and support they need by connecting them to the world’s most active scientific community. \n We've built a platform that gives the world's scientists the tools and services they need to connect, collaborate, and advance their research. Over 25 million members from 193 countries use ResearchGate to share, discover, and discuss research. \n   Objective of the role   \n We're looking for an enthusiastic frontend engineer with the skills and ability to turn great ideas into reality. You should have an in-depth understanding of current web technologies and front-end development, and be passionate about creating a great user experience. Your input will help us grow and maintain our React front-end. \n Join a team that encourages you to explore, learn, and go beyond, while seeing your work lead to actionable results. Put your creative problem-so",
+      "postedAt": 1793502466,
       "score": 15,
       "reasons": [
         "title: frontend",
-        "title: software engineer",
-        "skill: rest api"
+        "title: react",
+        "skill: react"
       ]
     },
     {
@@ -999,7 +863,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTguMjE0LjEyMy4xNzc= when applying to show you read the job post completely (#RMTguMjE0LjEyMy4xNzc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTcyLjIxMi4yMDYuMTMw when applying to show you read the job post completely (#RMTcyLjIxMi4yMDYuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -1022,7 +886,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTguMjE0LjEyMy4xNzc= when applying to show you read the job post completely (#RMTguMjE0LjEyMy4xNzc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTcyLjIxMi4yMDYuMTMw when applying to show you read the job post completely (#RMTcyLjIxMi4yMDYuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -1045,12 +909,52 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTguMjE0LjEyMy4xNzc= when applying to show you read the job post completely (#RMTguMjE0LjEyMy4xNzc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTcyLjIxMi4yMDYuMTMw when applying to show you read the job post completely (#RMTcyLjIxMi4yMDYuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
         "title: software engineer",
         "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-channel-field-marketing-manager-benelux-nordics-amsterdam-120517",
+      "source": "Arbeitnow",
+      "title": "Senior Channel Field Marketing Manager, Benelux & Nordics",
+      "company": "Horizon3Ai",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/senior-channel-field-marketing-manager-benelux-nordics-amsterdam-120517",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/senior-channel-field-marketing-manager-benelux-nordics-amsterdam-120517",
+      "tags": [
+        "Marketing"
+      ],
+      "description": "  Get to Know Us   Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs.  We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results.     R",
+      "postedAt": 1793482817,
+      "score": 13,
+      "reasons": [
+        "title: node",
+        "skill: node",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-it-analyst-amsterdam-249901",
+      "source": "Arbeitnow",
+      "title": "IT Analyst",
+      "company": "Horizon3Ai",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/it-analyst-amsterdam-249901",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/it-analyst-amsterdam-249901",
+      "tags": [
+        "Security and IT"
+      ],
+      "description": " Get to Know Us   Horizon3  is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find, fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZero™ platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by IT Ops/SecOps teams, consulting pentesters, and MSSPs and MSPs.     We are a fusion of former U.S. Special Operations cyber operators, startup engineers &amp; operators, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools and false positives, resulting in alert fatigue, blind spots, “checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership",
+      "postedAt": 1793482817,
+      "score": 13,
+      "reasons": [
+        "title: node",
+        "skill: node",
         "location: Remote"
       ]
     },
@@ -1155,22 +1059,22 @@
       ]
     },
     {
-      "id": "arbeitnow-developpeur-full-stack-practice-se-margo-paris-238453",
+      "id": "arbeitnow-front-end-developer-rotterdam-148463",
       "source": "Arbeitnow",
-      "title": "Développeur Full Stack |  Practice SE MARGO",
-      "company": "MARGO",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-practice-se-margo-paris-238453",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-practice-se-margo-paris-238453",
+      "title": "Front-end Developer",
+      "company": "Mendix",
+      "location": "Rotterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mendix/front-end-developer-rotterdam-148463",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/mendix/front-end-developer-rotterdam-148463",
       "tags": [
-        "Software Engineering"
+        "R&D"
       ],
-      "description": "  Qui sommes nous ?       Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le développement de solutions logicielles à haute performance : architectures distribuées, plateformes cloud, systèmes temps réel et applications critiques à grande échelle.       Pourquoi rejoindre la practice Software Engineering ?       Vous évoluerez au sein d’une équipe encadrée par Paul Blois, Practice Manager chez MARGO depuis 5 ans. Travailler à leurs côtés, c’est bénéficier d'une parfaite connaissance de l’entreprise, être accompagné de près dans votre évolution et contribuer à des projets IT exigeants et à fort impact pour nos clients.       Vos missions      -Concevoir, développer et optimiser une nouvelle application web destinée à la déclaration, au suivi et à l’audit des initiés (personnel ayant accès à des informations sensibles) pour un grand compte bancaire  -Participer à la définition et à la mise en place d’une architecture performante et scalable  -Résoudre des problé",
-      "postedAt": 1793417236,
+      "description": " \n \n  Are you a budding software enthusiast with a passion for innovation and a knack for problem-solving? Do you dream of building applications that truly make a difference, collaborating with a diverse team, and shaping the future of software development?  \n  If so, we'd love for you to join us at Mendix (a Siemens Company)!  &nbsp;  \n \n \n  About&nbsp;Mendix: The Leading Low-Code Application Development Platform  &nbsp;  \n \n \n  The software development industry is evolving, moving away from traditional approaches towards AI-assisted platforms that make building applications faster and smarter. Unlike traditional programming languages, where business logic can quickly become buried in layers of code,&nbsp;Mendix&nbsp;provides everyone involved in&nbsp;development&nbsp;a clear, visual understanding of what is&nbsp;being&nbsp;built. This approach enables&nbsp;business people, analysts, web developers, software engineers, and even CEOs to&nbsp;participate&nbsp;significantly, thereby creating better applications faster.  &nbsp;  \n \n \n  The&nbsp;Mendix&nbsp;Platform uses visual modeling to abstract long-form&nbsp;coding out of&nbsp;application development. Our customers use&nbsp;Mendix",
+      "postedAt": 1793502471,
       "score": 12,
       "reasons": [
         "title: software engineer",
-        "title: full stack"
+        "title: web developer"
       ]
     },
     {
@@ -1231,38 +1135,18 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-edge-cloud-berlin-16107",
+      "id": "arbeitnow-staff-software-engineer-robotics-platform-zurich-200464",
       "source": "Arbeitnow",
-      "title": "Software Engineer - Edge & Cloud (m/w/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-16107",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-16107",
+      "title": "Staff Software Engineer - Robotics Platform",
+      "company": "Gravis Robotics",
+      "location": "Zurich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/staff-software-engineer-robotics-platform-zurich-200464",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/staff-software-engineer-robotics-platform-zurich-200464",
       "tags": [
-        "Remote",
-        "Software Development"
+        "Platform"
       ],
-      "description": " 1KOMMA5° \n Bei  1KOMMA5°  verfolgen wir eine Vision:  Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei?    \n Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, Wärmepumpe und E-Mobilität denken wir nicht einzeln, sondern steuern sie als intelligentes, integriertes Gesamtsystem in unserem virtuellen Kraftwerk. Direkt verbunden mit dem Strommarkt – in Echtzeit, vollautomatisiert. So wird Energie dann genutzt, wenn sie erneuerbar verfügbar und besonders günstig ist.    \n Bis 2030 wollen wir 1,5 Millionen Haushalte auf erneuerbare Energien umstellen. Über 3.000 Menschen arbeiten jeden Tag daran, an mehr als 80 Standorten weltweit, von Finnland bis Australien.    \n  Du willst Verantwortung übernehmen und Lösungen bauen, die wirklich zählen? Bewirb dich jetzt und gestalte mit uns die Energiewelt von morgen.  \n Deine Position \n \n Full-Stack-Entwicklung (Edge to Cloud): Du entwickelst die Kernkomponenten für unser Energiemanagementsystem Heartbeat AI Enterprise – sowohl lokal auf unseren IoT-Gateways (Edge) als auch skalierbar in unserer cloudnativen Backend-Architektur \n Gateway-P",
-      "postedAt": 1793392252,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-agentic-search-web-rendering-chromium-244360",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer (Agentic Search) – Web Rendering (Chromium)",
-      "company": "Nebius",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-agentic-search-web-rendering-chromium-244360",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-agentic-search-web-rendering-chromium-244360",
-      "tags": [
-        "Agentic Search"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.&lt;/p&gt;\n&lt;p&gt;Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;amp;D.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The Product&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;In a rapidly evolving world, trust in AI depends on AI agents being grounded in fresh, verified real-world data. Search is the foundation that ma",
-      "postedAt": 1793440517,
+      "description": " \n Gravis Robotics is a high-growth Series A start-up backed by SoftBank, bringing Physical AI to the construction industry, turning heavy construction machines into autonomous robots.&nbsp; \n Gravis began as an ETH Zurich spin-out, and our unique combination of learning-based automation and augmented remote control lets one operator safely conduct a fleet of earthmoving machines in a gamified environment.&nbsp; \n Backed by deep robotics research and now deployed across multiple countries with leading construction and equipment partners, our team is rapidly growing to bring this technology to a trillion-dollar industry.&nbsp; \n The Gravis RACK is a machine-agnostic retrofit kit that adds autonomy to excavators and wheel loaders from 10 to 100+ tonnes: LiDAR and camera sensing, GNSS RTK, networking hardware and rugged edge compute that works offline. Paired with the Slate tablet and our Copilot software, it lets an operator run a machine manually, with AI assistance, or fully autonomously.&nbsp;&nbsp; \n   About the Job   \n At Gravis, we build high tech systems that give machine operators superhuman capabilities. To adapt in real time to changes in the environment the Gravis Rack fus",
+      "postedAt": 1793502475,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1310,6 +1194,44 @@
       ]
     },
     {
+      "id": "remoteok-1137606",
+      "source": "RemoteOK",
+      "title": "AWS Cloud Solutions Architect",
+      "company": "Cloudary SAS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+      "tags": [
+        "architecture",
+        "design",
+        "ansible",
+        "infosec",
+        "docker",
+        "technical",
+        "dev",
+        "exec",
+        "serverless",
+        "cloud",
+        "postgres",
+        "sql",
+        "api",
+        "senior",
+        "ops",
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "description": " As a  Senior AWS Cloud Solutions Architect , you will be the technical lead on our most complex engagements, from assessment and mobilization to large-scale migration and modernization. You will report to an Engineering Manager based in Europe and lead distributed teams of US- and Budapest-based engineers. You will also work closely with colleagues in our AI/ML and Application Development practices.       What you'll be doing:     Lead the technical delivery of complex, high-impact migration and modernization engagements, including AWS Migration Acceleration Program (MAP) assessments and mobilization.    Lead technical discovery and design multi-service, cloud-native AWS architectures that turn business goals into scalable blueprints.    Technically lead teams of 1â4 engineers, and manage the technical roadmap of 2â3 engagements in parallel.    Own technical design decisions within project scope. Resolve technical disagreements and handle scope conversations with clients professionally.    Represent Client in customers sessions, including executive-level conversations and joint sessions with AWS stakeholders.    Spend around 25% of your time on pre-sales: discovery, solution d",
+      "postedAt": "2026-10-30T16:00:06+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
       "id": "remoteok-1137602",
       "source": "RemoteOK",
       "title": "Country Manager Canada",
@@ -1340,70 +1262,60 @@
       ]
     },
     {
-      "id": "remoteok-1137597",
-      "source": "RemoteOK",
-      "title": "Front End Developer",
-      "company": "Edconic",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
-      "tags": [
-        "other",
-        "front end"
-      ],
-      "description": "   Job Title:  Front-End Developer  Location:  Fully Remote (US)  Department:  Global Enrollment Marketing and Sales  Reports to:  Director of Web Development  Classification:  Regular, Full-time  FLSA Status:  Exempt  Prepared by:  Global Head of Creative  Prepared Date:  10/1/26  Salary range: Â $85,000â$100,000    About Edconic   Edconic is a leading player in the alternative, experiential education space. We partner with the world's largest and most well-known brands to create and run schools that capture the legacy and value of each brand. Our students get truly unique, once-in-a-lifetime experiences that help shape their future and give them the skills they need to reach their goals.   The Role   We're looking for an experienced Front-End Developer to join our web team, which owns every Edconic digital property â from our school websites to landing pages and email templates. You'll work alongside designers, IT, and MarTech to build solutions that serve real business needs while protecting each brand's unique identity.  You'll be one of two developers on the team, working directly with our lead developer. That means real ownership of your work, a genuine voice in how we bu",
-      "postedAt": "2026-10-28T21:53:15+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1136798",
-      "source": "RemoteOK",
-      "title": "Member of Technical Staff Engineering",
-      "company": "Physical Superintelligence",
-      "location": "Boston",
-      "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
-      "tags": [
-        "design",
-        "infosec",
-        "technical",
-        "dev",
-        "testing",
-        "cloud",
-        "exec",
-        "engineer",
-        "digital nomad"
-      ],
-      "description": "  Overview   Physical Superintelligence is a startup with roots at Google, NVIDIA, Harvard, Meta, MIT, Oxford, Johns Hopkins, Cambridge, and the Perimeter Institute building AI systems to discover new physics at scale. We are seeking engineers to build platform infrastructure at the intersection of computational science, AI systems, and software engineering.  Our mission is to discover and commercialize transformative physics breakthroughs at scale with artificial superintelligence, safely, verifiably, and for broad public benefit.  The last century's golden age of physics gave us transistors, lasers, and nuclear energy. We believe artificial superintelligence will unlock the next one. We're creating the infrastructure to industrialize scientific discovery and usher in this new era.   We have one product: new physics, at scale.   Use this application if you are an engineer, no open engineering role fits your profile, and you want to be considered anyway. We hire excellent engineers when we find them, whether or not a matching role is open. Tell us how your background and ambitions intersect with our mission, and where you would have the most impact.  Â   Role and Responsibilities  ",
-      "postedAt": "2026-08-16T00:00:23+00:00",
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-devops-h-f-paris-85121",
+      "id": "arbeitnow-senior-software-engineer-ai-platform-fullstack-paris-la-defense-315136",
       "source": "Arbeitnow",
-      "title": "DevOps - H/F",
-      "company": "MARGO",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/margo/devops-h-f-paris-85121",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/margo/devops-h-f-paris-85121",
+      "title": "Senior Software Engineer - AI Platform (Fullstack)",
+      "company": "DiliTrust",
+      "location": "Paris - La Défense",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/senior-software-engineer-ai-platform-fullstack-paris-la-defense-315136",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/dilitrust/senior-software-engineer-ai-platform-fullstack-paris-la-defense-315136",
       "tags": [
-        "Cloud Transformation"
+        "Engineering"
       ],
-      "description": "  À PROPOS DE MARGO       MARGO est une société de conseil spécialisée dans la Data, l'Intelligence Artificielle et l'Ingénierie Logicielle. Réunissant les meilleurs experts, MARGO se positionne uniquement sur des missions techniques à haute complexité.En 2005, lors de la création de MARGO, nous avons fait le choix d’un positionnement unique afin de monter sur les projets les plus stimulants du marché et recruter les meilleurs talents.       Aujourd'hui nous réunissons plus de 350 collaborateurs répartis entre Paris, Londres et Varsovie et couvrons 6 domaines d'expertise : Artificial Intelligence, Software Engineering, Data &amp; Architecture, Cloud Transformation, Capital Market Technologies &amp; Insurance Digital Transformation.       POURQUOI NOUS REJOINDRE ?       1. Missions de haute complexité   : Nos collaborateurs ont accès aux meilleures missions du marché, leur permettant de travailler sur des projets stimulants et à forte valeur ajoutée, leur permettant de se dépasser au quotidien.     2. Accompagnement personnalisé “Consultant First”   : Le pôle Excellence est dédié exclusivement à l'accompagnement de nos consultants, et à leur montée en compétence. Un suivi sur mesure",
-      "postedAt": 1793417236,
+      "description": " \n \n  Ready to be part of the Legal Tech revolution?  &nbsp;  \n \n \n   Vision:  &nbsp;   \n \n \n  As a leading software-as-a-service (SaaS) provider,&nbsp;DiliTrust&nbsp;is a global company dedicated to offering an integrated suite of legal and governance products. Our vision is to digitize legal departments worldwide. With an annual growth rate of over 40% since 2020, our ambition is to become the world's leading Legal Tech company, aiming for a valuation exceeding $1 billion by 2026.  &nbsp;  \n \n \n   Our Impact:  &nbsp;   \n \n \n  From generating General Meeting reports to&nbsp;leveraging&nbsp;AI-assisted contract lifecycle management, our teams in our 8 offices across France, the US, Mexico, MEA, Germany, Spain, Italy, and Canada are the driving force behind our global success. We proudly support 2,400 customers in 64 countries, with 80% of our clientele&nbsp;comprising&nbsp;listed companies&nbsp;in major markets such as Europe, North America, and the Middle East.  &nbsp;  \n \n \n   Our Recognition:   &nbsp;  \n \n \n  DiliTrust&nbsp;has been at the forefront of Legal Tech innovation, being the first Legal Tech with AI features since 2022. The company is renowned for providing a positive ",
+      "postedAt": 1793502470,
       "score": 9,
       "reasons": [
         "title: software engineer",
         "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-lead-mobile-engineer-react-native-paris-la-defense-226541",
+      "source": "Arbeitnow",
+      "title": "Lead Mobile Engineer - React Native",
+      "company": "DiliTrust",
+      "location": "Paris - La Défense",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/lead-mobile-engineer-react-native-paris-la-defense-226541",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/dilitrust/lead-mobile-engineer-react-native-paris-la-defense-226541",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  Ready to be part of the Legal Tech revolution?  \n &nbsp; \n As the leading SaaS publisher in Europe,  DiliTrust  is transforming legal departments worldwide with cutting-edge technology \n &nbsp; \n  Our Impact:  From General Meeting reports to AI-assisted contract life management, our teams across France, Spain, Italy, Canada, Mexico, and MEA are the driving force behind our global success \n We proudly support 2,300 customers in 50 countries, with 80% of them being CAC 40 companies \n  Our Ambition:  To become the first French legal tech Unicorn, reaching a valuation of over €1 billion \n  Our Recognition:&nbsp; DiliTrust is recognized for offering a positive and stimulating work environment \n We are proud recipients of the “Happy at Work” and “Tech at Work” labels since 2019&nbsp; \n As our Lead Mobile Engineer, \n you will spearhead the rebuild of our native mobile application using React Native and AI-powered development tools. This is a key strategic role: you will lay the foundations (architecture, CI/CD pipelines, tooling, and best practices) and then scale the mobile scope well beyond what we deliver today. \n Missions: \n Lead the full rebuild of our existing native mobile applic",
+      "postedAt": 1793502470,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-director-of-cloud-infrastructure-security-paris-269215",
+      "source": "Arbeitnow",
+      "title": "Director of Cloud Infrastructure & Security",
+      "company": "Vestiairecollective",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/director-of-cloud-infrastructure-security-paris-269215",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/director-of-cloud-infrastructure-security-paris-269215",
+      "tags": [
+        "Engineering"
+      ],
+      "description": " Vestiaire Collective is the leading global platform for desirable pre-loved fashion and a pioneer in transforming how people consume fashion. \n &nbsp; \n Our mission is simple: make circular fashion the norm, not the exception. Through technology, expertise, and a highly engaged global community, we enable millions of people to buy and sell fashion in a more sustainable way. \n &nbsp; \n Founded in Paris in 2009, Vestiaire Collective is now a globally scaled marketplace with offices in Paris, London, Berlin, New York, Singapore, and Ho Chi Minh City, and logistics hubs across Europe, Asia, and the US. \n Today, we are a team of around&nbsp;600 people from over 50 nationalities, united by a shared ambition: to drive meaningful change in the fashion industry. \n &nbsp; \n Our values, Activism, Transparency, Dedication, Greatness, and Collective,&nbsp;shape how we build, collaborate, and grow every day.      About the Role:  \n  Vestiaire Collective runs a global marketplace on AWS and GCP — Kubernetes, Kafka, Terraform, Vault, Cloudflare, Datadog, a large PHP application under active modernisation, a series of microservices in different tech stacks (Goland, PHP, Node) and a fast-growing su",
+      "postedAt": 1793502467,
+      "score": 9,
+      "reasons": [
+        "title: node",
+        "skill: node"
       ]
     },
     {

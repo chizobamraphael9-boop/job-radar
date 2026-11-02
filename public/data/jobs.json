@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-01T11:41:28.195Z",
+  "scannedAt": "2026-11-02T13:08:48.774Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 41,
+  "count": 44,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -405,15 +405,14 @@
       ],
       "description": "  We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI &amp; Design Lead to turn product requirements into robust, secure, and well-documented applications, as well as maintain existing ones.  \n  What you’ll do  \n \n \n  Build and maintain full-stack web applications using   React   and   Next.js  .  \n \n \n  Architect reliable, performant backends and APIs; familiarity with   AWS   (Lambda, ECS/Fargate, API Gateway, RDS/DynamoDB, S3, CloudFront, Cognito, etc.) is important. AWS Bedrock and AWS CloudTrail experience is a plus.  \n \n \n  Implement secure authentication, authorization, and role-based access for clinician, admin, and other user workflows.  \n \n \n  Design data models and flows with privacy, auditability, and regulatory considerations in mind.  \n \n \n  Integrate with internal and external APIs and third-party services used in our B2B stack.  \n \n \n  Experience with LLM/AI features in production (guardrails, logging, security considerations).  \n \n \n  Implement loggin",
       "postedAt": "2026-10-29T18:22:41",
-      "score": 29,
+      "score": 27,
       "reasons": [
         "title: frontend",
         "title: react",
         "title: javascript",
         "skill: javascript",
         "skill: react",
-        "skill: git",
-        "posted this week"
+        "skill: git"
       ]
     },
     {
@@ -735,27 +734,6 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-full-stack-developer-java-react-120706",
-      "source": "Arbeitnow",
-      "title": "Full Stack Developer - Java & React (f/m/d)",
-      "company": "ecosio",
-      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
-      "tags": [
-        "Web App Development"
-      ],
-      "description": "&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Company Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).&lt;br&gt;&lt;br&gt;Our brand slogan is&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Connections That Work&lt;/em&gt; as we believe strong connections are central to successful business relationships - both external and internal. At ecosio, we hire individuals from all backgrounds and are committed to creating an inclusive work environment. We are technology lovers, set the highest standards for our solutions, and put innovative ideas first.&lt;/p&gt;\n&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Job Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;&lt;strong&gt;You&#39;ll connect with the role if you enjoy...&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and maintain features for our web applications&lt;/li&gt;\n&lt;li",
-      "postedAt": 1793472928,
-      "score": 19,
-      "reasons": [
-        "title: react",
-        "title: full stack",
-        "skill: react",
-        "location: Remote"
-      ]
-    },
-    {
       "id": "remotive-1680495",
       "source": "Remotive",
       "title": "Remote Office Assistant",
@@ -796,6 +774,26 @@
       ]
     },
     {
+      "id": "arbeitnow-senior-full-stack-software-engineer-clickpipes-platform-united-kingdom-452981",
+      "source": "Arbeitnow",
+      "title": "Senior Full Stack Software Engineer - ClickPipes Platform",
+      "company": "Senior Software Engineer (Typescript / Backend) - AI/ML",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/senior-full-stack-software-engineer-clickpipes-platform-united-kingdom-452981",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/senior-full-stack-software-engineer-clickpipes-platform-united-kingdom-452981",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "  About the Team   The  ClickPipes Platform  plays a critical role in driving the growth of our company and ensuring the success of our clients by seamlessly onboarding and integrating data from diverse data sources into ClickHouse. Working at a petabyte scale and in high-velocity environments, this role offers an exceptional opportunity to solve challenging technical problems, operate with significant autonomy, and make a measurable impact.  Working on ClickPipes offers the opportunity to operate with a high degree of ownership and autonomy, tackle ambiguous problems, and deliver features that are used by some of the most data-intensive companies in the world.  You can find some of the teams recent work highlighted in our blog:      Flexible Scaling and Monitoring in ClickPipes        MySQL CDC Connector for ClickPipes        The Evolution of ClickPipes      As a Senior Full-Stack Engineer, you’ll design and build complex, data-heavy user interfaces and own customer-facing workflows end-to-end. While this role has a strong frontend focus, engineers are expected to work comfortably across the whole stack, collaborating on backend services, APIs, and system integrations as needed. W",
+      "postedAt": 1793612415,
+      "score": 18,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer",
+        "title: full stack"
+      ]
+    },
+    {
       "id": "remoteok-1137394",
       "source": "RemoteOK",
       "title": "Sr Solutions Architect",
@@ -828,26 +826,6 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-frontend-engineer-react-berlin-436621",
-      "source": "Arbeitnow",
-      "title": "Senior Frontend Engineer - React",
-      "company": "Researchgate",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-436621",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-436621",
-      "tags": [
-        "Engineering"
-      ],
-      "description": " \n ResearchGate is the professional network for scientists and researchers. From climate change and emerging diseases to food security and the responsible development of AI, the challenges facing our world are complex. Still, we’re optimistic about the power of millions of scientists working together to tackle them. We provide scientists with the help and support they need by connecting them to the world’s most active scientific community. \n We've built a platform that gives the world's scientists the tools and services they need to connect, collaborate, and advance their research. Over 25 million members from 193 countries use ResearchGate to share, discover, and discuss research. \n   Objective of the role   \n We're looking for an enthusiastic frontend engineer with the skills and ability to turn great ideas into reality. You should have an in-depth understanding of current web technologies and front-end development, and be passionate about creating a great user experience. Your input will help us grow and maintain our React front-end. \n Join a team that encourages you to explore, learn, and go beyond, while seeing your work lead to actionable results. Put your creative problem-so",
-      "postedAt": 1793502466,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
       "id": "remoteok-1137545",
       "source": "RemoteOK",
       "title": "Senior Software Engineer",
@@ -863,7 +841,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTcyLjIxMi4yMDYuMTMw when applying to show you read the job post completely (#RMTcyLjIxMi4yMDYuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNC4yMzYuMTU5LjIzMg== when applying to show you read the job post completely (#RNC4yMzYuMTU5LjIzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -886,7 +864,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTcyLjIxMi4yMDYuMTMw when applying to show you read the job post completely (#RMTcyLjIxMi4yMDYuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNC4yMzYuMTU5LjIzMg== when applying to show you read the job post completely (#RNC4yMzYuMTU5LjIzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -909,11 +887,32 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTcyLjIxMi4yMDYuMTMw when applying to show you read the job post completely (#RMTcyLjIxMi4yMDYuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNC4yMzYuMTU5LjIzMg== when applying to show you read the job post completely (#RNC4yMzYuMTU5LjIzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
         "title: software engineer",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-business-analyst-gn-berlin-47088",
+      "source": "Arbeitnow",
+      "title": "Business Analyst (gn)",
+      "company": "New Monday GmbH",
+      "location": "Berlin · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/business-analyst-gn-berlin-47088",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/business-analyst-gn-berlin-47088",
+      "tags": [
+        "Remote",
+        "Business Analyst"
+      ],
+      "description": "  Festanstellung bei New Monday · Vollzeit · überwiegend remote innerhalb Deutschlands · gelegentliche Teamtreffen in Essen · Start zum nächstmöglichen Zeitpunkt   Du verstehst komplexe Prozesse, bringst Struktur in Anforderungen und entwickelst daraus konkrete Lösungen? Bei New Monday suchen wir zwei Business Analyst für ein Kundenprojekt, das eine zentrale Herausforderung der Energiewende adressiert: den Netzausbau und die Integration von Erzeugungsanlagen.  Im Projekt entsteht ein Netzanschlusssystem mit drei miteinander verbundenen Anwendungen: einem Kundenfrontend, einem Installateursfrontend und einer Sachbearbeiterlösung. Gemeinsam mit den beteiligten Fachbereichen und Entwicklungsteams gestaltest du die fachlichen Grundlagen dafür, die durchgängigen Prozesse effizienter zu machen.  Über New Monday  Wir sind New Monday und begleiten Unternehmen bei der Entwicklung digitaler Produkte – von der ersten Idee über die Analyse und Konzeption bis hin zu Design und technischer Umsetzung. Dafür bringen wir Kompetenzen aus Business Analyse, UX/UI Design und Softwareentwicklung zusammen.  Als Teil von New Monday bringst du deine Expertise direkt in die Projekte unserer Kunden ein. Dort",
+      "postedAt": 1793611845,
+      "score": 13,
+      "reasons": [
+        "title: frontend",
         "skill: git",
         "location: Remote"
       ]
@@ -951,26 +950,6 @@
       ],
       "description": " Get to Know Us   Horizon3  is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find, fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZero™ platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by IT Ops/SecOps teams, consulting pentesters, and MSSPs and MSPs.     We are a fusion of former U.S. Special Operations cyber operators, startup engineers &amp; operators, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools and false positives, resulting in alert fatigue, blind spots, “checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership",
       "postedAt": 1793482817,
-      "score": 13,
-      "reasons": [
-        "title: node",
-        "skill: node",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-commercial-account-executive-uk-amsterdam-188057",
-      "source": "Arbeitnow",
-      "title": "Commercial Account Executive, UK",
-      "company": "Horizon3Ai",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/commercial-account-executive-uk-amsterdam-188057",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/commercial-account-executive-uk-amsterdam-188057",
-      "tags": [
-        "Sales"
-      ],
-      "description": "  Get to Know Us   Horizon3.ai is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organisations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product,  the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organisations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs.  We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results.  ",
-      "postedAt": 1793342417,
       "score": 13,
       "reasons": [
         "title: node",
@@ -1078,6 +1057,46 @@
       ]
     },
     {
+      "id": "arbeitnow-remote-sr-product-manager-revenue-management-1-year-contract-186132",
+      "source": "Arbeitnow",
+      "title": "Remote Sr. Product Manager - Revenue Management - 1 year contract (m/f/d)",
+      "company": "Roompricegenie",
+      "location": "Remote Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-revenue-management-1-year-contract-186132",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-revenue-management-1-year-contract-186132",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "description": "  About RoomPriceGenie  ✨🧞‍♂️  Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex and often resulting in lost revenue. This is where we come in!  We have developed a powerful solution that enables hotels to set the right prices in just seconds. ⏱️ Our state-of-the-art algorithm analyzes both internal hotel data and market trends to recommend pricing strategies that enhance revenue and improve booking rates.   With customers spanning the globe—from the USA and Canada to Iceland, South Africa, China, Slovenia, Italy, and the UK—RoomPriceGenie has made a meaningful impact in the hospitality industry, and our clients love the results. ❤️  Now, we are excited to expand our customer base and spread the word about how we can support hoteliers in optimizing their pricing strategies. We invite you to join us on this journey! We actively encourage applications from candidates with diverse backgrounds to enrich our team and drive innovation.      Your Role   As Senior Product Manager for one of our Revenue Managemen",
+      "postedAt": 1793601615,
+      "score": 11,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "location: Africa"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-sales-development-representative-united-kingdom-368566",
+      "source": "Arbeitnow",
+      "title": "Remote Sales Development Representative United Kingdom (m/f/d)",
+      "company": "RoomPriceGenie",
+      "location": "Remote United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roompricegenie/remote-sales-development-representative-united-kingdom-368566",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/roompricegenie/remote-sales-development-representative-united-kingdom-368566",
+      "tags": [
+        "Sales Development"
+      ],
+      "description": "  About RoomPriceGenie  ✨🧞‍♂️  Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex and often resulting in lost revenue. This is where we come in!  We have developed a powerful solution that enables hotels to set the right prices in just seconds. ⏱️ Our state-of-the-art algorithm analyzes both internal hotel data and market trends to recommend pricing strategies that enhance revenue and improve booking rates.   With customers spanning the globe—from the USA and Canada to Iceland, South Africa, China, Slovenia, Italy, and the UK—RoomPriceGenie has made a meaningful impact in the hospitality industry, and our clients love the results. ❤️  Now, we are excited to expand our customer base and spread the word about how we can support hoteliers in optimizing their pricing strategies. We invite you to join us on this journey! We actively encourage applications from candidates with diverse backgrounds to enrich our team and drive innovation.      Your Role   Are you passionate about hospitality and eager to make a r",
+      "postedAt": 1793601615,
+      "score": 11,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "location: Africa"
+      ]
+    },
+    {
       "id": "remoteok-1137557",
       "source": "RemoteOK",
       "title": "Senior DevOps Engineer",
@@ -1135,6 +1154,45 @@
       ]
     },
     {
+      "id": "arbeitnow-senior-software-engineer-ml-inference-numerics-munich-95692",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer — ML Inference & Numerics",
+      "company": "tensordyne",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/senior-software-engineer-ml-inference-numerics-munich-95692",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/tensordyne/senior-software-engineer-ml-inference-numerics-munich-95692",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "&lt;h3&gt;About Tensordyne&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;AI is transforming our world. It can perform cognitive functions that previously only humans could do, such as perceiving interactions across different modalities and environments - with the ability to quickly learn and then solve complex problems. Tensordyne is an AI system solution company that builds very high-performance, low-power generative AI inference systems. Our mission, through the creation of custom silicon, hardware and software, is to enable multimodal Generative AI inference acceleration at scale, with safe, sustainable, high-performance systems for our hyperscaler and neocloud data center customers. We are at the leading edge of advancing the latest research and product improvements for generative Al inference solutions that will make Al even more advantageous for compelling new generative AI applications.Tensordyne is a well funded, fast-paced startup company with headquarters in both Sunnyvale, CA, and Munich, Germany. We also have many talented team members working remotely across North America and Europe. We take care of our people and their families with comprehensive benefits, competitive compensation, f",
+      "postedAt": 1793591721,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-field-marketing-manager-10200",
+      "source": "Arbeitnow",
+      "title": "Senior Field Marketing Manager",
+      "company": "Pingidentity",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/senior-field-marketing-manager-10200",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/senior-field-marketing-manager-10200",
+      "tags": [
+        "7107 EMEA Demand Gen"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Ping Identity:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it&#39;s not just something we provide our customers. It&#39;s something that inspires our company. People don&#39;t come here to join a culture that&#39;s built on digital freedom. They come to cultivate it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&amp;nbsp;&lt;a href=&quot;https://www.pingidentity.com/en/company/championing-every-identity.html&quot;&gt;We champion every identity.&lt;/a&gt; One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re headquartered in Denver, Colorado and we ",
+      "postedAt": 1793570125,
+      "score": 10,
+      "reasons": [
+        "skill: html",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
       "id": "arbeitnow-staff-software-engineer-robotics-platform-zurich-200464",
       "source": "Arbeitnow",
       "title": "Staff Software Engineer - Robotics Platform",
@@ -1154,22 +1212,22 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-informationssicherheitsberater-aarau-351039",
+      "id": "arbeitnow-remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
       "source": "Arbeitnow",
-      "title": "Informationssicherheitsberater",
-      "company": "Callista Group AG",
+      "title": "Senior Full Stack Developer - Deepdesk",
+      "company": "AnywhereNow",
       "location": "Remote job · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/remote-informationssicherheitsberater-aarau-351039",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/remote-informationssicherheitsberater-aarau-351039",
+      "url": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
       "tags": [
-        "Software Engineering",
+        "Deepdesk",
         "Remote"
       ],
-      "description": " Für die Informationssicherheit eines kantonalen Departements in der öffentlichen Verwaltung suchen wir einen externen Berater für Informationssicherheit. Du unterstützt die informationssicherheitsbeauftragte Person fachlich und sorgst dafür, dass Sicherheitsanforderungen in Projekten und Fachbereichen systematisch geprüft, dokumentiert und umgesetzt werden. Dabei arbeitest Du eng mit rund 60 Applikationsverantwortlichen zusammen und trägst dazu bei, sensible Informationen vor Verlust, Manipulation und unbefugtem Zugriff zu schützen.     Aufgaben       Begleitung und Schulung von Applikationsverantwortlichen bei der Erstellung von Schutzbedarfsanalysen und ISDS-Konzepten (Informationssicherheit und Datenschutz)    Beratung von Applikationsverantwortlichen zur Erreichung eines definierten Informationssicherheits-Levels sowie formelle und inhaltliche Prüfung von ISDS-Konzepten    Prüfung und Einforderung angemessener Informationssicherheits-Klauseln in Verträgen sowie Kontakt mit Lieferanten bei Lieferantenauswahl, Vertragserarbeitung und Pentests    Einforderung und Nachverfolgung von Massnahmen zu identifizierten Schwachstellen aus Pentests und Audits    Überprüfung der Notwendigke",
-      "postedAt": 1793352685,
+      "description": "   About Deepdesk       Deepdesk, part of AnywhereNow, powers AI Assistants and Virtual Agents for enterprise contact centres, helping brands such as Achmea, Vodafone and DHL boost productivity today while scaling for the future of customer experience. As part of AnywhereNow, a global leader in customer experience technology with 220 colleagues worldwide, we combine the agility of a scale-up with the strength of an established enterprise provider.       The Opportunity     We are looking for an experienced developer to join our small engineering team. The centre of the role is backend development in Python or Go and cloud infrastructure, with some front-end work alongside.      At Deepdesk, we are building “Augmented Intelligence” for the enterprise. Think Gmail Smart Compose for contact centres. We use machine learning to provide agents with real-time recommendations and autocomplete suggestions, supporting them in efficiently assisting customers. Alongside recommendations, we offer fully virtual assistants that can take care of repetitive tasks.      You will work on the services behind this: the Python and Go services and APIs, the data stores and the cloud infrastructure that r",
+      "postedAt": 1793547104,
       "score": 10,
       "reasons": [
-        "title: software engineer",
+        "title: full stack",
         "location: Remote"
       ]
     },
@@ -1191,6 +1249,62 @@
         "skill: html",
         "skill: git",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137611",
+      "source": "RemoteOK",
+      "title": "Virtual Destination Wedding Coordinator",
+      "company": "Destination Careers",
+      "location": "Colorado",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611",
+      "tags": [
+        "design",
+        "coordinator",
+        "customer support",
+        "travel",
+        "legal",
+        "digital nomad"
+      ],
+      "description": "  Job Title: Virtual Destination Wedding Coordinator  \n  Location:  Remote \n &nbsp; \n  About Us:  \n We take the stress out of destination wedding planning by handling every detailâfrom venue selection to travel arrangements. Our team creates unforgettable, romantic experiences for couples who want to celebrate their love in extraordinary locations. \n &nbsp; \n  Job Overview:  \n We are hiring a  Destination Wedding Coordinator  to help plan and execute stunning weddings at luxury resorts, beaches, and unique international venues. This role involves collaborating with couples, vendors, and travel partners to ensure a seamless wedding experience. \\n      Responsibilities:  \n Work closely with couples to design and coordinate their dream wedding. \n Secure  wedding venues, decor, catering, and entertainment . \n Oversee event logistics, including scheduling and vendor communication. \n Manage guest accommodations, transportation, and group bookings. \n Ensure all legal requirements for destination weddings are met. \n Provide on-site or virtual support to clients leading up to their big day. \n Stay informed on wedding trends, venues, and industry best practices. \n     Qualifications:  \n Ex",
+      "postedAt": "2026-11-01T08:00:12+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137609",
+      "source": "RemoteOK",
+      "title": "Partner Operations Manager",
+      "company": "Mecka",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "tags": [
+        "exec",
+        "design",
+        "education",
+        "customer support",
+        "marketing",
+        "quality assurance",
+        "finance",
+        "robotics",
+        "ops",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "description": " About Mecka AI  Mecka AI is building the data infrastructure layer for robotics and embodied AI. We design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and validate humanoid and embodied AI systems. We work closely with frontier robotics teams to bridge real-world data, simulation, learning-based systems, and deployed hardware.   About the Role   Signing a capture partner is the start of the work. Getting that partner to steady, high-quality output takes onboarding, training, hardware, support, and reporting, and every step has to run on time.  As Partnership Operations Manager, you will own that path for our regional partnership leads so they can focus on finding and signing partners. This is a new function, so you will set the standards and tooling yourself and make them repeatable across regions.   What You Will Do      Deal support:  Prepare proposals and agreements from approved templates and keep a clean record of every partnerâs rates, volumes, and term dates.     Onboarding:  Set partners up on the platform, issue devices and accounts, and train their teams on capture st",
+      "postedAt": "2026-11-01T00:00:08+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1232,90 +1346,41 @@
       ]
     },
     {
-      "id": "remoteok-1137602",
-      "source": "RemoteOK",
-      "title": "Country Manager Canada",
-      "company": "Polaroid",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
-      "tags": [
-        "exec",
-        "education",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "finance",
-        "math",
-        "senior",
-        "ops",
-        "legal",
-        "sales"
-      ],
-      "description": " Hello. Weâre Polaroid. An iconic brand, built by passionate people   Polaroid was founded in 1937 by one of the 20th centuryâs most influential innovators, Edwin Land, whose philosophy was:  âDonât undertake a project unless it is manifestly important and nearly impossible.â   In 2008, Polaroid produced its last pack of instant film. But a group of passionate fans refused to let instant photography disappear. What started as The Impossible Project grew into a mission to preserve and reinvent analogue photography for a new generation. More than a decade later, that same startup acquired the Polaroid brand and continues to shape its future today.   At Polaroid, we create products and experiences that spark emotion, fuel creativity, and bring people closer together. At the intersection of art and technology, we believe in the power of analogue moments and genuine human connection in an increasingly digital world.     The Role   As the Country Manager, Canada - you will play a pivotal role in managing and expanding our footprint with National Retailers and Independents alike. We are looking for an experienced account manager that has excellent business and execution skills t",
-      "postedAt": "2026-10-30T00:00:10+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-software-engineer-ai-platform-fullstack-paris-la-defense-315136",
+      "id": "arbeitnow-analog-layout-engineer-lead-reading-13020",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer - AI Platform (Fullstack)",
-      "company": "DiliTrust",
-      "location": "Paris - La Défense",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/senior-software-engineer-ai-platform-fullstack-paris-la-defense-315136",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/dilitrust/senior-software-engineer-ai-platform-fullstack-paris-la-defense-315136",
+      "title": "Analog Layout Engineer (Lead)",
+      "company": "Kandou AI",
+      "location": "Reading",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kandou-ai/analog-layout-engineer-lead-reading-13020",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/kandou-ai/analog-layout-engineer-lead-reading-13020",
       "tags": [
         "Engineering"
       ],
-      "description": " \n \n  Ready to be part of the Legal Tech revolution?  &nbsp;  \n \n \n   Vision:  &nbsp;   \n \n \n  As a leading software-as-a-service (SaaS) provider,&nbsp;DiliTrust&nbsp;is a global company dedicated to offering an integrated suite of legal and governance products. Our vision is to digitize legal departments worldwide. With an annual growth rate of over 40% since 2020, our ambition is to become the world's leading Legal Tech company, aiming for a valuation exceeding $1 billion by 2026.  &nbsp;  \n \n \n   Our Impact:  &nbsp;   \n \n \n  From generating General Meeting reports to&nbsp;leveraging&nbsp;AI-assisted contract lifecycle management, our teams in our 8 offices across France, the US, Mexico, MEA, Germany, Spain, Italy, and Canada are the driving force behind our global success. We proudly support 2,400 customers in 64 countries, with 80% of our clientele&nbsp;comprising&nbsp;listed companies&nbsp;in major markets such as Europe, North America, and the Middle East.  &nbsp;  \n \n \n   Our Recognition:   &nbsp;  \n \n \n  DiliTrust&nbsp;has been at the forefront of Legal Tech innovation, being the first Legal Tech with AI features since 2022. The company is renowned for providing a positive ",
-      "postedAt": 1793502470,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-lead-mobile-engineer-react-native-paris-la-defense-226541",
-      "source": "Arbeitnow",
-      "title": "Lead Mobile Engineer - React Native",
-      "company": "DiliTrust",
-      "location": "Paris - La Défense",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/lead-mobile-engineer-react-native-paris-la-defense-226541",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/dilitrust/lead-mobile-engineer-react-native-paris-la-defense-226541",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "  Ready to be part of the Legal Tech revolution?  \n &nbsp; \n As the leading SaaS publisher in Europe,  DiliTrust  is transforming legal departments worldwide with cutting-edge technology \n &nbsp; \n  Our Impact:  From General Meeting reports to AI-assisted contract life management, our teams across France, Spain, Italy, Canada, Mexico, and MEA are the driving force behind our global success \n We proudly support 2,300 customers in 50 countries, with 80% of them being CAC 40 companies \n  Our Ambition:  To become the first French legal tech Unicorn, reaching a valuation of over €1 billion \n  Our Recognition:&nbsp; DiliTrust is recognized for offering a positive and stimulating work environment \n We are proud recipients of the “Happy at Work” and “Tech at Work” labels since 2019&nbsp; \n As our Lead Mobile Engineer, \n you will spearhead the rebuild of our native mobile application using React Native and AI-powered development tools. This is a key strategic role: you will lay the foundations (architecture, CI/CD pipelines, tooling, and best practices) and then scale the mobile scope well beyond what we deliver today. \n Missions: \n Lead the full rebuild of our existing native mobile applic",
-      "postedAt": 1793502470,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-director-of-cloud-infrastructure-security-paris-269215",
-      "source": "Arbeitnow",
-      "title": "Director of Cloud Infrastructure & Security",
-      "company": "Vestiairecollective",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/director-of-cloud-infrastructure-security-paris-269215",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/director-of-cloud-infrastructure-security-paris-269215",
-      "tags": [
-        "Engineering"
-      ],
-      "description": " Vestiaire Collective is the leading global platform for desirable pre-loved fashion and a pioneer in transforming how people consume fashion. \n &nbsp; \n Our mission is simple: make circular fashion the norm, not the exception. Through technology, expertise, and a highly engaged global community, we enable millions of people to buy and sell fashion in a more sustainable way. \n &nbsp; \n Founded in Paris in 2009, Vestiaire Collective is now a globally scaled marketplace with offices in Paris, London, Berlin, New York, Singapore, and Ho Chi Minh City, and logistics hubs across Europe, Asia, and the US. \n Today, we are a team of around&nbsp;600 people from over 50 nationalities, united by a shared ambition: to drive meaningful change in the fashion industry. \n &nbsp; \n Our values, Activism, Transparency, Dedication, Greatness, and Collective,&nbsp;shape how we build, collaborate, and grow every day.      About the Role:  \n  Vestiaire Collective runs a global marketplace on AWS and GCP — Kubernetes, Kafka, Terraform, Vault, Cloudflare, Datadog, a large PHP application under active modernisation, a series of microservices in different tech stacks (Goland, PHP, Node) and a fast-growing su",
-      "postedAt": 1793502467,
+      "description": " At  Kandou , we are redeﬁning the economics of AI infrastructure. Our mission is to  democratise AI by signiﬁcantly reducing the Total Cost of Ownership (TCO)  of hardware systems — a critical barrier to scalable adoption.    Our proprietary  MIMO-over-copper technology  powers a  high-performance, chiplet-based AI memory fabric  that is both  scalable and energy-efficient . Unlike traditional interconnects, our solution  reduces power consumption signiﬁcantly  while preserving  high bandwidth and ultra-low latency  — unlocking unprecedented efficiency for AI training and inference at scale.     Kandou’s architecture is not just an incremental improvement — it’s a  foundational shift  in how AI hardware is built for the future.     Job title:  Analog Layout Engineer (Lead)   Location: EU/CH/UK      Responsibility     Position in custom layout and verification of analog circuits, cells, blocks, and IP for multi-Gigabit high speed chip to chip communication links (SerDes up to and beyond 28Gb/s and/or memory IO) in advanced semiconductor technology nodes    Layout and verification of very high-speed analog circuits    Interact closely with the design team to understand requirements ",
+      "postedAt": 1793612416,
       "score": 9,
       "reasons": [
         "title: node",
         "skill: node"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-net-woerden-145760",
+      "source": "Arbeitnow",
+      "title": "Software Engineer (.NET)",
+      "company": "CCS Connects",
+      "location": "Woerden, Utrecht, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-145760",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-145760",
+      "tags": [
+        "Development"
+      ],
+      "description": "  Your Mission    As a Software Engineer at CCS, you'll play a key role in our modernization journey—bridging legacy systems with future-ready solutions. You’ll help deliver innovative, high-quality software that transforms how our clients operate. Modernization is not just about adopting new technologies—it’s about continuously improving how we build, learn, and grow. You love experimenting, learning by doing, and inspiring others to raise the bar.     What You’ll Do     You’ll join a team focused on modernizing our insurance back-office systems—critical components in our clients' ecosystems. Your main focus will be on  SureCore , our next-gen solution that works in tandem with  Level , our trusted legacy platform. This hybrid approach lets us evolve system functionality domain by domain. You enjoy working at the intersection of old and new tech, and you thrive on technical challenges that require creativity and collaboration.        Your Skills &amp; Experience    &nbsp;    Must-have:   &nbsp;    Strong experience with .NET    Hands-on knowledge of Domain-Driven Design (DDD)    Comfortable with Docker and container orchestration    Proficient in GitHub for version control and col",
+      "postedAt": 1793537492,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
       ]
     },
     {

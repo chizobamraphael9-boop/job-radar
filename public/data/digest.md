@@ -1,4 +1,4 @@
-# Job Radar digest (2026-11-01)
+# Job Radar digest (2026-11-02)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
@@ -16,7 +16,7 @@
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
 8. **Senior React Full-stack Developer** — Lemon.io (31)
    https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133
-9. **Full-Stack Developer** — Fluence International, Inc. (29)
+9. **Full-Stack Developer** — Fluence International, Inc. (27)
    https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
 10. **Senior Back-end Developer** — Lemon.io (27)
    https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
@@ -34,9 +34,9 @@
    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
 17. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
-18. **Full Stack Developer - Java & React (f/m/d)** — ecosio (19)
-   https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706
-19. **Remote Office Assistant** — Coalition Technologies  (19)
+18. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
+19. **Senior Full Stack Software Engineer - ClickPipes Platform** — Senior Software Engineer (Typescript / Backend) - AI/ML (18)
+   https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/senior-full-stack-software-engineer-clickpipes-platform-united-kingdom-452981
 20. **Sr Solutions Architect** — ExtraHop (16)
    https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394

@@ -1,4 +1,4 @@
-# Job Radar digest (2026-11-02)
+# Job Radar digest (2026-11-03)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
@@ -14,29 +14,29 @@
    https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540
 7. **Senior Software Engineer II Applied AI** — Wrapbook (31)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
-8. **Senior React Full-stack Developer** — Lemon.io (31)
-   https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133
-9. **Full-Stack Developer** — Fluence International, Inc. (27)
+8. **Full-Stack Developer** — Fluence International, Inc. (27)
    https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
-10. **Senior Back-end Developer** — Lemon.io (27)
+9. **Senior Back-end Developer** — Lemon.io (27)
    https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
-11. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
+10. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
-12. **Product Engineering Lead** — Tether Operations Limited (25)
+11. **Product Engineering Lead** — Tether Operations Limited (25)
    https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
-13. **Senior Software Engineer LATAM** — Wagmo (22)
+12. **Senior Software Engineer LATAM** — Wagmo (22)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
-14. **Senior Backend Engineer** — DuckDuckGo (22)
+13. **Senior Backend Engineer** — DuckDuckGo (22)
    https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551
-15. **Product Design Lead** — Fuel50 (22)
+14. **Product Design Lead** — Fuel50 (22)
    https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474
-16. **Software Engineer AI Coding Tasks** — Askable (19)
+15. **Software Engineer AI Coding Tasks** — Askable (19)
    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
-17. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
+16. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
+17. **Software Engineer (Remote-Worldwide)** — Your Software Supplier (19)
+   https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033
 18. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
-19. **Senior Full Stack Software Engineer - ClickPipes Platform** — Senior Software Engineer (Typescript / Backend) - AI/ML (18)
-   https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/senior-full-stack-software-engineer-clickpipes-platform-united-kingdom-452981
-20. **Sr Solutions Architect** — ExtraHop (16)
+19. **Sr Solutions Architect** — ExtraHop (16)
    https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394
+20. **Senior Tech Lead DXP** — Envalior (15)
+   https://www.arbeitnow.nl/jobs/companies/envalior/senior-tech-lead-dxp-geleen-334709

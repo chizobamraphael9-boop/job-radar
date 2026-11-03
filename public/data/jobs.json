@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-02T13:08:48.774Z",
+  "scannedAt": "2026-11-03T12:38:11.011Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 44,
+  "count": 49,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -291,77 +291,6 @@
         "title: node",
         "skill: javascript",
         "skill: git",
-        "skill: node",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "remotive-2091133",
-      "source": "Remotive",
-      "title": "Senior React Full-stack Developer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, Canada, APAC",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-      "applyUrl": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-      "tags": [
-        ".Net",
-        "android",
-        "AWS",
-        "azure",
-        "C",
-        "C#",
-        "C++",
-        "data science",
-        "fullstack",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "react js",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "UI/UX",
-        "wordpress",
-        "blockchain",
-        "AI/ML",
-        "automation",
-        "react native",
-        "rust",
-        "product management",
-        "unity",
-        "electron",
-        "spring",
-        "data analysis",
-        "laravel",
-        "Ethereum",
-        "graphic design",
-        "Typescript ",
-        "angular ",
-        "GCP",
-        "firebase",
-        "data engineering",
-        "Site Reliability",
-        "Symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
-      ],
-      "description": " Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  — the marketplace that connects you with hand-picked startups in the US and Europe. \n     \n  What we offer:  \n \n The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. \n No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. \n We'll manually find the best project for you according to your skills and preferences. \n Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. \n We respect your seniority so you can expect no micromanagement or screen trackers. \n Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? \n We will support you from the time you submit the application throughout all cooperation stages. \n Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. \n \n   \n  Requirements for the Senior React &amp; Python Position:  \n ",
-      "postedAt": "2026-10-02T13:30:06",
-      "score": 31,
-      "reasons": [
-        "title: react",
-        "title: javascript",
-        "title: node",
-        "skill: javascript",
-        "skill: react",
         "skill: node",
         "location: Remote"
       ]
@@ -734,6 +663,28 @@
       ]
     },
     {
+      "id": "arbeitnow-software-engineer-remote-worldwide-amsterdam-489033",
+      "source": "Arbeitnow",
+      "title": "Software Engineer (Remote-Worldwide)",
+      "company": "Your Software Supplier",
+      "location": "Amsterdam · Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "description": " This job is with our partner Micro1.  Job Summary  In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.  You'll create realistic, interesting and challenging coding tasks for AI to solve involving feature implementation and bug fixes, and implement deterministic verifiers that accept reasonable valid solutions and reject everything else.  What we're looking for    Strong backend experience in Java, Node.js, Go, Rust, Typescript, Python, C++ or similar    A track record building scalable services and APIs    Comfort with debugging, performance work and automated testing    Solid code review instincts    A strong testing background is a big plus — experience designing test strategy, building and maintaining large test suites, diagnosing flaky tests, or raising the testing bar on a team.    Preferred Qualifications    Proven experience in backend development, with a track record of delivering high-quality and performant projects.    Demonstrated success in identifying and resolv",
+      "postedAt": 1793698257,
+      "score": 19,
+      "reasons": [
+        "title: software engineer",
+        "title: node",
+        "skill: node",
+        "location: Remote"
+      ]
+    },
+    {
       "id": "remotive-1680495",
       "source": "Remotive",
       "title": "Remote Office Assistant",
@@ -774,26 +725,6 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-full-stack-software-engineer-clickpipes-platform-united-kingdom-452981",
-      "source": "Arbeitnow",
-      "title": "Senior Full Stack Software Engineer - ClickPipes Platform",
-      "company": "Senior Software Engineer (Typescript / Backend) - AI/ML",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/senior-full-stack-software-engineer-clickpipes-platform-united-kingdom-452981",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/senior-full-stack-software-engineer-clickpipes-platform-united-kingdom-452981",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "  About the Team   The  ClickPipes Platform  plays a critical role in driving the growth of our company and ensuring the success of our clients by seamlessly onboarding and integrating data from diverse data sources into ClickHouse. Working at a petabyte scale and in high-velocity environments, this role offers an exceptional opportunity to solve challenging technical problems, operate with significant autonomy, and make a measurable impact.  Working on ClickPipes offers the opportunity to operate with a high degree of ownership and autonomy, tackle ambiguous problems, and deliver features that are used by some of the most data-intensive companies in the world.  You can find some of the teams recent work highlighted in our blog:      Flexible Scaling and Monitoring in ClickPipes        MySQL CDC Connector for ClickPipes        The Evolution of ClickPipes      As a Senior Full-Stack Engineer, you’ll design and build complex, data-heavy user interfaces and own customer-facing workflows end-to-end. While this role has a strong frontend focus, engineers are expected to work comfortably across the whole stack, collaborating on backend services, APIs, and system integrations as needed. W",
-      "postedAt": 1793612415,
-      "score": 18,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer",
-        "title: full stack"
-      ]
-    },
-    {
       "id": "remoteok-1137394",
       "source": "RemoteOK",
       "title": "Sr Solutions Architect",
@@ -826,6 +757,26 @@
       ]
     },
     {
+      "id": "arbeitnow-senior-tech-lead-dxp-geleen-334709",
+      "source": "Arbeitnow",
+      "title": "Senior Tech Lead DXP",
+      "company": "Envalior",
+      "location": "Geleen, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/envalior/senior-tech-lead-dxp-geleen-334709",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/envalior/senior-tech-lead-dxp-geleen-334709",
+      "tags": [
+        "IT & DIGITAL SERVICES"
+      ],
+      "description": " The DXP (Digital Experience Platform) team is delivering build (projects) and run (support) services for all Envaliorcustomer facing websites. Envalior is currently extending this team and is looking for an experienced Tech Lead engineer, who interacts with a diverse range of technical and non-technical stakeholders.  The Senior Tech Lead is a subject matter expert and trusted advisor within the IT Marketing &amp; Sales domain. Youwill design &amp; develop information solutions focused on our Customer Facing Web Applications in a to be setup Headless/ Composable IT architecture, to maximize business value combining existing and new technologies (like our CMS,eCommerce and our Product Catalog), focused on improving our Customer Experience and Monitization of customerinteraction. You will have a profound knowledge of frontend frameworks, plus adequate knowledge of its technologies,processes and interfaces in the domain.  As the Senior Tech Lead you will oversee the overall platform roadmap, from definition to delivery. You will workclosely with product owners, other software engineers and developers to make sure best practices are applied to ensure high standards in all areas. You p",
+      "postedAt": 1793658022,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
       "id": "remoteok-1137545",
       "source": "RemoteOK",
       "title": "Senior Software Engineer",
@@ -841,7 +792,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNC4yMzYuMTU5LjIzMg== when applying to show you read the job post completely (#RNC4yMzYuMTU5LjIzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNTIuMTU5LjI0Ny42Ng== when applying to show you read the job post completely (#RNTIuMTU5LjI0Ny42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -864,7 +815,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNC4yMzYuMTU5LjIzMg== when applying to show you read the job post completely (#RNC4yMzYuMTU5LjIzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNTIuMTU5LjI0Ny42Ng== when applying to show you read the job post completely (#RNTIuMTU5LjI0Ny42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -887,7 +838,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNC4yMzYuMTU5LjIzMg== when applying to show you read the job post completely (#RNC4yMzYuMTU5LjIzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTIuMTU5LjI0Ny42Ng== when applying to show you read the job post completely (#RNTIuMTU5LjI0Ny42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -897,22 +848,22 @@
       ]
     },
     {
-      "id": "arbeitnow-business-analyst-gn-berlin-47088",
+      "id": "arbeitnow-web-developer-w-m-gesucht-munich-128869",
       "source": "Arbeitnow",
-      "title": "Business Analyst (gn)",
-      "company": "New Monday GmbH",
-      "location": "Berlin · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/business-analyst-gn-berlin-47088",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/business-analyst-gn-berlin-47088",
+      "title": "Web Developer W / M gesucht",
+      "company": "Q Media World",
+      "location": "Munich · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/q-media-world/web-developer-w-m-gesucht-munich-128869",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/q-media-world/web-developer-w-m-gesucht-munich-128869",
       "tags": [
         "Remote",
-        "Business Analyst"
+        "Web Development"
       ],
-      "description": "  Festanstellung bei New Monday · Vollzeit · überwiegend remote innerhalb Deutschlands · gelegentliche Teamtreffen in Essen · Start zum nächstmöglichen Zeitpunkt   Du verstehst komplexe Prozesse, bringst Struktur in Anforderungen und entwickelst daraus konkrete Lösungen? Bei New Monday suchen wir zwei Business Analyst für ein Kundenprojekt, das eine zentrale Herausforderung der Energiewende adressiert: den Netzausbau und die Integration von Erzeugungsanlagen.  Im Projekt entsteht ein Netzanschlusssystem mit drei miteinander verbundenen Anwendungen: einem Kundenfrontend, einem Installateursfrontend und einer Sachbearbeiterlösung. Gemeinsam mit den beteiligten Fachbereichen und Entwicklungsteams gestaltest du die fachlichen Grundlagen dafür, die durchgängigen Prozesse effizienter zu machen.  Über New Monday  Wir sind New Monday und begleiten Unternehmen bei der Entwicklung digitaler Produkte – von der ersten Idee über die Analyse und Konzeption bis hin zu Design und technischer Umsetzung. Dafür bringen wir Kompetenzen aus Business Analyse, UX/UI Design und Softwareentwicklung zusammen.  Als Teil von New Monday bringst du deine Expertise direkt in die Projekte unserer Kunden ein. Dort",
-      "postedAt": 1793611845,
+      "description": "  ​Wir expandieren weiter und suchen Dich!    Die Q World, ein internationaler Verlag​ mit internationalem Redaktionsstandort und dem weiteren Themenfeldern Q Service in Amsterdam Schweiz USA Europa erweitert sein Team. Der Haupttitel des Verlages, das Lifestyle Magazine Q the Magazine www.q-media.world  vor herher Quality wächst in den internationalen Markt im Print sowie Digitalen Medien. Das Magazine gehört zu einem der ältesten Lifestyle Titel anno 1957 und realisiert innovative, multimediale Formate für den deutschen und internationalen Markt .    ​    Eine lange Geschichte verbirgt sich hinter dem Magazine. Bereits vor 57 Jahren, 1957 tauchte erstmals das Quality Magazine mit dem Covergirl Audrey Hepburn auf. Die derzeitige Ausgabe verrät das Geheimnis um das Quality Magazine. Das Format hat sich zwischenzeitlich zum Unisex Lifestyle Magazine entwickelt und bietet von Fashion bis hin zu Food in 11 Rubriken/Redaktionen ein einzigartiges Format. Es schreibt die Geschichten hinter den Geschichten fort.    Für den Ausbau unserer verschieden neuen Web & Ki Auftritte  National & International suchen wir zum nächstmöglichen Zeitpunkt für den ​Standort Remote motivierte Unterstützung",
+      "postedAt": 1793707282,
       "score": 13,
       "reasons": [
-        "title: frontend",
+        "title: web developer",
         "skill: git",
         "location: Remote"
       ]
@@ -1038,6 +989,26 @@
       ]
     },
     {
+      "id": "arbeitnow-front-end-developer-geleen-51582",
+      "source": "Arbeitnow",
+      "title": "Front End Developer",
+      "company": "Envalior",
+      "location": "Geleen, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/envalior/front-end-developer-geleen-51582",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/envalior/front-end-developer-geleen-51582",
+      "tags": [
+        "IT & DIGITAL SERVICES"
+      ],
+      "description": " At Envalior, we are building a future-proof digital landscape. Our Digital Solutions team is developing a Composable Digital Experience Platform (DXP), focusing on headless front-end architecture, UX optimization, and component-based development. We combine technology, design, and customer-centric thinking to transform our digital channels into powerful business and communication platforms in the high-end engineering materials sector.  As a Front End Developer, you will be responsible for developing user-friendly, scalable, and high-performance front-end solutions. You will collaborate closely with other UX designers, backend developers, and stakeholders from marketing,sales and R&amp;D. You will translate design concepts into interactive components and contribute to the development of our design system and component library (Storybook + Figma integration)      MAIN RESPONSIBILITIES     Develop reusable UI components using frameworks like React/Nuxt or Vue.js  Collaborate in a blended scrum team with internal and external developers  Integrate UX designs from Figma into front-end code  Optimize user experience across websites and portals  Contribute to the architecture of our Head",
+      "postedAt": 1793658022,
+      "score": 12,
+      "reasons": [
+        "title: react",
+        "skill: react",
+        "skill: git"
+      ]
+    },
+    {
       "id": "arbeitnow-front-end-developer-rotterdam-148463",
       "source": "Arbeitnow",
       "title": "Front-end Developer",
@@ -1057,43 +1028,34 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-sr-product-manager-revenue-management-1-year-contract-186132",
-      "source": "Arbeitnow",
-      "title": "Remote Sr. Product Manager - Revenue Management - 1 year contract (m/f/d)",
-      "company": "Roompricegenie",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-revenue-management-1-year-contract-186132",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-revenue-management-1-year-contract-186132",
+      "id": "remoteok-1137614",
+      "source": "RemoteOK",
+      "title": "Software Engineer Infrastructure",
+      "company": "Sodalis, Inc.",
+      "location": "Palo Alto",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
       "tags": [
-        "Product & Engineering"
+        "dev",
+        "design",
+        "embedded",
+        "sys admin",
+        "cloud",
+        "ruby",
+        "exec",
+        "ops",
+        "golang",
+        "medical",
+        "engineer",
+        "digital nomad"
       ],
-      "description": "  About RoomPriceGenie  ✨🧞‍♂️  Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex and often resulting in lost revenue. This is where we come in!  We have developed a powerful solution that enables hotels to set the right prices in just seconds. ⏱️ Our state-of-the-art algorithm analyzes both internal hotel data and market trends to recommend pricing strategies that enhance revenue and improve booking rates.   With customers spanning the globe—from the USA and Canada to Iceland, South Africa, China, Slovenia, Italy, and the UK—RoomPriceGenie has made a meaningful impact in the hospitality industry, and our clients love the results. ❤️  Now, we are excited to expand our customer base and spread the word about how we can support hoteliers in optimizing their pricing strategies. We invite you to join us on this journey! We actively encourage applications from candidates with diverse backgrounds to enrich our team and drive innovation.      Your Role   As Senior Product Manager for one of our Revenue Managemen",
-      "postedAt": 1793601615,
+      "description": " Software Engineer, Infrastructure   Hybrid in Palo Alto (Mon / Wed / Thurs) Â· $185Kâ$215K base + meaningful early-stage equity + full benefits   Â   About Sodalis  Specialty pharmacy is where the most complex and expensive drugs reach the most in-need patients, and it still runs on faxes, phone tag, and manual data entry. Patients wait weeks for therapies that can't wait.  Sodalis is building AI agents that run those operations end to end: reading and validating prescriptions, handling phone calls, and moving prescriptions through eligibility and fulfillment. The ambition goes beyond that. We want to be the rails every specialty prescription runs on, and the first system to perform clinical review at the standard of a pharmacist.  We're already in production, processing tens of thousands of prescriptions a week. Backed by Gradient Ventures (Google's AI fund), and founded by veterans of Apple's Applied ML, Included Health, and Avella Specialty Pharmacy (scaled to $1.5B+ before its acquisition by OptumRx).  Â   The Opportunity  Everything we run today is cloud-based, and so are the pharmacy management systems we integrate with. But most of the specialty pharmacy market runs on-pr",
+      "postedAt": "2026-11-02T00:00:13+00:00",
       "score": 11,
       "reasons": [
+        "title: software engineer",
         "skill: git",
-        "location: Remote",
-        "location: Africa"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-sales-development-representative-united-kingdom-368566",
-      "source": "Arbeitnow",
-      "title": "Remote Sales Development Representative United Kingdom (m/f/d)",
-      "company": "RoomPriceGenie",
-      "location": "Remote United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/roompricegenie/remote-sales-development-representative-united-kingdom-368566",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/roompricegenie/remote-sales-development-representative-united-kingdom-368566",
-      "tags": [
-        "Sales Development"
-      ],
-      "description": "  About RoomPriceGenie  ✨🧞‍♂️  Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex and often resulting in lost revenue. This is where we come in!  We have developed a powerful solution that enables hotels to set the right prices in just seconds. ⏱️ Our state-of-the-art algorithm analyzes both internal hotel data and market trends to recommend pricing strategies that enhance revenue and improve booking rates.   With customers spanning the globe—from the USA and Canada to Iceland, South Africa, China, Slovenia, Italy, and the UK—RoomPriceGenie has made a meaningful impact in the hospitality industry, and our clients love the results. ❤️  Now, we are excited to expand our customer base and spread the word about how we can support hoteliers in optimizing their pricing strategies. We invite you to join us on this journey! We actively encourage applications from candidates with diverse backgrounds to enrich our team and drive innovation.      Your Role   Are you passionate about hospitality and eager to make a r",
-      "postedAt": 1793601615,
-      "score": 11,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "location: Africa"
+        "posted this week"
       ]
     },
     {
@@ -1154,18 +1116,18 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-ml-inference-numerics-munich-95692",
+      "id": "arbeitnow-remote-founding-ml-engineer-spectrum-168717",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer — ML Inference & Numerics",
-      "company": "tensordyne",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/senior-software-engineer-ml-inference-numerics-munich-95692",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/tensordyne/senior-software-engineer-ml-inference-numerics-munich-95692",
+      "title": "Founding ML Engineer (Spectrum)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich; Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-ml-engineer-spectrum-168717",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-ml-engineer-spectrum-168717",
       "tags": [
-        "Engineering"
+        "Spectrum"
       ],
-      "description": "&lt;h3&gt;About Tensordyne&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;AI is transforming our world. It can perform cognitive functions that previously only humans could do, such as perceiving interactions across different modalities and environments - with the ability to quickly learn and then solve complex problems. Tensordyne is an AI system solution company that builds very high-performance, low-power generative AI inference systems. Our mission, through the creation of custom silicon, hardware and software, is to enable multimodal Generative AI inference acceleration at scale, with safe, sustainable, high-performance systems for our hyperscaler and neocloud data center customers. We are at the leading edge of advancing the latest research and product improvements for generative Al inference solutions that will make Al even more advantageous for compelling new generative AI applications.Tensordyne is a well funded, fast-paced startup company with headquarters in both Sunnyvale, CA, and Munich, Germany. We also have many talented team members working remotely across North America and Europe. We take care of our people and their families with comprehensive benefits, competitive compensation, f",
-      "postedAt": 1793591721,
+      "description": "&lt;p&gt;Software engineers and AI agents alike suffer from the same problem: finding that one person or place that will answer their tough, specific question. Many solutions promise to solve this with similarity search in vector databases. Unfortunately, finding the answer is often a puzzle with pieces to be collected across a myriad of contradictory sources and cannot be solved without surgical search and careful reasoning.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Spectrum collects data from an organization’s code, docs, and issues, and organizes knowledge in a unified ontology that AI agents can efficiently search through and reason over. We aim to revolutionize the semantic layer space for software-building organizations and move beyond specs that fall out of sync with code, introducing a living spec – one that’s extracted from the whole system and used to keep it aligned. Spectrum is meant to be the single source of truth for all product and architectural knowledge.&lt;/p&gt;\n&lt;p&gt;Spectrum is a resident of JetBrains&#39; startup incubator, with startup speed and autonomy, and backed by 25 years of developer tooling expertise. We are looking for a top-class ML Engineer who will help us",
+      "postedAt": 1793667320,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1173,22 +1135,41 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-field-marketing-manager-10200",
+      "id": "arbeitnow-vp-software-engineering-nwps-work-from-home-us-355432",
       "source": "Arbeitnow",
-      "title": "Senior Field Marketing Manager",
-      "company": "Pingidentity",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/senior-field-marketing-manager-10200",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/senior-field-marketing-manager-10200",
+      "title": "VP, Software Engineering (NwPS)",
+      "company": "Vonage",
+      "location": "Work from Home - US",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vonage/vp-software-engineering-nwps-work-from-home-us-355432",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/vonage/vp-software-engineering-nwps-work-from-home-us-355432",
       "tags": [
-        "7107 EMEA Demand Gen"
+        "API BU Engineering"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Ping Identity:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it&#39;s not just something we provide our customers. It&#39;s something that inspires our company. People don&#39;t come here to join a culture that&#39;s built on digital freedom. They come to cultivate it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&amp;nbsp;&lt;a href=&quot;https://www.pingidentity.com/en/company/championing-every-identity.html&quot;&gt;We champion every identity.&lt;/a&gt; One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re headquartered in Denver, Colorado and we ",
-      "postedAt": 1793570125,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Join Vonage and help us innovate cloud communications for businesses worldwide!&lt;/strong&gt;&lt;/h2&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Job Title:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt; Head of NwPS Engineering&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Location:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt; Global / Remote (preference for US, UK, or Spain)&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;heading 1&quot;&gt;About the Role&lt;/span&gt;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134245418&amp;quot;:true,&amp;quot;134245529&amp;quot;:true,&amp;quot;335559738&amp;quot;:360,&amp;quot;335559739&amp;quot;:80}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;&lt;span data-ccp-parastyle=&quo",
+      "postedAt": 1793688916,
       "score": 10,
       "reasons": [
-        "skill: html",
-        "skill: git",
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-senior-frontend-developer-zurich-193922",
+      "source": "Arbeitnow",
+      "title": "Senior Frontend Developer",
+      "company": "Exeon Analytics",
+      "location": "Remote job · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-senior-frontend-developer-zurich-193922",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-senior-frontend-developer-zurich-193922",
+      "tags": [
+        "Development",
+        "Remote"
+      ],
+      "description": "   80-100% | as soon as possible | Germany or Switzerland       About Exeon   Exeon is a Swiss cyber security company based in Zurich. Since 2016, we have been protecting critical infrastructures, financial institutions and enterprises whose operations fully rely on IT through AI-powered analysis of network communication. This makes the most sophisticated cyberattacks visible – attacks conventional tools fail to detect.&nbsp;We combine Swiss excellence with a flexible, remote-first, and collaborative culture, supporting passionate, ambitious professionals devoted to solving cybersecurity challenges and driving continuous innovation.      What your impact will be like:   As a Senior Frontend Developer at Exeon, you will be responsible for our UEBA (User and Entity Behaviour Analytics) product. You will work in a small cross-functional team of backend engineers, frontend engineers and quality assurance engineers on a data-heavy single-page application that enterprise customers use to analyze network traffic and identify potential security risks. This data is rendered as tables, graphs and dashboards. You will build out the frontend alongside our frontend engineers, while also helping",
+      "postedAt": 1793677885,
+      "score": 10,
+      "reasons": [
+        "title: frontend",
         "location: Remote"
       ]
     },
@@ -1232,23 +1213,32 @@
       ]
     },
     {
-      "id": "arbeitnow-strategic-account-executive-eastern-europe-195374",
-      "source": "Arbeitnow",
-      "title": "Strategic Account Executive (Eastern Europe)",
-      "company": "Pingidentity",
+      "id": "remoteok-1137619",
+      "source": "RemoteOK",
+      "title": "AI ML Engineer",
+      "company": "Docusketch",
       "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/pingidentity/strategic-account-executive-eastern-europe-195374",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/pingidentity/strategic-account-executive-eastern-europe-195374",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
       "tags": [
-        "6100 Sales Quota"
+        "dev",
+        "ai",
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "neural networks",
+        "3D",
+        "exec",
+        "PyTorch",
+        "product"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Ping Identity:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it&#39;s not just something we provide our customers. It&#39;s something that inspires our company. People don&#39;t come here to join a culture that&#39;s built on digital freedom. They come to cultivate it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&amp;nbsp;&lt;a href=&quot;https://www.pingidentity.com/en/company/championing-every-identity.html&quot;&gt;We champion every identity.&lt;/a&gt; One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re headquartered in Denver, Colorado and we ",
-      "postedAt": 1793397330,
-      "score": 10,
+      "description": " The fastest-growing European SaaS company is searching for anÂ  AI/ML Engineer  !  You can be our perfect match!   About DocuSketch:  DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the rapidly expanding property tech sector. Our enthusiastic customer base is located across Europe and North America. DocuSketch's groundbreaking digital technology greatly facilitates real estate companies and building restoration companies to digitize, visualize, and virtualize real estate properties. Our solutions help our clients realize tremendous cost-saving potentials, process optimization, and revenue growth.Â  Youâll be working in a team that drives the company's AI development to developÂ algorithms for a variety of different use cases. This includes e.g. working withÂ equirectangular, phone, or satellite images to detect doors, windows, or other objects insideÂ of buildings or finding facets on the roof. Youâll be challenged by solving complex 3DÂ geomet",
+      "postedAt": "2026-11-02T10:43:35+00:00",
+      "score": 9,
       "reasons": [
-        "skill: html",
         "skill: git",
-        "location: Remote"
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1308,60 +1298,98 @@
       ]
     },
     {
-      "id": "remoteok-1137606",
-      "source": "RemoteOK",
-      "title": "AWS Cloud Solutions Architect",
-      "company": "Cloudary SAS",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+      "id": "arbeitnow-medical-director-paris-274845",
+      "source": "Arbeitnow",
+      "title": "Medical Director",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/medical-director-paris-274845",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/medical-director-paris-274845",
       "tags": [
-        "architecture",
-        "design",
-        "ansible",
-        "infosec",
-        "docker",
-        "technical",
-        "dev",
-        "exec",
-        "serverless",
-        "cloud",
-        "postgres",
-        "sql",
-        "api",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "engineer",
-        "digital nomad"
+        "Clinical"
       ],
-      "description": " As a  Senior AWS Cloud Solutions Architect , you will be the technical lead on our most complex engagements, from assessment and mobilization to large-scale migration and modernization. You will report to an Engineering Manager based in Europe and lead distributed teams of US- and Budapest-based engineers. You will also work closely with colleagues in our AI/ML and Application Development practices.       What you'll be doing:     Lead the technical delivery of complex, high-impact migration and modernization engagements, including AWS Migration Acceleration Program (MAP) assessments and mobilization.    Lead technical discovery and design multi-service, cloud-native AWS architectures that turn business goals into scalable blueprints.    Technically lead teams of 1â4 engineers, and manage the technical roadmap of 2â3 engagements in parallel.    Own technical design decisions within project scope. Resolve technical disagreements and handle scope conversations with clients professionally.    Represent Client in customers sessions, including executive-level conversations and joint sessions with AWS stakeholders.    Spend around 25% of your time on pre-sales: discovery, solution d",
-      "postedAt": "2026-10-30T16:00:06+00:00",
+      "description": "  Making preventive health the default for every human in Europe      The mission   At Lucis, we believe healthcare should be preventive, not reactive. We’re building the operating system for human longevity to help people add more healthy years to their lives.    The role  Lucis analyses 110+ biomarkers, builds personalised clinical protocols, and delivers them through an AI-powered preventive health product. We are live in France and opening the UK, Portugal and Spain.  This role exists to turn clinical judgement into the medical standards the company can run on.  We are hiring a Medical Director to own Lucis's clinical direction and medical safety system.    You will:    Decide what we test and why, and to what clinical standard the service runs    Set the risk posture and the governance model: who signs what, how incidents are handled, what Lucis can claim    Own the certification call and path: medical device classification, CE, ISO, or stay out of scope, and the argument behind it    Hire and lead the clinical operations and safety team.    Represent Lucis clinically with labs, insurers, institutional partners and regulators, alongside the CMO    Set the standards that produc",
+      "postedAt": 1793677218,
       "score": 9,
       "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
+        "title: react",
+        "skill: react"
       ]
     },
     {
-      "id": "arbeitnow-analog-layout-engineer-lead-reading-13020",
+      "id": "arbeitnow-core-platform-growth-engineering-paris-321537",
       "source": "Arbeitnow",
-      "title": "Analog Layout Engineer (Lead)",
-      "company": "Kandou AI",
-      "location": "Reading",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kandou-ai/analog-layout-engineer-lead-reading-13020",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/kandou-ai/analog-layout-engineer-lead-reading-13020",
+      "title": "Core platform growth engineering",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/core-platform-growth-engineering-paris-321537",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/core-platform-growth-engineering-paris-321537",
       "tags": [
-        "Engineering"
+        "Product & tech"
       ],
-      "description": " At  Kandou , we are redeﬁning the economics of AI infrastructure. Our mission is to  democratise AI by signiﬁcantly reducing the Total Cost of Ownership (TCO)  of hardware systems — a critical barrier to scalable adoption.    Our proprietary  MIMO-over-copper technology  powers a  high-performance, chiplet-based AI memory fabric  that is both  scalable and energy-efficient . Unlike traditional interconnects, our solution  reduces power consumption signiﬁcantly  while preserving  high bandwidth and ultra-low latency  — unlocking unprecedented efficiency for AI training and inference at scale.     Kandou’s architecture is not just an incremental improvement — it’s a  foundational shift  in how AI hardware is built for the future.     Job title:  Analog Layout Engineer (Lead)   Location: EU/CH/UK      Responsibility     Position in custom layout and verification of analog circuits, cells, blocks, and IP for multi-Gigabit high speed chip to chip communication links (SerDes up to and beyond 28Gb/s and/or memory IO) in advanced semiconductor technology nodes    Layout and verification of very high-speed analog circuits    Interact closely with the design team to understand requirements ",
-      "postedAt": 1793612416,
+      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .        The role   We've processed 200,000+ clinical tests across 4 countries with a team of 20. We're growing 10% week over week. And we're still early.  We need engineers who build systems, not features, people who own outcomes end-to-end, orchestrate AI to execute, and raise the bar for everyone around them.  You won't spend your days writing boilerplate. You'll write specs that agents execute, review AI-generated code with a critical eye, and make decisions that compound over time. This is what engineering looks like now. If that excites you, keep reading.  We'll shape the exact scope together, mobile, infra, platform, AI, full-stack, based on where you're strongest and where we need it most.         What we are looking for:      Backend: Membership &amp; payments.  A confirmed backend engineer (5+ years) who thrives on designing really reliable data models and services, wit",
+      "postedAt": 1793677218,
       "score": 9,
       "reasons": [
-        "title: node",
-        "skill: node"
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-ea-workplace-manager-paris-326414",
+      "source": "Arbeitnow",
+      "title": "EA / workplace manager",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/ea-workplace-manager-paris-326414",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/ea-workplace-manager-paris-326414",
+      "tags": [
+        "G&A"
+      ],
+      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .     The role   We’re looking for a strategic, proactive EA / workplace manager to amplify our founders impact and make Lucis run seamlessly. You will watch their back.  You’ll be the operational backbone of our Paris HQ, orchestrating founder logistics, shaping the company rhythm, and enabling the team to scale fast and smoothly.  You'll scale faster than the founders, and will grow faster than the company.      What you'll own      Founder velocity:  Owning the complex, multi-time-zone calendars and travel logistics to ensure the founders are always in the right place at the right time with the right information.     Assisting the founders in their day-to-day important events:  board meetings, client meetings, and co. You'll help founders be on top of their game.     Inbox &amp; communication:  Triaging high-volume inboxes and ensuring 100% accountability on follow-ups with pa",
+      "postedAt": 1793677218,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-lead-delivery-senior-project-manager-f-h-puteaux-7725",
+      "source": "Arbeitnow",
+      "title": "Lead Delivery /Senior Project Manager (F/H)",
+      "company": "ILLUIN Technology",
+      "location": "Paris La Défense",
+      "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/lead-delivery-senior-project-manager-f-h-puteaux-7725",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/lead-delivery-senior-project-manager-f-h-puteaux-7725",
+      "tags": [
+        "Delivery"
+      ],
+      "description": " LE CONTEXTE  :   Fondée en 2017 par des ingénieurs de CentraleSupélec,  ILLUIN Technology  est une scale-up française en pleine effervescence de plus de 200 passionnés.   Notre mission ? Déployer l'IA et les solutions digitales de pointe à grande échelle, avec une culture de l’excellence forgée sur le plateau de Paris-Saclay.  Notre force repose sur une double approche unique :     MAKE :  Des réalisations tech sur-mesure en GenAI, Data Science et Software Engineering.     BUY :  Une suite de produits propriétaires de pointe ( Dialogue, Automate, Analyze ) orchestrée par notre plateforme low-code  nAixt .    Propulsés par une croissance ultra-dynamique (15 M€ de CA en 2025 et une récente levée de fonds), nous structurons notre département Delivery. Nous recherchons un(e) leader capable d'allier rigueur opérationnelle et excellence technologique.    VOTRE RÔLE :   Rattaché(e) directement au pôle Delivery, vous occuperez un poste pivot de  Lead Delivery / Senior Project Manager . Véritable \"Leader de terrain\", vous mènerez de front plusieurs projets complexes engagés au forfait dans un univers Data / IA stimulant, tout en devenant l’artisan de l'industrialisation de nos processus in",
+      "postedAt": 1793677218,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-data-scientist-amsterdam-212610",
+      "source": "Arbeitnow",
+      "title": "Senior Data Scientist",
+      "company": "Wypoon",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-scientist-amsterdam-212610",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-scientist-amsterdam-212610",
+      "tags": [
+        "Data Engineer"
+      ],
+      "description": " \n At Wypoon Technologies, we are looking for an experienced Data Scientist with a strong focus on Generative AI to join an innovative AI team within a leading financial services organization in the Netherlands. \n In this role, you will design, develop, and deploy advanced GenAI solutions that solve complex business challenges and deliver real value. You will work at the intersection of Data Science, Generative AI, and Software Engineering, building scalable, reliable, and responsible AI applications. \n You will collaborate closely with engineers, product teams, and business stakeholders to accelerate GenAI adoption across different business domains \n \n &nbsp; \n  Why Join Us?  &nbsp;  \n &nbsp; \n  At Wypoon Technologies, you’ll work on dynamic projects for industry leaders such as   Heineken, ING, ASML, Philips, and Shell  , tackling exciting challenges and delivering tailored enterprise solutions.&nbsp;  \n &nbsp; \n  Here’s what makes us stand out:&nbsp;  \n ✔  Impactful Work  : Shape the future of our clients’ digital landscapes.&nbsp;  \n ✔  Innovative Environment  : Collaborate within a supportive team that values learning and growth.&nbsp;  \n ✔  State-of-the-art technology  : Acce",
+      "postedAt": 1793653689,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
       ]
     },
     {
@@ -1400,6 +1428,25 @@
       "reasons": [
         "title: react",
         "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-solutions-engineer-london-184428",
+      "source": "Arbeitnow",
+      "title": "Senior Solutions Engineer",
+      "company": "Andela",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andela/senior-solutions-engineer-london-184428",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/andela/senior-solutions-engineer-london-184428",
+      "tags": [
+        "Solutions"
+      ],
+      "description": " About Andela  At Andela, we know brilliance is evenly distributed around the world, but opportunity is not. For over 10 years, Andela has connected customers with top global, remote technical talent from over 135 countries, the majority residing in emerging markets across Africa and Latin America. As one of the world's largest talent marketplaces, Andela gives companies the flexibility to deploy qualified technologists fast — across Application Development, AI, Cloud &amp; DevOps, and Data Engineering. Andela Talent Cloud (ATC) is our platform for managing the complete global talent lifecycle.    We're at the intersection of two industry transformations — one in staffing and hiring, one in software development — both accelerated by AI. We're looking for a builder who wants to own the platform at the center of it.    About the Role  Andela is building a modern Sales Engineering function that helps customers solve complex technology and organizational challenges across our three primary offerings:     Talent Solutions  - specialized technical expertise that works as part of the customer’s team.     AI Solutions  - managed delivery and repeatable solutions where Andela owns defined o",
+      "postedAt": 1793688011,
+      "score": 8,
+      "reasons": [
+        "location: Remote",
+        "location: Africa"
       ]
     }
   ]

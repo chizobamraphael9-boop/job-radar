@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-03T12:38:11.011Z",
+  "scannedAt": "2026-11-04T12:47:08.010Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 49,
+  "count": 50,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -45,53 +45,6 @@
         "skill: react",
         "skill: html",
         "skill: css"
-      ]
-    },
-    {
-      "id": "remoteok-1137562",
-      "source": "RemoteOK",
-      "title": "Senior Frontend Engineer",
-      "company": "B2spin",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
-      "tags": [
-        "front end",
-        "design",
-        "react",
-        "embedded",
-        "sys admin",
-        "game dev",
-        "technical",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "javascript",
-        "finance",
-        "css",
-        "html",
-        "typescript",
-        "seo",
-        "mobile",
-        "senior",
-        "stats",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "description": "  About B2Spin  We are B2Spin, and we are dedicated to delivering the best Free-to-Play Social Casino and gaming experiences by creating captivating, engaging, and unique products that are accessible to everyone. We have built a team of talented professionals from all over the globe, who are working to continually improve the experiences of our players. We are not looking to just be part of the industry, but to revolutionize it.   AI-Driven Engineering Culture   We are actively building an AI-driven engineering organization with a clear and deliberate stance: artificial intelligence is a core part of how we build and deliver software â not an experiment, not a trend, and not an optional add-on.  AI is embedded into our engineering workflows, from system design and prototyping to refactoring, testing, and code review. We expect engineers to be fully comfortable working in AI-driven environments and to treat AI as a primary productivity multiplier. Strong engineering judgment, architectural ownership, and accountability remain essentialâAI amplifies our engineers, it doesnât replace responsibility for technical decisions.   What you will be doing:  â¢ Write well-designed, test",
-      "postedAt": "2026-10-23T16:00:12+00:00",
-      "score": 37,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: html",
-        "skill: css",
-        "skill: git"
       ]
     },
     {
@@ -663,24 +616,24 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-remote-worldwide-amsterdam-489033",
+      "id": "arbeitnow-senior-java-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-80465",
       "source": "Arbeitnow",
-      "title": "Software Engineer (Remote-Worldwide)",
-      "company": "Your Software Supplier",
-      "location": "Amsterdam · Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033",
+      "title": "Senior Java Softwareentwickler:in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "company": "Auralis Group",
+      "location": "Berlin · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/senior-java-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-80465",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/auralis-group/senior-java-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-80465",
       "tags": [
         "Remote",
-        "Software Development"
+        "Engineering"
       ],
-      "description": " This job is with our partner Micro1.  Job Summary  In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.  You'll create realistic, interesting and challenging coding tasks for AI to solve involving feature implementation and bug fixes, and implement deterministic verifiers that accept reasonable valid solutions and reject everything else.  What we're looking for    Strong backend experience in Java, Node.js, Go, Rust, Typescript, Python, C++ or similar    A track record building scalable services and APIs    Comfort with debugging, performance work and automated testing    Solid code review instincts    A strong testing background is a big plus — experience designing test strategy, building and maintaining large test suites, diagnosing flaky tests, or raising the testing bar on a team.    Preferred Qualifications    Proven experience in backend development, with a track record of delivering high-quality and performant projects.    Demonstrated success in identifying and resolv",
-      "postedAt": 1793698257,
+      "description": " Wir sind ein dynamisches IT Unternehmen, aktuell 90 MA, und suchen nun weiterhin Verstärkung, um große Java-Projekte durchzuführen.  Aufgaben  Du willst:    arbeiten und verdienen wie ein Selbstständiger, aber risikofrei in Deutschland festangestellt sein?    Deine Arbeitszeiten selbst bestimmen?    von zuhause aus arbeiten (remote)?    den nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen führt?    einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt (Zielgehalt: 110.000 € - 180.000 €)?    Qualifikation  Du:    bist seit 8-10 Jahren berufstätig im Bereich Softwareentwicklung?    hast einen starken Fokus auf eine oder mehrere Programmiersprachen wie z.B. Java (Spring Boot), oder Kotlin und bist dort ein absoluter Experte?    hast Erfahrung in Cloud-Infrastrukturen und Deployment-Prozessen gesammelt?    bringst einige Jahre Erfahrung in mindestens einem der großen Cloud-Dienstleister (AWS, Azure, GCP) mit?    bringst Erfahrung im Frontend (Angular, React, oder Vue) mit?    bist nicht kontaktscheu und kommunikationsfreudig?    bist bereit als Team Lead Verantwortung für Dein Team und Deine Kunden zu übernehmen?    bist ge",
+      "postedAt": 1793775648,
       "score": 19,
       "reasons": [
-        "title: software engineer",
-        "title: node",
-        "skill: node",
+        "title: frontend",
+        "title: react",
+        "skill: react",
         "location: Remote"
       ]
     },
@@ -725,6 +678,27 @@
       ]
     },
     {
+      "id": "arbeitnow-software-engineer-intern-london-183469",
+      "source": "Arbeitnow",
+      "title": "Software Engineer (Intern)",
+      "company": "Fanvue.com",
+      "location": "Hybrid (London)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/software-engineer-intern-london-183469",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/software-engineer-intern-london-183469",
+      "tags": [
+        "Engineering"
+      ],
+      "description": " 🎯 The Role  We're hiring a Software Engineering Intern! This is a short term placement for students or recent graduates who demonstrate outstanding intelligence, motivation, and work ethic. The kind of person who raises the bar just by being in the room, even this early in their career.  You'll tackle real engineering problems, not busywork. Problems where creativity, first-principles thinking, and relentless iteration matter more than years of experience. You'll work alongside senior engineers who will mentor and challenge you, while contributing meaningfully from day one, with a dedicated engineering mentor for the length of the placement.  AI is central to how we build. You'll use AI-assisted development tools (Cursor, Claude Code, GitHub Copilot) daily to accelerate your work, and you'll contribute to AI-powered product features that differentiate Fanvue in the market.    🚀 What You'll Do    Own and deliver well-scoped features end-to-end across our TypeScript/Node.js/Go (nice to have) stack, with mentor support    Contribute to real, shipped product work, not a side project or sandbox    Build AI-powered features for creators (automated chat, content generation, personaliza",
+      "postedAt": 1793774418,
+      "score": 18,
+      "reasons": [
+        "title: software engineer",
+        "title: node",
+        "skill: git",
+        "skill: node"
+      ]
+    },
+    {
       "id": "remoteok-1137394",
       "source": "RemoteOK",
       "title": "Sr Solutions Architect",
@@ -757,23 +731,137 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-tech-lead-dxp-geleen-334709",
-      "source": "Arbeitnow",
-      "title": "Senior Tech Lead DXP",
-      "company": "Envalior",
-      "location": "Geleen, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/envalior/senior-tech-lead-dxp-geleen-334709",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/envalior/senior-tech-lead-dxp-geleen-334709",
+      "id": "remoteok-1136213",
+      "source": "RemoteOK",
+      "title": "Freelance Designer",
+      "company": "Control Shift Video",
+      "location": "Texas, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
       "tags": [
-        "IT & DIGITAL SERVICES"
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer",
+        "infosec",
+        "react",
+        "embedded",
+        "technical",
+        "finance",
+        "cloud",
+        "postgres",
+        "typescript",
+        "ruby",
+        "stats",
+        "accounting",
+        "designer",
+        "web dev",
+        "video",
+        "ads"
       ],
-      "description": " The DXP (Digital Experience Platform) team is delivering build (projects) and run (support) services for all Envaliorcustomer facing websites. Envalior is currently extending this team and is looking for an experienced Tech Lead engineer, who interacts with a diverse range of technical and non-technical stakeholders.  The Senior Tech Lead is a subject matter expert and trusted advisor within the IT Marketing &amp; Sales domain. Youwill design &amp; develop information solutions focused on our Customer Facing Web Applications in a to be setup Headless/ Composable IT architecture, to maximize business value combining existing and new technologies (like our CMS,eCommerce and our Product Catalog), focused on improving our Customer Experience and Monitization of customerinteraction. You will have a profound knowledge of frontend frameworks, plus adequate knowledge of its technologies,processes and interfaces in the domain.  As the Senior Tech Lead you will oversee the overall platform roadmap, from definition to delivery. You will workclosely with product owners, other software engineers and developers to make sure best practices are applied to ensure high standards in all areas. You p",
-      "postedAt": 1793658022,
+      "description": " Job Description And Requirements    Project-based | Remote | United States | Contract  Pay based on freelancer's rate   Control Shift Video is looking for a  freelance designer  to collaborate with our creative team on project-based work across video, motion graphics, web visuals, and brand content. Our projects span technology, healthcare, energy, consumer brands, nonprofits, and passion projects.     What Youâll Do     Design visual systems, frames, and assets for video and motion projects  Support branding, layout, and visual storytelling needs  Translate concepts into clean, purposeful designs  Prepare files for animation and production workflows     What Weâre Looking For     Strong design fundamentals and visual judgment  Experience designing for motion or video  Clear communication and reliable delivery  Proficiency in Adobe Creative Suite or similar tools     How We Work     Remote-first and flexible  Project-based engagements with clear scopes and timelines  Respectful collaboration â we treat freelancers like partners, not resources  Clear feedback, fair rates, and no last-minute chaos whenever possible     Why Work With Us     Youâll work on meaningful projects ",
+      "postedAt": "2026-08-05T08:16:20+00:00",
+      "score": 16,
+      "reasons": [
+        "title: react",
+        "skill: react",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1136210",
+      "source": "RemoteOK",
+      "title": "Head of Security",
+      "company": "Tremendous",
+      "location": "New York, New York, New York, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer",
+        "infosec",
+        "react",
+        "embedded",
+        "technical",
+        "finance",
+        "cloud",
+        "postgres",
+        "typescript",
+        "ruby"
+      ],
+      "description": "Tremendous is the global platform built for businesses to send payoutsâgift cards and moneyâto anyone, anywhere, instantly. We're trusted by 20,000+ organizations, from startups to giants like Atlassian, MIT, and United Way, to reach millions of recipients worldwide.  We're profitable and growing without outside investors. We're fully remote, with a high-documentation, low-meeting culture that leaves more time for the work that mattersâand for your life outside it. Our employee NPS sits in the high 80s.  We move billions of dollars through our systems. That makes security existential, and it's why we're making our first dedicated security hire.   About The Role    You'll be our first Head of Security.  There's already a real foundation hereâbug bounty, pen tests, automated code and configuration scanning on the production and code side, phishing simulations on the people side. Youâll add to it across access and identity, SecOps and monitoring, incident response, vendor security, employee security practices, and policy. You'll own the whole posture.   This is a player-coach role.  Early on, you'll do the scoping and the hands-on work yourself; this is not a role where you ",
+      "postedAt": "2026-08-05T01:57:42+00:00",
+      "score": 16,
+      "reasons": [
+        "title: react",
+        "skill: react",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-frontend-beugen-463088",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer (Frontend)",
+      "company": "IXON Cloud",
+      "location": "Beugen, Noord-Brabant, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/senior-software-engineer-frontend-beugen-463088",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/senior-software-engineer-frontend-beugen-463088",
+      "tags": [
+        "R&D"
+      ],
+      "description": "  Op zoek naar een werkplek waar jouw ideeën het verschil maken en waar je op niveau kan sparren met een team van ambitieuze developers? Als Software Engineer bij IXON werk je aan een modern cloudplatform dat door duizenden machinebouwers wereldwijd wordt gebruikt. Geen remote eilandjes of kortlopende projecten, maar samen bouwen aan een product waar onze klanten fan van zijn. Klaar om impact te maken?&nbsp;&nbsp;        Hier krijg jij energie van     Binnen jouw rol als Software Engineer werk je niet aan een statische applicatie, maar aan een continu evoluerend cloudplatform met een diversiteit aan functionaliteiten. Samen met je team ben je verantwoordelijk voor het hart van de IXON Cloud: van complexe autorisatiestructuren tot een naadloze gebruikerservaring. Het doel? Onze klanten hun beheerprocessen zo efficiënt mogelijk laten uitvoeren.       Om dat voor elkaar te krijgen, werk je met een moderne tech stack die onder andere bestaat uit Angular en TypeScript. Je krijgt de vrijheid om actief mee te beslissen over technische keuzes die ervoor zorgen dat onze applicaties niet alleen vandaag snel en strak draaien, maar ook op de lange termijn schaalbaar en onderhoudbaar blijven.  ",
+      "postedAt": 1793741472,
+      "score": 16,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-net-developer-luzern-476204",
+      "source": "Arbeitnow",
+      "title": "Senior .NET Developer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Luzern, Luzern, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-476204",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-476204",
+      "tags": [
+        "Software Engineering"
+      ],
+      "description": " Wir suchen einen erfahrenen Senior .NET Developer für ein etabliertes Schweizer IT-Dienstleistungsunternehmen im Raum Bern. Du arbeitest in einem motivierten SCRUM-Team an anspruchsvollen Kundenprojekten und übernimmst Verantwortung für Architektur, Codequalität und technische Entscheidungen.     Aufgaben       Entwicklung und Weiterentwicklung von Backend-Services und APIs auf Basis von .NET Core    Mitarbeit an Frontend-Komponenten mit Blazor oder Razor    Design und Umsetzung von Microservices- und Integrationsarchitekturen    Sicherstellung von Codequalität durch automatisierte Tests und Code Reviews    Aktive Mitgestaltung von Architekturentscheidungen im Team               Anforderungen       Mehr als 5 Jahre Erfahrung in der Softwareentwicklung mit .NET    Fundierte Kenntnisse in .NET Core, Entity Framework, Blazor und REST APIs    Erfahrung mit Microsoft Azure und Azure DevOps    Kenntnisse in Microservices und Integrationsarchitekturen    Kenntnisse in Kubernetes, Kafka, xUnit oder API Kana von Vorteil    Erfahrung mit agilen Methoden (Scrum, Kanban oder SAFe)    Sehr gute Deutschkenntnisse       Was dich erwartet       Festanstellung bei einem stabilen, finanzstarken Unt",
+      "postedAt": 1793741469,
       "score": 15,
       "reasons": [
         "title: frontend",
         "title: software engineer",
-        "skill: git"
+        "skill: rest api"
       ]
     },
     {
@@ -792,7 +880,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNTIuMTU5LjI0Ny42Ng== when applying to show you read the job post completely (#RNTIuMTU5LjI0Ny42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTcyLjIwOC42Mi4xNjM= when applying to show you read the job post completely (#RMTcyLjIwOC42Mi4xNjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -815,7 +903,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNTIuMTU5LjI0Ny42Ng== when applying to show you read the job post completely (#RNTIuMTU5LjI0Ny42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTcyLjIwOC42Mi4xNjM= when applying to show you read the job post completely (#RMTcyLjIwOC42Mi4xNjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -838,7 +926,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTIuMTU5LjI0Ny42Ng== when applying to show you read the job post completely (#RNTIuMTU5LjI0Ny42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTcyLjIwOC42Mi4xNjM= when applying to show you read the job post completely (#RMTcyLjIwOC42Mi4xNjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -848,63 +936,95 @@
       ]
     },
     {
-      "id": "arbeitnow-web-developer-w-m-gesucht-munich-128869",
-      "source": "Arbeitnow",
-      "title": "Web Developer W / M gesucht",
-      "company": "Q Media World",
-      "location": "Munich · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/q-media-world/web-developer-w-m-gesucht-munich-128869",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/q-media-world/web-developer-w-m-gesucht-munich-128869",
+      "id": "remoteok-1136778",
+      "source": "RemoteOK",
+      "title": "Operations Engineer II",
+      "company": "AWeber",
+      "location": "Uluberia-II, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
       "tags": [
-        "Remote",
-        "Web Development"
+        "infosec",
+        "javascript",
+        "technical",
+        "exec",
+        "sys admin",
+        "customer support",
+        "web dev",
+        "virtual assistant",
+        "video",
+        "api",
+        "ops",
+        "marketing",
+        "engineer",
+        "ecommerce"
       ],
-      "description": "  ​Wir expandieren weiter und suchen Dich!    Die Q World, ein internationaler Verlag​ mit internationalem Redaktionsstandort und dem weiteren Themenfeldern Q Service in Amsterdam Schweiz USA Europa erweitert sein Team. Der Haupttitel des Verlages, das Lifestyle Magazine Q the Magazine www.q-media.world  vor herher Quality wächst in den internationalen Markt im Print sowie Digitalen Medien. Das Magazine gehört zu einem der ältesten Lifestyle Titel anno 1957 und realisiert innovative, multimediale Formate für den deutschen und internationalen Markt .    ​    Eine lange Geschichte verbirgt sich hinter dem Magazine. Bereits vor 57 Jahren, 1957 tauchte erstmals das Quality Magazine mit dem Covergirl Audrey Hepburn auf. Die derzeitige Ausgabe verrät das Geheimnis um das Quality Magazine. Das Format hat sich zwischenzeitlich zum Unisex Lifestyle Magazine entwickelt und bietet von Fashion bis hin zu Food in 11 Rubriken/Redaktionen ein einzigartiges Format. Es schreibt die Geschichten hinter den Geschichten fort.    Für den Ausbau unserer verschieden neuen Web & Ki Auftritte  National & International suchen wir zum nächstmöglichen Zeitpunkt für den ​Standort Remote motivierte Unterstützung",
-      "postedAt": 1793707282,
+      "description": "Limited-Time Offer Done For You Email Marketing $599Only$1  Start for just $1  â  87% off ends soon!  $599  $79   to launch your email marketing.   Start for just $79   â  â¦ Newsletter Assistant Features Pricing Blog Sign in My account Get AWeber Free  Sign in    Email marketing  Email automation  AI Page Builder  Ecommerce  Web push notifications  AI Signup Form Builder  AI Writing Assistant  Link in Bio page  Standard pricing  High volume pricing  Bloggers  Coaches  Etsy shops  Newsletters  YouTubers  Contact Customer Solutions 24/7  AWeber Community  Free account migration service  Knowledge base  Video tutorials  The Shift AI Show  Free workshops  Landing Page Template Gallery  Pre-written email campaigns  AWeber Certified Experts  App integrations  Customer referral program  Customer success stories  Marketing Glossary  24/7 Email Marketing Master Class    Blog  â¦ Newsletter Assistant  Join our ~60 talented remote team members, motivated to have an impact on the world while growing their skills every day.  Our mission: Build an easy to use platform for Small Businesses and Creators to connect with their audiences. We help over 300,000 users and entrepreneurs chase thei",
+      "postedAt": "2026-08-04T23:02:29+00:00",
       "score": 13,
       "reasons": [
-        "title: web developer",
+        "title: javascript",
+        "skill: javascript",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-it-support-security-analyst-sheffield-85081",
+      "source": "Arbeitnow",
+      "title": "IT Support & Security Analyst",
+      "company": "Goodlord",
+      "location": "Sheffield",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/it-support-security-analyst-sheffield-85081",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/it-support-security-analyst-sheffield-85081",
+      "tags": [
+        "IT"
+      ],
+      "description": " 📍 Sheffield and Lincoln Hybrid - 3 days per week in office (2 of which will be one office with the 3rd day in the other office), 2 working remotely.         The Opportunity:   We are looking for an IT Support &amp; Security Analyst to act as the primary technical point of contact across our Sheffield and Lincoln offices, reporting to the IT and Security Manager. You will split your time between front-line helpdesk operations and proactive security administration in a fast-paced, adaptable environment.     Helpdesk &amp; On-Site Support : Serve as the go-to contact for hardware (macOS, Windows, ChromeOS), connectivity, and tickets logged via Freshservice across Sheffield and Lincoln.     Identity &amp; Cloud Administration : Manage full user lifecycles, access permissions, policies, and Google Workspace configurations.     Device &amp; Patch Management : Enrol, monitor, and secure endpoints using Google MDM, Hexnode, and Intune, maintaining automated patch schedules via Action1.     Security &amp; Incident Operations : Monitor, investigate, and remediate alerts across SentinelOne EDR/MDR, GCP, and email security tools, while proactively mitigating emerging threats.     Networking,",
+      "postedAt": 1793785214,
+      "score": 13,
+      "reasons": [
+        "title: node",
+        "skill: node",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-commercial-account-executive-netherlands-amsterdam-210067",
+      "source": "Arbeitnow",
+      "title": "Commercial Account Executive, Netherlands",
+      "company": "Horizon3Ai",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/commercial-account-executive-netherlands-amsterdam-210067",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/commercial-account-executive-netherlands-amsterdam-210067",
+      "tags": [
+        "Sales"
+      ],
+      "description": "  Get to Know Us   Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organisations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product,  the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organisations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs.    We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results.   ",
+      "postedAt": 1793774415,
+      "score": 13,
+      "reasons": [
+        "title: node",
+        "skill: node",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
+      "source": "Arbeitnow",
+      "title": "Power Platform and Azure DevOps Expert - remote from EU",
+      "company": "AlmavivA de Belgique",
+      "location": "Remote job · Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
+      "tags": [
+        "Remote"
+      ],
+      "description": " This is an experienced architect-level position. The appointed resource will be expected to serve as the Power Platform administrator, administering and supporting approximately 100 Power Platform environments. A significant part of the role will involve establishing guidelines and providing direction to approximately 150 developers across multiple teams and throughout the organization. At least 2 years of demonstrable experience is required for each of the following mandatory requirements.    REQUIREMENTS  Bachelor's or master's degree in Computer Science, Information Systems, Software Engineering or a related field.  Proven experience as a Power Platform architect, administrator or DevOps lead in an enterprise environment.  Demonstratable experience of leading multiple teams.  Deep practical knowledge of Microsoft Dynamics 365 and the Power Platform suite (Power Apps, Power Automate, Power Pages).  Strong experience with Azure DevOps, including pipeline creation, variable groups, service connections, and release management.  Strong experience with Git-based ALM for Power Platform, including solution unpacking/packing and automated versioning.  Excellent analytical and problem-so",
+      "postedAt": 1793763088,
+      "score": 13,
+      "reasons": [
+        "title: software engineer",
         "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-channel-field-marketing-manager-benelux-nordics-amsterdam-120517",
-      "source": "Arbeitnow",
-      "title": "Senior Channel Field Marketing Manager, Benelux & Nordics",
-      "company": "Horizon3Ai",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/senior-channel-field-marketing-manager-benelux-nordics-amsterdam-120517",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/senior-channel-field-marketing-manager-benelux-nordics-amsterdam-120517",
-      "tags": [
-        "Marketing"
-      ],
-      "description": "  Get to Know Us   Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs.  We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results.     R",
-      "postedAt": 1793482817,
-      "score": 13,
-      "reasons": [
-        "title: node",
-        "skill: node",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-it-analyst-amsterdam-249901",
-      "source": "Arbeitnow",
-      "title": "IT Analyst",
-      "company": "Horizon3Ai",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/it-analyst-amsterdam-249901",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/it-analyst-amsterdam-249901",
-      "tags": [
-        "Security and IT"
-      ],
-      "description": " Get to Know Us   Horizon3  is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find, fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZero™ platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by IT Ops/SecOps teams, consulting pentesters, and MSSPs and MSPs.     We are a fusion of former U.S. Special Operations cyber operators, startup engineers &amp; operators, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools and false positives, resulting in alert fatigue, blind spots, “checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership",
-      "postedAt": 1793482817,
-      "score": 13,
-      "reasons": [
-        "title: node",
-        "skill: node",
         "location: Remote"
       ]
     },
@@ -989,42 +1109,43 @@
       ]
     },
     {
-      "id": "arbeitnow-front-end-developer-geleen-51582",
+      "id": "arbeitnow-digital-product-manager-price-management-contextiq-lille-upline-nord-373214",
       "source": "Arbeitnow",
-      "title": "Front End Developer",
-      "company": "Envalior",
-      "location": "Geleen, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/envalior/front-end-developer-geleen-51582",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/envalior/front-end-developer-geleen-51582",
+      "title": "Digital Product Manager - Price Management (ContextIQ)",
+      "company": "Decathlontechnology",
+      "location": "Lille, Upline, Nord",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/digital-product-manager-price-management-contextiq-lille-upline-nord-373214",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/digital-product-manager-price-management-contextiq-lille-upline-nord-373214",
       "tags": [
-        "IT & DIGITAL SERVICES"
+        "Product Management"
       ],
-      "description": " At Envalior, we are building a future-proof digital landscape. Our Digital Solutions team is developing a Composable Digital Experience Platform (DXP), focusing on headless front-end architecture, UX optimization, and component-based development. We combine technology, design, and customer-centric thinking to transform our digital channels into powerful business and communication platforms in the high-end engineering materials sector.  As a Front End Developer, you will be responsible for developing user-friendly, scalable, and high-performance front-end solutions. You will collaborate closely with other UX designers, backend developers, and stakeholders from marketing,sales and R&amp;D. You will translate design concepts into interactive components and contribute to the development of our design system and component library (Storybook + Figma integration)      MAIN RESPONSIBILITIES     Develop reusable UI components using frameworks like React/Nuxt or Vue.js  Collaborate in a blended scrum team with internal and external developers  Integrate UX designs from Figma into front-end code  Optimize user experience across websites and portals  Contribute to the architecture of our Head",
-      "postedAt": 1793658022,
+      "description": "&lt;h2 data-path-to-node=&quot;3&quot;&gt;&lt;span class=&quot;&quot;&gt;Notre &lt;/span&gt;&lt;strong data-path-to-node=&quot;3&quot; data-index-in-node=&quot;6&quot;&gt;équipe Digital Procurement &amp;amp; Pricing&lt;/strong&gt; recherche un·e &lt;strong data-path-to-node=&quot;3&quot; data-index-in-node=&quot;58&quot;&gt;Digital Product Manager - Price Management (ContextIQ) (f/m/d)&lt;/strong&gt; en &lt;strong data-path-to-node=&quot;3&quot; data-index-in-node=&quot;124&quot;&gt;CDI&lt;/strong&gt; basé·e à &lt;strong data-path-to-node=&quot;3&quot; data-index-in-node=&quot;137&quot;&gt;Lille (Upline)&lt;/strong&gt;.&lt;/h2&gt;\n&lt;p data-path-to-node=&quot;4&quot;&gt;Au sein de l&#39;écosystème digital de Decathlon, notre équipe conçoit des solutions d&#39;aide à la décision pour les équipes Procurement à l&#39;échelle mondiale.&lt;span class=&quot;&quot;&gt; En synergie avec le Purchase COE (Center of Excellence),&lt;/span&gt; nous développons des produits comme ContextIQ, PYC et Datacost afin d&#39;éclairer la stratégie d&#39;achat par la donnée.&lt;span class=&quot;&quot;&gt; Nous recherchons un·e Product Manager passionné·e par la valeur métier,&lt;/span&gt;&lt;span class=&",
+      "postedAt": 1793732136,
       "score": 12,
       "reasons": [
-        "title: react",
-        "skill: react",
-        "skill: git"
+        "title: node",
+        "skill: git",
+        "skill: node"
       ]
     },
     {
-      "id": "arbeitnow-front-end-developer-rotterdam-148463",
+      "id": "arbeitnow-digital-product-manager-price-management-contextiq-lille-upline-nord-145521",
       "source": "Arbeitnow",
-      "title": "Front-end Developer",
-      "company": "Mendix",
-      "location": "Rotterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mendix/front-end-developer-rotterdam-148463",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/mendix/front-end-developer-rotterdam-148463",
+      "title": "Digital Product Manager - Price Management (ContextIQ)",
+      "company": "Junior Data Scientist - Downstream Demand Forecast - Value Chain ...",
+      "location": "Lille, Upline, Nord",
+      "url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/digital-product-manager-price-management-contextiq-lille-upline-nord-145521",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/digital-product-manager-price-management-contextiq-lille-upline-nord-145521",
       "tags": [
-        "R&D"
+        "Product Management"
       ],
-      "description": " \n \n  Are you a budding software enthusiast with a passion for innovation and a knack for problem-solving? Do you dream of building applications that truly make a difference, collaborating with a diverse team, and shaping the future of software development?  \n  If so, we'd love for you to join us at Mendix (a Siemens Company)!  &nbsp;  \n \n \n  About&nbsp;Mendix: The Leading Low-Code Application Development Platform  &nbsp;  \n \n \n  The software development industry is evolving, moving away from traditional approaches towards AI-assisted platforms that make building applications faster and smarter. Unlike traditional programming languages, where business logic can quickly become buried in layers of code,&nbsp;Mendix&nbsp;provides everyone involved in&nbsp;development&nbsp;a clear, visual understanding of what is&nbsp;being&nbsp;built. This approach enables&nbsp;business people, analysts, web developers, software engineers, and even CEOs to&nbsp;participate&nbsp;significantly, thereby creating better applications faster.  &nbsp;  \n \n \n  The&nbsp;Mendix&nbsp;Platform uses visual modeling to abstract long-form&nbsp;coding out of&nbsp;application development. Our customers use&nbsp;Mendix",
-      "postedAt": 1793502471,
+      "description": "&lt;h2 data-path-to-node=&quot;19&quot;&gt;Our &lt;strong data-path-to-node=&quot;19&quot; data-index-in-node=&quot;4&quot;&gt;Digital Procurement &amp;amp; Pricing team&lt;/strong&gt; is looking for a &lt;strong data-path-to-node=&quot;19&quot; data-index-in-node=&quot;56&quot;&gt;Digital Product Manager - Price Management (ContextIQ) (f/m/d)&lt;/strong&gt; on a &lt;strong data-path-to-node=&quot;19&quot; data-index-in-node=&quot;124&quot;&gt;Permanent Contract (CDI)&lt;/strong&gt; based in &lt;strong data-path-to-node=&quot;19&quot; data-index-in-node=&quot;158&quot;&gt;Lille (Upline)&lt;/strong&gt;.&lt;/h2&gt;\n&lt;p data-path-to-node=&quot;20&quot;&gt;Within Decathlon&#39;s digital organization, our team designs decision-support solutions for Procurement teams worldwide. Working hand in hand with the Purchase COE (Center of Excellence), we develop digital products such as ContextIQ, PYC, and Datacost to power strategic sourcing through context and data. We are looking for a Product Manager focused on business impact, user-centricity, and data-driven solutions to lead the evolution of ContextIQ.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h3 data-path-to-node=&quot;21&quot;&gt;YOUR FUTURE ",
+      "postedAt": 1793732136,
       "score": 12,
       "reasons": [
-        "title: software engineer",
-        "title: web developer"
+        "title: node",
+        "skill: git",
+        "skill: node"
       ]
     },
     {
@@ -1116,18 +1237,18 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-founding-ml-engineer-spectrum-168717",
+      "id": "arbeitnow-software-engineer-roboticist-munich-215313",
       "source": "Arbeitnow",
-      "title": "Founding ML Engineer (Spectrum)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-ml-engineer-spectrum-168717",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-ml-engineer-spectrum-168717",
+      "title": "Software Engineer - Roboticist",
+      "company": "Ekumenlabs",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/ekumenlabs/software-engineer-roboticist-munich-215313",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/ekumenlabs/software-engineer-roboticist-munich-215313",
       "tags": [
-        "Spectrum"
+        "Engineering"
       ],
-      "description": "&lt;p&gt;Software engineers and AI agents alike suffer from the same problem: finding that one person or place that will answer their tough, specific question. Many solutions promise to solve this with similarity search in vector databases. Unfortunately, finding the answer is often a puzzle with pieces to be collected across a myriad of contradictory sources and cannot be solved without surgical search and careful reasoning.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Spectrum collects data from an organization’s code, docs, and issues, and organizes knowledge in a unified ontology that AI agents can efficiently search through and reason over. We aim to revolutionize the semantic layer space for software-building organizations and move beyond specs that fall out of sync with code, introducing a living spec – one that’s extracted from the whole system and used to keep it aligned. Spectrum is meant to be the single source of truth for all product and architectural knowledge.&lt;/p&gt;\n&lt;p&gt;Spectrum is a resident of JetBrains&#39; startup incubator, with startup speed and autonomy, and backed by 25 years of developer tooling expertise. We are looking for a top-class ML Engineer who will help us",
-      "postedAt": 1793667320,
+      "description": "  #poweringyouringenuity   🚀  Our mission is to bridge top-level technology companies with engineering talent from across the globe. With presence in LATAM, USA and Europe, we empower companies by providing remote engineering teams of all levels tailored to the needs of each project.    Our teams are passionate about technology and thrive on challenges. We value technical expertise and a willingness to learn new things. Each development is tailored to the needs of each project, so being passionate about learning and using new languages, tools, and frameworks is part of our DNA. Our software engineering teams focus on best coding practices to ensure readability, reusability, and scalability of our systems' designs and developments.    We're looking for a Software/Robotics Engineer to join a project building a full robotics stack for an AGV (Automated Guided Vehicle), working directly on-site with our client in  Munich . This isn't a purely remote software role, we're seeking for someone comfortable across the full spectrum of robotics development: simulation, navigation, localization, behaviors, and tooling, while also getting hands-on with the physical robot in the field.  You'll ",
+      "postedAt": 1793763612,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1135,18 +1256,18 @@
       ]
     },
     {
-      "id": "arbeitnow-vp-software-engineering-nwps-work-from-home-us-355432",
+      "id": "arbeitnow-senior-software-engineer-managed-postgresql-390848",
       "source": "Arbeitnow",
-      "title": "VP, Software Engineering (NwPS)",
-      "company": "Vonage",
-      "location": "Work from Home - US",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vonage/vp-software-engineering-nwps-work-from-home-us-355432",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/vonage/vp-software-engineering-nwps-work-from-home-us-355432",
+      "title": "Senior Software Engineer (Managed PostgreSQL)",
+      "company": "Nebius",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-managed-postgresql-390848",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-managed-postgresql-390848",
       "tags": [
-        "API BU Engineering"
+        "Backend"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Join Vonage and help us innovate cloud communications for businesses worldwide!&lt;/strong&gt;&lt;/h2&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Job Title:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt; Head of NwPS Engineering&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Location:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt; Global / Remote (preference for US, UK, or Spain)&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;heading 1&quot;&gt;About the Role&lt;/span&gt;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134245418&amp;quot;:true,&amp;quot;134245529&amp;quot;:true,&amp;quot;335559738&amp;quot;:360,&amp;quot;335559739&amp;quot;:80}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;&lt;span data-ccp-parastyle=&quo",
-      "postedAt": 1793688916,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.&lt;/p&gt;\n&lt;p&gt;Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;amp;D.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The role&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;We&#39;re looking for a Senior Software ",
+      "postedAt": 1793775315,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1154,38 +1275,38 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-senior-frontend-developer-zurich-193922",
+      "id": "arbeitnow-senior-backend-engineer-379407",
       "source": "Arbeitnow",
-      "title": "Senior Frontend Developer",
-      "company": "Exeon Analytics",
+      "title": "Senior Backend Engineer",
+      "company": "Nebius",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-backend-engineer-379407",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-backend-engineer-379407",
+      "tags": [
+        "Backend"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.&lt;/p&gt;\n&lt;p&gt;Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;amp;D.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The role&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re looking for a Senior Backend Software Engineer to help develop our hyperscaling platform.&lt;br&gt;We have a lot of tasks on Golang and little",
+      "postedAt": 1793775315,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-software-test-engineer-bern-122043",
+      "source": "Arbeitnow",
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
       "location": "Remote job · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-senior-frontend-developer-zurich-193922",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-senior-frontend-developer-zurich-193922",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-122043",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-122043",
       "tags": [
-        "Development",
+        "Software Engineering",
         "Remote"
       ],
-      "description": "   80-100% | as soon as possible | Germany or Switzerland       About Exeon   Exeon is a Swiss cyber security company based in Zurich. Since 2016, we have been protecting critical infrastructures, financial institutions and enterprises whose operations fully rely on IT through AI-powered analysis of network communication. This makes the most sophisticated cyberattacks visible – attacks conventional tools fail to detect.&nbsp;We combine Swiss excellence with a flexible, remote-first, and collaborative culture, supporting passionate, ambitious professionals devoted to solving cybersecurity challenges and driving continuous innovation.      What your impact will be like:   As a Senior Frontend Developer at Exeon, you will be responsible for our UEBA (User and Entity Behaviour Analytics) product. You will work in a small cross-functional team of backend engineers, frontend engineers and quality assurance engineers on a data-heavy single-page application that enterprise customers use to analyze network traffic and identify potential security risks. This data is rendered as tables, graphs and dashboards. You will build out the frontend alongside our frontend engineers, while also helping",
-      "postedAt": 1793677885,
-      "score": 10,
-      "reasons": [
-        "title: frontend",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-staff-software-engineer-robotics-platform-zurich-200464",
-      "source": "Arbeitnow",
-      "title": "Staff Software Engineer - Robotics Platform",
-      "company": "Gravis Robotics",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/staff-software-engineer-robotics-platform-zurich-200464",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/staff-software-engineer-robotics-platform-zurich-200464",
-      "tags": [
-        "Platform"
-      ],
-      "description": " \n Gravis Robotics is a high-growth Series A start-up backed by SoftBank, bringing Physical AI to the construction industry, turning heavy construction machines into autonomous robots.&nbsp; \n Gravis began as an ETH Zurich spin-out, and our unique combination of learning-based automation and augmented remote control lets one operator safely conduct a fleet of earthmoving machines in a gamified environment.&nbsp; \n Backed by deep robotics research and now deployed across multiple countries with leading construction and equipment partners, our team is rapidly growing to bring this technology to a trillion-dollar industry.&nbsp; \n The Gravis RACK is a machine-agnostic retrofit kit that adds autonomy to excavators and wheel loaders from 10 to 100+ tonnes: LiDAR and camera sensing, GNSS RTK, networking hardware and rugged edge compute that works offline. Paired with the Slate tablet and our Copilot software, it lets an operator run a machine manually, with AI assistance, or fully autonomously.&nbsp;&nbsp; \n   About the Job   \n At Gravis, we build high tech systems that give machine operators superhuman capabilities. To adapt in real time to changes in the environment the Gravis Rack fus",
-      "postedAt": 1793502475,
+      "description": " Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.  Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen.     Must-have Anforderungen     Mehrjährige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten    Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray    Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform    Sehr gutes Deutsch und fliessendes Englisch       Nice-to-have Anforderungen     ISTQB Zertifizierung    Kenntnisse in Power Platform oder Azure       Das erwartet dich     Flexibler Homeoffice-Anteil, du entscheidest frei, ob du von zu Hause oder im Büro arbeites",
+      "postedAt": 1793741469,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1193,23 +1314,95 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
+      "id": "arbeitnow-remote-senior-staff-software-engineer-sap-connectors-462420",
       "source": "Arbeitnow",
-      "title": "Senior Full Stack Developer - Deepdesk",
-      "company": "AnywhereNow",
-      "location": "Remote job · Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
+      "title": "Senior Staff Software Engineer - SAP Connectors",
+      "company": "Fivetran",
+      "location": "Remote · Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fivetran/remote-senior-staff-software-engineer-sap-connectors-462420",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/fivetran/remote-senior-staff-software-engineer-sap-connectors-462420",
       "tags": [
-        "Deepdesk",
-        "Remote"
+        "Engineering Department"
       ],
-      "description": "   About Deepdesk       Deepdesk, part of AnywhereNow, powers AI Assistants and Virtual Agents for enterprise contact centres, helping brands such as Achmea, Vodafone and DHL boost productivity today while scaling for the future of customer experience. As part of AnywhereNow, a global leader in customer experience technology with 220 colleagues worldwide, we combine the agility of a scale-up with the strength of an established enterprise provider.       The Opportunity     We are looking for an experienced developer to join our small engineering team. The centre of the role is backend development in Python or Go and cloud infrastructure, with some front-end work alongside.      At Deepdesk, we are building “Augmented Intelligence” for the enterprise. Think Gmail Smart Compose for contact centres. We use machine learning to provide agents with real-time recommendations and autocomplete suggestions, supporting them in efficiently assisting customers. Alongside recommendations, we offer fully virtual assistants that can take care of repetitive tasks.      You will work on the services behind this: the Python and Go services and APIs, the data stores and the cloud infrastructure that r",
-      "postedAt": 1793547104,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica, arial, sans-serif; font-size: 10pt;&quot;&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica, arial, sans-serif; font-size: 10pt;&quot;&gt;Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica, arial, sans-serif; font-size: 10pt;&quot;&gt;Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves",
+      "postedAt": 1793786123,
       "score": 10,
       "reasons": [
-        "title: full stack",
+        "title: software engineer",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137624",
+      "source": "RemoteOK",
+      "title": "Senior Property Manager ENG",
+      "company": "StaffRight",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+      "tags": [
+        "exec",
+        "hr",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "php",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "marketing",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "description": " Join a team that values you. At StaffRight, we connect talented professionals with global opportunitiesâand weâre growing fast! With competitive pay, health insurance, paid time off (including national holidays), and a supportive HR team always in your corner, youâll love building your career with us.    Weâre looking for an experienced Senior Property Manager to oversee operations, lead a team of junior property managers, and ensure smooth day-to-day management of residential and/or commercial properties. The ideal candidate brings deep knowledge of U.S. property management, proven leadership skills, and the ability to balance tenant relations, administrative efficiency, and team management in a fast-paced environment.    What Youâll Be Doing:   Lead, mentor, and provide guidance to junior on-site property managers, ensuring best practices are followed across the team  Oversee tenant communications, lease renewals, and resolution of escalated tenant issues  Assist in managing leasing activities, including advertising, coordinating with your on-site team for property showings, applicant screening, and drafting lease agreements  Ensure compliance with lease terms, investi",
+      "postedAt": "2026-11-03T08:00:12+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137621",
+      "source": "RemoteOK",
+      "title": "Client Accounting Division Manager",
+      "company": "Burkland Associates",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621",
+      "tags": [
+        "exec",
+        "accounting",
+        "amazon",
+        "hr",
+        "sys admin",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "finance",
+        "video",
+        "content writing",
+        "ops",
+        "medical",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "part time",
+        "digital nomad"
+      ],
+      "description": "  About Us   Burkland's core purpose is to Accelerate Dreams. So often, turning dreams into reality helps change the world. We thrive at the forefront of this transformation. Startups desire our professionals as they are the best in the business. Startups seek our content because we are an industry thought leader. Startups trust our expertise, so founders can focus on their companies, products, and value-add. Because of our demonstrated value, our clients have raised more than $17.8B!  At Burkland, we lead with our Core Purpose. We do this for both our clients and our employees. We believe that leaning on our Core Values (Fresh Perspectives, Exponential Value, Empathy, Trusted Partner) will lead to happy clients and happy employees.  We are a remote-first company with over 185 team members, more than 800 clients, and a culture built on doing meaningful work with people who genuinely care about helping our clients grow. Come build something with us!    Role Summary   The Client Accounting Division Manager runs their division as a self-contained business unit within Burkland. The role owns the division's P&amp;L and staffing, and is accountable not only for its own scorecard but for ",
+      "postedAt": "2026-11-03T00:00:10+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1242,131 +1435,31 @@
       ]
     },
     {
-      "id": "remoteok-1137611",
+      "id": "remoteok-1136795",
       "source": "RemoteOK",
-      "title": "Virtual Destination Wedding Coordinator",
-      "company": "Destination Careers",
-      "location": "Colorado",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611",
+      "title": "Senior Software Engineer Case Execution",
+      "company": "Pivotal Health",
+      "location": "New York City",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
       "tags": [
-        "design",
-        "coordinator",
+        "dev",
+        "front end",
+        "python",
         "customer support",
-        "travel",
-        "legal",
-        "digital nomad"
-      ],
-      "description": "  Job Title: Virtual Destination Wedding Coordinator  \n  Location:  Remote \n &nbsp; \n  About Us:  \n We take the stress out of destination wedding planning by handling every detailâfrom venue selection to travel arrangements. Our team creates unforgettable, romantic experiences for couples who want to celebrate their love in extraordinary locations. \n &nbsp; \n  Job Overview:  \n We are hiring a  Destination Wedding Coordinator  to help plan and execute stunning weddings at luxury resorts, beaches, and unique international venues. This role involves collaborating with couples, vendors, and travel partners to ensure a seamless wedding experience. \\n      Responsibilities:  \n Work closely with couples to design and coordinate their dream wedding. \n Secure  wedding venues, decor, catering, and entertainment . \n Oversee event logistics, including scheduling and vendor communication. \n Manage guest accommodations, transportation, and group bookings. \n Ensure all legal requirements for destination weddings are met. \n Provide on-site or virtual support to clients leading up to their big day. \n Stay informed on wedding trends, venues, and industry best practices. \n     Qualifications:  \n Ex",
-      "postedAt": "2026-11-01T08:00:12+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137609",
-      "source": "RemoteOK",
-      "title": "Partner Operations Manager",
-      "company": "Mecka",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "tags": [
+        "design",
+        "admin",
         "exec",
-        "design",
-        "education",
-        "customer support",
-        "marketing",
-        "quality assurance",
-        "finance",
-        "robotics",
+        "senior",
         "ops",
-        "recruiter",
+        "sys admin",
+        "medical",
         "engineer",
+        "backend",
         "digital nomad"
       ],
-      "description": " About Mecka AI  Mecka AI is building the data infrastructure layer for robotics and embodied AI. We design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and validate humanoid and embodied AI systems. We work closely with frontier robotics teams to bridge real-world data, simulation, learning-based systems, and deployed hardware.   About the Role   Signing a capture partner is the start of the work. Getting that partner to steady, high-quality output takes onboarding, training, hardware, support, and reporting, and every step has to run on time.  As Partnership Operations Manager, you will own that path for our regional partnership leads so they can focus on finding and signing partners. This is a new function, so you will set the standards and tooling yourself and make them repeatable across regions.   What You Will Do      Deal support:  Prepare proposals and agreements from approved templates and keep a clean record of every partnerâs rates, volumes, and term dates.     Onboarding:  Set partners up on the platform, issue devices and accounts, and train their teams on capture st",
-      "postedAt": "2026-11-01T00:00:08+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "arbeitnow-medical-director-paris-274845",
-      "source": "Arbeitnow",
-      "title": "Medical Director",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/medical-director-paris-274845",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/medical-director-paris-274845",
-      "tags": [
-        "Clinical"
-      ],
-      "description": "  Making preventive health the default for every human in Europe      The mission   At Lucis, we believe healthcare should be preventive, not reactive. We’re building the operating system for human longevity to help people add more healthy years to their lives.    The role  Lucis analyses 110+ biomarkers, builds personalised clinical protocols, and delivers them through an AI-powered preventive health product. We are live in France and opening the UK, Portugal and Spain.  This role exists to turn clinical judgement into the medical standards the company can run on.  We are hiring a Medical Director to own Lucis's clinical direction and medical safety system.    You will:    Decide what we test and why, and to what clinical standard the service runs    Set the risk posture and the governance model: who signs what, how incidents are handled, what Lucis can claim    Own the certification call and path: medical device classification, CE, ISO, or stay out of scope, and the argument behind it    Hire and lead the clinical operations and safety team.    Represent Lucis clinically with labs, insurers, institutional partners and regulators, alongside the CMO    Set the standards that produc",
-      "postedAt": 1793677218,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-core-platform-growth-engineering-paris-321537",
-      "source": "Arbeitnow",
-      "title": "Core platform growth engineering",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/core-platform-growth-engineering-paris-321537",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/core-platform-growth-engineering-paris-321537",
-      "tags": [
-        "Product & tech"
-      ],
-      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .        The role   We've processed 200,000+ clinical tests across 4 countries with a team of 20. We're growing 10% week over week. And we're still early.  We need engineers who build systems, not features, people who own outcomes end-to-end, orchestrate AI to execute, and raise the bar for everyone around them.  You won't spend your days writing boilerplate. You'll write specs that agents execute, review AI-generated code with a critical eye, and make decisions that compound over time. This is what engineering looks like now. If that excites you, keep reading.  We'll shape the exact scope together, mobile, infra, platform, AI, full-stack, based on where you're strongest and where we need it most.         What we are looking for:      Backend: Membership &amp; payments.  A confirmed backend engineer (5+ years) who thrives on designing really reliable data models and services, wit",
-      "postedAt": 1793677218,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-ea-workplace-manager-paris-326414",
-      "source": "Arbeitnow",
-      "title": "EA / workplace manager",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/ea-workplace-manager-paris-326414",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/ea-workplace-manager-paris-326414",
-      "tags": [
-        "G&A"
-      ],
-      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .     The role   We’re looking for a strategic, proactive EA / workplace manager to amplify our founders impact and make Lucis run seamlessly. You will watch their back.  You’ll be the operational backbone of our Paris HQ, orchestrating founder logistics, shaping the company rhythm, and enabling the team to scale fast and smoothly.  You'll scale faster than the founders, and will grow faster than the company.      What you'll own      Founder velocity:  Owning the complex, multi-time-zone calendars and travel logistics to ensure the founders are always in the right place at the right time with the right information.     Assisting the founders in their day-to-day important events:  board meetings, client meetings, and co. You'll help founders be on top of their game.     Inbox &amp; communication:  Triaging high-volume inboxes and ensuring 100% accountability on follow-ups with pa",
-      "postedAt": 1793677218,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-lead-delivery-senior-project-manager-f-h-puteaux-7725",
-      "source": "Arbeitnow",
-      "title": "Lead Delivery /Senior Project Manager (F/H)",
-      "company": "ILLUIN Technology",
-      "location": "Paris La Défense",
-      "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/lead-delivery-senior-project-manager-f-h-puteaux-7725",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/lead-delivery-senior-project-manager-f-h-puteaux-7725",
-      "tags": [
-        "Delivery"
-      ],
-      "description": " LE CONTEXTE  :   Fondée en 2017 par des ingénieurs de CentraleSupélec,  ILLUIN Technology  est une scale-up française en pleine effervescence de plus de 200 passionnés.   Notre mission ? Déployer l'IA et les solutions digitales de pointe à grande échelle, avec une culture de l’excellence forgée sur le plateau de Paris-Saclay.  Notre force repose sur une double approche unique :     MAKE :  Des réalisations tech sur-mesure en GenAI, Data Science et Software Engineering.     BUY :  Une suite de produits propriétaires de pointe ( Dialogue, Automate, Analyze ) orchestrée par notre plateforme low-code  nAixt .    Propulsés par une croissance ultra-dynamique (15 M€ de CA en 2025 et une récente levée de fonds), nous structurons notre département Delivery. Nous recherchons un(e) leader capable d'allier rigueur opérationnelle et excellence technologique.    VOTRE RÔLE :   Rattaché(e) directement au pôle Delivery, vous occuperez un poste pivot de  Lead Delivery / Senior Project Manager . Véritable \"Leader de terrain\", vous mènerez de front plusieurs projets complexes engagés au forfait dans un univers Data / IA stimulant, tout en devenant l’artisan de l'industrialisation de nos processus in",
-      "postedAt": 1793677218,
+      "description": " About Pivotal Health  Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape.  Today, many providers face persistent underpayment from health insurance companies, despite delivering high-quality care. While processes like IDR (Independent Dispute Resolution) were designed to promote fairness, theyâre often administrative-heavy, time-consuming, and difficult to navigate without the right tools.  Pivotal Health combines software, data, and service into a seamlessly integrated, AI-driven platform that simplifies these complex reimbursement workflows. We help providers efficiently dispute underpaid claims, reduce administrative burden, and recover the reimbursement theyâre entitled to; without adding more work to already stretched teams.  Our full-service IDR solution is just the starting point. Weâre building solutions that enable providers to operate with clarity, control, and confidence across the reimbursement journey.   About the Role   We're hiring a Senior Software Engineer to join Pivotal's Case Execution team. This team owns critical parts of the case execution workflow, includ",
+      "postedAt": "2026-08-16T00:00:03+00:00",
       "score": 9,
       "reasons": [
         "title: software engineer",
@@ -1374,18 +1467,37 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-data-scientist-amsterdam-212610",
+      "id": "arbeitnow-fullstack-software-developer-java-angular-nuremberg-368499",
       "source": "Arbeitnow",
-      "title": "Senior Data Scientist",
-      "company": "Wypoon",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-scientist-amsterdam-212610",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-scientist-amsterdam-212610",
+      "title": "Fullstack Software Developer (m/w/d) – Java, Angular",
+      "company": "isento GmbH",
+      "location": "Nuremberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/fullstack-software-developer-java-angular-nuremberg-368499",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/fullstack-software-developer-java-angular-nuremberg-368499",
       "tags": [
-        "Data Engineer"
+        "Web Development"
       ],
-      "description": " \n At Wypoon Technologies, we are looking for an experienced Data Scientist with a strong focus on Generative AI to join an innovative AI team within a leading financial services organization in the Netherlands. \n In this role, you will design, develop, and deploy advanced GenAI solutions that solve complex business challenges and deliver real value. You will work at the intersection of Data Science, Generative AI, and Software Engineering, building scalable, reliable, and responsible AI applications. \n You will collaborate closely with engineers, product teams, and business stakeholders to accelerate GenAI adoption across different business domains \n \n &nbsp; \n  Why Join Us?  &nbsp;  \n &nbsp; \n  At Wypoon Technologies, you’ll work on dynamic projects for industry leaders such as   Heineken, ING, ASML, Philips, and Shell  , tackling exciting challenges and delivering tailored enterprise solutions.&nbsp;  \n &nbsp; \n  Here’s what makes us stand out:&nbsp;  \n ✔  Impactful Work  : Shape the future of our clients’ digital landscapes.&nbsp;  \n ✔  Innovative Environment  : Collaborate within a supportive team that values learning and growth.&nbsp;  \n ✔  State-of-the-art technology  : Acce",
-      "postedAt": 1793653689,
+      "description": " Deine Rolle  Du möchtest Software ganzheitlich entwickeln und das Zusammenspiel aus modernem Frontend und stabiler Backend-Architektur aktiv prägen? Dann bist Du bei isento genau richtig.  Als Fullstack Developer verbindest Du interaktive Benutzeroberflächen in Angular und TypeScript mit performanten Services in Java und Spring Boot. Dabei geht es um moderne Cloudanwendungen, durchdachte APIs und datengetriebene Architekturen, die wir im Team konzipieren, automatisiert testen und zuverlässig betreiben.  Du arbeitest dabei in unseren eigenen, eingespielten Entwicklungsteams an anspruchsvollen Kundenprojekten oder unseren eigenen Produkten. Bei isento hast du kurze Wege und den Freiraum, Deine eigenen Ideen einzubringen und mitzugestalten.  Deine Aufgaben bei isento    Mit Deinem crossfunktionalen Team entwickelst Du eine Cloudanwendung zur Digitalisierung und Automatisierung zentraler Geschäftsprozesse    Du begleitest Deine Features über den gesamten Lebenszyklus: von der technischen Konzeption und Entwicklung über automatisierte Tests bis hin zum Deployment und Monitoring    Verständlicher Code, Unit- und Integrationstests, Code Reviews, Wissensaustausch und Pair Programming gehö",
+      "postedAt": 1793777442,
+      "score": 9,
+      "reasons": [
+        "title: frontend",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-intern-c-bremen-424029",
+      "source": "Arbeitnow",
+      "title": "Software Engineer (Intern, C#)",
+      "company": "constructortech",
+      "location": "Bremen",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/software-engineer-intern-c-bremen-424029",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/constructortech/software-engineer-intern-c-bremen-424029",
+      "tags": [
+        "Internship"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;h2&gt;Our mission&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;bub-content-body&quot;&gt;\n&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;\n&lt;p&gt;Constructor’s mission is to enable all educational organisations to provide high-quality digital education to 10x people with 10x efficiency.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;With strong expertise in machine intelligence and data science, Constructor’s all-in-one platform for education and research addresses today’s pressing educational challenges: access inequality, tech clutter, and low engagement of students.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Please send your resume in English only.&lt;/strong&gt;&lt;/h3&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Interns are NOT eligible for equipment and other benefits as the position is temporary.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re seeking a motivated &lt;strong&gt;Computer Science student&lt;/strong&gt; to join our backend engineerin",
+      "postedAt": 1793764518,
       "score": 9,
       "reasons": [
         "title: software engineer",
@@ -1393,60 +1505,41 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-net-woerden-145760",
+      "id": "arbeitnow-frontend-engineer-intern-bremen-226532",
       "source": "Arbeitnow",
-      "title": "Software Engineer (.NET)",
-      "company": "CCS Connects",
-      "location": "Woerden, Utrecht, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-145760",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-145760",
+      "title": "Frontend Engineer (Intern)",
+      "company": "constructortech",
+      "location": "Bremen",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/frontend-engineer-intern-bremen-226532",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/constructortech/frontend-engineer-intern-bremen-226532",
       "tags": [
-        "Development"
+        "Internship"
       ],
-      "description": "  Your Mission    As a Software Engineer at CCS, you'll play a key role in our modernization journey—bridging legacy systems with future-ready solutions. You’ll help deliver innovative, high-quality software that transforms how our clients operate. Modernization is not just about adopting new technologies—it’s about continuously improving how we build, learn, and grow. You love experimenting, learning by doing, and inspiring others to raise the bar.     What You’ll Do     You’ll join a team focused on modernizing our insurance back-office systems—critical components in our clients' ecosystems. Your main focus will be on  SureCore , our next-gen solution that works in tandem with  Level , our trusted legacy platform. This hybrid approach lets us evolve system functionality domain by domain. You enjoy working at the intersection of old and new tech, and you thrive on technical challenges that require creativity and collaboration.        Your Skills &amp; Experience    &nbsp;    Must-have:   &nbsp;    Strong experience with .NET    Hands-on knowledge of Domain-Driven Design (DDD)    Comfortable with Docker and container orchestration    Proficient in GitHub for version control and col",
-      "postedAt": 1793537492,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;h2&gt;Our mission&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;bub-content-body&quot;&gt;\n&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;\n&lt;p&gt;Constructor’s mission is to enable all educational organisations to provide high-quality digital education to 10x people with 10x efficiency.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;With strong expertise in machine intelligence and data science, Constructor’s all-in-one platform for education and research addresses today’s pressing educational challenges: access inequality, tech clutter, and low engagement of students.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Please send your resume in English only.&lt;/strong&gt;&lt;/h3&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Interns are NOT eligible for equipment and other benefits as the position is temporary.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;With this internship, the Frontend Engineering Intern will get full integration into the frontend development team, and he will try a full development cycle.&lt;/p&gt;\n&lt;h",
+      "postedAt": 1793764518,
       "score": 9,
       "reasons": [
-        "title: software engineer",
+        "title: frontend",
         "skill: git"
       ]
     },
     {
-      "id": "arbeitnow-senior-fullstack-engineer-java-react-amsterdam-35344",
+      "id": "arbeitnow-software-engineer-transport-customs-paris-paris-213224",
       "source": "Arbeitnow",
-      "title": "Senior Fullstack Engineer - Java, React (x/f/m)",
-      "company": "Doctolib",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/doctolib/senior-fullstack-engineer-java-react-amsterdam-35344",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/doctolib/senior-fullstack-engineer-java-react-amsterdam-35344",
+      "title": "Software Engineer - Transport & Customs (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-transport-customs-paris-paris-213224",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-transport-customs-paris-paris-213224",
       "tags": [
         "Engineering"
       ],
-      "description": "&lt;h2&gt;&lt;strong&gt;About Doctolib&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Doctolib Connect is a secure medical communication app designed for healthcare professionals.&lt;/p&gt;\n&lt;p&gt;More than 1M healthcare professionals use Doctolib Connect to discuss and coordinate patient care with colleagues both within and beyond their organizational walls. Today, Doctolib Connect is the largest medical network in Europe.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Since 2013, Doctolib has been striving for a healthier world by providing new-generation technology. With more than 2,800 employees across France, Italy, Germany and the Netherlands, Doctolib improves the daily lives of healthcare professionals and serves more than 80 million Europeans, offering a fast, frictionless, and secure journey for all their care needs.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Senior Fullstack Engineer&amp;nbsp;&lt;/strong&gt;to join the &lt;strong&gt;Doctolib Connect &lt;/strong&gt;team in &lt;strong&gt;Amsterdam, Netherlands&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;As a &lt;strong&gt;Fullstack Engineer&lt;/strong&gt;, your mission will be to ",
-      "postedAt": 1793429718,
+      "description": "&lt;p&gt;Notre équipe &lt;strong&gt;&lt;em&gt;Transport&amp;amp;Customs Engineering&lt;/em&gt;&lt;/strong&gt; recherche un·e &lt;strong&gt;ingénieur.e développement logiciel backend&lt;/strong&gt; basé·e à Lille.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Au cœur de &lt;/em&gt;&lt;strong&gt;&lt;em&gt;Value Chain &lt;/em&gt;&lt;/strong&gt;&lt;em&gt;et rattaché à&lt;/em&gt;&lt;strong&gt;&lt;em&gt; Decathlon Digital&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;, les équipes &lt;/em&gt;&lt;strong&gt;&lt;em&gt;united&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; du sous domaine&lt;/em&gt;&lt;strong&gt;&lt;em&gt; Fulfillment, Logistics, Transport and Customs (FLTC)&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; ont un rôle très important à jouer avec un impact direct sur l’&lt;/em&gt;&lt;strong&gt;&lt;em&gt;expérience client&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; à travers la disponibilité de nos produits et les délais de livraison.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Notre équipe &lt;/em&gt;&lt;strong&gt;&lt;em&gt;Transport&amp;amp;Customs Engineering&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; design, développe et assure la maintenance de nos &lt;/em&gt;&lt;strong&gt;&lt;em&gt;outils digitaux interconnectés&lt;/em&gt;&lt;/stro",
+      "postedAt": 1793732136,
       "score": 9,
       "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-solutions-engineer-london-184428",
-      "source": "Arbeitnow",
-      "title": "Senior Solutions Engineer",
-      "company": "Andela",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andela/senior-solutions-engineer-london-184428",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/andela/senior-solutions-engineer-london-184428",
-      "tags": [
-        "Solutions"
-      ],
-      "description": " About Andela  At Andela, we know brilliance is evenly distributed around the world, but opportunity is not. For over 10 years, Andela has connected customers with top global, remote technical talent from over 135 countries, the majority residing in emerging markets across Africa and Latin America. As one of the world's largest talent marketplaces, Andela gives companies the flexibility to deploy qualified technologists fast — across Application Development, AI, Cloud &amp; DevOps, and Data Engineering. Andela Talent Cloud (ATC) is our platform for managing the complete global talent lifecycle.    We're at the intersection of two industry transformations — one in staffing and hiring, one in software development — both accelerated by AI. We're looking for a builder who wants to own the platform at the center of it.    About the Role  Andela is building a modern Sales Engineering function that helps customers solve complex technology and organizational challenges across our three primary offerings:     Talent Solutions  - specialized technical expertise that works as part of the customer’s team.     AI Solutions  - managed delivery and repeatable solutions where Andela owns defined o",
-      "postedAt": 1793688011,
-      "score": 8,
-      "reasons": [
-        "location: Remote",
-        "location: Africa"
+        "title: software engineer",
+        "skill: git"
       ]
     }
   ]

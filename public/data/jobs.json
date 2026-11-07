@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-06T12:43:40.529Z",
+  "scannedAt": "2026-11-07T11:31:09.995Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 38,
+  "count": 45,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -212,6 +212,82 @@
         "skill: git",
         "skill: node",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137688",
+      "source": "RemoteOK",
+      "title": "Senior Vue Developer",
+      "company": "Lemon.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+      "tags": [
+        "engineer",
+        "dev",
+        "full time",
+        "full stack",
+        "remote",
+        "remote work",
+        "javascript",
+        "typescript",
+        "php",
+        "laravel",
+        "node",
+        "dot net",
+        "python",
+        "front end"
+      ],
+      "description": "  Lemon.io  helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us.  New roles for Senior Vue Engineers come in all the time, and several are open right now.   Two ways to work with clients     Contract:  most roles are contract-based. You join the clientâs team and work as part of it.   Direct hire:  some clients hire engineers full-time, and we support you through the process.   Because companies trust our vetting, applying through  Lemon.io  is often a shortcut. You get to the client faster than going through their full hiring process on your own.   What you get    Competitive rate, based on your seniority and skills  We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.  Flexible schedule. Work async or with a small overlap with the teamâs hours.  No micromanagement, no screen trackers  Direct work with clients, most of them with technical backgrounds  Ongoing support from your application through every project, plus a community of engi",
+      "postedAt": "2026-11-05T12:45:45+00:00",
+      "score": 30,
+      "reasons": [
+        "title: javascript",
+        "title: full stack",
+        "title: node",
+        "skill: javascript",
+        "skill: node",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137691",
+      "source": "RemoteOK",
+      "title": "Feltsense AI Engineer",
+      "company": "Silver.dev",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+      "tags": [
+        "design",
+        "sys admin",
+        "exec",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "javascript",
+        "cloud",
+        "postgres",
+        "typescript",
+        "node",
+        "node.js",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "description": " About the company  We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2.  We're working at the frontier of autonomous systems, building agents that don't just chat, but run entire businesses.  Our system identifies business opportunities through market signals, validates ideas with live ad tests, builds and launches software products, and brings in human experts wherever agents fall short. That loop already runs end to end: from idea to launched product to first revenue.  Over the next 12 months, our focus is on reliability, throughput, and self-improvement, making every launch better than the last.    About the role  We're looking for a hands-on AI Engineer to take ownership of the architecture and development of our autonomous agent system.  You'll lead the technical direction of the platform, building multi-agent orchestration systems, self-improving agent harnesses, and AI-powered backend services. This is a highly technical leadership role that combines architectural decision-making with hands-on engineering. ",
+      "postedAt": "2026-11-05T16:00:07+00:00",
+      "score": 27,
+      "reasons": [
+        "title: javascript",
+        "title: node",
+        "skill: javascript",
+        "skill: git",
+        "skill: node",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -493,13 +569,12 @@
       ],
       "description": " What Youâll Do  ãDesign the architecture of the application and make key technical decisions.  ãBuild and maintain scalable features across the Ringbook web application.  ãIntegrate AI capabilities throughout the platform to create innovative features.  ãDevelop clean, responsive, and intuitive frontend interfaces.  ãDesign and optimize backend APIs, database schemas, and data pipelines.  ãCollaborate closely with the CEO on product and technical strategies.  ãContribute to code reviews, architectural decisions, and technical planning.  ãEnsure security and compliance standards are met, as expected for financial software.     What You Should Know  This is a small team environmentâyouâll be one of a 3-person team.  As an early-stage startup, youâll have the opportunity to shape the platform and grow with the company.  Youâll gain hands-on experience with accounting knowledge as part of the work. This position is a replacement and you'll work from the existing code base.  Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.     Our Tech Stack  Frontend: React + TypeScript  Backend: tRPC, Drizzle ORM + PostgreSQL",
       "postedAt": "2026-11-03T14:53:55+00:00",
-      "score": 21,
+      "score": 19,
       "reasons": [
         "title: frontend",
         "title: react",
         "skill: react",
-        "location: Remote",
-        "posted this week"
+        "location: Remote"
       ]
     },
     {
@@ -562,28 +637,6 @@
       "score": 19,
       "reasons": [
         "title: frontend",
-        "title: full stack",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-full-stack-software-engineer-govtech-ai-berlin-246631",
-      "source": "Arbeitnow",
-      "title": "Senior Full Stack Software Engineer (w/m/d) (GovTech & AI)",
-      "company": "Lexaru GmbH",
-      "location": "Berlin · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/lexaru-gmbh/senior-full-stack-software-engineer-govtech-ai-berlin-246631",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/lexaru-gmbh/senior-full-stack-software-engineer-govtech-ai-berlin-246631",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " Kurzprofil der Rolle  Wir suchen eine:n Senior Full Stack Software Engineer (w/m/d) mit starkem Fokus auf Web-Produktentwicklung und AI/LLM-Integration. Du baust unser Team langfristig technisch mit auf und gestaltest unsere GovTech-Plattform für öffentliche Verwaltungen mit.  Standort: Remote-first aus Deutschland oder Österreich (mit gelegentlichen Teamtreffen nach Absprache und der Möglichkeit der Nutzung von Büros in Garching)  Start: Voraussichtlich ab 01.01.2027; den Einstiegstermin vereinbaren wir flexibel mit dir.  Vergütung: Gehalt nach Erfahrung und Expertise; Bonuszahlungen vorgesehen, Mitarbeiterbeteiligungen möglich.   Gesetzlich geforderte Information für Beschäftigung mit Arbeitsort Österreich, absolutes Mindestgehalt:  In Österreich beträgt die Mindestvergütung auf Basis des IT-KV 2026 ab 4.061 € brutto monatlich bei 38,5 Wochenstunden, zuzüglich Sonderzahlungen. Das individuell geltende Mindestentgelt ergibt sich aus der Einstufung und den anrechenbaren Vordienstzeiten. Wir sind ausdrücklich bereit, über diesem Mindestentgelt zu bezahlen.  Über uns  Lexaru ist ein junges GovTech-/LegalTech-Startup, das Verwaltungsprozesse mit modernen Anwendungen digitalisiert. Un",
-      "postedAt": 1793963125,
-      "score": 19,
-      "reasons": [
-        "title: software engineer",
         "title: full stack",
         "skill: git",
         "location: Remote"
@@ -756,24 +809,23 @@
       ]
     },
     {
-      "id": "arbeitnow-blockchain-engineer-zug-400842",
+      "id": "arbeitnow-software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
       "source": "Arbeitnow",
-      "title": "Blockchain Engineer",
-      "company": "Blockvora",
-      "location": "Zug · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842",
+      "title": "Software Engineering Intern - Internal Developer Platform",
+      "company": "Tomtom",
+      "location": "Amsterdam, The Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
       "tags": [
-        "Remote",
-        "Software Development"
+        "Platform Engineering"
       ],
-      "description": " The role  We are hiring a Blockchain Engineer to design and implement smart contracts and chain integrations. You will work closely with backend and product teams to ship secure, production-ready on-chain systems. This is a hands-on role focused on correctness, gas efficiency, and operational safety.  What you'll do   Design and implement smart contracts  Integrate on-chain systems with backend and frontend services  Write tests, deployment scripts, and upgrade paths  Review contract security and operational risks  Support indexing, events, and transaction monitoring  Collaborate on token, custody, and market flows   What we're looking for  Must-have experience and skills for this role.   3+ years of software engineering experience  Strong Solidity or equivalent smart contract experience  Understanding of EVM fundamentals and common patterns  Experience with Hardhat / Foundry (or similar)  Ability to reason about security and edge cases  Comfort collaborating with backend and product teams   Nice to have   Audit experience or formal verification exposure  L2 networks (Polygon, Arbitrum, Optimism)  ethers.js / web3.js integrations  RWA, DeFi, or fintech product experience   Tech st",
-      "postedAt": 1793899873,
-      "score": 16,
+      "description": " We build Frontstage, TomTom's developer portal based on Backstage, and Watchtower, the service that collects data behind it. Together they help engineering teams see what software they own and how it is doing, for example on security, quality and cost.   What you'll do:  \n Join a friendly team of engineers and pick up a project of your own, with a mentor to guide you \n Help build new pages and scorecards in Frontstage using TypeScript and React \n Help extend Watchtower, our TypeScript and PostgreSQL backend, with new data sources and APIs \n Work on features that matter to our users, for example showing teams what their services cost on our Kubernetes platform \n Help keep Frontstage up to date with new Backstage releases \n Participate in the full cycle: understanding what users need, designing a solution, building, testing and releasing it \n Build iteratively using agile methodologies, with your code reviewed by the team \n  What you'll need:  \n Being enrolled in a Dutch university until at least September 2027, so the entire duration of the internship \n Being located in Amsterdam or cities close by to be able to commute to the office at least twice a week \n Available for at least 3",
+      "postedAt": 1794010121,
+      "score": 15,
       "reasons": [
-        "title: frontend",
+        "title: react",
         "title: software engineer",
-        "location: Remote"
+        "skill: react"
       ]
     },
     {
@@ -792,7 +844,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTM0LjEzOC42MC44MQ== when applying to show you read the job post completely (#RMTM0LjEzOC42MC44MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMjAuMTY5Ljc1LjE5Mg== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjE5Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -815,7 +867,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTM0LjEzOC42MC44MQ== when applying to show you read the job post completely (#RMTM0LjEzOC42MC44MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMjAuMTY5Ljc1LjE5Mg== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjE5Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -838,7 +890,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTM0LjEzOC42MC44MQ== when applying to show you read the job post completely (#RMTM0LjEzOC42MC44MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuMTY5Ljc1LjE5Mg== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjE5Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -877,6 +929,26 @@
       "reasons": [
         "title: javascript",
         "skill: javascript",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-technical-support-engineer-germany-44509",
+      "source": "Arbeitnow",
+      "title": "Technical Support Engineer (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-support-engineer-germany-44509",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-support-engineer-germany-44509",
+      "tags": [
+        "Operations"
+      ],
+      "description": "  Who We Are   We are a fast-growing embodied AI company building robots that reason and act in real warehouse and factory environments. Our AI-powered systems help businesses streamline operations, boost productivity and transform physical work.    Overview   We are seeking a highly motivated and technically strong individual to join our Technical Support team. You will be responsible for providing exceptional support to our customers, ensuring smooth operation and rapid resolution of technical issues. You will remotely access and diagnose robots using tools like SSH, Docker and Python and guiding customers through structured problem-solving processes on-site and collaborating with internal teams to resolve complex hardware and software issues. This role involves significant travel (approximately 50-75%) to customer sites across Europe.    Your Responsibilities    Support :    Provide first-line technical support to customers for our AI robotics systems.    Serve as the primary point of contact for customers, delivering technical support with a focus on clear communication, active listening, and empathetic problem-solving to ensure a positive customer experience.    Diagnose and t",
+      "postedAt": 1794044416,
+      "score": 13,
+      "reasons": [
+        "title: react",
+        "skill: react",
         "location: Remote"
       ]
     },
@@ -983,22 +1055,62 @@
       ]
     },
     {
-      "id": "arbeitnow-staff-software-engineer-security-london-174793",
+      "id": "arbeitnow-software-engineering-intern-paris-230291",
       "source": "Arbeitnow",
-      "title": "Staff Software Engineer - Security",
-      "company": "Flow Engineering",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flow-engineering/staff-software-engineer-security-london-174793",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/flow-engineering/staff-software-engineer-security-london-174793",
+      "title": "Software Engineering Intern",
+      "company": "Datadog",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/software-engineering-intern-paris-230291",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/software-engineering-intern-paris-230291",
       "tags": [
-        "Engineering"
+        "Engineering Interns"
       ],
-      "description": "  About Flow   Flow Engineering is an AI-native requirements platform for modern engineering organizations, enabling hardware teams to collaborate with AI agents to design, validate, and evolve complex systems with speed and rigor.   About the role   Our customers in defense, aerospace and more trust us with sensitive systems requirements. That means security is a first-order part of the product, so we’re looking for a Staff Software Engineer to own it.  This is our first dedicated security hire, so you'll define the security architecture, harden the platform, and build out the compliance posture. Since LLMs and agentic workflows sit at the center of what we do, you'll also lead how we secure them.   What you'll do     Own security architecture across the platform: threat modeling, secure design reviews, and the standards we build against.    Harden the full stack, from application security to cloud infrastructure (identity, network, secrets), tenant isolation, and data protection.    Drive SOC 2 and get us ready for the certifications defense and aerospace customers ask about, including export control and ITAR.    Secure our AI and agentic systems: prompt injection, data leaking t",
-      "postedAt": 1793958016,
+      "description": "&lt;p&gt;We’re looking for Software Engineering Interns to help build and scale the systems that power Datadog’s observability and security platform. Interns contribute directly to real-world engineering challenges across backend, frontend, infrastructure, data engineering, and developer tooling while working alongside experienced engineers and mentors. You’ll help design, build, and improve systems that process and analyze massive volumes of metrics, logs, and application data in real time. Whether you’re interested in distributed systems, Kubernetes, AI-powered products like Bits AI, or developer platform tooling, you’ll work on meaningful projects that deliver impact for customers at global scale.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Contribute to production systems that process and analyze ",
+      "postedAt": 1794023718,
+      "score": 12,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer"
+      ]
+    },
+    {
+      "id": "arbeitnow-platform-software-engineer-amsterdam-the-netherlands-313114",
+      "source": "Arbeitnow",
+      "title": "Platform Software Engineer",
+      "company": "Tomtom",
+      "location": "Amsterdam, The Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-software-engineer-amsterdam-the-netherlands-313114",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-software-engineer-amsterdam-the-netherlands-313114",
+      "tags": [
+        "PE Platform Engineering"
+      ],
+      "description": " \n The Developer Enablement &amp; Security (DE&amp;S) team within Platform Engineering owns the tooling that TomTom engineers use to write, build, store and secure code. This covers GitHub platform management, artifact management with JFrog Artifactory, security scanning, developer tooling and AI governance platforms. We treat internal developers as our customers and aim to make the secure path the easy path. \n   What you will do   \n \n \n Administer and automate GitHub Enterprise: repository settings, rulesets, access and governance across a large repository estate. \n \n \n Operate and improve JFrog Artifactory, including repository configuration, cleanup, permissions and support for our hybrid cloud setup. \n \n \n Replace repetitive admin work with scripts and automation using Python, Bash and REST APIs. \n \n \n Build and maintain GitHub Actions workflows and support teams whose pipelines pull and publish packages. \n \n \n Manage platform configuration as code with Terraform or similar tools. \n \n \n Use AI tools to speed up automation and support work, and help developers adopt them safely in line with our AI governance approach. \n \n \n Take ownership of well-defined platform tasks from star",
+      "postedAt": 1794010121,
       "score": 12,
       "reasons": [
         "title: software engineer",
-        "title: full stack"
+        "skill: git",
+        "skill: rest api"
+      ]
+    },
+    {
+      "id": "arbeitnow-account-executive-southern-africa-london-243250",
+      "source": "Arbeitnow",
+      "title": "Account Executive - Southern Africa",
+      "company": "Everfield",
+      "location": "Europe - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everfield/account-executive-southern-africa-london-243250",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/everfield/account-executive-southern-africa-london-243250",
+      "tags": [
+        "Frontu"
+      ],
+      "description": "  About Everfield   Everfield buys, builds, and grows European vertical market and specialist software companies, providing them with the tools they need to move to the next level. Our mission is to foster ambition, fuel growth, and unlock opportunities for Europe’s software ecosystem.  Companies in the Everfield ecosystem follow a decentralised model, maintaining their team, brand, and offices, while focusing on what they do best - building products and supporting customers. Everfield provides support in talent acquisition, HR, and access to a team of experts in building and growing European B2B SaaS companies who consult on financial and operational topics. Founded in 2022, Everfield has an ecosystem presence in 9 countries, and growing.     About Frontu   Frontu is a B2B SaaS Field Service Management (FSM) platform built for the companies that keep the world running - heavy machinery, agriculture, construction, material handling, and mining. Our platform digitises field operations for 7,000+ technicians across 20 countries, plugging directly into existing ERP systems as a powerful mobile layer.  We are part of Everfield, a European private equity group that builds and grows vert",
+      "postedAt": 1794033627,
+      "score": 11,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "location: Africa"
       ]
     },
     {
@@ -1059,58 +1171,19 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-frontend-softwareentwickler-berlin-92048",
+      "id": "arbeitnow-remote-software-engineer-ai-assisted-development-basel-371528",
       "source": "Arbeitnow",
-      "title": "Senior Frontend-Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "location": "Berlin · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-frontend-softwareentwickler-berlin-92048",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-frontend-softwareentwickler-berlin-92048",
+      "title": "Software Engineer – AI-Assisted Development (m/w/d)",
+      "company": "DocCheck AG",
+      "location": "Homeoffice · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/doccheck-ag/remote-software-engineer-ai-assisted-development-basel-371528",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/doccheck-ag/remote-software-engineer-ai-assisted-development-basel-371528",
       "tags": [
-        "Remote",
-        "Web Development"
+        "IT",
+        "Remote"
       ],
-      "description": " Über uns:  Du begeisterst Dich für moderne Webanwendungen, durchdachte Softwarearchitekturen und leistungsstarke Single-Page-Applikationen? Du legst Wert auf sauberen Code und innovative Frontend-Lösungen? Dann könnte TecFox genau der richtige nächste Schritt für Deine Karriere sein!  Wir, die TecFox GmbH, sind ein zukunftsorientiertes IT-Dienstleistungsunternehmen mit Wurzeln in der Region Braunschweig/Wolfsburg. Wir realisieren bundesweit IT-Projekte für namhafte Unternehmen aus unterschiedlichsten Branchen. Mit unserem Know-how und unserer langjährigen Erfahrung unterstützen wir unsere Kunden bei der Neu- und Weiterentwicklung moderner IT-Lösungen. Bei TecFox erwarten Dich anspruchsvolle und abwechslungsreiche Projekte in einer angenehmen Arbeitsatmosphäre.  Deine Aufgaben bei uns:  Als Frontend-Entwickler:in bist Du für die Gestaltung und Umsetzung moderner Benutzeroberflächen verantwortlich und bringst Deine Expertise aktiv in technische und qualitätsbezogene Entscheidungsprozesse ein:    Selbstständige Einarbeitung in die fachlichen Anforderungen und Rahmenbedingungen des zu entwickelnden Frontends    Konzeption und Dokumentation geeigneter Architektur- und Umsetzungsvorschl",
-      "postedAt": 1793964701,
-      "score": 10,
-      "reasons": [
-        "title: frontend",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-fullstack-softwareentwickler-berlin-291624",
-      "source": "Arbeitnow",
-      "title": "Senior Fullstack-Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "location": "Berlin · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-fullstack-softwareentwickler-berlin-291624",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-fullstack-softwareentwickler-berlin-291624",
-      "tags": [
-        "Remote",
-        "Web Development"
-      ],
-      "description": " Über uns:  Du möchtest moderne Softwarelösungen entwickeln und dabei sowohl im Backend als auch im Frontend aktiv mitwirken? Du interessierst Dich für skalierbare Systemarchitekturen, innovative Technologien und die Zusammenarbeit in agilen Teams? Dann bist Du bei TecFox genau richtig!  Wir, die TecFox GmbH, sind ein zukunftsorientiertes IT-Dienstleistungsunternehmen mit Wurzeln in der Region Braunschweig/Wolfsburg. Wir realisieren bundesweit IT-Projekte für namhafte Unternehmen aus verschiedensten Branchen. Mit unserem Know-how und unserer langjährigen Erfahrung unterstützen wir unsere Kunden bei der Entwicklung und Weiterentwicklung moderner IT-Lösungen. Bei TecFox erwarten Dich spannende, anspruchsvolle und technisch herausfordernde Projekte in einem angenehmen Arbeitsumfeld.  Deine Aufgaben bei uns:  Als Fullstack-Entwickler:in bist Du an der ganzheitlichen Umsetzung moderner Softwarelösungen beteiligt – von der ersten Konzeption bis zur kontinuierlichen Weiterentwicklung. Dabei arbeitest Du eng mit verschiedenen Fachbereichen und Entwicklungsteams zusammen:    Entwicklung und Wartung skalierbarer Anwendungen auf Basis von Microservices    Fullstack-Entwicklung mit Spring Boot",
-      "postedAt": 1793964699,
-      "score": 10,
-      "reasons": [
-        "title: frontend",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-staff-software-engineer-agentic-platform-476548",
-      "source": "Arbeitnow",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "company": "tide",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tide/staff-software-engineer-agentic-platform-476548",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/tide/staff-software-engineer-agentic-platform-476548",
-      "tags": [
-        "One Platform"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt;BOUT TIDE&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.&lt;/p&gt;\n&lt;p&gt;Tide is transforming the small business banking market and now supports over 2 million members globally across the UK, India, Germany and France.&lt;/p&gt;\n&lt;p&gt;Using advanced technology, all solutions are designed with SMEs in mind. With quick onboarding, low fees and innovative features, we thrive on making data driven decisions to serve our mission: to help SMEs save time and money so they can get back to doing what they love.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tide facts:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Tide is available for UK, Indian, German and French SMEs&lt;/li&gt;\n&lt;li&gt;Over 2 million members globally and rapidly growing&lt;/li&gt;\n&lt;li&gt;Over $300 million raised in funding&lt;/li&gt;\n&lt;li&gt;3,000 Tideans globally&lt;/li&gt;\n&lt;li",
-      "postedAt": 1793948130,
+      "description": "  Hol' dir den Kick als DocCheck   Software Engineer – AI-Assisted Development (m/w/d)  Seit Jahrzehnten ist DocCheck im DACH-Raum und darüber hinaus eine bekannte Healthcare-Größe. Nun gehen wir technologisch den nächsten Schritt.  DocCheck Schweiz  realisiert das Entwicklungssetup der Zukunft, das Agentic Development konsequent nutzt. Als Developer legst du dafür einen der ersten technischen Grundsteine und entwickelst Lösungen für die vielfältigen Bereiche der gesamten  DocCheck Gruppe . KI gehört bei uns längst zum Arbeitsalltag – jetzt gestaltest du mit, wie daraus noch schneller funktionierende Software wird. Egal ob in Basel vor Ort oder remote innerhalb der Schweiz, du stehst im stetigen Austausch mit unseren Teams in Köln und entwickelst Software, die in der gesamten DocCheck Gruppe genutzt wird. Kurz: viel Freiheit, viel Wirkung, ziemlich wenig Schema F. DocCheck versetzt den kompletten Gesundheitsmarkt in absolute Effizienz-Ekstase. Egal ob News, Foren, Fachartikel, Medizinshop oder Kreativ-Agentur – DocCheck rührt den Medicals die ultimative Service-Mischung an.       Deine Substanz  Du hast bereits eigenständig Software entwickelt und kannst zeigen, wie du Anforderunge",
+      "postedAt": 1794000683,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1118,18 +1191,18 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-staff-software-engineer-agentic-platform-10449",
+      "id": "arbeitnow-senior-software-engineer-364223",
       "source": "Arbeitnow",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
-      "company": "tide",
+      "title": "Senior Software Engineer",
+      "company": "Redwoodsoftware",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tide/senior-staff-software-engineer-agentic-platform-10449",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/tide/senior-staff-software-engineer-agentic-platform-10449",
+      "url": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/senior-software-engineer-364223",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/senior-software-engineer-364223",
       "tags": [
-        "One Platform"
+        "Engineering"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt;BOUT TIDE&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.&lt;/p&gt;\n&lt;p&gt;Tide is transforming the small business banking market and now supports over 2 million members globally across the UK, India, Germany and France.&lt;/p&gt;\n&lt;p&gt;Using advanced technology, all solutions are designed with SMEs in mind. With quick onboarding, low fees and innovative features, we thrive on making data driven decisions to serve our mission: to help SMEs save time and money so they can get back to doing what they love.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tide facts:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Tide is available for UK, Indian, German and French SMEs&lt;/li&gt;\n&lt;li&gt;Over 2 million members globally and rapidly growing&lt;/li&gt;\n&lt;li&gt;Over $300 million raised in funding&lt;/li&gt;\n&lt;li&gt;3,000 Tideans globally&lt;/li&gt;\n&lt;li",
-      "postedAt": 1793948130,
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;OUR MISSION&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;At Redwood, we empower our customers with lights-out automation for their mission-critical business processes with industry leading products and platforms developed through an AI-Driven Software Development Life Cycle.&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;ABOUT US&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Redwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers organizations to intelligently automate and orchestrate mission-critical business and IT processes across complex ERP, hybrid cloud, data and emerging agentic AI systems. Through its SaaS-first automation fabric—with AI embedded across the automation lifecycle—Redwood accelerates the path to autonomous operations. Backed by 30 years of experience and trusted by more than 50% of the Fortune 50, Redwood helps organizations unlock human potential to focus on innovation, gr",
+      "postedAt": 1794002117,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1137,37 +1210,22 @@
       ]
     },
     {
-      "id": "remoteok-1137674",
-      "source": "RemoteOK",
-      "title": "Sales Operations Analyst",
-      "company": "Calabrio",
+      "id": "arbeitnow-principle-software-engineer-87856",
+      "source": "Arbeitnow",
+      "title": "Principle Software Engineer",
+      "company": "Redwoodsoftware",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
+      "url": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/principle-software-engineer-87856",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/principle-software-engineer-87856",
       "tags": [
-        "analyst",
-        "saas",
-        "salesforce",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "accounting",
-        "finance",
-        "exec",
-        "ops",
-        "excel",
-        "stats",
-        "sales",
-        "digital nomad"
+        "Engineering"
       ],
-      "description": " Location: US- Remote. Must be in EST or CT time zone only.     VerintÂ is an innovative, fast-paced, growing software company that delivers integrated workforce optimization software for todayâs multi-channel contact centers. We are in an exciting growing phase and now is an excellent time to join and help us develop even further as a company.Â   VerintÂ is looking for aÂ Sales Operations AnalystÂ to join our RevenueÂ Operations team.Â This role would be responsible for analyzing sales data, optimizing sales processes, and providing insights that improve sales performance and operational efficiency. This role supports the sales organization by transforming data into actionable insights, managing sales reporting, and ensuring the accuracy of CRM systems and analytics tools.Â   The analyst works closely with sales leadership, marketing, finance, and product teams to improve forecasting, track key performance metrics, and support strategic decision-making.Â     What you'll be doing:Â   Data Analysis &amp; ReportingÂ    Update and send out weekly and monthly pipeline, bookings and key metrics report to ELT/SLT and our board membersÂ     Analyze sales data to identify trends, pattern",
-      "postedAt": "2026-11-03T16:00:05+00:00",
-      "score": 9,
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;OUR MISSION&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;At Redwood, we empower our customers with lights-out automation for their mission-critical business processes with industry leading products and platforms developed through an AI-Driven Software Development Life Cycle.&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;ABOUT US&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Redwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers organizations to intelligently automate and orchestrate mission-critical business and IT processes across complex ERP, hybrid cloud, data and emerging agentic AI systems. Through its SaaS-first automation fabric—with AI embedded across the automation lifecycle—Redwood accelerates the path to autonomous operations. Backed by 30 years of experience and trusted by more than 50% of the Fortune 50, Redwood helps organizations unlock human potential to focus on innovation, gr",
+      "postedAt": 1794002117,
+      "score": 10,
       "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
+        "title: software engineer",
+        "location: Remote"
       ]
     },
     {
@@ -1229,6 +1287,101 @@
       "score": 9,
       "reasons": [
         "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-finance-accounting-manager-stuttgart-226325",
+      "source": "Arbeitnow",
+      "title": "Finance & Accounting Manager (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/finance-accounting-manager-stuttgart-226325",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/finance-accounting-manager-stuttgart-226325",
+      "tags": [
+        "Business Operations"
+      ],
+      "description": "  Finance &amp; Accounting Manager (m/f/d)   Building a finance function from zero is rare — doing it at a fast-growing robotics AI company is rarer. Sereact is scaling internationally (Germany, US, Switzerland), and our Director Accounting is looking for a smart early hire to build our finance function together: processes, systems, and standards, from day one. You'll work directly with leadership and help take the group through its first statutory audit. Based on-site at our Stuttgart headquarters.   Who We Are   Sereact builds AI that lets robots sense, reason, and act in the real world — in warehouses and factories. Our mission is to redefine how physical work gets done, and we're looking for curious, bold people who want to make a real difference.   Overview   Working side by side with our Director Accounting, you'll help bring bookkeeping in-house, help shape our finance systems setup (including how we use Odoo alongside DATEV), and get us ready for our first statutory audit — working closely with the founders and our external tax and audit partners. We value people who work independently, take initiative, and build rather than wait for the perfect setup.   Your Responsibiliti",
+      "postedAt": 1794044416,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-langfuse-senior-product-engineer-germany-349978",
+      "source": "Arbeitnow",
+      "title": "Langfuse - Senior Product Engineer",
+      "company": "Clickhouse",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-senior-product-engineer-germany-349978",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-senior-product-engineer-germany-349978",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "     Why Product Engineering at Langfuse    Your work will have an outsized impact.   Everything you build is open source (MIT-licensed) and immediately visible. Langfuse has 35,000+ GitHub stars and our SDKs are downloaded more than a hundred million times per month. When you ship a new feature the community notices in GitHub issues, on X, and in our community channels.  Product engineers at Langfuse are the people who deliver new features end-to-end to our users. You own the product thinking from understanding the user problem to deciding what to build to shipping the solution.  You will also have direct exposure to how cutting-edge LLM applications are built. The users you serve are some of the best and most ambitious software engineers leveraging Langfuse to improve their applications. Deeply understanding the problems they solve will help you design the best possible product and along the way makes you an expert on LLM engineering yourself.      You will grow at Langfuse by      Own features end-to-end : from talking to users, to writing the spec, to shipping the code and docs, to writing the   changelog post   with your name on it. To give you a sense: recent features a singl",
+      "postedAt": 1794044416,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-manager-i-engineering-client-sdks-mobile-browser-paris-39066",
+      "source": "Arbeitnow",
+      "title": "Manager I, Engineering - Client SDKs (Mobile & Browser)",
+      "company": "Datadog",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-client-sdks-mobile-browser-paris-39066",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-client-sdks-mobile-browser-paris-39066",
+      "tags": [
+        "Leadership"
+      ],
+      "description": "&lt;p data-renderer-start-pos=&quot;215&quot; data-local-id=&quot;9c03ffd59c47&quot;&gt;Datadog&#39;s client SDKs run inside our customers&#39; mobile apps and websites, and every Datadog client-side product depends on them, including Real User Monitoring, Session Replay, Product Analytics, and Feature Flags. We maintain 11 open source SDKs across Browser, iOS, Android, React Native, Flutter, Kotlin Multiplatform, Unity, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;556&quot; data-local-id=&quot;8f8d86b9cd1f&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;558&quot; data-local-id=&quot;d4b51c5266b7&quot;&gt;As the Engineering Manager for Client SDKs, you&#39;ll build and lead the team that makes it easy for any team at Datadog to ship into those SDKs safely: fast CI, predictable releases, a shared spec across SDKs, and tooling that lets engineers and coding agents contribute without waiting on a review queue. It&#39;s a rare chance to own a developer platform that ships in public, at a scale where small decisions reach a lot of customers, and to shape how Datadog builds client-side products in the AI-native era. Both the team and its scope are e",
+      "postedAt": 1794023718,
+      "score": 9,
+      "reasons": [
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
+      "source": "Arbeitnow",
+      "title": "Software Engineering Intern - AI Platform Excellence",
+      "company": "Tomtom",
+      "location": "Amsterdam, The Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
+      "tags": [
+        "Platform Engineering"
+      ],
+      "description": " We look after the AI tools TomTom engineers use every day, such as GitHub Copilot, Claude and Cursor, and the platform that gives teams access to AI models. We help teams use these tools well, keep an eye on usage and cost, and try out new tools as they appear.   What you'll do:  \n Join a friendly team of platform engineers and pick up a project of your own, with a mentor to guide you \n Help build reports and dashboards that show how AI tools are used across TomTom and what they cost \n Look into how engineers can get good results from AI tools while using fewer tokens, and share simple tips and tooling with them \n Help improve our model gateway, for example by adding usage tracking or making it easier for teams to try new models \n Take part in trying out new AI developer tools and help write down what works and what does not \n Support the pilot of our AI-assisted ways of working with engineering teams, for example by collecting feedback and usage numbers \n Build iteratively using agile methodologies, and learn how a platform team works day to day \n  What you'll need:   \n Being enrolled in a Dutch university until at least September 2027, so the entire duration of the internship \n ",
+      "postedAt": 1794010121,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-frontend-engineer-technical-lead-amsterdam-166994",
+      "source": "Arbeitnow",
+      "title": "Senior Frontend Engineer / Technical Lead",
+      "company": "Athora Netherlands",
+      "location": "Amsterdam, Noord-Holland, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/athora-netherlands/senior-frontend-engineer-technical-lead-amsterdam-166994",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/athora-netherlands/senior-frontend-engineer-technical-lead-amsterdam-166994",
+      "tags": [
+        "Technology"
+      ],
+      "description": " Wil jij niet alleen bouwen aan frontendoplossingen, maar ook richting geven aan hoe we onze websites en digitale platformen de komende jaren ontwikkelen?  Wat je over ons moet weten?  Wij zijn Athora Netherlands, een verzekeringsbedrijf met de bekende merken Zwitserleven en Reaal. Wij houden ons voornamelijk bezig met pensioenen en levensverzekeringen op de Nederlandse markt. Dat doen wij als onderdeel van een Europese groep met vestigingen in Ierland, het Verenigd Koninkrijk, België, Duitsland en Italië. Wij zijn een sterk bedrijf met ruim één miljoen klanten en wij willen de komende jaren doorgroeien tot een van de belangrijkste spelers in de snel veranderende pensioenmarkt. Daarom zoeken wij mensen die niet terugdeinzen voor verandering, die van aanpakken weten, die de ambitie hebben om resultaten neer te zetten en die daarom het beste uit zichzelf en hun team weten te halen. Slimmer samen, noemen wij dat.  Wat ga je doen?  Voor ons Websites &amp; Portals Platform team zoeken we een ervaren frontend engineer die technisch leiderschap combineert met sterke hands-on kennis van Angular. Iemand die vooruitkijkt, een frontend visie en roadmap kan neerzetten en andere teams kan meene",
+      "postedAt": 1794000683,
+      "score": 9,
+      "reasons": [
+        "title: frontend",
         "skill: git"
       ]
     },

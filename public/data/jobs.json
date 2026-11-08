@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-07T11:31:09.995Z",
+  "scannedAt": "2026-11-08T11:43:14.545Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 45,
+  "count": 43,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -809,26 +809,6 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
-      "source": "Arbeitnow",
-      "title": "Software Engineering Intern - Internal Developer Platform",
-      "company": "Tomtom",
-      "location": "Amsterdam, The Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
-      "tags": [
-        "Platform Engineering"
-      ],
-      "description": " We build Frontstage, TomTom's developer portal based on Backstage, and Watchtower, the service that collects data behind it. Together they help engineering teams see what software they own and how it is doing, for example on security, quality and cost.   What you'll do:  \n Join a friendly team of engineers and pick up a project of your own, with a mentor to guide you \n Help build new pages and scorecards in Frontstage using TypeScript and React \n Help extend Watchtower, our TypeScript and PostgreSQL backend, with new data sources and APIs \n Work on features that matter to our users, for example showing teams what their services cost on our Kubernetes platform \n Help keep Frontstage up to date with new Backstage releases \n Participate in the full cycle: understanding what users need, designing a solution, building, testing and releasing it \n Build iteratively using agile methodologies, with your code reviewed by the team \n  What you'll need:  \n Being enrolled in a Dutch university until at least September 2027, so the entire duration of the internship \n Being located in Amsterdam or cities close by to be able to commute to the office at least twice a week \n Available for at least 3",
-      "postedAt": 1794010121,
-      "score": 15,
-      "reasons": [
-        "title: react",
-        "title: software engineer",
-        "skill: react"
-      ]
-    },
-    {
       "id": "remoteok-1137545",
       "source": "RemoteOK",
       "title": "Senior Software Engineer",
@@ -844,7 +824,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMjAuMTY5Ljc1LjE5Mg== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjE5Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTM1LjIzMi4yMTYuNDk= when applying to show you read the job post completely (#RMTM1LjIzMi4yMTYuNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -867,7 +847,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMjAuMTY5Ljc1LjE5Mg== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjE5Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTM1LjIzMi4yMTYuNDk= when applying to show you read the job post completely (#RMTM1LjIzMi4yMTYuNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -890,7 +870,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuMTY5Ljc1LjE5Mg== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjE5Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTM1LjIzMi4yMTYuNDk= when applying to show you read the job post completely (#RMTM1LjIzMi4yMTYuNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -933,26 +913,6 @@
       ]
     },
     {
-      "id": "arbeitnow-technical-support-engineer-germany-44509",
-      "source": "Arbeitnow",
-      "title": "Technical Support Engineer (m/f/d)",
-      "company": "Sereact GmbH",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-support-engineer-germany-44509",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-support-engineer-germany-44509",
-      "tags": [
-        "Operations"
-      ],
-      "description": "  Who We Are   We are a fast-growing embodied AI company building robots that reason and act in real warehouse and factory environments. Our AI-powered systems help businesses streamline operations, boost productivity and transform physical work.    Overview   We are seeking a highly motivated and technically strong individual to join our Technical Support team. You will be responsible for providing exceptional support to our customers, ensuring smooth operation and rapid resolution of technical issues. You will remotely access and diagnose robots using tools like SSH, Docker and Python and guiding customers through structured problem-solving processes on-site and collaborating with internal teams to resolve complex hardware and software issues. This role involves significant travel (approximately 50-75%) to customer sites across Europe.    Your Responsibilities    Support :    Provide first-line technical support to customers for our AI robotics systems.    Serve as the primary point of contact for customers, delivering technical support with a focus on clear communication, active listening, and empathetic problem-solving to ensure a positive customer experience.    Diagnose and t",
-      "postedAt": 1794044416,
-      "score": 13,
-      "reasons": [
-        "title: react",
-        "skill: react",
-        "location: Remote"
-      ]
-    },
-    {
       "id": "remotive-2091158",
       "source": "Remotive",
       "title": "Software Engineer, AI Coding Tasks",
@@ -984,28 +944,6 @@
         "title: software engineer",
         "skill: git",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "remoteok-1137685",
-      "source": "RemoteOK",
-      "title": "Software Engineer",
-      "company": "Claims",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
-      "tags": [
-        "dev",
-        "ai",
-        "blockchain"
-      ],
-      "description": "    ð Build the data layer AI needs to do science  Application deadline: 16 Nov 2026 23:59 CET  About Claims  AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to know what was claimed, what evidence supports it, and how far to trust it. Claims turns the scientific literature into exactly that: every claim, tied to its evidence, as structured data that models and agents can query.  We're a startup and run as Subnet 111 on Bittensor. Since our mainnet launch on 28 August 2026, an open competition of miners has processed more than 10,000 papers, and every record was checked by our validator before it entered the dataset. The competition keeps raising the bar: miners keep finding ways to beat our own reference pipeline, and every win becomes part of the standard the whole network is scored against.  The team  Claims was founded by two professors of economics and a senior engineer.     Philipp Koellinger  , CEO, is a professor of economics and an experienced entrepreneur: founder of DeSci Labs and the DeSci Foundation, and co-builder of SciWeave with Ogban.    Christian Roessler  , co",
-      "postedAt": "2026-11-04T15:09:09+00:00",
-      "score": 12,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote",
-        "posted this week"
       ]
     },
     {
@@ -1055,62 +993,44 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineering-intern-paris-230291",
+      "id": "arbeitnow-senior-product-manager-data-lake-paris-paris-villeneuve-dascq-nord-385325",
       "source": "Arbeitnow",
-      "title": "Software Engineering Intern",
-      "company": "Datadog",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/software-engineering-intern-paris-230291",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/software-engineering-intern-paris-230291",
+      "title": "Senior Product Manager - Data Lake (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Paris, Paris; Villeneuve-d'Ascq, Nord",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-product-manager-data-lake-paris-paris-villeneuve-dascq-nord-385325",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-product-manager-data-lake-paris-paris-villeneuve-dascq-nord-385325",
       "tags": [
-        "Engineering Interns"
+        "Data"
       ],
-      "description": "&lt;p&gt;We’re looking for Software Engineering Interns to help build and scale the systems that power Datadog’s observability and security platform. Interns contribute directly to real-world engineering challenges across backend, frontend, infrastructure, data engineering, and developer tooling while working alongside experienced engineers and mentors. You’ll help design, build, and improve systems that process and analyze massive volumes of metrics, logs, and application data in real time. Whether you’re interested in distributed systems, Kubernetes, AI-powered products like Bits AI, or developer platform tooling, you’ll work on meaningful projects that deliver impact for customers at global scale.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Contribute to production systems that process and analyze ",
-      "postedAt": 1794023718,
+      "description": "&lt;div id=&quot;model-response-message-contentr_ce05398d7259c8f0&quot; class=&quot;markdown markdown-main-panel enable-luminous-fast-follows enable-updated-hr-color&quot;&gt;\n&lt;div id=&quot;model-response-message-contentr_ce05398d7259c8f0&quot; class=&quot;markdown markdown-main-panel enable-luminous-fast-follows enable-updated-hr-color&quot;&gt;\n&lt;p data-path-to-node=&quot;4&quot;&gt;&lt;strong data-path-to-node=&quot;4&quot; data-index-in-node=&quot;0&quot;&gt;Notre Team Data lake recherche un·e Senior Product Manager (f/m/d) en CDI basé·e à Lille ou Paris&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Chez Decathlon, nous croyons au pouvoir du sport pour unir et inspirer. Notre mission : au travers du sport rendre le bien être accessible au plus grand nombre, partout dans le monde. Pour y parvenir, la data est au cœur de notre stratégie, elle guide chaque décision, de la conception du produit à l&#39;expérience client.&lt;/p&gt;\n&lt;p&gt;Au cœur de l’entité Decathlon Digital, nous recherchons notre futur.e Senior Product Manager pour rejoindre les équipes Data Factory.&lt;/p&gt;\n&lt;p&gt;Cette plateforme technologique, globale à tout le groupe de manière internationale, soutient le déve",
+      "postedAt": 1794077728,
       "score": 12,
       "reasons": [
-        "title: frontend",
-        "title: software engineer"
+        "title: node",
+        "skill: git",
+        "skill: node"
       ]
     },
     {
-      "id": "arbeitnow-platform-software-engineer-amsterdam-the-netherlands-313114",
-      "source": "Arbeitnow",
-      "title": "Platform Software Engineer",
-      "company": "Tomtom",
-      "location": "Amsterdam, The Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-software-engineer-amsterdam-the-netherlands-313114",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-software-engineer-amsterdam-the-netherlands-313114",
+      "id": "remoteok-1137685",
+      "source": "RemoteOK",
+      "title": "Software Engineer",
+      "company": "Claims",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
       "tags": [
-        "PE Platform Engineering"
+        "dev",
+        "ai",
+        "blockchain"
       ],
-      "description": " \n The Developer Enablement &amp; Security (DE&amp;S) team within Platform Engineering owns the tooling that TomTom engineers use to write, build, store and secure code. This covers GitHub platform management, artifact management with JFrog Artifactory, security scanning, developer tooling and AI governance platforms. We treat internal developers as our customers and aim to make the secure path the easy path. \n   What you will do   \n \n \n Administer and automate GitHub Enterprise: repository settings, rulesets, access and governance across a large repository estate. \n \n \n Operate and improve JFrog Artifactory, including repository configuration, cleanup, permissions and support for our hybrid cloud setup. \n \n \n Replace repetitive admin work with scripts and automation using Python, Bash and REST APIs. \n \n \n Build and maintain GitHub Actions workflows and support teams whose pipelines pull and publish packages. \n \n \n Manage platform configuration as code with Terraform or similar tools. \n \n \n Use AI tools to speed up automation and support work, and help developers adopt them safely in line with our AI governance approach. \n \n \n Take ownership of well-defined platform tasks from star",
-      "postedAt": 1794010121,
-      "score": 12,
+      "description": "    ð Build the data layer AI needs to do science  Application deadline: 16 Nov 2026 23:59 CET  About Claims  AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to know what was claimed, what evidence supports it, and how far to trust it. Claims turns the scientific literature into exactly that: every claim, tied to its evidence, as structured data that models and agents can query.  We're a startup and run as Subnet 111 on Bittensor. Since our mainnet launch on 28 August 2026, an open competition of miners has processed more than 10,000 papers, and every record was checked by our validator before it entered the dataset. The competition keeps raising the bar: miners keep finding ways to beat our own reference pipeline, and every win becomes part of the standard the whole network is scored against.  The team  Claims was founded by two professors of economics and a senior engineer.     Philipp Koellinger  , CEO, is a professor of economics and an experienced entrepreneur: founder of DeSci Labs and the DeSci Foundation, and co-builder of SciWeave with Ogban.    Christian Roessler  , co",
+      "postedAt": "2026-11-04T15:09:09+00:00",
+      "score": 10,
       "reasons": [
         "title: software engineer",
-        "skill: git",
-        "skill: rest api"
-      ]
-    },
-    {
-      "id": "arbeitnow-account-executive-southern-africa-london-243250",
-      "source": "Arbeitnow",
-      "title": "Account Executive - Southern Africa",
-      "company": "Everfield",
-      "location": "Europe - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everfield/account-executive-southern-africa-london-243250",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/everfield/account-executive-southern-africa-london-243250",
-      "tags": [
-        "Frontu"
-      ],
-      "description": "  About Everfield   Everfield buys, builds, and grows European vertical market and specialist software companies, providing them with the tools they need to move to the next level. Our mission is to foster ambition, fuel growth, and unlock opportunities for Europe’s software ecosystem.  Companies in the Everfield ecosystem follow a decentralised model, maintaining their team, brand, and offices, while focusing on what they do best - building products and supporting customers. Everfield provides support in talent acquisition, HR, and access to a team of experts in building and growing European B2B SaaS companies who consult on financial and operational topics. Founded in 2022, Everfield has an ecosystem presence in 9 countries, and growing.     About Frontu   Frontu is a B2B SaaS Field Service Management (FSM) platform built for the companies that keep the world running - heavy machinery, agriculture, construction, material handling, and mining. Our platform digitises field operations for 7,000+ technicians across 20 countries, plugging directly into existing ERP systems as a powerful mobile layer.  We are part of Everfield, a European private equity group that builds and grows vert",
-      "postedAt": 1794033627,
-      "score": 11,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "location: Africa"
+        "location: Remote"
       ]
     },
     {
@@ -1171,6 +1091,101 @@
       ]
     },
     {
+      "id": "arbeitnow-staff-software-engineer-opentelemetry-python-instrumentation-germany-remote-427337",
+      "source": "Arbeitnow",
+      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Germany | Remote",
+      "company": "grafanalabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-opentelemetry-python-instrumentation-germany-remote-427337",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-opentelemetry-python-instrumentation-germany-remote-427337",
+      "tags": [
+        "R&D: Ops"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at &lt;u&gt;&lt;span&gt;&lt;a href=&quot;http://grafana.com&quot; target=&quot;_blank&quot;&gt;grafana.com&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and follow us on &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://www.linkedin.com/company/grafana-labs/&quot; target=&quot;_blank&quot;&",
+      "postedAt": 1794131724,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-full-stack-engineer-database-observability-grafana-cloud-germany-remote-305330",
+      "source": "Arbeitnow",
+      "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | Germany | Remote",
+      "company": "grafanalabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-full-stack-engineer-database-observability-grafana-cloud-germany-remote-305330",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-full-stack-engineer-database-observability-grafana-cloud-germany-remote-305330",
+      "tags": [
+        "R&D: Observability"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at &lt;u&gt;&lt;span&gt;&lt;a href=&quot;http://grafana.com&quot; target=&quot;_blank&quot;&gt;grafana.com&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and follow us on &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://www.linkedin.com/company/grafana-labs/&quot; target=&quot;_blank&quot;&",
+      "postedAt": 1794131724,
+      "score": 10,
+      "reasons": [
+        "title: full stack",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-frontend-leaning-studio-486011",
+      "source": "Arbeitnow",
+      "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+      "company": "ElevenLabs",
+      "location": "Remote · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-studio-486011",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-studio-486011",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "description": " About ElevenLabs  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.  We have expanded from voice into three main platforms:    ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.    ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.    ElevenAPI gives developers access to our leading AI audio foundational models.    Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders.",
+      "postedAt": 1794098411,
+      "score": 10,
+      "reasons": [
+        "title: frontend",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-staff-software-engineer-opentelemetry-python-instrumentation-uk-remote-85977",
+      "source": "Arbeitnow",
+      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | UK | Remote",
+      "company": "grafanalabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-opentelemetry-python-instrumentation-uk-remote-85977",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-opentelemetry-python-instrumentation-uk-remote-85977",
+      "tags": [
+        "R&D: Ops"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at &lt;u&gt;&lt;span&gt;&lt;a href=&quot;http://grafana.com&quot; target=&quot;_blank&quot;&gt;grafana.com&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and follow us on &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://www.linkedin.com/company/grafana-labs/&quot; target=&quot;_blank&quot;&",
+      "postedAt": 1794131725,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-full-stack-engineer-database-observability-grafana-cloud-uk-remote-48471",
+      "source": "Arbeitnow",
+      "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | UK | Remote",
+      "company": "grafanalabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-full-stack-engineer-database-observability-grafana-cloud-uk-remote-48471",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-full-stack-engineer-database-observability-grafana-cloud-uk-remote-48471",
+      "tags": [
+        "R&D: Observability"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at &lt;u&gt;&lt;span&gt;&lt;a href=&quot;http://grafana.com&quot; target=&quot;_blank&quot;&gt;grafana.com&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and follow us on &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://www.linkedin.com/company/grafana-labs/&quot; target=&quot;_blank&quot;&",
+      "postedAt": 1794131725,
+      "score": 10,
+      "reasons": [
+        "title: full stack",
+        "location: Remote"
+      ]
+    },
+    {
       "id": "arbeitnow-remote-software-engineer-ai-assisted-development-basel-371528",
       "source": "Arbeitnow",
       "title": "Software Engineer – AI-Assisted Development (m/w/d)",
@@ -1191,41 +1206,70 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-364223",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer",
-      "company": "Redwoodsoftware",
+      "id": "remoteok-1137701",
+      "source": "RemoteOK",
+      "title": "AI Developer",
+      "company": "Salvo Software",
       "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/senior-software-engineer-364223",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/senior-software-engineer-364223",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
       "tags": [
-        "Engineering"
+        "dev",
+        "grafana",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "customer support",
+        "devops",
+        "c",
+        "c plus plus",
+        "cloud",
+        "git",
+        "admin",
+        "microsoft",
+        "ops",
+        "golang",
+        "engineer",
+        "apache",
+        "linux",
+        "backend",
+        "digital nomad"
       ],
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;OUR MISSION&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;At Redwood, we empower our customers with lights-out automation for their mission-critical business processes with industry leading products and platforms developed through an AI-Driven Software Development Life Cycle.&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;ABOUT US&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Redwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers organizations to intelligently automate and orchestrate mission-critical business and IT processes across complex ERP, hybrid cloud, data and emerging agentic AI systems. Through its SaaS-first automation fabric—with AI embedded across the automation lifecycle—Redwood accelerates the path to autonomous operations. Backed by 30 years of experience and trusted by more than 50% of the Fortune 50, Redwood helps organizations unlock human potential to focus on innovation, gr",
-      "postedAt": 1794002117,
-      "score": 10,
+      "description": " Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges. Our culture values innovation, ownership, and engineering excellence. We're growing our AI department and are looking for a hands-on AI Developer to help build it. Role Overview We are looking for an AI Developer to join and strengthen our AI department. Your core work will be building and operating LLM-powered systems: serving open-source models with Ollama and llama.cpp, building RAG pipelines, and developing MCP integrations that connect large language models to real tools and data. Solid DevOps fundamentals - Docker, CI/CD, Azure - support this work, but AI engineering is the heart of the role.  You don't need to be a deep ML researcher. What matters is production-grade Python, strong fundamentals, and the aptitude to learn fast. You'll work closely with our engineering and product teams to take LLM-powered features from prototype to reliably deployed systems, with mentorship available as yo",
+      "postedAt": "2026-11-07T00:00:02+00:00",
+      "score": 9,
       "reasons": [
-        "title: software engineer",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
-      "id": "arbeitnow-principle-software-engineer-87856",
-      "source": "Arbeitnow",
-      "title": "Principle Software Engineer",
-      "company": "Redwoodsoftware",
+      "id": "remoteok-1137700",
+      "source": "RemoteOK",
+      "title": "Junior Market Analyst",
+      "company": "MEYA HOLDINGS",
       "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/principle-software-engineer-87856",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/principle-software-engineer-87856",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
       "tags": [
-        "Engineering"
+        "other",
+        "crypto",
+        "finance",
+        "remote work",
+        "remote",
+        "junior",
+        "part time",
+        "analyst"
       ],
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;OUR MISSION&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;At Redwood, we empower our customers with lights-out automation for their mission-critical business processes with industry leading products and platforms developed through an AI-Driven Software Development Life Cycle.&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;ABOUT US&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Redwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers organizations to intelligently automate and orchestrate mission-critical business and IT processes across complex ERP, hybrid cloud, data and emerging agentic AI systems. Through its SaaS-first automation fabric—with AI embedded across the automation lifecycle—Redwood accelerates the path to autonomous operations. Backed by 30 years of experience and trusted by more than 50% of the Fortune 50, Redwood helps organizations unlock human potential to focus on innovation, gr",
-      "postedAt": 1794002117,
-      "score": 10,
+      "description": "  MEYA HOLDINGS LTD is an international company specializing in digital assets, cryptocurrency markets, and financial research. We focus on developing data-driven trading approaches and optimizing market operations. Our remote team brings together professionals from different parts of the world.  We are looking for a motivated Junior Market Analyst with at least 1 year of experience in cryptocurrency or financial trading. You will assist with market analysis, monitor trading performance, and contribute to improving our daily operational processes.     Key Responsibilities   Monitor cryptocurrency prices, trading volumes, and market developments.  Analyze market data and identify potential trading opportunities.  Assist with daily Spot, Futures, and Options trading activities.  Monitor asset allocation across centralized and decentralized exchanges.  Prepare reports on market conditions and trading performance.  Identify operational or technical issues and coordinate with the relevant teams.  Monitor automated trading systems and ensure compliance with risk management rules.  Maintain accurate financial and operational records.  Collaborate with internal departments to improve tradi",
+      "postedAt": "2026-11-06T13:47:40+00:00",
+      "score": 9,
       "reasons": [
-        "title: software engineer",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1291,37 +1335,18 @@
       ]
     },
     {
-      "id": "arbeitnow-finance-accounting-manager-stuttgart-226325",
+      "id": "arbeitnow-software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-125215",
       "source": "Arbeitnow",
-      "title": "Finance & Accounting Manager (m/f/d)",
-      "company": "Sereact GmbH",
-      "location": "Stuttgart Schockenriedstr. 17",
-      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/finance-accounting-manager-stuttgart-226325",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/finance-accounting-manager-stuttgart-226325",
+      "title": "Software Engineering /Data and AI Engineering/ IT-Management Consultant (2026/27 Graduate) (m/f/d)",
+      "company": "Netlight",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-125215",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-data-and-ai-engineering-it-management-consultant-2026-27-graduate-hamburg-125215",
       "tags": [
-        "Business Operations"
+        "Hamburg"
       ],
-      "description": "  Finance &amp; Accounting Manager (m/f/d)   Building a finance function from zero is rare — doing it at a fast-growing robotics AI company is rarer. Sereact is scaling internationally (Germany, US, Switzerland), and our Director Accounting is looking for a smart early hire to build our finance function together: processes, systems, and standards, from day one. You'll work directly with leadership and help take the group through its first statutory audit. Based on-site at our Stuttgart headquarters.   Who We Are   Sereact builds AI that lets robots sense, reason, and act in the real world — in warehouses and factories. Our mission is to redefine how physical work gets done, and we're looking for curious, bold people who want to make a real difference.   Overview   Working side by side with our Director Accounting, you'll help bring bookkeeping in-house, help shape our finance systems setup (including how we use Odoo alongside DATEV), and get us ready for our first statutory audit — working closely with the founders and our external tax and audit partners. We value people who work independently, take initiative, and build rather than wait for the perfect setup.   Your Responsibiliti",
-      "postedAt": 1794044416,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-langfuse-senior-product-engineer-germany-349978",
-      "source": "Arbeitnow",
-      "title": "Langfuse - Senior Product Engineer",
-      "company": "Clickhouse",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-senior-product-engineer-germany-349978",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-senior-product-engineer-germany-349978",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "     Why Product Engineering at Langfuse    Your work will have an outsized impact.   Everything you build is open source (MIT-licensed) and immediately visible. Langfuse has 35,000+ GitHub stars and our SDKs are downloaded more than a hundred million times per month. When you ship a new feature the community notices in GitHub issues, on X, and in our community channels.  Product engineers at Langfuse are the people who deliver new features end-to-end to our users. You own the product thinking from understanding the user problem to deciding what to build to shipping the solution.  You will also have direct exposure to how cutting-edge LLM applications are built. The users you serve are some of the best and most ambitious software engineers leveraging Langfuse to improve their applications. Deeply understanding the problems they solve will help you design the best possible product and along the way makes you an expert on LLM engineering yourself.      You will grow at Langfuse by      Own features end-to-end : from talking to users, to writing the spec, to shipping the code and docs, to writing the   changelog post   with your name on it. To give you a sense: recent features a singl",
-      "postedAt": 1794044416,
+      "description": "  About us  \n  Netlight is an international digital consulting firm, helping leading companies to succeed in the digital landscape, from advice to implementation. Our service contains the collective intelligence of more than 2000 consultants offering a comprehensive range of digital services, from strategy to technology. Co-creating the future today, since 1999.  \n &nbsp; \n  Netlight has been awarded several times for profitable growth and management, as a top employer, and for our engagement in Diversity, Equity, and Inclusion. Located in Stockholm, Gothenburg, Oslo, Helsinki, Copenhagen, Munich, Hamburg, Berlin, Frankfurt, Zurich, Cologne, Amsterdam, Madrid, Toronto and London.  \n &nbsp; \n  What does it mean to be a consultant at Netlight?&nbsp;  \n  Join the Netlight Hamburg team as a consultant and be a part of shaping the software products and technical solutions of today and tomorrow alongside your colleagues and clients. Our focus is not just on the digital product, but also on the team and the business. You'll have the ownership to carve your own career path, choosing from a range of clients and roles based on your personal experience, strengths, interests, and market demand",
+      "postedAt": 1794107295,
       "score": 9,
       "reasons": [
         "title: software engineer",
@@ -1329,37 +1354,16 @@
       ]
     },
     {
-      "id": "arbeitnow-manager-i-engineering-client-sdks-mobile-browser-paris-39066",
+      "id": "arbeitnow-sr-software-engineer-cloud-platform-bolton-19384",
       "source": "Arbeitnow",
-      "title": "Manager I, Engineering - Client SDKs (Mobile & Browser)",
-      "company": "Datadog",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-client-sdks-mobile-browser-paris-39066",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-client-sdks-mobile-browser-paris-39066",
-      "tags": [
-        "Leadership"
-      ],
-      "description": "&lt;p data-renderer-start-pos=&quot;215&quot; data-local-id=&quot;9c03ffd59c47&quot;&gt;Datadog&#39;s client SDKs run inside our customers&#39; mobile apps and websites, and every Datadog client-side product depends on them, including Real User Monitoring, Session Replay, Product Analytics, and Feature Flags. We maintain 11 open source SDKs across Browser, iOS, Android, React Native, Flutter, Kotlin Multiplatform, Unity, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;556&quot; data-local-id=&quot;8f8d86b9cd1f&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;558&quot; data-local-id=&quot;d4b51c5266b7&quot;&gt;As the Engineering Manager for Client SDKs, you&#39;ll build and lead the team that makes it easy for any team at Datadog to ship into those SDKs safely: fast CI, predictable releases, a shared spec across SDKs, and tooling that lets engineers and coding agents contribute without waiting on a review queue. It&#39;s a rare chance to own a developer platform that ships in public, at a scale where small decisions reach a lot of customers, and to shape how Datadog builds client-side products in the AI-native era. Both the team and its scope are e",
-      "postedAt": 1794023718,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
-      "source": "Arbeitnow",
-      "title": "Software Engineering Intern - AI Platform Excellence",
-      "company": "Tomtom",
-      "location": "Amsterdam, The Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
-      "tags": [
-        "Platform Engineering"
-      ],
-      "description": " We look after the AI tools TomTom engineers use every day, such as GitHub Copilot, Claude and Cursor, and the platform that gives teams access to AI models. We help teams use these tools well, keep an eye on usage and cost, and try out new tools as they appear.   What you'll do:  \n Join a friendly team of platform engineers and pick up a project of your own, with a mentor to guide you \n Help build reports and dashboards that show how AI tools are used across TomTom and what they cost \n Look into how engineers can get good results from AI tools while using fewer tokens, and share simple tips and tooling with them \n Help improve our model gateway, for example by adding usage tracking or making it easier for teams to try new models \n Take part in trying out new AI developer tools and help write down what works and what does not \n Support the pilot of our AI-assisted ways of working with engineering teams, for example by collecting feedback and usage numbers \n Build iteratively using agile methodologies, and learn how a platform team works day to day \n  What you'll need:   \n Being enrolled in a Dutch university until at least September 2027, so the entire duration of the internship \n ",
-      "postedAt": 1794010121,
+      "title": "Sr. Software Engineer, Cloud Platform",
+      "company": "Samsara",
+      "location": "Bolton, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/sr-software-engineer-cloud-platform-bolton-19384",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/samsara/sr-software-engineer-cloud-platform-bolton-19384",
+      "tags": [],
+      "description": "    Who we are   \n  Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.  \n  Working at Samsara means you'll help define the future of physical operations and be on a team that's shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you'll have the autonomy and support to make an impact as we build for the long term.     About the role:     \n As a Senior Engineer in the Infrastructure org, you will help evolve the cloud foundations behind every Samsara product. Yo",
+      "postedAt": 1794127528,
       "score": 9,
       "reasons": [
         "title: software engineer",
@@ -1367,45 +1371,22 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-frontend-engineer-technical-lead-amsterdam-166994",
+      "id": "arbeitnow-stage-social-media-content-marketing-flagship-events-amsterdam-mbo-hbo-wo-350549",
       "source": "Arbeitnow",
-      "title": "Senior Frontend Engineer / Technical Lead",
-      "company": "Athora Netherlands",
+      "title": "Stage Social Media & Content Marketing | Flagship Events Amsterdam mbo/hbo/wo",
+      "company": "Flagship Amsterdam",
       "location": "Amsterdam, Noord-Holland, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/athora-netherlands/senior-frontend-engineer-technical-lead-amsterdam-166994",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/athora-netherlands/senior-frontend-engineer-technical-lead-amsterdam-166994",
+      "url": "https://www.arbeitnow.nl/jobs/companies/flagship-amsterdam/stage-social-media-content-marketing-flagship-events-amsterdam-mbo-hbo-wo-350549",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/flagship-amsterdam/stage-social-media-content-marketing-flagship-events-amsterdam-mbo-hbo-wo-350549",
       "tags": [
-        "Technology"
+        "Kantoor"
       ],
-      "description": " Wil jij niet alleen bouwen aan frontendoplossingen, maar ook richting geven aan hoe we onze websites en digitale platformen de komende jaren ontwikkelen?  Wat je over ons moet weten?  Wij zijn Athora Netherlands, een verzekeringsbedrijf met de bekende merken Zwitserleven en Reaal. Wij houden ons voornamelijk bezig met pensioenen en levensverzekeringen op de Nederlandse markt. Dat doen wij als onderdeel van een Europese groep met vestigingen in Ierland, het Verenigd Koninkrijk, België, Duitsland en Italië. Wij zijn een sterk bedrijf met ruim één miljoen klanten en wij willen de komende jaren doorgroeien tot een van de belangrijkste spelers in de snel veranderende pensioenmarkt. Daarom zoeken wij mensen die niet terugdeinzen voor verandering, die van aanpakken weten, die de ambitie hebben om resultaten neer te zetten en die daarom het beste uit zichzelf en hun team weten te halen. Slimmer samen, noemen wij dat.  Wat ga je doen?  Voor ons Websites &amp; Portals Platform team zoeken we een ervaren frontend engineer die technisch leiderschap combineert met sterke hands-on kennis van Angular. Iemand die vooruitkijkt, een frontend visie en roadmap kan neerzetten en andere teams kan meene",
-      "postedAt": 1794000683,
+      "description": "  Wat ga je doen?   Als Social Media &amp; Content Marketing Stagiair(e) bij Flagship Events ben je bezig met het bedenken en maken van creatieve content voor onze verschillende socialmediakanalen. Je laat zien wat Flagship Amsterdam allemaal te bieden heeft: van onze rondvaarten en evenementen tot onze verschillende activiteiten en ervaringen in de stad. Je houdt je vooral bezig met Instagram en TikTok en weet als geen ander wat er speelt op social media. Je bedenkt nieuwe concepten, gaat zelf op pad om video's te filmen en monteert deze tot aantrekkelijke content. Zo help je Flagship Events om op een creatieve en herkenbare manier zichtbaar te blijven bij verschillende doelgroepen.  Wat ga je leren?    Creatieve content bedenken en maken voor Instagram en TikTok;    Video's filmen, monteren en voorbereiden voor publicatie;    Een contentkalender opstellen en bijhouden;    Inspelen op actuele socialmediatrends en deze vertalen naar passende content;    Content maken rondom onze rondvaarten, evenementen en andere activiteiten;    Reviews en user-generated content verzamelen en verwerken;    De interactie met volgers onderhouden en reacties beantwoorden;    Meedenken over de online ",
+      "postedAt": 1794054702,
       "score": 9,
       "reasons": [
-        "title: frontend",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "remotive-2091166",
-      "source": "Remotive",
-      "title": "Content Reviewer - United States",
-      "company": "TELUS Digital",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
-      "applyUrl": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
-      "tags": [
-        "android",
-        "ios",
-        "social media",
-        "AI/ML"
-      ],
-      "description": "   \n  We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit.  \n   \n  A Day in the Life of a Content Reviewer - US  \n  In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform.  \n   \n  By reviewing and rating search results for relevance and quality, you will help improve the overall search experience for millions of users around the world, including yourself.  \n  Join our global community and put your skills to work supporting one of the world's leading search technologies.  \n   \n  Service Rates   \n  The rate of pay is  $0.2333 per completed task, with an estimated earning potential of $14 per hour.  Compensation is based on tasks completed and project availability. Estimated earnings may vary depending on task volume and program requirements including, quality, and productivity, in accordance with the program's quality standards and guidelines.   \n   \n  P",
-      "postedAt": "2026-11-04T13:39:06",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
+        "title: react",
+        "skill: react"
       ]
     }
   ]

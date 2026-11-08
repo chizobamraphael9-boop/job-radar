@@ -1,4 +1,4 @@
-# Job Radar digest (2026-11-07)
+# Job Radar digest (2026-11-08)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410

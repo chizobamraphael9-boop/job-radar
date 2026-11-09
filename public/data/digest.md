@@ -1,4 +1,4 @@
-# Job Radar digest (2026-11-08)
+# Job Radar digest (2026-11-09)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
@@ -10,16 +10,16 @@
    https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540
 5. **Senior Software Engineer II Applied AI** — Wrapbook (31)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
-6. **Senior Vue Developer** — Lemon.io (30)
+6. **Senior Vue Developer** — Lemon.io (28)
    https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688
-7. **Feltsense AI Engineer** — Silver.dev (27)
-   https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691
-8. **Full-Stack Developer** — Fluence International, Inc. (27)
+7. **Full-Stack Developer** — Fluence International, Inc. (27)
    https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
-9. **Senior Back-end Developer** — Lemon.io (27)
+8. **Senior Back-end Developer** — Lemon.io (27)
    https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
-10. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
+9. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
+10. **Feltsense AI Engineer** — Silver.dev (25)
+   https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691
 11. **Product Engineering Lead** — Tether Operations Limited (25)
    https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
 12. **Senior Software Engineer LATAM** — Wagmo (22)

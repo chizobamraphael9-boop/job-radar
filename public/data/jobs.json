@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-10T13:15:21.134Z",
+  "scannedAt": "2026-11-11T12:27:23.996Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 41,
+  "count": 39,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -45,32 +45,6 @@
         "skill: react",
         "skill: html",
         "skill: css"
-      ]
-    },
-    {
-      "id": "arbeitnow-pflichtpraktikum-abschlussarbeit-frontend-3d-softwareentwicklung-unvergutet-berlin-175536",
-      "source": "Arbeitnow",
-      "title": "• Pflichtpraktikum / Abschlussarbeit Frontend & 3D-Softwareentwicklung (m/w/d) - unvergütet",
-      "company": "Think3DDD GbR",
-      "location": "Berlin · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/pflichtpraktikum-abschlussarbeit-frontend-3d-softwareentwicklung-unvergutet-berlin-175536",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/pflichtpraktikum-abschlussarbeit-frontend-3d-softwareentwicklung-unvergutet-berlin-175536",
-      "tags": [
-        "Remote",
-        "Web Development"
-      ],
-      "description": " Über uns  Think3DDD ist ein Unternehmen aus  Berlin-Adlershof , das sich auf  3D-Scan, 3D-Druck und Softwarelösungen im Bereich Medizintechnik  spezialisiert hat.  Wir entwickeln digitale Anwendungen, die Orthopädietechnikerinnen und Orthopädietechniker bei der Herstellung individueller medizinischer Hilfsmittel unterstützen. Dazu gehören die Verarbeitung von 3D-Scans, die Gestaltung von Orthesen und die Vorbereitung für den 3D-Druck.  Für die Weiterentwicklung unserer Software suchen wir Studierende, die sich für  Frontend-Entwicklung, UX/UI-Design und 3D-Technologien  interessieren und praktische Erfahrungen in diesen Bereichen sammeln möchten.  Bei uns kannst du an  realen Softwareprojekten  mitarbeiten und lernen, wie sich komplexe 3D-Funktionen benutzerfreundlich umsetzen lassen.  Aufgaben    Mitarbeit bei der  Entwicklung und Optimierung einer interaktiven Webanwendung  mit  three.js, React, JavaScript und CSS     Gestaltung und Weiterentwicklung  benutzerfreundlicher Oberflächen  für Orthopädietechnikerinnen und Orthopädietechniker, beispielsweise Messwerkzeuge, Marker und Slider    Unterstützung bei der  Umsetzung von 3D-Reverse-Engineering-Workflows , einschließlich Impor",
-      "postedAt": 1794310261,
-      "score": 34,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: css",
-        "skill: git",
-        "location: Remote"
       ]
     },
     {
@@ -768,85 +742,87 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-senior-support-engineer-eu-3043",
-      "source": "Arbeitnow",
-      "title": "Senior Support Engineer, EU",
-      "company": "Sanity",
-      "location": "Remote in the UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sanity/remote-senior-support-engineer-eu-3043",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/sanity/remote-senior-support-engineer-eu-3043",
+      "id": "remoteok-1137713",
+      "source": "RemoteOK",
+      "title": "Senior Software Engineer â Kubernetes Control Plane",
+      "company": "Buoyant",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
       "tags": [
-        "Customer Solutions"
+        "golang",
+        "dev",
+        "senior",
+        "golang",
+        "engineer",
+        "digital nomad"
       ],
-      "description": " At   Sanity.io  , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency. Companies like  SKIMS ,  Figma ,  Riot Games ,  Anthropic ,  COMPLEX ,  Nordstrom , and  Morningbrew  are using Sanity to power and automate their content operations.     We’re looking for an empathic senior support engineer who thrives on solving complex technical challenges and helping customers succeed with Sanity at scale.  As a senior member of the team, you will independently own high-impact issues, guide enterprise customers through complex implementations, and improve the systems, workflows, and documentation that power our support organization.  This is not a reactive ticket-queue role. It requires strong technical judgment, calm communication under pressure, and the ability to turn recurring customer friction into lasting improvements.     What you would do:     Independently own and resolve complex technical issues for enterprise customers.    Lead investigations into ambiguous or high-seve",
-      "postedAt": 1794292816,
-      "score": 16,
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...  Please mention the word **FECILITOUS** and tag RMTA0LjIxMC4xMzIuNA== when applying to show you read the job post completely (#RMTA0LjIxMC4xMzIuNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "postedAt": "2026-11-09T22:00:02+00:00",
+      "score": 15,
+      "reasons": [
+        "title: software engineer",
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-frontend-engineer-berlin-327732",
+      "source": "Arbeitnow",
+      "title": "Senior Frontend Engineer",
+      "company": "Almedia",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/senior-frontend-engineer-berlin-327732",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/almedia/senior-frontend-engineer-berlin-327732",
+      "tags": [
+        "Tech"
+      ],
+      "description": " Our bar is high, and this is the best place for ambitious builders.  Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT1000). Join us as we build the global leader in rewards, at a $1bn+ revenue run rate and climbing fast.     Senior Frontend Engineer   This role is for a highly experienced and autonomous engineer who will own the frontend architecture, set a high bar for code quality, and significantly impact product direction through hands-on development and strategic collaboration.      What You'll Do 🎯      Own the Architecture:  Design, develop, and maintain a new codebase using React and TypeScript to create a scalable, clean, and efficient frontend architecture.     Drive Product Quality at Speed:  Deliver high-quality, testable code at a high pace, enabling a culture of developer productivity and smooth feature deployment through efficient processes.     Integrate Data-Driven Decisions:  Implement and manage integrations with external services for A/B testing and feature flagging to ensure the product vision is validated and guided by data.     Collaborate and Lead:  Work closely with our CTO, backend teams, and Product to translate",
+      "postedAt": 1794379213,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "remoteok-1137710",
+      "source": "RemoteOK",
+      "title": "Senior Agentic AI Engineer NDA",
+      "company": "GT",
+      "location": "Warsaw",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+      "tags": [
+        "design",
+        "react",
+        "sys admin",
+        "infosec",
+        "python",
+        "consulting",
+        "docker",
+        "technical",
+        "recruiter",
+        "dev",
+        "testing",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "engineer",
+        "digital nomad"
+      ],
+      "description": "  GT was founded in 2019 by a former Apple, Nest, and Google executive. Â GTâs mission is to connect the worldâs best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands.  On behalf of the client, GT is looking for a  Senior Agentic AI Engineer  who is interested in solving complex matching and search problems at scale, applying ML and algorithms to hundreds of millions of real-world data records.  Â    About the Client   Our client is a leading global management consultancy known for tackling some of the worldâs most complex business challenges. With a focus on strategy, transformation, and performance improvement, the firm partners with major organizations across industries to drive lasting impact.  Recognized consistently as a top workplace, it combines deep industry expertise with a collaborative, innovative culture. Its centralized European hub plays a key role in supporting operations across the EMEA region, ensuring excellence and efficiency at scale.  Â    About the Project &amp; Role   We are looking for a  Senior AI Engineer  to help design, build, and evolve an  AI-powered conversational analytics platfo",
+      "postedAt": "2026-11-09T16:00:13+00:00",
+      "score": 14,
       "reasons": [
         "title: react",
         "skill: react",
         "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-java-fullstack-software-engineer-spring-boot-angular-bern-241500",
-      "source": "Arbeitnow",
-      "title": "Java Fullstack Software Engineer (Spring Boot / Angular)",
-      "company": "Coopers Group AG",
-      "location": "Bern · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/java-fullstack-software-engineer-spring-boot-angular-bern-241500",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/java-fullstack-software-engineer-spring-boot-angular-bern-241500",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " ................  Für unseren Kunden aus der Logistikbranche in  Bern , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n  Java Fullstack Software Engineer (Spring Boot / Angular).   In diesem Projekt arbeitest du an der Entwicklung einer modernen, skalierbaren Softwarelösung zur datenbasierten Routenplanung und Optimierung komplexer logistischer Prozesse. Gemeinsam mit einem interdisziplinären  Scrum DevOps Team  gestaltest du eine neue Systemlandschaft auf Basis einer  Microservice-Architektur  und setzt moderne Technologien sowie Machine Learning ein, um effiziente und zuverlässige Planungslösungen zu ermöglichen.   Deine Aufgaben:    Entwicklung und Weiterentwicklung moderner  Java-Applikationen  innerhalb einer Microservice-Architektur  Konzeption und Implementierung von  Backend-Services mit Java, Spring und Spring Boot   Entwicklung und Integration von  Frontend-Komponenten mit Angular   Implementierung und Anbindung von  RESTful APIs  sowie Dokumentation mittels Swagger  Einsatz von  Apache Kafka  zur ereignisbasierten Kommunikation zwischen Microservices  Containerisierung und Betrieb von Anwendungen mit  Docker und Kubernetes   Mitarbeit an der Entwicklun",
-      "postedAt": 1794222063,
-      "score": 16,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-demo-software-engineer-london-378723",
-      "source": "Arbeitnow",
-      "title": "Demo Software Engineer (f/m/d)",
-      "company": "contentful",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/contentful/demo-software-engineer-london-378723",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/contentful/demo-software-engineer-london-378723",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "&lt;h2&gt;About The Opportunity&lt;/h2&gt;\n&lt;p&gt;As a &lt;strong&gt;Demo&lt;/strong&gt; &lt;strong&gt;Software Engineer (f/m/d)&amp;nbsp; &lt;/strong&gt;you will be responsible for developing digital applications showcasing the use of Contentful within well-established categories and emerging areas. You will be the first to see new product features and play a critical role in bringing them to the market by building demos featured in product launches, analyst calls and annual customer conferences. In the off-season, you will help Contentful users get the most out of the product by developing how-to guides and tutorials, recording technical videos, and - occasionally - conducting in-person workshops.&lt;/p&gt;\n&lt;p&gt;This is a hands-on position that requires solid development skills and experience in shipping successful digital applications. You will be routinely asked to create things from scratch and craft delightful interaction loops, so creative thinking and good UX instincts are important for this role. Expect to be working on a wide range of tasks - frontend, backend, QA, devops - and a diverse set of projects spanning web, mobile, internal tooling, and AI. The demo team o",
-      "postedAt": 1794282928,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-net-developer-luzern-182639",
-      "source": "Arbeitnow",
-      "title": "Senior .NET Developer",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Luzern, Luzern, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-182639",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-182639",
-      "tags": [
-        "Software Engineering"
-      ],
-      "description": " Wir suchen einen erfahrenen Senior .NET Developer für ein etabliertes Schweizer IT-Dienstleistungsunternehmen im Raum Bern. Du arbeitest in einem motivierten SCRUM-Team an anspruchsvollen Kundenprojekten und übernimmst Verantwortung für Architektur, Codequalität und technische Entscheidungen.     Aufgaben       Entwicklung und Weiterentwicklung von Backend-Services und APIs auf Basis von .NET Core    Mitarbeit an Frontend-Komponenten mit Blazor oder Razor    Design und Umsetzung von Microservices- und Integrationsarchitekturen    Sicherstellung von Codequalität durch automatisierte Tests und Code Reviews    Aktive Mitgestaltung von Architekturentscheidungen im Team               Anforderungen       Mehr als 5 Jahre Erfahrung in der Softwareentwicklung mit .NET    Fundierte Kenntnisse in .NET Core, Entity Framework, Blazor und REST APIs    Erfahrung mit Microsoft Azure und Azure DevOps    Kenntnisse in Microservices und Integrationsarchitekturen    Kenntnisse in Kubernetes, Kafka, xUnit oder API Kana von Vorteil    Erfahrung mit agilen Methoden (Scrum, Kanban oder SAFe)    Sehr gute Deutschkenntnisse       Was dich erwartet       Festanstellung bei einem stabilen, finanzstarken Unt",
-      "postedAt": 1794141082,
-      "score": 15,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer",
-        "skill: rest api"
+        "posted this week"
       ]
     },
     {
@@ -865,7 +841,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNTIuMTU2LjExMC4xNzk= when applying to show you read the job post completely (#RNTIuMTU2LjExMC4xNzk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTA0LjIxMC4xMzIuNA== when applying to show you read the job post completely (#RMTA0LjIxMC4xMzIuNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -888,7 +864,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNTIuMTU2LjExMC4xNzk= when applying to show you read the job post completely (#RNTIuMTU2LjExMC4xNzk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTA0LjIxMC4xMzIuNA== when applying to show you read the job post completely (#RMTA0LjIxMC4xMzIuNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -911,7 +887,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTIuMTU2LjExMC4xNzk= when applying to show you read the job post completely (#RNTIuMTU2LjExMC4xNzk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTA0LjIxMC4xMzIuNA== when applying to show you read the job post completely (#RMTA0LjIxMC4xMzIuNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -1035,6 +1011,25 @@
       ]
     },
     {
+      "id": "arbeitnow-senior-staff-software-engineer-platform-london-329055",
+      "source": "Arbeitnow",
+      "title": "Senior/Staff Software Engineer, Platform",
+      "company": "Orbitalindustries",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/orbitalindustries/senior-staff-software-engineer-platform-london-329055",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/orbitalindustries/senior-staff-software-engineer-platform-london-329055",
+      "tags": [
+        "AI"
+      ],
+      "description": " Orbital Industries is an AI Industrial company, with frontier AI embedded at every step in the production of critical physical products - from creating advanced materials to engineering and manufacturing.  Every Orbital Industries product is developed using CurieOS, our AI operating system, uniting AI-automated hardware engineering with AI-designed material science to achieve breakthrough real-world performance. We also offer CurieOS to our customers and partners, extending the same platform and workflows that power Orbital Industries to their own teams and products.  We have an ambitious mission and need excellent people in all our teams - AI research, operations, advanced materials, mechanical engineering, chemical engineering and manufacturing.  Working at Orbital Industries means working in vertically integrated teams across the full stack, from molecules to manufacturing. We're looking for people who have a love of physical technology, curiosity in AI and a desire to learn.     The role   Physical engineering is one of the hardest domains for AI. Designs have to meet standards, calculations must be deterministic and checkable, and a wrong number can end up in a power system o",
+      "postedAt": 1794379212,
+      "score": 12,
+      "reasons": [
+        "title: software engineer",
+        "title: full stack"
+      ]
+    },
+    {
       "id": "remoteok-1137685",
       "source": "RemoteOK",
       "title": "Software Engineer",
@@ -1113,58 +1108,18 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-frontend-engineer-angular-remote-mit-reiseanteil-purpose-unternehmen-berlin-427402",
+      "id": "arbeitnow-senior-software-engineer-behavioral-security-products-280947",
       "source": "Arbeitnow",
-      "title": "Senior Frontend Engineer Angular (m/w/d) · Remote mit Reiseanteil · Purpose-Unternehmen",
-      "company": "dyve GmbH",
-      "location": "Berlin · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/dyve-gmbh/senior-frontend-engineer-angular-remote-mit-reiseanteil-purpose-unternehmen-berlin-427402",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/dyve-gmbh/senior-frontend-engineer-angular-remote-mit-reiseanteil-purpose-unternehmen-berlin-427402",
+      "title": "Senior Software Engineer - Behavioral Security Products",
+      "company": "Abnormalsecurity",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/senior-software-engineer-behavioral-security-products-280947",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/senior-software-engineer-behavioral-security-products-280947",
       "tags": [
-        "Remote",
-        "Web Development"
+        "Behavioral Security Products"
       ],
-      "description": " Wir sind dyve – eine Boutique für Softwareentwicklung und Technologieberatung. Mit Senior-Expert:innen, die sich so nahtlos in bestehende Teams integrieren, dass es sich für unsere Kunden \"wie inhouse\" anfühlt. Seit über 12 Jahren arbeiten wir 100% remote, sind ein offizielles Purpose-Unternehmen und gehören uns selbst.  Kein Konzern, keine starren Prozesse, keine Buzzwords. Wir lösen echte Probleme – pragmatisch, zuverlässig und mit echtem Interesse am Erfolg unserer Kunden.  Für unsere Kundenprojekte suchen wir Verstärkung mit Herz für saubere, barrierefreie Oberflächen und Angular-Erfahrung aus größeren Produktlandschaften.  Aufgaben    Du konzipierst und entwickelst Frontends für Kundenprodukte – von der Aufnahme fachlicher Anforderungen bis zur fertigen, ergonomischen Benutzeroberfläche    Du integrierst Anwendungen nahtlos in bestehende Systemlandschaften und Designsysteme, eng abgestimmt mit UX/UI-Teams und den Architekturvorgaben    Du sorgst für Qualität: automatisierte Unit- und E2E-Tests, Barrierefreiheit, responsives Design und Fehleranalyse im CI/CD-Prozess    Du arbeitest dich in agile Teams ein, oft auch in skalierten Setups wie SAFe, und übernimmst echte Verantwort",
-      "postedAt": 1794308476,
-      "score": 10,
-      "reasons": [
-        "title: frontend",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-java-kotlin-fullstack-entwickler-angular-spring-boot-azure-refnr-48191-zurich-288530",
-      "source": "Arbeitnow",
-      "title": "Senior Java/Kotlin Fullstack Entwickler (m/w/d) - Angular / Spring Boot / Azure (Ref.Nr.: 48191)",
-      "company": "Wavestone Germany AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-java-kotlin-fullstack-entwickler-angular-spring-boot-azure-refnr-48191-zurich-288530",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-java-kotlin-fullstack-entwickler-angular-spring-boot-azure-refnr-48191-zurich-288530",
-      "tags": [
-        "Software Development"
-      ],
-      "description": "Für ein langfristiges Projekt bei unserem Kunden in Zürich (Remote-Anteil nur innerhalb der Schweiz möglich) suchen wir einen Senior Java/Kotlin Fullstack Entwickler (m/w/d) - Angular / Spring Boot / Azure.    Key Facts  Start: 01.12.2026 Dauer: 22 Monate /  Auslastung: 100 % Einsatzart:  Einsatzort: Zürich Einsatzland: Schweiz    Ihre Aufgaben  • Neu- und Weiterentwicklung sowie Betrieb selbst entwickelter Services im DevOps-Team  • Entwickelte Lösungen anhand interner und externer Sicherheitsstandards verifizieren  • Betriebsprozesse verbessern und weiterentwickeln sowie konzeptionell mitarbeiten und die Services mitgestalten  • Den Fachbereich zu Machbarkeit, Varianten und Meinungsbildung beraten  • Eng mit Product Owner, Business Engineers und Architektur zusammenarbeiten, um optimale Lösungen zu erarbeiten    Muss-Anforderungen  • 5 bis 8 Jahre Erfahrung als Senior Java/Kotlin Fullstack Entwickler (m/w/d) mit Fokus auf Angular, Spring Boot & Azure  • Praktische Kenntnisse in Java, Kotlin und Angular mit besonderem Schwerpunkt auf diesen Technologien  • Erfahrung mit Backend-Technologien Java, Spring Boot und Hibernate/JPA  • Kenntnisse in den Frontend-Technologien TypeScript, ",
-      "postedAt": 1794225657,
-      "score": 10,
-      "reasons": [
-        "title: frontend",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-software-test-engineer-bern-255669",
-      "source": "Arbeitnow",
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Remote job · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-255669",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-255669",
-      "tags": [
-        "Software Engineering",
-        "Remote"
-      ],
-      "description": " Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.  Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen.     Must-have Anforderungen     Mehrjährige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten    Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray    Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform    Sehr gutes Deutsch und fliessendes Englisch       Nice-to-have Anforderungen     ISTQB Zertifizierung    Kenntnisse in Power Platform oder Azure       Das erwartet dich     Flexibler Homeoffice-Anteil, du entscheidest frei, ob du von zu Hause oder im Büro arbeites",
-      "postedAt": 1794141082,
+      "description": "&lt;p&gt;At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Abnormal is recognized as a top cybersecurity startup (Leader in the 2025 Gartner Magic Quadrant for Email Security Platforms), securing a Series D funding of $250 million at a $5.1 billion valuation in August 2024.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About The Team&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The team is responsible for the ownership, development, and operation of the infrastructure and ML models, customer facing APIs and internal tools that drive Abnormal&#39;s Account Takeover (ATO) protection product. This product is crucial for detecting malicious activity and safeguarding customers from account theft.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About The Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Senior Software Engineer to take ownership of complex feature delivery and technical design for our ATO platform. This pivotal role involves evolving the platform to scale with expanding product requirements. The position require",
+      "postedAt": 1794390914,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1172,29 +1127,77 @@
       ]
     },
     {
-      "id": "remoteok-1137703",
-      "source": "RemoteOK",
-      "title": "Account Executive Enterprise",
-      "company": "Harvey",
+      "id": "arbeitnow-senior-staff-site-reliability-engineer-60706",
+      "source": "Arbeitnow",
+      "title": "Senior Staff Site Reliability Engineer",
+      "company": "Pingidentity",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/senior-staff-site-reliability-engineer-60706",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/senior-staff-site-reliability-engineer-60706",
       "tags": [
-        "saas",
-        "technical",
+        "2103 Infrastructure Ops"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Ping Identity:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it&#39;s not just something we provide our customers. It&#39;s something that inspires our company. People don&#39;t come here to join a culture that&#39;s built on digital freedom. They come to cultivate it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&amp;nbsp;&lt;a href=&quot;https://www.pingidentity.com/en/company/championing-every-identity.html&quot;&gt;We champion every identity.&lt;/a&gt; One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re headquartered in Denver, Colorado and we ",
+      "postedAt": 1794380115,
+      "score": 10,
+      "reasons": [
+        "skill: html",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137711",
+      "source": "RemoteOK",
+      "title": "HIL Support Specialist",
+      "company": "Extend Your Team",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
+      "tags": [
+        "design",
+        "c sharp",
+        "amazon",
         "customer support",
         "dev",
-        "marketing",
         "finance",
+        "c",
+        "c plus plus",
+        "math",
+        "microsoft",
         "exec",
-        "legal",
-        "sales",
-        "engineer",
-        "recruiter",
+        "ops",
+        "medical",
+        "backend",
         "digital nomad"
       ],
-      "description": "  Why Harvey   At Harvey, weâre transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, weâre reshaping how critical knowledge work gets done for decades to come.  This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. Weâre scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth â personal, professional, and financial â is unmatched.  Our team moves fast, takes ownership, and is deeply committed to the mission â operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you.  At Harvey, the future of professional services is being written today â and ",
-      "postedAt": "2026-11-08T00:00:03+00:00",
+      "description": "  WHY JOIN EYT?   Â   Monthly Rate:  Php80,000 - Php100,000     +$1,000    Sign-On Bonus â Start in November or December 2026!  Â    New hires whose contractor start date falls within November or December 2026 are eligible for a $1,000 USD sign-on bonus. The bonus is paid in two installments at the 2-month and 4-month engagement milestones. Terms and conditions apply.   Â    Benefits That Work for You     HMO Coverage â Support for your health and peace of mind.    $121 USD Monthly Meal Allowance â A little extra to fuel your workday.    10 Days of Paid Time Off â Time to recharge and attend to personal priorities.    Annual Rate Increase â Celebrate your contractor anniversary with a performance-based rate increase.    Internet Allowance â Extra support to stay connected.    Work Devices and Accessories Provided â The tools you need to get started.    December Bonus â A year-end reward for qualifying performance.    Additional Maternity Leave â Up to 6 weeks of paid leave, separate from your regular PTO.*    Â    Annual rate increases and December bonuses depend on meeting performance requirements and are not guaranteed. Maternity leave entitlement depends on ten",
+      "postedAt": "2026-11-09T16:00:20+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137709",
+      "source": "RemoteOK",
+      "title": "Telehealth Endocrinologist Evenings Fridays and or Weekends",
+      "company": "Allara",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709",
+      "tags": [
+        "education",
+        "technical",
+        "customer support",
+        "video",
+        "medical",
+        "internship"
+      ],
+      "description": "   Allara   is a comprehensive womenâs health provider that specializes in expert, longitudinal care that supports women through every life stage. Trusted by thousands of women nationwide, Allara makes expert healthcare accessible by connecting patients with multidisciplinary care teams that have a deep understanding of hormonal, metabolic, and reproductive care. Allara provides ongoing support for hormonal conditions like PCOS, chronic conditions like insulin resistance, and life stages like perimenopause, helping patients see improved   health outcomes  . As one of the fastest-growing womenâs health platforms in the U.S., Allara is bridging long-overlooked gaps in healthcare for women.     The Opportunity   We're hiring  board-eligible Endocrinologists  who want to focus on what matters most: delivering exceptional care to women who have historically been underserved. To learn more about our mission and clinical approach, visit   allarahealth.com  .     Location:  Fully remote within the U.S.     Your Impact     Conduct thorough patient assessments and develop personalized treatment plans via video visits    Collaborate with a multidisciplinary care team to deliver the highes",
+      "postedAt": "2026-11-09T16:00:06+00:00",
       "score": 9,
       "reasons": [
         "skill: git",
@@ -1265,60 +1268,42 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-product-analyst-berlin-407738",
+      "id": "arbeitnow-senior-modern-workplace-solutionist-dinslaken-153889",
       "source": "Arbeitnow",
-      "title": "Senior Product Analyst",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-product-analyst-berlin-407738",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sumup/senior-product-analyst-berlin-407738",
+      "title": "Senior Modern Workplace Solutionist",
+      "company": "Signode",
+      "location": "Dinslaken",
+      "url": "https://www.arbeitnow.com/jobs/companies/signode/senior-modern-workplace-solutionist-dinslaken-153889",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/signode/senior-modern-workplace-solutionist-dinslaken-153889",
       "tags": [
-        "Data & Analytics"
+        "Information technology",
+        "bachelor's degree"
       ],
-      "description": "&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Team description&lt;/h2&gt;\n&lt;p&gt;The Central Product Analytics team sits at the heart of how SumUp understands and improves the experience of millions of merchants using our products every day. This role owns the Engagement domain — covering merchant engagement, product activation, support responses, and navigation across the SuperApp and web dashboard — and is the primary analytics partner for the Engagement product team. It&#39;s a genuine opportunity to take full ownership of a domain, build the measurement foundations from the ground up, and shift the team from reactive reporting to proactive, insight-led decision-making.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;Define event taxonomies and measurement plans, implement and QA tracking (GA4), and make sure analytics is built into new product features from day one&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Build and maintain scalable datasets in Snowflake — including funnels, customer behaviour models, and feature adoption metrics — and use them to generate insights that directly inform product decisions&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;",
-      "postedAt": 1794293719,
+      "description": " About the Role  Join Signode’s Modern Workplace Services team and help shape a secure, modern and AI-enabled workplace for our global organization.  In this role, you’ll combine  Microsoft 365 and Modern Workplace expertise with Microsoft Copilot and AI enablement , helping our teams use technology to work smarter and more effectively.    What You’ll Do    Develop and improve Microsoft 365 and Modern Workplace services    Support endpoint, device and application management, including Intune    Identify and implement high-value  Microsoft Copilot and AI use cases     Build solutions using  Copilot Studio, Power Platform and Power Automate     Drive Copilot adoption through training, demonstrations and user engagement    Evaluate and pilot new workplace technologies    Troubleshoot complex technical issues and drive continuous improvement    Partner with teams across IT, HR, Finance, Sales and other business functions    Maintain appropriate security, governance, ITIL and SOX standards      What You Bring     6+ years  of experience in IT, Modern Workplace or endpoint engineering    Strong experience with  Microsoft 365, Entra ID/Azure AD and Intune     Hands-on experience with  Mic",
+      "postedAt": 1794392411,
       "score": 9,
       "reasons": [
-        "title: react",
-        "skill: react"
+        "title: node",
+        "skill: node"
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-net-woerden-348003",
+      "id": "arbeitnow-software-engineer-performance-marketing-paris-56583",
       "source": "Arbeitnow",
-      "title": "Software Engineer (.NET)",
-      "company": "CCS Connects",
-      "location": "Woerden, Utrecht, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-348003",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-348003",
+      "title": "Software Engineer - Performance Marketing",
+      "company": "Voodoo",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/software-engineer-performance-marketing-paris-56583",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/voodoo/software-engineer-performance-marketing-paris-56583",
       "tags": [
-        "Development"
+        "Growth"
       ],
-      "description": "  Your Mission    As a Software Engineer at CCS, you'll play a key role in our modernization journey—bridging legacy systems with future-ready solutions. You’ll help deliver innovative, high-quality software that transforms how our clients operate. Modernization is not just about adopting new technologies—it’s about continuously improving how we build, learn, and grow. You love experimenting, learning by doing, and inspiring others to raise the bar.     What You’ll Do     You’ll join a team focused on modernizing our insurance back-office systems—critical components in our clients' ecosystems. Your main focus will be on  SureCore , our next-gen solution that works in tandem with  Level , our trusted legacy platform. This hybrid approach lets us evolve system functionality domain by domain. You enjoy working at the intersection of old and new tech, and you thrive on technical challenges that require creativity and collaboration.        Your Skills &amp; Experience    &nbsp;    Must-have:   &nbsp;    Strong experience with .NET    Hands-on knowledge of Domain-Driven Design (DDD)    Comfortable with Docker and container orchestration    Proficient in GitHub for version control and col",
-      "postedAt": 1794281499,
+      "description": "  About Voodoo     Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 1,000+ employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta. Our portfolio includes chart-topping games like Mob Control and Paper.io, alongside popular apps such as BeReal and Wizz.     Team     Our Growth team helps maximize the potential of each Voodoo product within the ecosystem. Our Growth team is split across several areas of expertise, such as user acquisition, ad monetization, video ads, playable ads, and influencer marketers. Being part of the Growth Team at Voodoo requires strong operational excellence and creativity in order to constantly adapt and stay ahead of the market.  The core mission of the Playable Ads team is to create engaging and interactive advertising experiences that captivate audiences and drive conversions. We work with playable developers and coordinators that turn a game into an HTML interactive ad experience. Your main mission will be to  produce high-performing ads by creating and uploading them to our vari",
+      "postedAt": 1794390012,
       "score": 9,
       "reasons": [
         "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-bloomreach-java-developer-zwolle-154323",
-      "source": "Arbeitnow",
-      "title": "Senior Bloomreach & Java Developer",
-      "company": "Univé",
-      "location": "Zwolle, Overijssel, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/unive/senior-bloomreach-java-developer-zwolle-154323",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/unive/senior-bloomreach-java-developer-zwolle-154323",
-      "tags": [
-        "IT & Data"
-      ],
-      "description": " Bouw mee aan het digitale fundament van Univé  Wil jij zelf software ontwikkelen én verantwoordelijk zijn voor een belangrijk digitaal platform binnen Univé? Wij zoeken een Senior Bloomreach Developer die ervoor zorgt dat ons Bloomreach CMS goed functioneert en technisch verder wordt ontwikkeld. Je krijgt veel ruimte om zelf te bouwen, verbeteringen door te voeren en technische problemen op te lossen. Samen met een junior Bloomreach Developer zorg je voor de continuïteit en doorontwikkeling van het platform.  Wat ga je doen?  Als Senior Bloomreach Developer ben je verantwoordelijk voor de technische ontwikkeling, het onderhoud en het goed functioneren van ons Bloomreach CMS. Het is een echte ontwikkelfunctie waarin je zelf bouwt en technische vraagstukken oplost.  Concreet betekent dit dat je:    Functionaliteit, templates, componenten binnen Bloomreach ontwikkelt en onderhoudt.    Storingen en technische problemen onderzoekt en oplost, zodat het CMS betrouwbaar blijft functioneren.    Integraties met frontendapplicaties en achterliggende systemen ontwikkelt en onderhoudt.    Zorgt voor de technische kwaliteit, performance, beveiliging en continuïteit van het platform.    Technisc",
-      "postedAt": 1794261085,
-      "score": 9,
-      "reasons": [
-        "title: frontend",
-        "skill: git"
+        "skill: html"
       ]
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-11T12:27:23.996Z",
+  "scannedAt": "2026-11-12T13:33:05.639Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 39,
+  "count": 42,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -178,45 +178,71 @@
       ]
     },
     {
-      "id": "remoteok-1137704",
-      "source": "RemoteOK",
-      "title": "UI Developer",
-      "company": "RainFocus",
-      "location": "Any State",
-      "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+      "id": "remotive-2091136",
+      "source": "Remotive",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
       "tags": [
-        "dev",
-        "design",
-        "react",
-        "front end",
-        "customer support",
-        "web dev",
-        "javascript",
+        ".Net",
+        "android",
+        "AWS",
+        "azure",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "fullstack",
+        "golang",
+        "ios",
         "java",
-        "css",
-        "html",
-        "git",
-        "exec",
-        "senior",
-        "ops",
-        "marketing",
-        "photoshop",
-        "ads",
-        "backend",
-        "digital nomad"
+        "javascript",
+        "magento",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "react js",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "UI/UX",
+        "wordpress",
+        "blockchain",
+        "AI/ML",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "Ethereum",
+        "graphic design",
+        "Typescript ",
+        "angular ",
+        "GCP",
+        "firebase",
+        "data engineering",
+        "Site Reliability",
+        "Symfony",
+        "next.js",
+        "flutter"
       ],
-      "description": " RainFocus, one of the most innovative software companies, is in search of an exceptional  Jr. UI Developer.  \n &nbsp; \n  About RainFocus  \n  RainFocus cares about its employees, customers, and the world in which we live. Our rapidly growing team serves Fortune 500 companies like Adobe, Cisco, IBM, Oracle, VMware, and others to prepare and execute in-person, virtual, and hybrid events, across the world. Those events are delivered through our industry-disrupting software platform, with groundbreaking business intelligence, to elevate the attendee experience, streamline event operations, and accelerate marketing results. We are well-funded, growing fast, and building a company that is changing the market â it will be challenging, fun and exciting.&nbsp;  \n &nbsp; \n  About the Role  \n As a Jr. UI Developer, you will be an essential part of our team, assisting in the implementation of stunning, user-friendly web applications. Working alongside experienced developers, you will use HTML, CSS, and modern JavaScript to help translate designs into high-quality web experiences for our events and platforms. This position is ideal for an early-career developer who is passionate about visuall",
-      "postedAt": "2026-11-08T16:00:03+00:00",
+      "description": "  Lemon.io  helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. \n   \n New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. \n     \n  Two ways to work with clients  \n \n  Contract:  most roles are contract-based. You join the client’s team and work as part of it. \n  Direct hire:  some clients hire engineers full-time, and we support you through the process. \n \n   \n Because companies trust our vetting, applying through  Lemon.io  is often a shortcut. You get to the client faster than going through their full hiring process on your own. \n     \n  What you get  \n \n Competitive rate, based on your seniority and skills \n We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. \n Flexible schedule. Work async or with a small overlap with the team’s hours. \n No micromanagement, no screen trackers \n Direct work with clients, most of them with technical backgrounds \n Ongoing support from your application throu",
+      "postedAt": "2026-11-10T14:25:05",
       "score": 29,
       "reasons": [
         "title: react",
         "title: javascript",
+        "title: node",
         "skill: javascript",
         "skill: react",
-        "skill: html",
-        "skill: css",
-        "skill: git",
+        "skill: node",
         "posted this week"
       ]
     },
@@ -254,6 +280,48 @@
         "skill: javascript",
         "skill: node",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137704",
+      "source": "RemoteOK",
+      "title": "UI Developer",
+      "company": "RainFocus",
+      "location": "Any State",
+      "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+      "tags": [
+        "dev",
+        "design",
+        "react",
+        "front end",
+        "customer support",
+        "web dev",
+        "javascript",
+        "java",
+        "css",
+        "html",
+        "git",
+        "exec",
+        "senior",
+        "ops",
+        "marketing",
+        "photoshop",
+        "ads",
+        "backend",
+        "digital nomad"
+      ],
+      "description": " RainFocus, one of the most innovative software companies, is in search of an exceptional  Jr. UI Developer.  \n &nbsp; \n  About RainFocus  \n  RainFocus cares about its employees, customers, and the world in which we live. Our rapidly growing team serves Fortune 500 companies like Adobe, Cisco, IBM, Oracle, VMware, and others to prepare and execute in-person, virtual, and hybrid events, across the world. Those events are delivered through our industry-disrupting software platform, with groundbreaking business intelligence, to elevate the attendee experience, streamline event operations, and accelerate marketing results. We are well-funded, growing fast, and building a company that is changing the market â it will be challenging, fun and exciting.&nbsp;  \n &nbsp; \n  About the Role  \n As a Jr. UI Developer, you will be an essential part of our team, assisting in the implementation of stunning, user-friendly web applications. Working alongside experienced developers, you will use HTML, CSS, and modern JavaScript to help translate designs into high-quality web experiences for our events and platforms. This position is ideal for an early-career developer who is passionate about visuall",
+      "postedAt": "2026-11-08T16:00:03+00:00",
+      "score": 27,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: react",
+        "skill: html",
+        "skill: css",
+        "skill: git"
       ]
     },
     {
@@ -500,6 +568,29 @@
       ]
     },
     {
+      "id": "arbeitnow-php-joomla-entwickler-offenburg-295194",
+      "source": "Arbeitnow",
+      "title": "PHP / Joomla Entwickler (m/w/d)",
+      "company": "AUTOHAUSEN AG",
+      "location": "Offenburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/autohausen-ag/php-joomla-entwickler-offenburg-295194",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/autohausen-ag/php-joomla-entwickler-offenburg-295194",
+      "tags": [
+        "Web Development"
+      ],
+      "description": " Über uns  Wir entwickeln und betreiben moderne Softwarelösungen für den Automobilhandel. Unsere Anwendungen und Webseiten unterstützen Händler bei der Digitalisierung ihrer Geschäftsprozesse und der Vermarktung ihrer Fahrzeugbestände.  Zur Verstärkung unseres Entwicklungsteams suchen wir einen erfahrenen PHP / Joomla Entwickler (m/w/d), der Freude daran hat, professionelle Webprojekte technisch umzusetzen, kontinuierlich weiterzuentwickeln und langfristig zu betreuen.  Dabei arbeitest du sowohl an der Backend-Entwicklung mit PHP und Joomla als auch an der Umsetzung moderner, responsiver Benutzeroberflächen.  Deine Aufgaben    Entwicklung und Weiterentwicklung von Joomla-Webprojekten:  Du entwickelst, betreust und optimierst bestehende sowie neue Webseiten auf Basis des Content-Management-Systems Joomla.   Entwicklung individueller Joomla-Erweiterungen:  Du konzipierst und implementierst eigene Joomla-Module, Plugins und bei Bedarf weitere Erweiterungen und integrierst diese in bestehende Projekte.   Frontend-Entwicklung:  Du setzt vorgegebene Designs und Layouts mit HTML, CSS und JavaScript technisch präzise um und sorgst für eine responsive, performante und benutzerfreundliche Da",
+      "postedAt": 1794477676,
+      "score": 24,
+      "reasons": [
+        "title: frontend",
+        "title: javascript",
+        "skill: javascript",
+        "skill: html",
+        "skill: css",
+        "skill: git"
+      ]
+    },
+    {
       "id": "remoteok-1137572",
       "source": "RemoteOK",
       "title": "Senior Software Engineer LATAM",
@@ -528,32 +619,6 @@
         "title: software engineer",
         "skill: react",
         "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "remoteok-1137551",
-      "source": "RemoteOK",
-      "title": "Senior Backend Engineer",
-      "company": "DuckDuckGo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
-      "tags": [
-        "backend",
-        "perl",
-        "golang",
-        "javascript",
-        "node"
-      ],
-      "description": "  Who We Are    Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on  Mac ,  Windows ,  iOS , and  Android , our  search engine , and the  DuckDuckGo subscription . We also offer private, useful, and optional AI, including  Duck.ai , which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place.     Our  culture  of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!      Your Team and Role    Working on the Backend Functional Team, you'll lead complex projects across key company-wide objectives. Using Perl (Version 5), Go, and Node.js, youâll write pragmatic, performant, testable code that works consistently, and work on related projects. Recent projects include:    Implementing AI-assisted answers and integrating them into our Search p",
-      "postedAt": "2026-10-21T14:29:21+00:00",
-      "score": 22,
-      "reasons": [
-        "title: javascript",
-        "title: node",
-        "skill: javascript",
-        "skill: node",
         "location: Remote"
       ]
     },
@@ -692,56 +757,6 @@
       ]
     },
     {
-      "id": "remoteok-1136213",
-      "source": "RemoteOK",
-      "title": "Freelance Designer",
-      "company": "Control Shift Video",
-      "location": "Texas, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
-      "tags": [
-        "exec",
-        "design",
-        "architecture",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "content writing",
-        "ops",
-        "golang",
-        "full time",
-        "digital nomad",
-        "dev",
-        "senior",
-        "medical",
-        "engineer",
-        "infosec",
-        "react",
-        "embedded",
-        "technical",
-        "finance",
-        "cloud",
-        "postgres",
-        "typescript",
-        "ruby",
-        "stats",
-        "accounting",
-        "designer",
-        "web dev",
-        "video",
-        "ads"
-      ],
-      "description": " Job Description And Requirements    Project-based | Remote | United States | Contract  Pay based on freelancer's rate   Control Shift Video is looking for a  freelance designer  to collaborate with our creative team on project-based work across video, motion graphics, web visuals, and brand content. Our projects span technology, healthcare, energy, consumer brands, nonprofits, and passion projects.     What Youâll Do     Design visual systems, frames, and assets for video and motion projects  Support branding, layout, and visual storytelling needs  Translate concepts into clean, purposeful designs  Prepare files for animation and production workflows     What Weâre Looking For     Strong design fundamentals and visual judgment  Experience designing for motion or video  Clear communication and reliable delivery  Proficiency in Adobe Creative Suite or similar tools     How We Work     Remote-first and flexible  Project-based engagements with clear scopes and timelines  Respectful collaboration â we treat freelancers like partners, not resources  Clear feedback, fair rates, and no last-minute chaos whenever possible     Why Work With Us     Youâll work on meaningful projects ",
-      "postedAt": "2026-08-05T08:16:20+00:00",
-      "score": 16,
-      "reasons": [
-        "title: react",
-        "skill: react",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
       "id": "remoteok-1137713",
       "source": "RemoteOK",
       "title": "Senior Software Engineer â Kubernetes Control Plane",
@@ -757,7 +772,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...  Please mention the word **FECILITOUS** and tag RMTA0LjIxMC4xMzIuNA== when applying to show you read the job post completely (#RMTA0LjIxMC4xMzIuNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...  Please mention the word **FECILITOUS** and tag RMjAuNDAuMjU0LjIzMA== when applying to show you read the job post completely (#RMjAuNDAuMjU0LjIzMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-11-09T22:00:02+00:00",
       "score": 15,
       "reasons": [
@@ -768,18 +783,38 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-frontend-engineer-berlin-327732",
+      "id": "arbeitnow-fullstack-developerin-python-django-react-mid-level-senior-berlin-8621",
       "source": "Arbeitnow",
-      "title": "Senior Frontend Engineer",
-      "company": "Almedia",
+      "title": "Fullstack Developer*in (Python/Django & React) Mid-Level / Senior",
+      "company": "INES Analytics",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/almedia/senior-frontend-engineer-berlin-327732",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/almedia/senior-frontend-engineer-berlin-327732",
+      "url": "https://www.arbeitnow.com/jobs/companies/ines-analytics/fullstack-developerin-python-django-react-mid-level-senior-berlin-8621",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/ines-analytics/fullstack-developerin-python-django-react-mid-level-senior-berlin-8621",
       "tags": [
-        "Tech"
+        "Software Development"
       ],
-      "description": " Our bar is high, and this is the best place for ambitious builders.  Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT1000). Join us as we build the global leader in rewards, at a $1bn+ revenue run rate and climbing fast.     Senior Frontend Engineer   This role is for a highly experienced and autonomous engineer who will own the frontend architecture, set a high bar for code quality, and significantly impact product direction through hands-on development and strategic collaboration.      What You'll Do 🎯      Own the Architecture:  Design, develop, and maintain a new codebase using React and TypeScript to create a scalable, clean, and efficient frontend architecture.     Drive Product Quality at Speed:  Deliver high-quality, testable code at a high pace, enabling a culture of developer productivity and smooth feature deployment through efficient processes.     Integrate Data-Driven Decisions:  Implement and manage integrations with external services for A/B testing and feature flagging to ensure the product vision is validated and guided by data.     Collaborate and Lead:  Work closely with our CTO, backend teams, and Product to translate",
-      "postedAt": 1794379213,
+      "description": " Kurzbeschreibung  Du suchst einen Job mit Sinn und willst mit uns zusammen SaaS-Tools für faire Arbeitsbedingungen für alle Beschäftigten weiterentwickeln? Dann bist Du bei uns richtig: Du übernimmst die technische Verantwortung für bestehende, datenintensive Python/Django-Anwendungen. Du stabilisierst und modernisierst die gewachsenen Codebasen und entwickelst gleichzeitig neue Features nach fachlichen Anforderungen.  Wichtigste Aufgaben    Betreuung und Modernisierung bestehender Python/Django-/REST-Anwendungen    Implementierung neuer Funktionen in Python/Django-/REST-Anwendungen    Betreuung und Modernisierung des React-Frontends, der Benutzeroberflächen und Dashboards    Implementierung neuer Frontend-Funktionen und Anbindung an Django-REST-APIs    Unterstützung bei der Weiterentwicklung und Integration von ETL-Prozessen    Technische Umsetzung und Integration neuer und bestehender Data-Science-Module in unsere Anwendungen    Automatisierte Tests, Fehlerbehandlung, Monitoring und Verbesserung der Dokumentation    Betreuung von PostgreSQL, Unterstützung bei AWS/S3-Integrationen    Wichtigste Anforderungen    Sehr gute Kenntnisse in Python, Django, Django REST Framework und Pos",
+      "postedAt": 1794483065,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "skill: react"
+      ]
+    },
+    {
+      "id": "arbeitnow-qa-engineer-hamburg-18682",
+      "source": "Arbeitnow",
+      "title": "QA Engineer (f/m/d)",
+      "company": "adjoe",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/qa-engineer-hamburg-18682",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/adjoe/qa-engineer-hamburg-18682",
+      "tags": [
+        "adjoe"
+      ],
+      "description": " adjoe builds the technologies behind mobile apps growth and monetization. With our core product  Playtime Arcade , we've become the global leader in rewarded advertising, an ad unit built on a simple premise: users earn real in-app rewards for engaging with new apps. The result is one of the most effective value exchanges in adtech, connecting advertisers and publishers with over 770 million users annually.   Transforming 50M+ daily events into real-time actionable dashboard insights   The Dashboards team is responsible for the systems and interfaces that define our partners' daily operations. We build the campaign management APIs, analytics engines, and high-throughput tools that allow advertisers and publishers to configure, monitor, and optimize their activity on our platform.  This is not about simple CRUD interfaces, it is about building high-performance data surfaces that drive massive business decisions. Using  Go, Kafka,  and  Druid,  we process and render real-time analytics across  50+ million daily events,  ensuring accuracy and complex campaign performance reporting at scale. On the frontend, we tackle genuine engineering constraints: utilizing  TypeScript  and  React,",
+      "postedAt": 1794476427,
       "score": 15,
       "reasons": [
         "title: frontend",
@@ -841,7 +876,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTA0LjIxMC4xMzIuNA== when applying to show you read the job post completely (#RMTA0LjIxMC4xMzIuNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMjAuNDAuMjU0LjIzMA== when applying to show you read the job post completely (#RMjAuNDAuMjU0LjIzMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -864,7 +899,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTA0LjIxMC4xMzIuNA== when applying to show you read the job post completely (#RMTA0LjIxMC4xMzIuNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMjAuNDAuMjU0LjIzMA== when applying to show you read the job post completely (#RMjAuNDAuMjU0LjIzMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -887,12 +922,72 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTA0LjIxMC4xMzIuNA== when applying to show you read the job post completely (#RMTA0LjIxMC4xMzIuNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuNDAuMjU0LjIzMA== when applying to show you read the job post completely (#RMjAuNDAuMjU0LjIzMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
         "title: software engineer",
         "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-staff-senior-backend-engineer-nodejs-london-33717",
+      "source": "Arbeitnow",
+      "title": "Staff/Senior Backend Engineer (Node.js)",
+      "company": "Mimica",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/staff-senior-backend-engineer-nodejs-london-33717",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/mimica/staff-senior-backend-engineer-nodejs-london-33717",
+      "tags": [
+        "Engineering"
+      ],
+      "description": " What we are building   Mimica  is an AI-powered process intelligence platform enabling enterprises and individuals to reclaim their most precious resource: time. We've all seen repetitive tasks and redundant processes quietly drain productivity and creativity. Not because companies don’t want to become more efficient, but because they don’t know where to start.  Mimica automatically analyzes your team’s work, then generates the AI agents to execute it. Our software turns everyday work into data-backed decisions, helping companies remove process bottlenecks, automate the right tasks, and upskill teams with precision and confidence.  We’ve raised $26 million in Series B financing and are scaling fast. Backed by investors including Khosla Ventures and Paladin Capital, our proprietary AI technology is trusted by Fortune 500 companies to accelerate transformation. Mimica is recognized as a Top 100 AI Start-up by Accel and an industry Leader by the Everest Group.   Our team   Behind our platform is a team of exceptionally talented people, remote-first and globally distributed across 16+ countries. We're looking for curious, collaborative people excited to solve complex problems. You'll ",
+      "postedAt": 1794487229,
+      "score": 13,
+      "reasons": [
+        "title: node",
+        "skill: node",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-director-international-development-475275",
+      "source": "Arbeitnow",
+      "title": "Senior Director, International Development",
+      "company": "oklo",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oklo/senior-director-international-development-475275",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/oklo/senior-director-international-development-475275",
+      "tags": [
+        "Business"
+      ],
+      "description": "&lt;p&gt;Thank you for considering Oklo. We are hiring a Senior Director, International Affairs to join our Strategy team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Position Description&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Oklo is seeking a Senior Director of International Affairs to develop international opportunities that can materially advance the company&#39;s long-term strategy. This role connects market choices, senior relationships, sovereign and government capital, industrial partnerships, and selected cross-border initiatives.&lt;/p&gt;\n&lt;p&gt;You will help determine where Oklo should engage, which institutions matter, and what a credible partnership or investment proposition should look like. The scope extends across the company&#39;s businesses and strategic priorities, rather than being limited to individual international reactor deployment projects.&lt;/p&gt;\n&lt;p&gt;You will report to the Chief of Strategy Officer and work directly with the CSO on assigned initiatives. You will coordinate closely with the CFO organization, Government Affairs, Legal, technical and regulatory leaders, and business-unit teams, with explicit agreement on market coverage, counterpart relationships,",
+      "postedAt": 1794477321,
+      "score": 13,
+      "reasons": [
+        "title: react",
+        "skill: react",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-regional-sales-director-neur-amsterdam-218233",
+      "source": "Arbeitnow",
+      "title": "Regional Sales Director, NEUR",
+      "company": "Horizon3Ai",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/regional-sales-director-neur-amsterdam-218233",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/regional-sales-director-neur-amsterdam-218233",
+      "tags": [
+        "Sales"
+      ],
+      "description": "  Get to Know Us   Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs.   We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, \"checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results.     ",
+      "postedAt": 1794487231,
+      "score": 13,
+      "reasons": [
+        "title: node",
+        "skill: node",
         "location: Remote"
       ]
     },
@@ -928,40 +1023,6 @@
         "title: software engineer",
         "skill: git",
         "location: Remote"
-      ]
-    },
-    {
-      "id": "remoteok-1137707",
-      "source": "RemoteOK",
-      "title": "Web3 Business Development",
-      "company": "CertiK",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
-      "tags": [
-        "crypto",
-        "web3",
-        "blockchain",
-        "defi",
-        "infosec",
-        "consulting",
-        "technical",
-        "customer support",
-        "testing",
-        "html",
-        "senior",
-        "bus dev",
-        "sales",
-        "engineer"
-      ],
-      "description": " \n  \n  About the Company  \n Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart contract audits, penetration testing, on-chain monitoring, incident response, and compliance services for some of the largest projects in the digital asset ecosystem. \n &nbsp; \n Today, CertiK supports thousands of enterprise clients and Web3 projects globally, with a distributed international team spanning North America, Asia, and Europe. The company is backed by leading investors including Coatue, Goldman Sachs, Insight Partners, and Sequoia Capital, and has been recognized by organizations such as the World Economic Forum and CB Insights for its contributions to blockchain security innovation. \n &nbsp; \n  About This Role  \n Weâre looking for a passionate and proactive Business Development professional to help expand CertiKâs presence in the Web",
-      "postedAt": "2026-11-09T08:00:05+00:00",
-      "score": 12,
-      "reasons": [
-        "skill: html",
-        "skill: git",
-        "location: Remote",
-        "posted this week"
       ]
     },
     {
@@ -1011,22 +1072,36 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-staff-software-engineer-platform-london-329055",
-      "source": "Arbeitnow",
-      "title": "Senior/Staff Software Engineer, Platform",
-      "company": "Orbitalindustries",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/orbitalindustries/senior-staff-software-engineer-platform-london-329055",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/orbitalindustries/senior-staff-software-engineer-platform-london-329055",
+      "id": "remoteok-1137707",
+      "source": "RemoteOK",
+      "title": "Web3 Business Development",
+      "company": "CertiK",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
       "tags": [
-        "AI"
+        "crypto",
+        "web3",
+        "blockchain",
+        "defi",
+        "infosec",
+        "consulting",
+        "technical",
+        "customer support",
+        "testing",
+        "html",
+        "senior",
+        "bus dev",
+        "sales",
+        "engineer"
       ],
-      "description": " Orbital Industries is an AI Industrial company, with frontier AI embedded at every step in the production of critical physical products - from creating advanced materials to engineering and manufacturing.  Every Orbital Industries product is developed using CurieOS, our AI operating system, uniting AI-automated hardware engineering with AI-designed material science to achieve breakthrough real-world performance. We also offer CurieOS to our customers and partners, extending the same platform and workflows that power Orbital Industries to their own teams and products.  We have an ambitious mission and need excellent people in all our teams - AI research, operations, advanced materials, mechanical engineering, chemical engineering and manufacturing.  Working at Orbital Industries means working in vertically integrated teams across the full stack, from molecules to manufacturing. We're looking for people who have a love of physical technology, curiosity in AI and a desire to learn.     The role   Physical engineering is one of the hardest domains for AI. Designs have to meet standards, calculations must be deterministic and checkable, and a wrong number can end up in a power system o",
-      "postedAt": 1794379212,
-      "score": 12,
+      "description": " \n  \n  About the Company  \n Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart contract audits, penetration testing, on-chain monitoring, incident response, and compliance services for some of the largest projects in the digital asset ecosystem. \n &nbsp; \n Today, CertiK supports thousands of enterprise clients and Web3 projects globally, with a distributed international team spanning North America, Asia, and Europe. The company is backed by leading investors including Coatue, Goldman Sachs, Insight Partners, and Sequoia Capital, and has been recognized by organizations such as the World Economic Forum and CB Insights for its contributions to blockchain security innovation. \n &nbsp; \n  About This Role  \n Weâre looking for a passionate and proactive Business Development professional to help expand CertiKâs presence in the Web",
+      "postedAt": "2026-11-09T08:00:05+00:00",
+      "score": 10,
       "reasons": [
-        "title: software engineer",
-        "title: full stack"
+        "skill: html",
+        "skill: git",
+        "location: Remote"
       ]
     },
     {
@@ -1108,18 +1183,18 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-behavioral-security-products-280947",
+      "id": "arbeitnow-electronics-software-engineer-340651",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer - Behavioral Security Products",
-      "company": "Abnormalsecurity",
+      "title": "Electronics / Software Engineer",
+      "company": "Cambridgeconsultantslimited",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/senior-software-engineer-behavioral-security-products-280947",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/senior-software-engineer-behavioral-security-products-280947",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/electronics-software-engineer-340651",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/electronics-software-engineer-340651",
       "tags": [
-        "Behavioral Security Products"
+        "Electronics & Software (*)"
       ],
-      "description": "&lt;p&gt;At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Abnormal is recognized as a top cybersecurity startup (Leader in the 2025 Gartner Magic Quadrant for Email Security Platforms), securing a Series D funding of $250 million at a $5.1 billion valuation in August 2024.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About The Team&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The team is responsible for the ownership, development, and operation of the infrastructure and ML models, customer facing APIs and internal tools that drive Abnormal&#39;s Account Takeover (ATO) protection product. This product is crucial for detecting malicious activity and safeguarding customers from account theft.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About The Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Senior Software Engineer to take ownership of complex feature delivery and technical design for our ATO platform. This pivotal role involves evolving the platform to scale with expanding product requirements. The position require",
-      "postedAt": 1794390914,
+      "description": "&lt;h3&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re looking for an experienced Electronics and/or Software Engineer keen to help our clients solve complex technical challenges.&amp;nbsp; You’ll need to be eager to turn your hand to a lot of different tasks and enjoy constantly learning new things.&amp;nbsp; In return we can offer the chance to tackle some of the hardest engineering problems around, such as &lt;a href=&quot;https://www.cambridgeconsultants.com/project/a-step-change-in-ai-based-robotics-for-military-logistics/&quot;&gt;novel applications of robotics&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;https://www.wired.com/video/watch/an-inside-look-at-legos-new-tech-packed-smart-brick&quot;&gt;collaborating with LEGO®&lt;/a&gt; to develop &lt;a href=&quot;https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick/&quot;&gt;LEGO® SMART Play™&lt;/a&gt; &amp;nbsp;and &lt;a href=&quot;https://www.cambridgeconsultants.com/project/overcoming-smart-meter-challenges-for-the-last-5/&quot;&gt;other embedded products&lt;/a&gt;, as well as defence and national security projects such as &lt;a href=&quot;https://www.cambridgeconsultants.com/project/pionee",
+      "postedAt": 1794488116,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1127,23 +1202,90 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-staff-site-reliability-engineer-60706",
+      "id": "arbeitnow-senior-software-engineer-os-integration-354834",
       "source": "Arbeitnow",
-      "title": "Senior Staff Site Reliability Engineer",
-      "company": "Pingidentity",
+      "title": "Senior Software Engineer, OS Integration",
+      "company": "mozilla",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/senior-staff-site-reliability-engineer-60706",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/senior-staff-site-reliability-engineer-60706",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mozilla/senior-software-engineer-os-integration-354834",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/mozilla/senior-software-engineer-os-integration-354834",
       "tags": [
-        "2103 Infrastructure Ops"
+        "Firefox"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Ping Identity:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it&#39;s not just something we provide our customers. It&#39;s something that inspires our company. People don&#39;t come here to join a culture that&#39;s built on digital freedom. They come to cultivate it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&amp;nbsp;&lt;a href=&quot;https://www.pingidentity.com/en/company/championing-every-identity.html&quot;&gt;We champion every identity.&lt;/a&gt; One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re headquartered in Denver, Colorado and we ",
-      "postedAt": 1794380115,
+      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we’re doing this while never losing our focus on our core mission – to make the internet better for people.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren’t beholden to any shareholders — only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design, build and distribute &lt;/span&gt;&lt;st",
+      "postedAt": 1794466521,
       "score": 10,
       "reasons": [
-        "skill: html",
-        "skill: git",
+        "title: software engineer",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137719",
+      "source": "RemoteOK",
+      "title": "Patient Care Specialist I",
+      "company": "Boston Scientific",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-care-specialist-i-boston-scientific-1137719",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-patient-care-specialist-i-boston-scientific-1137719",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "technical",
+        "customer support",
+        "testing",
+        "telecommuting",
+        "exec",
+        "sales",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "description": "Additional Location(s): N/A\n\nDiversity - Innovation - Caring - Global Collaboration - Winning Spirit - High Performance\n\nAt Boston Scientific, weâll give you the opportunity to harness all thatâs within you by working in teams of diverse and high-performing employees, tackling some of the most important health industry challenges. With access to the latest tools, information and training, weâll help you in advancing your skills and career. Here, youâll be supported in progressing â whatever your ambitions. \n\n \n\nAbout the role:   \nProvide service to Patients with implanted Neuromodulation devices within a contact center setting. Support Sales Team with service needs related to implanted Patients. Services provided include but are not limited to troubleshooting, warranty decisions, complaint handling and sales orders.  Accountable for complying with all Regulatory requirements with respect to complaint handling and maintaining the accuracy of data within BSC business systems.  \n\n \n\nWe offer 8-10 weeks of paid training.  The hours during training will be 8:00am to 4:30pm PST, Monday-Friday.  No Vacation during training.  100% attendance is required.  Training will be conduct",
+      "postedAt": "2026-11-11T08:00:08+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137714",
+      "source": "RemoteOK",
+      "title": "Data Engineer",
+      "company": "Addepto",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "python",
+        "education",
+        "consulting",
+        "customer support",
+        "testing",
+        "marketing",
+        "dev",
+        "finance",
+        "cloud",
+        "git",
+        "stats",
+        "sys admin",
+        "engineer",
+        "apache",
+        "digital nomad"
+      ],
+      "description": "  Addepto is a leading AI consulting (    https://addepto.com/ai-consulting/    ) and data engineering (    https://addepto.com/data-engineering-services/    ) company that builds scalable, ROI-focused AI solutions for some of the world's largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With an exclusive focus on Artificial Intelligence and Big Data, Addepto helps organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth.      The company's work extends beyond client engagements. Drawing from real-world challenges and insights, Addepto has developed its own     product - ContextClue     - and actively contributes open-source solutions to the AI community. This commitment to transforming practical experience into scalable innovation has earned Addepto recognition by     Forbes as one of the top 10 AI consulting companies worldwide    .     As part of     KMS Technology    , a US-based global technology group, Addepto combines deep AI specialization with enterprise-scale delivery capabilitiesâenabling the partnership to move clients from AI experimentation",
+      "postedAt": "2026-11-10T16:00:04+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1265,45 +1407,6 @@
       "reasons": [
         "title: software engineer",
         "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-modern-workplace-solutionist-dinslaken-153889",
-      "source": "Arbeitnow",
-      "title": "Senior Modern Workplace Solutionist",
-      "company": "Signode",
-      "location": "Dinslaken",
-      "url": "https://www.arbeitnow.com/jobs/companies/signode/senior-modern-workplace-solutionist-dinslaken-153889",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/signode/senior-modern-workplace-solutionist-dinslaken-153889",
-      "tags": [
-        "Information technology",
-        "bachelor's degree"
-      ],
-      "description": " About the Role  Join Signode’s Modern Workplace Services team and help shape a secure, modern and AI-enabled workplace for our global organization.  In this role, you’ll combine  Microsoft 365 and Modern Workplace expertise with Microsoft Copilot and AI enablement , helping our teams use technology to work smarter and more effectively.    What You’ll Do    Develop and improve Microsoft 365 and Modern Workplace services    Support endpoint, device and application management, including Intune    Identify and implement high-value  Microsoft Copilot and AI use cases     Build solutions using  Copilot Studio, Power Platform and Power Automate     Drive Copilot adoption through training, demonstrations and user engagement    Evaluate and pilot new workplace technologies    Troubleshoot complex technical issues and drive continuous improvement    Partner with teams across IT, HR, Finance, Sales and other business functions    Maintain appropriate security, governance, ITIL and SOX standards      What You Bring     6+ years  of experience in IT, Modern Workplace or endpoint engineering    Strong experience with  Microsoft 365, Entra ID/Azure AD and Intune     Hands-on experience with  Mic",
-      "postedAt": 1794392411,
-      "score": 9,
-      "reasons": [
-        "title: node",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-performance-marketing-paris-56583",
-      "source": "Arbeitnow",
-      "title": "Software Engineer - Performance Marketing",
-      "company": "Voodoo",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/software-engineer-performance-marketing-paris-56583",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/voodoo/software-engineer-performance-marketing-paris-56583",
-      "tags": [
-        "Growth"
-      ],
-      "description": "  About Voodoo     Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 1,000+ employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta. Our portfolio includes chart-topping games like Mob Control and Paper.io, alongside popular apps such as BeReal and Wizz.     Team     Our Growth team helps maximize the potential of each Voodoo product within the ecosystem. Our Growth team is split across several areas of expertise, such as user acquisition, ad monetization, video ads, playable ads, and influencer marketers. Being part of the Growth Team at Voodoo requires strong operational excellence and creativity in order to constantly adapt and stay ahead of the market.  The core mission of the Playable Ads team is to create engaging and interactive advertising experiences that captivate audiences and drive conversions. We work with playable developers and coordinators that turn a game into an HTML interactive ad experience. Your main mission will be to  produce high-performing ads by creating and uploading them to our vari",
-      "postedAt": 1794390012,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: html"
       ]
     }
   ]

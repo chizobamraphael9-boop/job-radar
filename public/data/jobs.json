@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-15T12:30:49.534Z",
+  "scannedAt": "2026-11-16T13:22:54.196Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 45,
+  "count": 42,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -204,15 +204,14 @@
       ],
       "description": "  About Supabase   Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.    About the Role   Weâre looking for a Software Engineer to join our AI Tooling team and help shape how developers and agents build with Supabase. You'll build and own our AI tooling, including agents, the MCP server, agent skills and the dashboard assistant, and as the space moves you'll build the tooling for new technologies too. You'll build it all eval-first: every tool ships with evals and metrics, so we know, with evidence, that it makes agents better rather than worse.  You'll work closely with the Docs, CLI, Frontend and SDK teams, and with the AI Tooling Infrastructure engineers who run these services in production. Other teams contribute to AI Tooling to improve Supabase's agentic capabilities, and you'll help them do that while keeping the quality bar high.  This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to",
       "postedAt": "2026-11-13T00:00:15+00:00",
-      "score": 30,
+      "score": 28,
       "reasons": [
         "title: frontend",
         "title: javascript",
         "title: software engineer",
         "skill: javascript",
         "skill: git",
-        "location: Remote",
-        "posted this week"
+        "location: Remote"
       ]
     },
     {
@@ -550,53 +549,6 @@
       ]
     },
     {
-      "id": "remotive-2069746",
-      "source": "Remotive",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "applyUrl": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "tags": [
-        "api",
-        "CSS",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails",
-        "AI/ML",
-        "CAD",
-        "advertising",
-        "Redis",
-        "ES6",
-        "web applications",
-        "MySQL",
-        "NLP",
-        "fintech",
-        "Micro services",
-        "github",
-        "system architecture"
-      ],
-      "description": "  About Mitre Media  \n  Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time.  \n  Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect!  \n  About the Role  \n  As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, h",
-      "postedAt": "2026-10-14T20:33:44",
-      "score": 27,
-      "reasons": [
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: html",
-        "skill: css",
-        "skill: git"
-      ]
-    },
-    {
       "id": "remoteok-1137691",
       "source": "RemoteOK",
       "title": "Feltsense AI Engineer",
@@ -708,6 +660,28 @@
       ]
     },
     {
+      "id": "arbeitnow-senior-fullstack-entwickler-php-symfony-react-berlin-138029",
+      "source": "Arbeitnow",
+      "title": "Senior Fullstack-Entwickler (m/w/d) – PHP/Symfony & React",
+      "company": "Girona Softwareentwicklung GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/girona-softwareentwicklung-gmbh/senior-fullstack-entwickler-php-symfony-react-berlin-138029",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/girona-softwareentwicklung-gmbh/senior-fullstack-entwickler-php-symfony-react-berlin-138029",
+      "tags": [
+        "Software Development"
+      ],
+      "description": " Der Plan steht, jetzt fehlst du: Bring unsere Software von Legacy-PHP auf Symfony und React.   Auf einen Blick     Stack:  PHP 8.1 (Legacy) → Symfony · jQuery/Vanilla-JS → React · MySQL/MariaDB, SingleStore · Git, CI/CD   Gehalt:  52.000–62.000 € brutto/Jahr, für außergewöhnliche Profile auch mehr · unbefristet, Vollzeit   Arbeitsmodell:  hybrid, 3 Tage Büro / 2 Tage remote   Standort:  Berlin-Zehlendorf, direkt am S-Bahnhof Zehlendorf (S1)   Produkt:  Konsentas, ein Termin- und Vorgangsmanagement für Behörden   Start:  so bald wie möglich oder nach Vereinbarung   Die Rolle  Unser Kernprodukt Konsentas ist über viele Jahre gewachsen, und das sieht man dem Code an. Das Backend läuft auf PHP 8.1 ohne Framework. Im Frontend stehen jQuery und Vanilla-JS neben React, und automatisierte Tests gibt es bisher wenige.  Wohin es gehen soll, ist klar: Das Backend wird schrittweise auf Symfony umgestellt, das Frontend auf React vereinheitlicht. Bis Ende 2027 soll die Migration abgeschlossen sein. Was dafür fehlt, ist kein Plan, sondern Kapazität.  Du triffst eigenständig technische Entscheidungen, bringst dich in Architektur- und Modernisierungsfragen ein und sorgst dafür, dass die Codequalit",
+      "postedAt": 1794834098,
+      "score": 22,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "skill: react",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
       "id": "remoteok-1137673",
       "source": "RemoteOK",
       "title": "Tech lead",
@@ -810,35 +784,44 @@
       ]
     },
     {
-      "id": "remoteok-1137394",
-      "source": "RemoteOK",
-      "title": "Sr Solutions Architect",
-      "company": "ExtraHop",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+      "id": "arbeitnow-praktikum-software-engineer-all-genders-ch-baar-367058",
+      "source": "Arbeitnow",
+      "title": "Praktikum Software Engineer (all genders) CH",
+      "company": "BSI Software",
+      "location": "Baar, Zug, Schweiz",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/praktikum-software-engineer-all-genders-ch-baar-367058",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/praktikum-software-engineer-all-genders-ch-baar-367058",
       "tags": [
-        "architecture",
-        "design",
-        "infosec",
-        "python",
-        "technical",
-        "customer support",
-        "javascript",
-        "api",
-        "ops",
-        "marketing",
-        "sales",
-        "digital nomad"
+        "BSI Software"
       ],
-      "description": "At ExtraHop, weâre on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that evade their existing security and IT tools. With this insight, organizations can investigate smarter, stop threats faster, and keep operations running.\n\nOur mission is fueled by a profound social and moral responsibility to be the best at what we do, ensuring a secure world where everyone can thrive. If this sounds like a place youâd like to spend the next chapter of your career, weâd love to hear from you.\n\nPosition Summary\nExtraHopâs Solutions Architecture team is very different from many other post-sales services practicesâwe focus on outcomes and customer success rather than racking up billable hours. As a member of our Solutions Architecture team, youâll play a critical role in the success of our customers, products and position in the marketplace. Our Architects tackle the most difficult",
-      "postedAt": "2026-09-15T00:00:26+00:00",
-      "score": 16,
+      "description": "  Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig!     Baar, Baden, Bern, Luzern, Zürich / Ab 1. September 2026 / 100 %       Deine Aufgaben     Du gestaltest spannende Kundenprojekte von Anfang bis Ende, ab dem ersten Tag.    In einem interdisziplinären, agilen Team entwickelst du massgeschneiderte Lösungen für geschäftskritische Softwaresysteme.    Du nutzt modernste Technologie und bringst uns mit deinen Innovationen weiter.       Wir suchen Macher     Studium an ETH/FH/Uni ab dem 4. Semester    Freude an Software und Kundenkontakt    Kenntnisse in der Software-Entwicklung, v.a. Java und JavaScript    Initiative, Kreativität, Teamgeist, Verantwortung, analytisches Denken    Sehr gute Deutsch- und Englischkenntnisse       Starke Gründe für BSI     Unternehmerische Gestaltungs- und Beteiligungsm",
+      "postedAt": 1794821484,
+      "score": 18,
       "reasons": [
         "title: javascript",
+        "title: software engineer",
         "skill: javascript",
-        "skill: git",
-        "location: Remote"
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-net-c-memmingen-384704",
+      "source": "Arbeitnow",
+      "title": "Software Engineer (m/w/x) .NET / C#",
+      "company": "K-tronik GmbH",
+      "location": "Memmingen",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-engineer-net-c-memmingen-384704",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-engineer-net-c-memmingen-384704",
+      "tags": [
+        "Software Development"
+      ],
+      "description": " Projektbeschreibung:  Technologie begeistert Sie? Uns auch!\nZur Verstärkung unseres Expertenteams bei unserem Kunden aus der Messtechnik suchen wir einen Software Engineer (m/w/x) .NET / C# in Festanstellung bei K-tronik.\nWir freuen uns darauf, Sie persönlich kennenzulernen – und gemeinsam mit Leidenschaft und Teamgeist an spannenden Projekten und zukunftsweisenden Technologien zu arbeiten.   Aufgaben:   Observability & Performance: Konzeption und Implementierung eines Logging- und Monitoring-Frameworks auf Basis von OpenTelemetry; Integration in eine bestehende Applikation sowie Planung und Durchführung von Lasttests inklusive Erstellung entsprechender Dashboards  Modernisierung von Frontend-Komponenten: Technische Transformation von proprietären Kaufkomponenten (Closed Source) hin zu offenen Standards (vorzugsweise HTML5) bzw. Aktualisierung auf die jeweils current Version/Plattform  API-Modernisierung: Migration und technische Transformation bestehender Microsoft WCF-Services in moderne REST-Services (ASP.NET WebAPI)  Identity & Access Management (IAM): Transformation des aktuellen Microsoft AD-basierten Account-Managements hin zu einer modernen, tokenbasierten Authentifizierun",
+      "postedAt": 1794826917,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: software engineer",
+        "skill: html"
       ]
     },
     {
@@ -857,7 +840,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...  Please mention the word **FECILITOUS** and tag RMTM0LjEzOC4zNS43MA== when applying to show you read the job post completely (#RMTM0LjEzOC4zNS43MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...  Please mention the word **FECILITOUS** and tag RNjguMjIwLjE1Ny4yMDE= when applying to show you read the job post completely (#RNjguMjIwLjE1Ny4yMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-11-09T22:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -882,7 +865,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMTM0LjEzOC4zNS43MA== when applying to show you read the job post completely (#RMTM0LjEzOC4zNS43MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNjguMjIwLjE1Ny4yMDE= when applying to show you read the job post completely (#RNjguMjIwLjE1Ny4yMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -905,7 +888,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMTM0LjEzOC4zNS43MA== when applying to show you read the job post completely (#RMTM0LjEzOC4zNS43MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNjguMjIwLjE1Ny4yMDE= when applying to show you read the job post completely (#RNjguMjIwLjE1Ny4yMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -928,7 +911,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMTM0LjEzOC4zNS43MA== when applying to show you read the job post completely (#RMTM0LjEzOC4zNS43MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNjguMjIwLjE1Ny4yMDE= when applying to show you read the job post completely (#RNjguMjIwLjE1Ny4yMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -1055,45 +1038,6 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-berlin-180463",
-      "source": "Arbeitnow",
-      "title": "(Senior) Software Engineer (d/f/m)",
-      "company": "Taxfix",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxfix/senior-software-engineer-berlin-180463",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/taxfix/senior-software-engineer-berlin-180463",
-      "tags": [
-        "Product Engineering"
-      ],
-      "description": "  Our story:   Every year millions of people are either filing their taxes in fear or giving up on their tax refund altogether. We're working on fixing that. Our intuitive app enables anyone, regardless of education or background, to file their taxes with newfound confidence.  Spread across Germany, Spain and the UK, the team at Taxfix Group with its brands Taxfix and Steuerbot, is a compassionate group of solution-finders. We speak our minds openly, and with over 400 professionals, including tax experts, developers, and IT security experts, we're rich in ideas and voices. The group has facilitated more than 3.5 billion euros in tax refunds for its customers since its founding in 2016.    The opportunity :   As a (Senior) Software Engineer, you’ll build core features for our flagship product, turning complex tax scenarios into simple, reliable experiences. You’ll bring a builder-first mindset: staying close to customer problems, using AI and modern engineering tools to move from idea to impact quickly, and taking ownership of outcomes—not just code.  You’ll work hands-on in a cross-functional team and bring deep expertise in either frontend or backend engineering, while collaborati",
-      "postedAt": 1794670813,
-      "score": 12,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-ai-engineer-minijob-boblingen-471366",
-      "source": "Arbeitnow",
-      "title": "Software & AI Engineer Minijob (m/w/d)",
-      "company": "BIMraum GmbH",
-      "location": "Böblingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/bimraum-gmbh/software-ai-engineer-minijob-boblingen-471366",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bimraum-gmbh/software-ai-engineer-minijob-boblingen-471366",
-      "tags": [
-        "Software Development"
-      ],
-      "description": " Stellenbeschreibung  🌟 Software & AI Engineer (m/w/d) bei BIMraum GmbH gesucht! 🚀  Bist du bereit, die Zukunft der Bau- und Immobilienbranche mitzugestalten? Bei BIMraum GmbH in Böblingen entwickeln wir mit proxino eine KI-gestützte Softwarelösung, die die Erstellung von Leistungsverzeichnissen revolutioniert. Wir suchen eine*n Software & AI Engineer, um unsere Systeme zur Produktreife zu bringen und echte Kundenprobleme zu lösen.  Deine Aufgaben:    Stabilisierung & Weiterentwicklung bestehender Systeme mit Fokus auf Produktionsreife    Du arbeitest eigenverantwortlich und treibst Themen selbstständig von der Idee bis zur Umsetzung voran    Performance-Optimierung und saubere Integration neuer Features    Weiterentwicklung & Integration von KI-/LLM-basierten Funktionen    Enge Zusammenarbeit mit Gründerin und CTO bei technischen Entscheidungen    Schnelle Iteration an echten Nutzerproblemen mit Fokus auf funktionierende Lösungen    Dein Profil:    Must-haves:    Sehr gute Kenntnisse in JavaScript / TypeScript    Gute Kenntnisse in Python    Sicherer Umgang mit Git    Erfahrung in der Weiterentwicklung bestehender Codebasen    Pragmatismus: Du lieferst funktionierende Software, ",
-      "postedAt": 1794655860,
-      "score": 12,
-      "reasons": [
-        "title: javascript",
-        "skill: javascript",
-        "skill: git"
-      ]
-    },
-    {
       "id": "remoteok-1137707",
       "source": "RemoteOK",
       "title": "Web3 Business Development",
@@ -1205,18 +1149,39 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-platform-engineer-34275",
+      "id": "arbeitnow-product-engineer-ki-first-full-stack-100-remote-dusseldorf-320845",
       "source": "Arbeitnow",
-      "title": "Platform Engineer",
-      "company": "Finmid.com",
-      "location": "Berlin / Greece / Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/finmidcom/remote-platform-engineer-34275",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/finmidcom/remote-platform-engineer-34275",
+      "title": "Product Engineer KI-first (m/w/d) - Full Stack, 100 % remote",
+      "company": "Fundloop",
+      "location": "Düsseldorf · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/fundloop/product-engineer-ki-first-full-stack-100-remote-dusseldorf-320845",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/fundloop/product-engineer-ki-first-full-stack-100-remote-dusseldorf-320845",
       "tags": [
-        "Engineering"
+        "Remote",
+        "Software Development"
       ],
-      "description": "  About finmid   At finmid, we’re building infrastructure that integrates access to capital for SMEs directly into the platforms they use daily. We leverage technology, data, and strategic partnerships to deliver financing solutions that significantly outperform traditional financial services - offering SMEs faster, simpler, and more transparent access to funding.  As we expand across Europe, our Latvian subsidiary, licensed as a European Crowdfunding Service Provider by the Bank of Latvia, plays a critical role. Our stack combines regulated financial infrastructure with modern software engineering. The gap between those two things is exactly where this role lives.     The Role   We're looking for a Platform Engineer who wants to own the infrastructure that makes everything else possible. You'll build and maintain the systems our engineering teams rely on every day — CI/CD pipelines, cloud infrastructure, data tooling, AI integrations, and developer experience as a whole. This isn't a \"keep the lights on\" role. You'll design systems from scratch, introduce new tools, and have a direct say in how we build software.     What You Will Work On     Architect and manage our cloud infrast",
-      "postedAt": 1794735617,
+      "description": " In unserem Portal bereiten mittelständische Unternehmen ihren Antrag bei der Bescheinigungsstelle Forschungszulage vor. Sie erfassen dort Projektzeiten und Kosten, laden ihre Unterlagen hoch und arbeiten mit unseren Beratern aus ihrer Entwicklungsarbeit ein förderfähiges Vorhaben heraus. Das Portal läuft, Mandanten arbeiten damit, und es hat noch viel vor sich.  Dafür suchen wir die Person, die es verantwortet. Sie haben schon einmal eine produktive Anwendung weitgehend allein getragen und wollen das wieder tun. Sie entscheiden mit, was als Nächstes entsteht, und Sie bauen es: Funktionen, Antragsprozess, Oberfläche, Server und Sicherheitsarchitektur. Dabei arbeiten Sie KI-first. Coding-Agenten sind Ihr erstes Werkzeug und nicht Ihr letztes Wort, denn Sie bauen schnell und beweisen dort, wo es zählt, dass es stimmt.  fundloop unterstützt mittelständische Unternehmen dabei, ihre Forschung und Entwicklung zu finanzieren. Sie arbeiten zu 100 Prozent remote, mit direktem Draht zur Geschäftsführung und zu den Menschen, die mit Ihrem Werkzeug arbeiten.  Aufgaben  Sie entwickeln unser Portal eigenverantwortlich weiter, von der Idee bis zum Betrieb. Im Einzelnen heißt das:     Funktionen b",
+      "postedAt": 1794825052,
+      "score": 10,
+      "reasons": [
+        "title: full stack",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-produkt-schnittstellen-berlin-485408",
+      "source": "Arbeitnow",
+      "title": "Software Engineer (m/w/d) – Produkt & Schnittstellen",
+      "company": "PraxisConcierge",
+      "location": "Berlin · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/praxisconcierge/software-engineer-produkt-schnittstellen-berlin-485408",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/praxisconcierge/software-engineer-produkt-schnittstellen-berlin-485408",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "description": " Über PraxisConcierge  Unser Startup PraxisConcierge bringt frischen Schwung ins Gesundheitswesen: Unsere KI-gestützte Telefonassistenz und Patientenkommunikation entlastet bereits rund 2.000 Behandler in Deutschland, angebunden an über 50 Praxisverwaltungssysteme. Wir wachsen weiter und suchen Verstärkung für unser Entwicklungsteam. Du entwickelst bei uns nicht im luftleeren Raum, sondern direkt an dem, was Praxen und unser Customer-Success-Team zurückmelden. Dein Schwerpunkt: Produktfunktionen und Schnittstellen-Integrationen, die im Praxisalltag einen echten Unterschied machen.  Deine Aufgaben    Du entwickelst und erweiterst Produktfunktionen auf Basis von Kundenfeedback und Rückmeldungen aus dem Customer Success.    Du baust und pflegst Schnittstellen-Integrationen zu PVS- und Drittsystemen (REST-APIs, Webhooks, Datenabgleich) und sorgst dafür, dass sie im Alltag zuverlässig laufen.    Du analysierst Fehler und Integrationsprobleme gemeinsam mit Customer Success, findest die Ursache und behebst sie dauerhaft statt nur symptomatisch.    Du arbeitest eng mit Customer Success, Support und Produkt zusammen und bringst Dein technisches Urteil in die Priorisierung ein.    Du schreib",
+      "postedAt": 1794823275,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1262,39 +1227,6 @@
       ]
     },
     {
-      "id": "remoteok-1137792",
-      "source": "RemoteOK",
-      "title": "Research Engineer Privacy and Anonymization",
-      "company": "Pragmatike",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
-      "tags": [
-        "design",
-        "embedded",
-        "infosec",
-        "python",
-        "education",
-        "technical",
-        "finance",
-        "content writing",
-        "ops",
-        "medical",
-        "recruiter",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "description": "  Location:  San Francisco or Singapore (on-site), or remote (Singapore or US Pacific time zones)  Start Date:  ASAP  Languages:  English  Team:  Engineering    About the Role  Our client is a fast-growing AI company building reliable, fair and open infrastructure for AI training data. Their marketplace helps the people who create data get value for it, and gives AI labs trustworthy data to train on. It is already used by startups, Fortune 500 companies and frontier labs, and the company is backed by leading venture investors, including Y Combinator. They are scaling quickly to meet strong demand.  We are looking for a  Research Engineer, Privacy and Anonymization  to build the systems that make sensitive, real-world data safe and still useful for AI training. You will develop methods to detect and remove personally identifiable information, secrets and other sensitive content from raw data before it enters processing and synthetic data pipelines â protecting privacy without destroying the structure and signal that make the data valuable for training agents.  This is a privacy and data-protection engineering seat, not a synthetic-task design role. You will own the pipeline that s",
-      "postedAt": "2026-11-12T16:00:38+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
       "id": "remoteok-1137614",
       "source": "RemoteOK",
       "title": "Software Engineer Infrastructure",
@@ -1325,18 +1257,31 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-data-ai-platform-dusseldorf-101649",
-      "source": "Arbeitnow",
-      "title": "Senior Software Engineer - Data & AI Platform (m/w/d)",
-      "company": "Vivenu",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/vivenu/senior-software-engineer-data-ai-platform-dusseldorf-101649",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/vivenu/senior-software-engineer-data-ai-platform-dusseldorf-101649",
+      "id": "remoteok-1136795",
+      "source": "RemoteOK",
+      "title": "Senior Software Engineer Case Execution",
+      "company": "Pivotal Health",
+      "location": "New York City",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
       "tags": [
-        "Product & Development"
+        "dev",
+        "front end",
+        "python",
+        "customer support",
+        "design",
+        "admin",
+        "exec",
+        "senior",
+        "ops",
+        "sys admin",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
       ],
-      "description": "   Redefine the future of live entertainment tech       Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was once a simple transaction into a strategic business advantage. Backed by over $65 million in funding, our platform empowers event organizers to own their brand experience, unlock deep data insights, and seamlessly integrate ticketing into their digital infrastructure.     With six offices worldwide and growing, we deliver a customizable, intuitive solution and industry-leading support that simplify even the most complex ticketing challenges –&nbsp;helping organizers deliver exceptional experiences and drive real growth.     Join us and build the future of live entertainment.     \n With&nbsp;over  10 million end users &nbsp;and usage quadrupling annually, our infrastructure now handles&nbsp; over 1 billion requests per month &nbsp;— and counting. Our API-first platform solves complex system challenges at scale — delivering performance, flexibility, a",
-      "postedAt": 1794691598,
+      "description": " About Pivotal Health  Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape.  Today, many providers face persistent underpayment from health insurance companies, despite delivering high-quality care. While processes like IDR (Independent Dispute Resolution) were designed to promote fairness, theyâre often administrative-heavy, time-consuming, and difficult to navigate without the right tools.  Pivotal Health combines software, data, and service into a seamlessly integrated, AI-driven platform that simplifies these complex reimbursement workflows. We help providers efficiently dispute underpaid claims, reduce administrative burden, and recover the reimbursement theyâre entitled to; without adding more work to already stretched teams.  Our full-service IDR solution is just the starting point. Weâre building solutions that enable providers to operate with clarity, control, and confidence across the reimbursement journey.   About the Role   We're hiring a Senior Software Engineer to join Pivotal's Case Execution team. This team owns critical parts of the case execution workflow, includ",
+      "postedAt": "2026-08-16T00:00:03+00:00",
       "score": 9,
       "reasons": [
         "title: software engineer",
@@ -1344,94 +1289,18 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-92666",
+      "id": "arbeitnow-vc-analyst-internship-paris-406132",
       "source": "Arbeitnow",
-      "title": "Senior Consultant (m/w/d) Daten & KI-Strategie",
-      "company": "Artefactlinkedin",
-      "location": "Berlin, Berlin; München, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/artefactlinkedin/senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-92666",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/artefactlinkedin/senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-92666",
-      "tags": [
-        "Consulting & Data"
-      ],
-      "description": "&lt;h2 data-path-to-node=&quot;2&quot;&gt;Über uns: Wer/Was ist Artefact?&lt;/h2&gt;\n&lt;p data-path-to-node=&quot;3&quot;&gt;Artefact ist eine weltweit führende Beratung für Daten- und KI-Dienstleistungen mit Hauptsitz in Paris. Mit mehr als 2.000 Consultants, Data Scientists und Engineers in 26 Ländern arbeiten wir mit den globalen Marktführern zusammen. An unseren deutschen Standorten befinden wir uns auf einem rasanten Wachstumskurs. Wir beraten führende nationale und internationale Kunden branchenübergreifend dabei, das volle Potenzial ihrer Daten auszuschöpfen, skalierbare Datenarchitekturen aufzubauen und innovative KI-Lösungen zu implementieren.&lt;/p&gt;\n&lt;p data-path-to-node=&quot;4&quot;&gt;Als &lt;strong data-path-to-node=&quot;4&quot; data-index-in-node=&quot;4&quot;&gt;Senior Consultant (m/w/d) Data &amp;amp; AI Strategy&lt;/strong&gt; stehst du im Mittelpunkt dieser Mission. Du lieferst nicht nur statische Präsentationen, sondern schlägst die Brücke zwischen technologischen Möglichkeiten und geschäftlichen Anforderungen. Dabei begleitest du unsere Kunden von fokussierten Kurzzeit-Projekten im gehobenen Mittelstand bis hin zu mehrphasigen KI-Transformationen in Groß",
-      "postedAt": 1794650123,
-      "score": 9,
-      "reasons": [
-        "title: node",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-299436",
-      "source": "Arbeitnow",
-      "title": "Senior Consultant (m/w/d) Daten- & KI-Strategie",
-      "company": "Artefact",
-      "location": "Berlin, Berlin; München, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/artefact/senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-299436",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/artefact/senior-consultant-daten-ki-strategie-berlin-berlin-munchen-bavaria-299436",
-      "tags": [
-        "Consulting & Data"
-      ],
-      "description": "&lt;h2&gt;&lt;strong&gt;Über uns: Wer/Was ist Artefact?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Artefact ist eine weltweit führende Beratung für Daten- und KI-Dienstleistungen mit Hauptsitz in Paris. Mit mehr als 2.000 Consultants, Data Scientists und Engineers in 26 Ländern arbeiten wir mit den globalen Marktführern zusammen. An unseren deutschen Standorten befinden wir uns auf einem rasanten Wachstumskurs. Wir beraten führende nationale und internationale Kunden branchenübergreifend dabei, das volle Potenzial ihrer Daten auszuschöpfen, skalierbare Datenarchitekturen aufzubauen und innovative KI-Lösungen zu implementieren.&lt;/p&gt;\n&lt;p&gt;Als &lt;strong data-path-to-node=&quot;4&quot; data-index-in-node=&quot;4&quot;&gt;Senior Consultant (m/w/d) Data &amp;amp; AI Strategy&lt;/strong&gt; stehst du im Mittelpunkt dieser Mission. Du lieferst nicht nur statische Präsentationen, sondern schlägst die Brücke zwischen technologischen Möglichkeiten und geschäftlichen Anforderungen. Dabei begleitest du unsere Kunden von fokussierten Kurzzeit-Projekten im gehobenen Mittelstand bis hin zu mehrphasigen KI-Transformationen in Großkonzernen. In dieser Rolle übernimmst du die Verantwortung für cros",
-      "postedAt": 1794650121,
-      "score": 9,
-      "reasons": [
-        "title: node",
-        "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-associate-product-manager-stage-de-fin-detudes-paris-theodo-ai-mod-324581",
-      "source": "Arbeitnow",
-      "title": "Associate Product Manager - Stage de fin d'études Paris - Theodo AI-Mod",
-      "company": "Theodo",
+      "title": "VC Analyst - Internship",
+      "company": "Hexa",
       "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/theodo/associate-product-manager-stage-de-fin-detudes-paris-theodo-ai-mod-324581",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/theodo/associate-product-manager-stage-de-fin-detudes-paris-theodo-ai-mod-324581",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hexa/vc-analyst-internship-paris-406132",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/hexa/vc-analyst-internship-paris-406132",
       "tags": [
-        "Product Management"
+        "Hexa"
       ],
-      "description": "  L’histoire du groupe Theodo et son succès  \n  Theodo accompagne depuis 2009 les entreprises innovantes dans la conception, le développement et le déploiement de produits digitaux ingénieux - tels que la plateforme TF1+, l'application LCL Pro ou l'application France Identité Numérique - en tirant parti du meilleur de la technologie et de l’approche Lean.  \n &nbsp; \n  Theodo connait une croissance exceptionnelle depuis 15 ans : nos équipes rassemblent plus de 750 Theodoers, principalement des Software Engineers, passionnés de technologie et d’amélioration continue. En 2025, le groupe Theodo génère 100M€ de CA.   \n &nbsp; \n  Aujourd’hui, l’ambition du groupe est de se positionner comme le leader de l’IA appliquée au développement logiciel, c’est pourquoi nous avons lancé la practice  AI Modernisation.  Au sein de cette practice, nous accompagnons nos clients dans la modernisation de leurs systèmes legacy. Grâce à une IA maîtrisée et une méthode éprouvée, nous allons 3 fois plus vite sur le delivery de ces projets critiques.    \n &nbsp; \n  La practice accompagne principalement des scale-ups comme Qonto ou Doctolib et des grands groupes comme Carrefour, Pernod Ricard, Les Mousquetaire",
-      "postedAt": 1794691602,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-account-manager-theodo-x-bpi-france-paris-367391",
-      "source": "Arbeitnow",
-      "title": "Account Manager - Theodo x BPI France",
-      "company": "Theodo",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/theodo/account-manager-theodo-x-bpi-france-paris-367391",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/theodo/account-manager-theodo-x-bpi-france-paris-367391",
-      "tags": [
-        "Sales"
-      ],
-      "description": "  L’histoire de Theodo et son succès  \n  Theodo accompagne depuis 2009 les entreprises innovantes dans la conception, le développement et le déploiement de produits digitaux ingénieux - tels que la plateforme TF1+, l'application LCL Pro ou l'application France Identité Numérique - en tirant parti du meilleur de la technologie et de l’approche Lean.  \n &nbsp; \n  Theodo connait une croissance exceptionnelle depuis 15 ans : nos équipes rassemblent plus de 750 Theodoers, principalement des Software Engineers, passionnés de technologie et d’amélioration continue. En 2025, le groupe Theodo génère 100M€ de CA.      Le poste \n Partenaire de Bpifrance depuis 2019, Theodo accompagne ses équipes digitales, IT et métiers sur des projets de développement logiciel, Data, IA et Cloud.&nbsp;Aujourd'hui, le compte représente : \n \n  20 M€ de chiffre d'affaires annuel  en moyenne sur les trois dernières années, soit environ 20 % de l'activité de Theodo. \n  100 à 120 Theodoers , répartis dans une vingtaine d'équipes. \n Des projets variés : plateformes digitales, outils métiers, Data, Cloud et IA, dont la construction d'une usine agentique. \n \n La relation entre Theodo et Bpifrance entre dans une nouve",
-      "postedAt": 1794691602,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-manager-integrated-marcomms-france-benelux-paris-france-447666",
-      "source": "Arbeitnow",
-      "title": "Senior Manager, Integrated MarComms, France & Benelux",
-      "company": "Match Group",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/match-group/senior-manager-integrated-marcomms-france-benelux-paris-france-447666",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/match-group/senior-manager-integrated-marcomms-france-benelux-paris-france-447666",
-      "tags": [
-        "Marketing"
-      ],
-      "description": " Tinder exists to help people meet, connect and create a spark. After 13 years of leadership in the dating industry, culture is what keeps that mission relevant to each new generation of daters. Product is central to this shift. Every new feature is a chance to tell a human story about how people connect, and culture is where those stories land. \n To make that shift real, we’re bringing our Tinder MarComms regional EMEA strategy together: one unified in-country team in each key market and one regional structure. Communications now sits within Marketing, so both work toward the same KPIs and growth objectives. \n The Integrated MarComms role is where culture meets brand relevance, with one holistic objective: driving MAU growth. Social Media is the true D2C MarComms engine for Tinder, and creator and influencer led activations play a central role in driving registrations, reactivations and cultural relevance. \n The regional MarComms team owns the full paid, earned and owned media cycle across key markets. The Integrated MarComms Senior Manager leads the earned and influence dimension of that ecosystem, with a strong influence on owned social channels and brand partnership storytellin",
-      "postedAt": 1794691599,
+      "description": " Today, successful software companies have two ways to support and finance their growth: the VC path, and the self-financed profitable path. For software companies that can’t or do not want to bootstrap, but haven’t managed to stay permanently on hyper-growth, the VC path is a dead-end.  At Hexa Scale, we’re on a mission to solve this: offer a new alternative to fund and scale software companies towards exponential growth.  We believe that there are great software companies, still early stages in the 1-10m€ ARR range, that sit on amazing markets with a great product, but that require a few changes to unlock their potential.  We believe that by providing them with capital and strong operational leverage, we can put them on the right trajectory, towards category-leading exponential growth. Our  full manifesto .  Your role is to help us find, select and invest in those companies.    Mission  Within Hexa Scale’s team (Thibault, Augustin &amp; Samuel), you’ll participate in the deal-flow cycle to make 2/3 successful deals a year.    Outcomes  Deal-flow: guarantee volume and reactivity    Perform the first analysis of Inbound leads, and therefore guarantee a &lt;48h contact to the entrep",
+      "postedAt": 1794768019,
       "score": 9,
       "reasons": [
         "title: react",
@@ -1439,23 +1308,41 @@
       ]
     },
     {
-      "id": "arbeitnow-mechanical-engineer-control-node-zurich-68036",
+      "id": "arbeitnow-systems-electrical-engineer-80-100-dietikon-258399",
       "source": "Arbeitnow",
-      "title": "Mechanical Engineer - Control Node",
-      "company": "Destinusgroup",
-      "location": "Zürich, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-control-node-zurich-68036",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-control-node-zurich-68036",
+      "title": "Systems Electrical Engineer (m/w/d) 80-100%",
+      "company": "Signode",
+      "location": "Dietikon, Zürich, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/signode/systems-electrical-engineer-80-100-dietikon-258399",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/signode/systems-electrical-engineer-80-100-dietikon-258399",
       "tags": [
-        "Aviation & Aerospace",
-        "R&D & Engineering"
+        "R&D APT EMEA"
       ],
-      "description": "  About the Role    Destinus is looking for a highly motivated and hands-on mechanical engineer capable of delivering engineering solutions as part of the research and development in the Destinus Systems department. In this role you will design and develop a control node for air defence and strike systems, including all relevant mechanical subsystems. The ideal candidate is a strong team player with good social and communication skills to continuously coordinate with the peers of the respective engineering disciplines and teams, has a demonstrated ability to take technical ownership during development and drive technical solutions.   What you will do   · Generate 3D CAD models, drawings, schematics, bills of material, and other related documentation required for manufacturing, integration and testing  · Deliver technical documentation including any engineering calculations, analysis and assumptions required to substantiate your design decisions and solutions  · Create engineering design, prototypes, and manufacturing plans for an air defence and strike systems control node  · Manage suppliers and manufacturers by addressing any technical questions and resolving any issues which may",
-      "postedAt": 1794637207,
+      "description": "  Am Standort Schweiz entwickelt Signode innovative Umreifungsmaschinen und Verpackungslösungen für globale industrielle Anwendungen. Dabei werden Mechanik, Elektrotechnik, Softwareentwicklung und Systemtechnik miteinander verbunden.    Der Zweck dieser Position besteht in der Entwicklung moderner Systemkomponenten (Hard- und Software) innerhalb der Entwicklungsabteilung sowie deren Integration in bestehende Maschinen, Systemstrukturen und Steuerungssysteme. Die Rolle erfordert ein ganzheitliches Systemverständnis und eine enge Zusammenarbeit mit den Bereichen Konstruktion, Softwareentwicklung, Systems Engineering, Einkauf, Montage und Kundendienst.       Highlights:        Eine angenehme 40-Stunden-Woche      Flexibles Arbeitszeitmodell      Ein kostenloser Parkplatz direkt vor der Tür      100%-ige Übernahme der Unfall- und Krankentaggeldversicherungsprämien für Ihre Sicherheit      Ein Gehalt, das Ihr volles Engagement angemessen belohnt      Für den perfekten Energiekick: kostenloses Kaffeeangebot      Subventionierte Kantinenverpflegung: täglich frisch vor Ort zubereitetes Znüni- und Mittagessenangebot      Subventioniertes Massageangebot      Regelmässige Firmenanlässe       ",
+      "postedAt": 1794832283,
       "score": 9,
       "reasons": [
         "title: node",
         "skill: node"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-all-genders-ch-baar-378030",
+      "source": "Arbeitnow",
+      "title": "Software Engineer (all genders) CH",
+      "company": "BSI Software",
+      "location": "Baar, Zug, Schweiz",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/software-engineer-all-genders-ch-baar-378030",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/software-engineer-all-genders-ch-baar-378030",
+      "tags": [
+        "BSI Software"
+      ],
+      "description": "  Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig!    Du übernimmst von der Beratung bis zur Umsetzung den Lead in Kundenprojekten und führst diese erfolgreich zum Go-live. Dabei implementierst du kundenspezifische Lösungen mit Fokus auf LowCode/ZeroCode.   Du bringst dazu Freude an SaaS-Produkteinführungen beim Kunden mit und verfügst über technisches Know-how in modernen Software- und Integrationslandschaften.     Baar, Baden, Bern, Zürich / ab 1. Oktober 2026 / 80 - 100 %       Deine Aufgaben     Du konzipierst die Architektur und verantwortest die technische Implementierung kundenspezifischer Lösungen. Die Integrationen und Erweiterungen mit LowCode/ZeroCode (TypeScript) setzt du mit Freude um.&nbsp;    Du übernimmst die Anforderungsanalyse in enger Zusammenarbeit mit Kunden, um Geschäftsproz",
+      "postedAt": 1794821484,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
       ]
     },
     {
@@ -1475,6 +1362,34 @@
       "reasons": [
         "title: software engineer",
         "skill: git"
+      ]
+    },
+    {
+      "id": "remotive-2091173",
+      "source": "Remotive",
+      "title": "Content Creator - YouTube",
+      "company": "Metics Media",
+      "location": "USA, Canada",
+      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
+      "applyUrl": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
+      "tags": [
+        "ecommerce",
+        "shopify",
+        "video",
+        "AI/ML",
+        "research",
+        "digital marketing",
+        "youtube",
+        "editing",
+        "video editing"
+      ],
+      "description": "  Important:  Applications without an intro video will not be considered.     Job Overview  Create engaging YouTube tutorials about software, digital marketing, and AI tools that reach millions of people around the world every month through our YouTube channel, Metics Media.     About us  Metics Media is a small, fully remote team creating high-quality YouTube videos about software, digital marketing, and AI tools for an audience of over 700,000 subscribers. Our mission is simple: to make technology easy to understand and help people get the most out of the tools available to them.  We partner with leading platforms like Shopify, Hostinger, and Squarespace, allowing us to keep our content free and accessible to everyone.  We're now looking for talented, motivated content creators to join our growing team, help us produce even more high-quality videos, and reach millions more people around the world.     What you'll do   Research each video's topic and tools in depth, and figure out what to cover and how to present it in a clear, engaging way.  Write video scripts and outlines.  Record videos, including talking-head and screen recordings. Your face will be visible in your videos.  P",
+      "postedAt": "2026-11-13T17:29:57",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     }
   ]

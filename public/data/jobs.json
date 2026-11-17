@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-16T13:22:54.196Z",
+  "scannedAt": "2026-11-17T14:07:45.590Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 42,
+  "count": 46,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -175,6 +175,54 @@
         "skill: git",
         "skill: node",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remotive-2069746",
+      "source": "Remotive",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "tags": [
+        "api",
+        "CSS",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "AI/ML",
+        "CAD",
+        "advertising",
+        "Redis",
+        "ES6",
+        "web applications",
+        "MySQL",
+        "NLP",
+        "fintech",
+        "Micro services",
+        "github",
+        "system architecture"
+      ],
+      "description": "  About Mitre Media  \n  Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time.  \n  Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect!  \n  About the Role  \n  As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, h",
+      "postedAt": "2026-11-14T20:33:53",
+      "score": 29,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: react",
+        "skill: html",
+        "skill: css",
+        "skill: git",
+        "posted this week"
       ]
     },
     {
@@ -660,52 +708,6 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-fullstack-entwickler-php-symfony-react-berlin-138029",
-      "source": "Arbeitnow",
-      "title": "Senior Fullstack-Entwickler (m/w/d) – PHP/Symfony & React",
-      "company": "Girona Softwareentwicklung GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/girona-softwareentwicklung-gmbh/senior-fullstack-entwickler-php-symfony-react-berlin-138029",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/girona-softwareentwicklung-gmbh/senior-fullstack-entwickler-php-symfony-react-berlin-138029",
-      "tags": [
-        "Software Development"
-      ],
-      "description": " Der Plan steht, jetzt fehlst du: Bring unsere Software von Legacy-PHP auf Symfony und React.   Auf einen Blick     Stack:  PHP 8.1 (Legacy) → Symfony · jQuery/Vanilla-JS → React · MySQL/MariaDB, SingleStore · Git, CI/CD   Gehalt:  52.000–62.000 € brutto/Jahr, für außergewöhnliche Profile auch mehr · unbefristet, Vollzeit   Arbeitsmodell:  hybrid, 3 Tage Büro / 2 Tage remote   Standort:  Berlin-Zehlendorf, direkt am S-Bahnhof Zehlendorf (S1)   Produkt:  Konsentas, ein Termin- und Vorgangsmanagement für Behörden   Start:  so bald wie möglich oder nach Vereinbarung   Die Rolle  Unser Kernprodukt Konsentas ist über viele Jahre gewachsen, und das sieht man dem Code an. Das Backend läuft auf PHP 8.1 ohne Framework. Im Frontend stehen jQuery und Vanilla-JS neben React, und automatisierte Tests gibt es bisher wenige.  Wohin es gehen soll, ist klar: Das Backend wird schrittweise auf Symfony umgestellt, das Frontend auf React vereinheitlicht. Bis Ende 2027 soll die Migration abgeschlossen sein. Was dafür fehlt, ist kein Plan, sondern Kapazität.  Du triffst eigenständig technische Entscheidungen, bringst dich in Architektur- und Modernisierungsfragen ein und sorgst dafür, dass die Codequalit",
-      "postedAt": 1794834098,
-      "score": 22,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "remoteok-1137673",
-      "source": "RemoteOK",
-      "title": "Tech lead",
-      "company": "Ringbook Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
-      "tags": [
-        "dev",
-        "exec",
-        "accounting",
-        "saas"
-      ],
-      "description": " What Youâll Do  ãDesign the architecture of the application and make key technical decisions.  ãBuild and maintain scalable features across the Ringbook web application.  ãIntegrate AI capabilities throughout the platform to create innovative features.  ãDevelop clean, responsive, and intuitive frontend interfaces.  ãDesign and optimize backend APIs, database schemas, and data pipelines.  ãCollaborate closely with the CEO on product and technical strategies.  ãContribute to code reviews, architectural decisions, and technical planning.  ãEnsure security and compliance standards are met, as expected for financial software.     What You Should Know  This is a small team environmentâyouâll be one of a 3-person team.  As an early-stage startup, youâll have the opportunity to shape the platform and grow with the company.  Youâll gain hands-on experience with accounting knowledge as part of the work. This position is a replacement and you'll work from the existing code base.  Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.     Our Tech Stack  Frontend: React + TypeScript  Backend: tRPC, Drizzle ORM + PostgreSQL",
-      "postedAt": "2026-11-03T14:53:55+00:00",
-      "score": 19,
-      "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react",
-        "location: Remote"
-      ]
-    },
-    {
       "id": "remoteok-1137062",
       "source": "RemoteOK",
       "title": "DESARROLLADOR FULL STACK",
@@ -784,44 +786,43 @@
       ]
     },
     {
-      "id": "arbeitnow-praktikum-software-engineer-all-genders-ch-baar-367058",
+      "id": "arbeitnow-full-stack-software-engineer-m-w-80-100-moosseedorf-72440",
       "source": "Arbeitnow",
-      "title": "Praktikum Software Engineer (all genders) CH",
-      "company": "BSI Software",
-      "location": "Baar, Zug, Schweiz",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/praktikum-software-engineer-all-genders-ch-baar-367058",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/praktikum-software-engineer-all-genders-ch-baar-367058",
-      "tags": [
-        "BSI Software"
-      ],
-      "description": "  Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig!     Baar, Baden, Bern, Luzern, Zürich / Ab 1. September 2026 / 100 %       Deine Aufgaben     Du gestaltest spannende Kundenprojekte von Anfang bis Ende, ab dem ersten Tag.    In einem interdisziplinären, agilen Team entwickelst du massgeschneiderte Lösungen für geschäftskritische Softwaresysteme.    Du nutzt modernste Technologie und bringst uns mit deinen Innovationen weiter.       Wir suchen Macher     Studium an ETH/FH/Uni ab dem 4. Semester    Freude an Software und Kundenkontakt    Kenntnisse in der Software-Entwicklung, v.a. Java und JavaScript    Initiative, Kreativität, Teamgeist, Verantwortung, analytisches Denken    Sehr gute Deutsch- und Englischkenntnisse       Starke Gründe für BSI     Unternehmerische Gestaltungs- und Beteiligungsm",
-      "postedAt": 1794821484,
-      "score": 18,
-      "reasons": [
-        "title: javascript",
-        "title: software engineer",
-        "skill: javascript",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-net-c-memmingen-384704",
-      "source": "Arbeitnow",
-      "title": "Software Engineer (m/w/x) .NET / C#",
-      "company": "K-tronik GmbH",
-      "location": "Memmingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-engineer-net-c-memmingen-384704",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-engineer-net-c-memmingen-384704",
+      "title": "Full Stack Software Engineer (m/w) 80-100%",
+      "company": "Gatcom",
+      "location": "Moosseedorf",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gatcom/full-stack-software-engineer-m-w-80-100-moosseedorf-72440",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gatcom/full-stack-software-engineer-m-w-80-100-moosseedorf-72440",
       "tags": [
         "Software Development"
       ],
-      "description": " Projektbeschreibung:  Technologie begeistert Sie? Uns auch!\nZur Verstärkung unseres Expertenteams bei unserem Kunden aus der Messtechnik suchen wir einen Software Engineer (m/w/x) .NET / C# in Festanstellung bei K-tronik.\nWir freuen uns darauf, Sie persönlich kennenzulernen – und gemeinsam mit Leidenschaft und Teamgeist an spannenden Projekten und zukunftsweisenden Technologien zu arbeiten.   Aufgaben:   Observability & Performance: Konzeption und Implementierung eines Logging- und Monitoring-Frameworks auf Basis von OpenTelemetry; Integration in eine bestehende Applikation sowie Planung und Durchführung von Lasttests inklusive Erstellung entsprechender Dashboards  Modernisierung von Frontend-Komponenten: Technische Transformation von proprietären Kaufkomponenten (Closed Source) hin zu offenen Standards (vorzugsweise HTML5) bzw. Aktualisierung auf die jeweils current Version/Plattform  API-Modernisierung: Migration und technische Transformation bestehender Microsoft WCF-Services in moderne REST-Services (ASP.NET WebAPI)  Identity & Access Management (IAM): Transformation des aktuellen Microsoft AD-basierten Account-Managements hin zu einer modernen, tokenbasierten Authentifizierun",
-      "postedAt": 1794826917,
-      "score": 15,
+      "description": " Als Software-Engineer hast du zusammen mit unseren internen Kunden direkten Einfluss und Mitverantwortung für erfolgreiche Produkt-Implementierungen Full Stack Java Software Engineer (m/w) 80-100% \n Aufgaben \n \n In kleinen agilen Teams erarbeitest du innovative, moderne Software-Lösungen \n Du fühlst dich in der Back- und Frontend-Entwicklung gleichermassen zu Hause \n Die Projektsprache ist in der Regel Deutsch und in Einzelfällen Englisch \n In der Entwicklung nutzen wir aktuelle Technologien wie Spring, Spring Boot, Kafka, Docker, Openshift/Kubernetes und Angular \n Falls du Erfahrung mit Amazon Cloud (AWS), IoT-Projekten und Oracle-Datenbanken hast, bist du unser Wunschkandidat/unsere Wunschkandidatin. \n \n Qualifikation \n \n In den letzten Jahren hast du dein Können in einer vergleichbaren Funktion erfolgreich eingesetzt (Analyse, Design, Implementierung und Test) \n Dabei hast du Businessanforderungen in modernen Applikationen umgesetzt \n Automatisierte Tests und continuous integration/continuous deployment sind für dich eine Selbstverständlichkeit \n Du kannst dir neues Wissen schnell aneignen und behältst den Gesamtüberblick auch bei komplexen Problemstellungen \n Es gelingt dir, s",
+      "postedAt": 1794909660,
+      "score": 18,
       "reasons": [
         "title: frontend",
         "title: software engineer",
-        "skill: html"
+        "title: full stack"
+      ]
+    },
+    {
+      "id": "arbeitnow-frontend-engineer-web-germany-352822",
+      "source": "Arbeitnow",
+      "title": "Frontend Engineer, Web",
+      "company": "Actcareers",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/actcareers/frontend-engineer-web-germany-352822",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/actcareers/frontend-engineer-web-germany-352822",
+      "tags": [
+        "Act Engineering"
+      ],
+      "description": "  About Act   There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting.   Our first application is an agent-first mobile communication app. We believe building applications that users use daily for communication, coordination and collaboration needs will help integrate AI into their lives. The net effect is to eliminate misinformation, achieve low coordination costs, enable high quality tasks and collaboration at scale with minimal or little prompting.     Role    Build and maintain web applications across Chat, Notes, Calendar, Docs and Sheets using React and TypeScript    Develop interactive features including real-time messaging, rich-text editing, scheduling, tables and spreadsheets    Build reusable frontend components and architecture across multiple applications    Integrate backend APIs, WebSockets and streaming AI responses into product workflows    Manage complex application state, real-t",
+      "postedAt": 1794919217,
+      "score": 15,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "skill: react"
       ]
     },
     {
@@ -840,7 +841,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...  Please mention the word **FECILITOUS** and tag RNjguMjIwLjE1Ny4yMDE= when applying to show you read the job post completely (#RNjguMjIwLjE1Ny4yMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...  Please mention the word **FECILITOUS** and tag RMjAuMTYzLjkzLjE1MA== when applying to show you read the job post completely (#RMjAuMTYzLjkzLjE1MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-11-09T22:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -865,7 +866,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNjguMjIwLjE1Ny4yMDE= when applying to show you read the job post completely (#RNjguMjIwLjE1Ny4yMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMjAuMTYzLjkzLjE1MA== when applying to show you read the job post completely (#RMjAuMTYzLjkzLjE1MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -888,7 +889,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNjguMjIwLjE1Ny4yMDE= when applying to show you read the job post completely (#RNjguMjIwLjE1Ny4yMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMjAuMTYzLjkzLjE1MA== when applying to show you read the job post completely (#RMjAuMTYzLjkzLjE1MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -911,7 +912,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNjguMjIwLjE1Ny4yMDE= when applying to show you read the job post completely (#RNjguMjIwLjE1Ny4yMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuMTYzLjkzLjE1MA== when applying to show you read the job post completely (#RMjAuMTYzLjkzLjE1MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -1038,6 +1039,86 @@
       ]
     },
     {
+      "id": "arbeitnow-full-stack-engineer-ai-systems-germany-255414",
+      "source": "Arbeitnow",
+      "title": "Full Stack Engineer, AI systems",
+      "company": "Actcareers",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/actcareers/full-stack-engineer-ai-systems-germany-255414",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/actcareers/full-stack-engineer-ai-systems-germany-255414",
+      "tags": [
+        "Act Engineering"
+      ],
+      "description": " About Act  There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting.   Our first application is an agent-first mobile communication app. We believe building applications that users use daily for communication, coordination and collaboration needs will help integrate AI into their lives. The net effect is to eliminate misinformation, achieve low coordination costs, enable high quality tasks and collaboration at scale with minimal or little prompting.     Role  We are looking for a Full Stack Engineer - AI Systems to build the product layer that turns these capabilities into usable, production-grade workflows. This includes designing how agents operate, fail, recover, and deliver consistent value to users.      Focus     Build end-to-end product features across frontend, backend, and AI integrations    Design agent workflows that handle planning, tool use, failure, and recovery across multiple steps",
+      "postedAt": 1794919217,
+      "score": 12,
+      "reasons": [
+        "title: frontend",
+        "title: full stack"
+      ]
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-angular-20-net-hary-485776",
+      "source": "Arbeitnow",
+      "title": "Full Stack Developer (Angular 20, .NET)",
+      "company": "A2Mac1",
+      "location": "Hary, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/a2mac1/full-stack-developer-angular-20-net-hary-485776",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/a2mac1/full-stack-developer-angular-20-net-hary-485776",
+      "tags": [
+        "A2MAC1 EURL"
+      ],
+      "description": " Rattaché(e) au Responsable d'équipe et intégré(e) à l’équipe Software Engineering, vous contribuez au développement continu de la plateforme A2MAC1.  Vous rejoignez l’une de nos équipes Agile Scrum, au sein de laquelle vous participez activement à la conception, au développement et à la livraison de nouvelles fonctionnalités, afin de faire évoluer et améliorer la plateforme, ses produits et ses services.    En tant qu’Ingénieur Logiciel Full‑Stack, vous serez amené(e) à :    Contribuer à la conception et à l’implémentation de nouvelles fonctionnalités, avec l’accompagnement des ingénieurs plus seniors  Développer et maintenir des applications front‑end et des services back‑end au sein d’une architecture existante  Décomposer les User Stories Agile en tâches de développement claires et actionnables, et estimer les efforts associés  Produire un code propre, maintenable et testé, en respectant les bonnes pratiques du génie logiciel  Participer activement aux revues de code, en tant que contributeur et relecteur, afin de garantir la qualité et le partage de connaissances  Documenter les solutions techniques mises en œuvre et contribuer à la capitalisation technique de l’équipe  Veille",
+      "postedAt": 1794882005,
+      "score": 12,
+      "reasons": [
+        "title: software engineer",
+        "title: full stack"
+      ]
+    },
+    {
+      "id": "arbeitnow-servicenow-engineer-strasbourg-194511",
+      "source": "Arbeitnow",
+      "title": "ServiceNow Engineer",
+      "company": "Uni Systems",
+      "location": "Strasbourg, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/uni-systems/servicenow-engineer-strasbourg-194511",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/uni-systems/servicenow-engineer-strasbourg-194511",
+      "tags": [
+        "Information Technology",
+        "Information Technology and Services",
+        "International BU"
+      ],
+      "description": " At Uni Systems, we are working towards turning digital visions into reality. We are continuously growing and we are looking for a professional ServiceNow Engineer to join our UniQue Brussels team.   What will you be bringing to the team?    Design, develop, customize, configure, administer, and maintain ServiceNow solutions, ensuring alignment with business and operational requirements.  Develop, maintain, and optimize ServiceNow integrations with internal and external systems using REST, SOAP, JDBC, and other integration protocols.  Develop and maintain custom ServiceNow scripts and applications using JavaScript and platform APIs, including GlideRecord, GlideAjax, Script Includes, and related scripting capabilities.  Configure, customize, and integrate ServiceNow modules, including IT Service Management (ITSM), IT Operations Management (ITOM), IT Asset Management (ITAM), and Configuration Management Database (CMDB).  Design, implement, and maintain ServiceNow workflows, Flow Designer subflows, UI Policies, reusable components, and automated processes.  Configure and manage data imports, exports, transformations, and integrations, ensuring data accuracy, integrity, security, and c",
+      "postedAt": 1794860420,
+      "score": 12,
+      "reasons": [
+        "title: javascript",
+        "skill: javascript",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-advanced-rd-physical-design-engineer-saint-sulpice-437324",
+      "source": "Arbeitnow",
+      "title": "Advanced R&D - Physical Design Engineer",
+      "company": "Kandou Ai",
+      "location": "Saint-Sulpice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/kandou-ai/advanced-rd-physical-design-engineer-saint-sulpice-437324",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/kandou-ai/advanced-rd-physical-design-engineer-saint-sulpice-437324",
+      "tags": [
+        "Engineering"
+      ],
+      "description": " At  Kandou , we are redeﬁning the economics of AI infrastructure. Our mission is to  democratise AI by signiﬁcantly reducing the Total Cost of Ownership (TCO)  of hardware systems — a critical barrier to scalable adoption.  Our proprietary  MIMO-over-copper technology  powers a  high-performance, chiplet-based AI memory fabric  that is both  scalable and energy-efficient . Unlike traditional interconnects, our solution  reduces power consumption signiﬁcantly  while preserving  high bandwidth and ultra-low latency  — unlocking unprecedented efficiency for AI training and inference at scale.   Job title:  Advanced R&amp;D - Physical Design Engineer   Location :  Lausanne, Switzerland  The Physical Design (PD) Engineer translates high-speed communication IP digital designs into physical GDSII layouts for advanced FinFET nodes. You will bridge logic design, owning block-to-chip implementation from netlist to final physical sign-off, ensuring PPA (Power, Performance, and Area) targets are met.      Immediate key objective      Drive block-level physical implementation—covering synthesis, SDC constraints, floorplanning, placement, CTS, and routing—meeting strict frequency, area, and pow",
+      "postedAt": 1794919216,
+      "score": 12,
+      "reasons": [
+        "title: node",
+        "skill: git",
+        "skill: node"
+      ]
+    },
+    {
       "id": "remoteok-1137707",
       "source": "RemoteOK",
       "title": "Web3 Business Development",
@@ -1126,62 +1207,56 @@
       ]
     },
     {
-      "id": "remoteok-1137537",
-      "source": "RemoteOK",
-      "title": "Head of Technology",
-      "company": "Sanctuary Computer",
+      "id": "arbeitnow-android-developer-ai-finance-agent-germany-128994",
+      "source": "Arbeitnow",
+      "title": "Android Developer - AI Finance Agent",
+      "company": "Doit",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/doit/android-developer-ai-finance-agent-germany-128994",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/doit/android-developer-ai-finance-agent-germany-128994",
+      "tags": [
+        "Doit Engineering"
+      ],
+      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.         The Role   We are looking for Android software engineers to build the native Android experience for Doit's AI Finance Agent.  This role is for someone who cares about clean user flows, fast performance, product qualit",
+      "postedAt": 1794919214,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-android-software-engineer-ai-neobank-app-germany-199496",
+      "source": "Arbeitnow",
+      "title": "Android Software Engineer - AI Neobank App",
+      "company": "Doit",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/doit/android-software-engineer-ai-neobank-app-germany-199496",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/doit/android-software-engineer-ai-neobank-app-germany-199496",
+      "tags": [
+        "Doit Engineering"
+      ],
+      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.       The Role   We are looking for Android software engineers to build the native Android experience for Doit's AI Neobank App.  This role is for someone who cares about clean user flows, fast performance, product quality an",
+      "postedAt": 1794919214,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-genai-ml-engineer-69799",
+      "source": "Arbeitnow",
+      "title": "GenAI/ML Engineer",
+      "company": "capco",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+      "url": "https://www.arbeitnow.ch/jobs/companies/capco/genai-ml-engineer-69799",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/capco/genai-ml-engineer-69799",
       "tags": [
-        "dev",
-        "engineer",
-        "senior",
-        "full stack",
-        "front end"
+        "Tech & Engineering"
       ],
-      "description": " We are hiring a  Head of Technology  for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.    Original job posting link     About  garden3d    We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.  Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp; Gagosian.  Weâre the software team behind innovative products like The Light Phone &amp; Mill, and we operate a global, decentralized community space collective called Index Space.  We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.   Sanctuary Computer - Development   At   Sanctuary Computer   weâre building a di",
-      "postedAt": "2026-10-16T17:55:35+00:00",
-      "score": 10,
-      "reasons": [
-        "title: full stack",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-product-engineer-ki-first-full-stack-100-remote-dusseldorf-320845",
-      "source": "Arbeitnow",
-      "title": "Product Engineer KI-first (m/w/d) - Full Stack, 100 % remote",
-      "company": "Fundloop",
-      "location": "Düsseldorf · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/fundloop/product-engineer-ki-first-full-stack-100-remote-dusseldorf-320845",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/fundloop/product-engineer-ki-first-full-stack-100-remote-dusseldorf-320845",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " In unserem Portal bereiten mittelständische Unternehmen ihren Antrag bei der Bescheinigungsstelle Forschungszulage vor. Sie erfassen dort Projektzeiten und Kosten, laden ihre Unterlagen hoch und arbeiten mit unseren Beratern aus ihrer Entwicklungsarbeit ein förderfähiges Vorhaben heraus. Das Portal läuft, Mandanten arbeiten damit, und es hat noch viel vor sich.  Dafür suchen wir die Person, die es verantwortet. Sie haben schon einmal eine produktive Anwendung weitgehend allein getragen und wollen das wieder tun. Sie entscheiden mit, was als Nächstes entsteht, und Sie bauen es: Funktionen, Antragsprozess, Oberfläche, Server und Sicherheitsarchitektur. Dabei arbeiten Sie KI-first. Coding-Agenten sind Ihr erstes Werkzeug und nicht Ihr letztes Wort, denn Sie bauen schnell und beweisen dort, wo es zählt, dass es stimmt.  fundloop unterstützt mittelständische Unternehmen dabei, ihre Forschung und Entwicklung zu finanzieren. Sie arbeiten zu 100 Prozent remote, mit direktem Draht zur Geschäftsführung und zu den Menschen, die mit Ihrem Werkzeug arbeiten.  Aufgaben  Sie entwickeln unser Portal eigenverantwortlich weiter, von der Idee bis zum Betrieb. Im Einzelnen heißt das:     Funktionen b",
-      "postedAt": 1794825052,
-      "score": 10,
-      "reasons": [
-        "title: full stack",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-produkt-schnittstellen-berlin-485408",
-      "source": "Arbeitnow",
-      "title": "Software Engineer (m/w/d) – Produkt & Schnittstellen",
-      "company": "PraxisConcierge",
-      "location": "Berlin · Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/praxisconcierge/software-engineer-produkt-schnittstellen-berlin-485408",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/praxisconcierge/software-engineer-produkt-schnittstellen-berlin-485408",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": " Über PraxisConcierge  Unser Startup PraxisConcierge bringt frischen Schwung ins Gesundheitswesen: Unsere KI-gestützte Telefonassistenz und Patientenkommunikation entlastet bereits rund 2.000 Behandler in Deutschland, angebunden an über 50 Praxisverwaltungssysteme. Wir wachsen weiter und suchen Verstärkung für unser Entwicklungsteam. Du entwickelst bei uns nicht im luftleeren Raum, sondern direkt an dem, was Praxen und unser Customer-Success-Team zurückmelden. Dein Schwerpunkt: Produktfunktionen und Schnittstellen-Integrationen, die im Praxisalltag einen echten Unterschied machen.  Deine Aufgaben    Du entwickelst und erweiterst Produktfunktionen auf Basis von Kundenfeedback und Rückmeldungen aus dem Customer Success.    Du baust und pflegst Schnittstellen-Integrationen zu PVS- und Drittsystemen (REST-APIs, Webhooks, Datenabgleich) und sorgst dafür, dass sie im Alltag zuverlässig laufen.    Du analysierst Fehler und Integrationsprobleme gemeinsam mit Customer Success, findest die Ursache und behebst sie dauerhaft statt nur symptomatisch.    Du arbeitest eng mit Customer Success, Support und Produkt zusammen und bringst Dein technisches Urteil in die Priorisierung ein.    Du schreib",
-      "postedAt": 1794823275,
+      "description": "&lt;p&gt;&lt;em&gt;Joining Capco means joining an organisation that is committed to an inclusive working environment where you’re encouraged to #BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. It’s important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something different to the table – so we’d love to know what makes you different. Such differences may mean we need to make changes to our process to allow you the best possible platform to succeed, and we are happy to cater to any reasonable adjustments you may require. You will find the section to let us know of these at the bottom of your application form or you can mention it directly to your recruiter at any stage and they will be happy to help.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Capco&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Capco is a global technology and business consultancy, focused on the financial services sector. We are passionate about helping our clients succeed in an ever-changing industry.&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for a senior software engineer with strong ",
+      "postedAt": 1794909321,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1189,18 +1264,18 @@
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-intern-robotics-platform-zurich-419539",
+      "id": "arbeitnow-fullstack-software-engineer-60704",
       "source": "Arbeitnow",
-      "title": "Software Engineer Intern - Robotics Platform",
-      "company": "Gravis Robotics",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/software-engineer-intern-robotics-platform-zurich-419539",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/software-engineer-intern-robotics-platform-zurich-419539",
+      "title": "Fullstack Software Engineer",
+      "company": "nozominetworks",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-software-engineer-60704",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-software-engineer-60704",
       "tags": [
-        "Platform"
+        "Engineering"
       ],
-      "description": " \n Gravis Robotics is a high-growth Series A start-up backed by SoftBank, bringing Physical AI to the construction industry, turning heavy construction machines into autonomous robots.&nbsp; \n Gravis began as an ETH Zurich spin-out, and our unique combination of learning-based automation and augmented remote control lets one operator safely conduct a fleet of earthmoving machines in a gamified environment.&nbsp; \n Backed by deep robotics research and now deployed across multiple countries with leading construction and equipment partners, our team is rapidly growing to bring this technology to a trillion-dollar industry.&nbsp; \n The Gravis RACK is a machine-agnostic retrofit kit that adds autonomy to excavators and wheel loaders from 10 to 100+ tonnes: LiDAR and camera sensing, GNSS RTK, networking hardware and rugged edge compute that works offline. Paired with the Slate tablet and our Copilot software, it lets an operator run a machine manually, with AI assistance, or fully autonomously.&nbsp;&nbsp; \n   About the role   \n At Gravis, we build high tech systems that give machine operators superhuman capabilities. To adapt in real time to changes in the environment the Gravis Rack fu",
-      "postedAt": 1794713233,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Now is an amazing time to join Nozomi Networks as we build the future of OT and IoT cybersecurity.&lt;/p&gt;\n&lt;p&gt;We defend some of the world’s largest organizations and critical infrastructure in more than 68 countries and we’re just getting started. Our AI-powered cybersecurity platform secures operational technology (OT) and Internet of Things (IoT) infrastructures for enterprises and government entities across energy, manufacturing, transportation, resources, and critical infrastructure.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;\n&lt;p&gt;Now is an amazing time to join Nozomi Networks as we build the future of OT and IoT cybersecurity.&lt;/p&gt;\n&lt;p&gt;We defend some of the world’s largest organizations and critical infrastructure in more than 68 countries and we’re just getting started. Our AI-powered cybersecurity platform secures operational technology (OT) and Internet of Things (IoT) infrastructures for enterprises and government entities across energy, manufacturing, transportation, resources, and critical infrastructure.&lt;/p&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;Nozomi Networks i",
+      "postedAt": 1794909320,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1208,18 +1283,56 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-robotics-platform-zurich-495607",
+      "id": "arbeitnow-principal-software-engineer-netherlands-201576",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer - Robotics Platform",
-      "company": "Gravis Robotics",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/senior-software-engineer-robotics-platform-zurich-495607",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/senior-software-engineer-robotics-platform-zurich-495607",
+      "title": "Principal Software Engineer",
+      "company": "Doit",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/doit/principal-software-engineer-netherlands-201576",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/doit/principal-software-engineer-netherlands-201576",
       "tags": [
-        "Platform"
+        "Doit Engineering"
       ],
-      "description": " \n Gravis Robotics is a high-growth Series A start-up backed by SoftBank, bringing Physical AI to the construction industry, turning heavy construction machines into autonomous robots.&nbsp; \n Gravis began as an ETH Zurich spin-out, and our unique combination of learning-based automation and augmented remote control lets one operator safely conduct a fleet of earthmoving machines in a gamified environment.&nbsp; \n Backed by deep robotics research and now deployed across multiple countries with leading construction and equipment partners, our team is rapidly growing to bring this technology to a trillion-dollar industry.&nbsp; \n The Gravis RACK is a machine-agnostic retrofit kit that adds autonomy to excavators and wheel loaders from 10 to 100+ tonnes: LiDAR and camera sensing, GNSS RTK, networking hardware and rugged edge compute that works offline. Paired with the Slate tablet and our Copilot software, it lets an operator run a machine manually, with AI assistance, or fully autonomously.&nbsp;&nbsp; \n   About the role    \n At Gravis, we build high tech systems that give machine operators superhuman capabilities. To adapt in real time to changes in the environment the Gravis Rack f",
-      "postedAt": 1794713233,
+      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia .     The Role   Doit builds technology products used by millions of users across Southeast Asia. As our products and systems scale, we need technical leaders who can solve difficult engineering problems and raise the engineer",
+      "postedAt": 1794919214,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-lead-software-engineer-netherlands-77360",
+      "source": "Arbeitnow",
+      "title": "Lead Software Engineer",
+      "company": "Doit",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/doit/lead-software-engineer-netherlands-77360",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/doit/lead-software-engineer-netherlands-77360",
+      "tags": [
+        "Doit Engineering"
+      ],
+      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.      The Role   Doit builds technology products used by millions of users across Southeast Asia. As our products and systems scale, we need technical leaders who can solve difficult engineering problems and raise the engineer",
+      "postedAt": 1794919214,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-staff-software-engineer-netherlands-228263",
+      "source": "Arbeitnow",
+      "title": "Staff Software Engineer",
+      "company": "Doit",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/doit/staff-software-engineer-netherlands-228263",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/doit/staff-software-engineer-netherlands-228263",
+      "tags": [
+        "Doit Engineering"
+      ],
+      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.      The Role   Doit builds technology products used by millions of users across Southeast Asia. As our products and systems scale, we need technical leaders who can solve difficult engineering problems and raise the engineer",
+      "postedAt": 1794919214,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1289,18 +1402,18 @@
       ]
     },
     {
-      "id": "arbeitnow-vc-analyst-internship-paris-406132",
+      "id": "arbeitnow-senior-ios-developer-hamburg-211959",
       "source": "Arbeitnow",
-      "title": "VC Analyst - Internship",
-      "company": "Hexa",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hexa/vc-analyst-internship-paris-406132",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/hexa/vc-analyst-internship-paris-406132",
+      "title": "Senior iOS Developer (f/m/d)",
+      "company": "adjoe",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-ios-developer-hamburg-211959",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-ios-developer-hamburg-211959",
       "tags": [
-        "Hexa"
+        "adjoe"
       ],
-      "description": " Today, successful software companies have two ways to support and finance their growth: the VC path, and the self-financed profitable path. For software companies that can’t or do not want to bootstrap, but haven’t managed to stay permanently on hyper-growth, the VC path is a dead-end.  At Hexa Scale, we’re on a mission to solve this: offer a new alternative to fund and scale software companies towards exponential growth.  We believe that there are great software companies, still early stages in the 1-10m€ ARR range, that sit on amazing markets with a great product, but that require a few changes to unlock their potential.  We believe that by providing them with capital and strong operational leverage, we can put them on the right trajectory, towards category-leading exponential growth. Our  full manifesto .  Your role is to help us find, select and invest in those companies.    Mission  Within Hexa Scale’s team (Thibault, Augustin &amp; Samuel), you’ll participate in the deal-flow cycle to make 2/3 successful deals a year.    Outcomes  Deal-flow: guarantee volume and reactivity    Perform the first analysis of Inbound leads, and therefore guarantee a &lt;48h contact to the entrep",
-      "postedAt": 1794768019,
+      "description": " adjoe builds the technologies behind mobile apps growth and monetization. With our core product  Playtime Arcade , we've become the global leader in rewarded advertising, an ad unit built on a simple premise: users earn real in-app rewards for engaging with new apps. The result is one of the most effective value exchanges in adtech, connecting advertisers and publishers with over 770 million users annually   Creating solutions that run on 13% of the world’s smartphones    The Mobile Integrations team builds the core technology that turns advertising from an interruption into a rewarded experience for 770 million users. We own the robust, lightweight,integration layer between our ad engine and the global mobile ecosystem, ensuring our technology operates with minimal overhead while reaching a massive portion of the smartphone market.  On the client side,our technology  performs smoothly across 20 million daily SDK initializations . We build  native Swift and Kotlin SDKs  optimized for ms initialization and minimal binary overhead, with  Unity, Flutter,  and  React Native wrappers  that provide a unified API across the entire mobile ecosystem. Behind the scenes, a high-throughput  G",
+      "postedAt": 1794919218,
       "score": 9,
       "reasons": [
         "title: react",
@@ -1308,88 +1421,58 @@
       ]
     },
     {
-      "id": "arbeitnow-systems-electrical-engineer-80-100-dietikon-258399",
+      "id": "arbeitnow-customer-care-specialist-paris-454934",
       "source": "Arbeitnow",
-      "title": "Systems Electrical Engineer (m/w/d) 80-100%",
-      "company": "Signode",
-      "location": "Dietikon, Zürich, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/signode/systems-electrical-engineer-80-100-dietikon-258399",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/signode/systems-electrical-engineer-80-100-dietikon-258399",
+      "title": "Customer Care Specialist",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-specialist-paris-454934",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-specialist-paris-454934",
       "tags": [
-        "R&D APT EMEA"
+        "Operations"
       ],
-      "description": "  Am Standort Schweiz entwickelt Signode innovative Umreifungsmaschinen und Verpackungslösungen für globale industrielle Anwendungen. Dabei werden Mechanik, Elektrotechnik, Softwareentwicklung und Systemtechnik miteinander verbunden.    Der Zweck dieser Position besteht in der Entwicklung moderner Systemkomponenten (Hard- und Software) innerhalb der Entwicklungsabteilung sowie deren Integration in bestehende Maschinen, Systemstrukturen und Steuerungssysteme. Die Rolle erfordert ein ganzheitliches Systemverständnis und eine enge Zusammenarbeit mit den Bereichen Konstruktion, Softwareentwicklung, Systems Engineering, Einkauf, Montage und Kundendienst.       Highlights:        Eine angenehme 40-Stunden-Woche      Flexibles Arbeitszeitmodell      Ein kostenloser Parkplatz direkt vor der Tür      100%-ige Übernahme der Unfall- und Krankentaggeldversicherungsprämien für Ihre Sicherheit      Ein Gehalt, das Ihr volles Engagement angemessen belohnt      Für den perfekten Energiekick: kostenloses Kaffeeangebot      Subventionierte Kantinenverpflegung: täglich frisch vor Ort zubereitetes Znüni- und Mittagessenangebot      Subventioniertes Massageangebot      Regelmässige Firmenanlässe       ",
-      "postedAt": 1794832283,
+      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .      The role   Health is complex, personal, and deeply important to our members. As the voice of Lucis clients, you support them throughout their health journey and own member happiness end to end.  With rapid member growth, we are hiring our first dedicated  Customer Care Team Specialist . You will own the member experience end-to-end, stabilize our operational metrics, and build and manage a world-class support team.     What you will own      Member support:  Resolve member and lab partner inquiries via chat, email and phone, with warmth, precision and a sense of urgency.     Phone-first when it matters:  Pick up the phone whenever a situation calls for a human voice: a delayed result, a stressful moment, a confused member.     Know your boundaries:  Work hand in hand with our medical team and know exactly when to escalate a health question rather than answer it yourself.  ",
+      "postedAt": 1794908416,
       "score": 9,
       "reasons": [
-        "title: node",
-        "skill: node"
+        "title: react",
+        "skill: react"
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-all-genders-ch-baar-378030",
+      "id": "arbeitnow-developpeur-backend-php-alternance-12-mois-rouen-438422",
       "source": "Arbeitnow",
-      "title": "Software Engineer (all genders) CH",
-      "company": "BSI Software",
-      "location": "Baar, Zug, Schweiz",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/software-engineer-all-genders-ch-baar-378030",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/software-engineer-all-genders-ch-baar-378030",
-      "tags": [
-        "BSI Software"
-      ],
-      "description": "  Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig!    Du übernimmst von der Beratung bis zur Umsetzung den Lead in Kundenprojekten und führst diese erfolgreich zum Go-live. Dabei implementierst du kundenspezifische Lösungen mit Fokus auf LowCode/ZeroCode.   Du bringst dazu Freude an SaaS-Produkteinführungen beim Kunden mit und verfügst über technisches Know-how in modernen Software- und Integrationslandschaften.     Baar, Baden, Bern, Zürich / ab 1. Oktober 2026 / 80 - 100 %       Deine Aufgaben     Du konzipierst die Architektur und verantwortest die technische Implementierung kundenspezifischer Lösungen. Die Integrationen und Erweiterungen mit LowCode/ZeroCode (TypeScript) setzt du mit Freude um.&nbsp;    Du übernimmst die Anforderungsanalyse in enger Zusammenarbeit mit Kunden, um Geschäftsproz",
-      "postedAt": 1794821484,
+      "title": "Développeur Backend PHP (Alternance 12 mois)",
+      "company": "Lemonway",
+      "location": "Rouen, Normandie, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/developpeur-backend-php-alternance-12-mois-rouen-438422",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lemonway/developpeur-backend-php-alternance-12-mois-rouen-438422",
+      "tags": [],
+      "description": "    A propos de Lemonway         Lemonway est un établissement de paiement agréé, au cœur de la nouvelle économie européenne.       Nous sécurisons les paiements des plateformes de financement participatif, d’économie collaborative, des marketplaces et des e-commerçants, avec un fort engagement contre la fraude et pour la protection des fonds.      Réglementée par l’ACPR et bénéficiant du passeport européen dans 29 pays, Lemonway est basée à Paris et Hambourg et rassemble 150    Lemonheroes    multiculturels et engagés.      Plus de 400 marketplaces nous font confiance. Nous gérons 1,4 million de portefeuilles utilisateurs et avons levé 50 M€ auprès de Breega, SpeedInvest et Toscafund.      Rentable depuis quatre ans et en croissance de +25 % en 2025, Lemonway vise à rester parmi les leaders du paiement en Europe grâce à une croissance saine et durable.          Le Poste        L'équipe est composée d'une Product Manager, un Engineering Manager 2 développeurs BACK PHP et 2 développeurs FRONT (Typescript / React). Intégrée au sein de la Squad    MERCHANT   , dédiée aux outils et services à destination de nos marchands partenaires, nous fonctionnons en Scrum avec des sprints de deux ",
+      "postedAt": 1794853911,
       "score": 9,
       "reasons": [
-        "title: software engineer",
-        "skill: git"
+        "title: react",
+        "skill: react"
       ]
     },
     {
-      "id": "arbeitnow-software-engineer-net-woerden-201047",
+      "id": "arbeitnow-internship-teleoperation-data-labeling-switzerland-st-gallen-163760",
       "source": "Arbeitnow",
-      "title": "Software Engineer (.NET)",
-      "company": "CCS Connects",
-      "location": "Woerden, Utrecht, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-201047",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-201047",
+      "title": "Internship Teleoperation & Data Labeling - Switzerland",
+      "company": "Sereact GmbH",
+      "location": "St. Gallen, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/internship-teleoperation-data-labeling-switzerland-st-gallen-163760",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/internship-teleoperation-data-labeling-switzerland-st-gallen-163760",
       "tags": [
-        "Development"
+        "Software"
       ],
-      "description": "  Your Mission    As a Software Engineer at CCS, you'll play a key role in our modernization journey—bridging legacy systems with future-ready solutions. You’ll help deliver innovative, high-quality software that transforms how our clients operate. Modernization is not just about adopting new technologies—it’s about continuously improving how we build, learn, and grow. You love experimenting, learning by doing, and inspiring others to raise the bar.     What You’ll Do     You’ll join a team focused on modernizing our insurance back-office systems—critical components in our clients' ecosystems. Your main focus will be on  SureCore , our next-gen solution that works in tandem with  Level , our trusted legacy platform. This hybrid approach lets us evolve system functionality domain by domain. You enjoy working at the intersection of old and new tech, and you thrive on technical challenges that require creativity and collaboration.        Your Skills &amp; Experience    &nbsp;    Must-have:   &nbsp;    Strong experience with .NET    Hands-on knowledge of Domain-Driven Design (DDD)    Comfortable with Docker and container orchestration    Proficient in GitHub for version control and col",
-      "postedAt": 1794637894,
+      "description": "  Internship – Teleoperation &amp; Data Labeling (m/f/d) – St. Gallen, Switzerland    Who We Are   We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.   Overview   We are looking for a tech-savvy intern with a passion for robotics, machine learning, or computer vision who wants hands-on experience in teleoperation and operating state-of-the-art robots. You will be based at one of our customer sites in St. Gallen, where our robots are running in live operations. We are growing our team in Switzerland: this position is employed directly through our Swiss entity based in Zurich. This role is perfect for someone eager to learn, contribute, and gain practical exposure to advanced AI-driven robotic systems.   Your Responsibilities   • Robot Teleoperation: Collect high-quality data by controlling robots through a VR headset. • Data Labeling",
+      "postedAt": 1794919217,
       "score": 9,
       "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "remotive-2091173",
-      "source": "Remotive",
-      "title": "Content Creator - YouTube",
-      "company": "Metics Media",
-      "location": "USA, Canada",
-      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
-      "applyUrl": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
-      "tags": [
-        "ecommerce",
-        "shopify",
-        "video",
-        "AI/ML",
-        "research",
-        "digital marketing",
-        "youtube",
-        "editing",
-        "video editing"
-      ],
-      "description": "  Important:  Applications without an intro video will not be considered.     Job Overview  Create engaging YouTube tutorials about software, digital marketing, and AI tools that reach millions of people around the world every month through our YouTube channel, Metics Media.     About us  Metics Media is a small, fully remote team creating high-quality YouTube videos about software, digital marketing, and AI tools for an audience of over 700,000 subscribers. Our mission is simple: to make technology easy to understand and help people get the most out of the tools available to them.  We partner with leading platforms like Shopify, Hostinger, and Squarespace, allowing us to keep our content free and accessible to everyone.  We're now looking for talented, motivated content creators to join our growing team, help us produce even more high-quality videos, and reach millions more people around the world.     What you'll do   Research each video's topic and tools in depth, and figure out what to cover and how to present it in a clear, engaging way.  Write video scripts and outlines.  Record videos, including talking-head and screen recordings. Your face will be visible in your videos.  P",
-      "postedAt": "2026-11-13T17:29:57",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
+        "title: react",
+        "skill: react"
       ]
     }
   ]

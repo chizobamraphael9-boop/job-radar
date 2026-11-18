@@ -1,4 +1,4 @@
-# Job Radar digest (2026-11-17)
+# Job Radar digest (2026-11-18)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
@@ -8,14 +8,14 @@
    https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540
 4. **Senior Software Engineer II Applied AI** — Wrapbook (31)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
-5. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (29)
-   https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
-6. **Software Engineer AI Tooling** — Supabase (28)
+5. **Software Engineer AI Tooling** — Supabase (28)
    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793
-7. **Senior Vue Developer** — Lemon.io (28)
+6. **Senior Vue Developer** — Lemon.io (28)
    https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688
-8. **UI Developer** — RainFocus (27)
+7. **UI Developer** — RainFocus (27)
    https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704
+8. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
+   https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
 9. **Senior Data Engineer** — Lemon.io (27)
    https://remotive.com/remote-jobs/data/senior-data-engineer-2091137
 10. **Senior React Full-stack Developer** — Lemon.io (27)
@@ -30,13 +30,13 @@
    https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
 15. **Senior Software Engineer LATAM** — Wagmo (22)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
-16. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
+16. **Full stack developer (on site)** — Crisp (21)
+   https://www.arbeitnow.nl/jobs/companies/crisp/full-stack-developer-on-site-amsterdam-231394
+17. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
-17. **Remote Office Assistant** — Coalition Technologies  (19)
+18. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
-18. **Full Stack Software Engineer (m/w) 80-100%** — Gatcom (18)
-   https://www.arbeitnow.ch/jobs/companies/gatcom/full-stack-software-engineer-m-w-80-100-moosseedorf-72440
-19. **Frontend Engineer, Web** — Actcareers (15)
-   https://www.arbeitnow.com/jobs/companies/actcareers/frontend-engineer-web-germany-352822
+19. **Senior .NET Developer** — SwissPeak Partners GmbH (15)
+   https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-397327
 20. **Senior Software Engineer â Kubernetes Control Plane** — Buoyant (13)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713

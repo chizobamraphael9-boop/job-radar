@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-17T14:07:45.590Z",
+  "scannedAt": "2026-11-18T13:40:34.836Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 46,
+  "count": 42,
   "jobs": [
     {
       "id": "remoteok-1137410",
@@ -59,9 +59,9 @@
         "dev",
         "senior",
         "javascript",
+        "api",
         "typescript",
-        "full stack",
-        "api"
+        "full stack"
       ],
       "description": " Klardaten connects DATEV with other software and AI applications. Weâre hiring 1â2 senior engineers to own product development, DATEV integrations and automation.   Based in the EU Â· Remote or Berlin Â· Full time Â· Permanent or contract Â· Start as soon as possible   Own the outcome  Once we agree on a general goal, you independently work out what to build and how to deliver it. You investigate the problem, define the scope, make technical decisions and carry the work through implementation, testing, deployment and follow-up.  What you will do   Turn general product goals into clear requirements, a practical scope and technical decisions.  Build product features, DATEV integrations and automations across frontend and backend.  Own testing, deployment and ongoing improvement, including resolving problems in production.  Find answers, resolve blockers and keep the founders informed. Raise decisions that need discussion early.   Examples of goals   Make connecting a DATEV environment easier and reduce manual setup.  Give customers access to a new DATEV data area through our API and MCP server.  Turn a recurring manual workflow into a reliable automation that users can review.  ",
       "postedAt": "2026-10-25T12:34:21+00:00",
@@ -178,54 +178,6 @@
       ]
     },
     {
-      "id": "remotive-2069746",
-      "source": "Remotive",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "applyUrl": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "tags": [
-        "api",
-        "CSS",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails",
-        "AI/ML",
-        "CAD",
-        "advertising",
-        "Redis",
-        "ES6",
-        "web applications",
-        "MySQL",
-        "NLP",
-        "fintech",
-        "Micro services",
-        "github",
-        "system architecture"
-      ],
-      "description": "  About Mitre Media  \n  Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time.  \n  Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect!  \n  About the Role  \n  As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, h",
-      "postedAt": "2026-11-14T20:33:53",
-      "score": 29,
-      "reasons": [
-        "title: react",
-        "title: javascript",
-        "skill: javascript",
-        "skill: react",
-        "skill: html",
-        "skill: css",
-        "skill: git",
-        "posted this week"
-      ]
-    },
-    {
       "id": "remoteok-1137793",
       "source": "RemoteOK",
       "title": "Software Engineer AI Tooling",
@@ -329,6 +281,53 @@
       ],
       "description": " RainFocus, one of the most innovative software companies, is in search of an exceptional  Jr. UI Developer.  \n &nbsp; \n  About RainFocus  \n  RainFocus cares about its employees, customers, and the world in which we live. Our rapidly growing team serves Fortune 500 companies like Adobe, Cisco, IBM, Oracle, VMware, and others to prepare and execute in-person, virtual, and hybrid events, across the world. Those events are delivered through our industry-disrupting software platform, with groundbreaking business intelligence, to elevate the attendee experience, streamline event operations, and accelerate marketing results. We are well-funded, growing fast, and building a company that is changing the market â it will be challenging, fun and exciting.&nbsp;  \n &nbsp; \n  About the Role  \n As a Jr. UI Developer, you will be an essential part of our team, assisting in the implementation of stunning, user-friendly web applications. Working alongside experienced developers, you will use HTML, CSS, and modern JavaScript to help translate designs into high-quality web experiences for our events and platforms. This position is ideal for an early-career developer who is passionate about visuall",
       "postedAt": "2026-11-08T16:00:03+00:00",
+      "score": 27,
+      "reasons": [
+        "title: react",
+        "title: javascript",
+        "skill: javascript",
+        "skill: react",
+        "skill: html",
+        "skill: css",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "remotive-2069746",
+      "source": "Remotive",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "applyUrl": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "tags": [
+        "api",
+        "CSS",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "AI/ML",
+        "CAD",
+        "advertising",
+        "Redis",
+        "ES6",
+        "web applications",
+        "MySQL",
+        "NLP",
+        "fintech",
+        "Micro services",
+        "github",
+        "system architecture"
+      ],
+      "description": "  About Mitre Media  \n  Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time.  \n  Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect!  \n  About the Role  \n  As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, h",
+      "postedAt": "2026-11-14T20:33:53",
       "score": 27,
       "reasons": [
         "title: react",
@@ -708,6 +707,27 @@
       ]
     },
     {
+      "id": "arbeitnow-full-stack-developer-on-site-amsterdam-231394",
+      "source": "Arbeitnow",
+      "title": "Full stack developer (on site)",
+      "company": "Crisp",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/crisp/full-stack-developer-on-site-amsterdam-231394",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/crisp/full-stack-developer-on-site-amsterdam-231394",
+      "tags": [
+        "Tech"
+      ],
+      "description": " Our developers build the systems our customers use to shop for groceries — as well as the software that runs our warehouses, supports last-mile, and helps our purchasing and commerce teams operate effectively.     What you'll do  We build software in a lean and pragmatic way, and care about choosing the right abstractions for our domain and continuously balance delivery speed against long-term complexity.  Our stack includes Typescript, React Native, modern PHP and PostgreSQL. We prefer to work with people who have seen—or want to learn—different technologies, as we consider our tools a means to an end.  You will:    Work with a small team of product owners and product designers to implement new app features.    Help validate features work as intended, from analysing technical telemetry to joining customer interviews.    Code across our stack — frontend and backend.    Ship often and take responsibility for your code “in the field” .     We invest heavily in automated testing and code readability. Refactoring is part of the job. Abstractions are revisited when the business changes.  We use LLMs as productivity tools where appropriate, but every line of code shipped to production i",
+      "postedAt": 1794962431,
+      "score": 21,
+      "reasons": [
+        "title: frontend",
+        "title: react",
+        "title: full stack",
+        "skill: react"
+      ]
+    },
+    {
       "id": "remoteok-1137062",
       "source": "RemoteOK",
       "title": "DESARROLLADOR FULL STACK",
@@ -786,43 +806,23 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-software-engineer-m-w-80-100-moosseedorf-72440",
+      "id": "arbeitnow-senior-net-developer-luzern-397327",
       "source": "Arbeitnow",
-      "title": "Full Stack Software Engineer (m/w) 80-100%",
-      "company": "Gatcom",
-      "location": "Moosseedorf",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gatcom/full-stack-software-engineer-m-w-80-100-moosseedorf-72440",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gatcom/full-stack-software-engineer-m-w-80-100-moosseedorf-72440",
+      "title": "Senior .NET Developer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Luzern, Luzern, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-397327",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-397327",
       "tags": [
-        "Software Development"
+        "Software Engineering"
       ],
-      "description": " Als Software-Engineer hast du zusammen mit unseren internen Kunden direkten Einfluss und Mitverantwortung für erfolgreiche Produkt-Implementierungen Full Stack Java Software Engineer (m/w) 80-100% \n Aufgaben \n \n In kleinen agilen Teams erarbeitest du innovative, moderne Software-Lösungen \n Du fühlst dich in der Back- und Frontend-Entwicklung gleichermassen zu Hause \n Die Projektsprache ist in der Regel Deutsch und in Einzelfällen Englisch \n In der Entwicklung nutzen wir aktuelle Technologien wie Spring, Spring Boot, Kafka, Docker, Openshift/Kubernetes und Angular \n Falls du Erfahrung mit Amazon Cloud (AWS), IoT-Projekten und Oracle-Datenbanken hast, bist du unser Wunschkandidat/unsere Wunschkandidatin. \n \n Qualifikation \n \n In den letzten Jahren hast du dein Können in einer vergleichbaren Funktion erfolgreich eingesetzt (Analyse, Design, Implementierung und Test) \n Dabei hast du Businessanforderungen in modernen Applikationen umgesetzt \n Automatisierte Tests und continuous integration/continuous deployment sind für dich eine Selbstverständlichkeit \n Du kannst dir neues Wissen schnell aneignen und behältst den Gesamtüberblick auch bei komplexen Problemstellungen \n Es gelingt dir, s",
-      "postedAt": 1794909660,
-      "score": 18,
-      "reasons": [
-        "title: frontend",
-        "title: software engineer",
-        "title: full stack"
-      ]
-    },
-    {
-      "id": "arbeitnow-frontend-engineer-web-germany-352822",
-      "source": "Arbeitnow",
-      "title": "Frontend Engineer, Web",
-      "company": "Actcareers",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/actcareers/frontend-engineer-web-germany-352822",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/actcareers/frontend-engineer-web-germany-352822",
-      "tags": [
-        "Act Engineering"
-      ],
-      "description": "  About Act   There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting.   Our first application is an agent-first mobile communication app. We believe building applications that users use daily for communication, coordination and collaboration needs will help integrate AI into their lives. The net effect is to eliminate misinformation, achieve low coordination costs, enable high quality tasks and collaboration at scale with minimal or little prompting.     Role    Build and maintain web applications across Chat, Notes, Calendar, Docs and Sheets using React and TypeScript    Develop interactive features including real-time messaging, rich-text editing, scheduling, tables and spreadsheets    Build reusable frontend components and architecture across multiple applications    Integrate backend APIs, WebSockets and streaming AI responses into product workflows    Manage complex application state, real-t",
-      "postedAt": 1794919217,
+      "description": " Wir suchen einen erfahrenen Senior .NET Developer für ein etabliertes Schweizer IT-Dienstleistungsunternehmen im Raum Bern. Du arbeitest in einem motivierten SCRUM-Team an anspruchsvollen Kundenprojekten und übernimmst Verantwortung für Architektur, Codequalität und technische Entscheidungen.     Aufgaben       Entwicklung und Weiterentwicklung von Backend-Services und APIs auf Basis von .NET Core    Mitarbeit an Frontend-Komponenten mit Blazor oder Razor    Design und Umsetzung von Microservices- und Integrationsarchitekturen    Sicherstellung von Codequalität durch automatisierte Tests und Code Reviews    Aktive Mitgestaltung von Architekturentscheidungen im Team               Anforderungen       Mehr als 5 Jahre Erfahrung in der Softwareentwicklung mit .NET    Fundierte Kenntnisse in .NET Core, Entity Framework, Blazor und REST APIs    Erfahrung mit Microsoft Azure und Azure DevOps    Kenntnisse in Microservices und Integrationsarchitekturen    Kenntnisse in Kubernetes, Kafka, xUnit oder API Kana von Vorteil    Erfahrung mit agilen Methoden (Scrum, Kanban oder SAFe)    Sehr gute Deutschkenntnisse       Was dich erwartet       Festanstellung bei einem stabilen, finanzstarken Unt",
+      "postedAt": 1794972678,
       "score": 15,
       "reasons": [
         "title: frontend",
-        "title: react",
-        "skill: react"
+        "title: software engineer",
+        "skill: rest api"
       ]
     },
     {
@@ -841,7 +841,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...  Please mention the word **FECILITOUS** and tag RMjAuMTYzLjkzLjE1MA== when applying to show you read the job post completely (#RMjAuMTYzLjkzLjE1MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...  Please mention the word **FECILITOUS** and tag RNTEuOC4xNDYuMjA4 when applying to show you read the job post completely (#RNTEuOC4xNDYuMjA4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-11-09T22:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -866,7 +866,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RMjAuMTYzLjkzLjE1MA== when applying to show you read the job post completely (#RMjAuMTYzLjkzLjE1MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...  Please mention the word **EVALUATIVE** and tag RNTEuOC4xNDYuMjA4 when applying to show you read the job post completely (#RNTEuOC4xNDYuMjA4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-10-18T19:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -889,7 +889,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RMjAuMTYzLjkzLjE1MA== when applying to show you read the job post completely (#RMjAuMTYzLjkzLjE1MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...  Please mention the word **STELLARLY** and tag RNTEuOC4xNDYuMjA4 when applying to show you read the job post completely (#RNTEuOC4xNDYuMjA4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-23T14:00:02+00:00",
       "score": 13,
       "reasons": [
@@ -912,7 +912,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RMjAuMTYzLjkzLjE1MA== when applying to show you read the job post completely (#RMjAuMTYzLjkzLjE1MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...  Please mention the word **SEAMLESS** and tag RNTEuOC4xNDYuMjA4 when applying to show you read the job post completely (#RNTEuOC4xNDYuMjA4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "postedAt": "2026-09-12T14:00:03+00:00",
       "score": 13,
       "reasons": [
@@ -922,36 +922,42 @@
       ]
     },
     {
-      "id": "remotive-2091158",
-      "source": "Remotive",
-      "title": "Software Engineer, AI Coding Tasks",
-      "company": "Askable",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-      "applyUrl": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "id": "arbeitnow-staff-performance-engineer-javascript-engine-spidermonkey-365140",
+      "source": "Arbeitnow",
+      "title": "Staff Performance Engineer, JavaScript Engine (SpiderMonkey)",
+      "company": "mozilla",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/staff-performance-engineer-javascript-engine-spidermonkey-365140",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/mozilla/staff-performance-engineer-javascript-engine-spidermonkey-365140",
       "tags": [
-        "C++",
-        "docker",
-        "git",
-        "go",
-        "java",
-        "python",
-        "security",
-        "AI/ML",
-        "rust",
-        "Typescript ",
-        "distributed systems",
-        "SOLID",
-        "Linux/Unix",
-        "testing",
-        "infrastructure"
+        "Firefox"
       ],
-      "description": " We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. \n   \n You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. \n   \n Remote, any location. US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. \n   \n How it works \n   \n \n Apply. Complete a short screener interview and upload your resume. \n Propose. Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate. \n Build. In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks. \n Stress-test. Try lazy, incorrect and shortcut solutions and make sure your checks catch them. \n Model testing. Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it. \n Review. A reviewer checks your task and you revise it. Most tasks t",
-      "postedAt": "2026-10-17T16:04:29",
+      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we’re doing this while never losing our focus on our core mission – to make the internet better for people.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren’t beholden to any shareholders — only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design, build and distribute &lt;/span&gt;&lt;st",
+      "postedAt": 1794963327,
       "score": 13,
       "reasons": [
-        "title: software engineer",
-        "skill: git",
+        "title: javascript",
+        "skill: javascript",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-customer-support-coach-409887",
+      "source": "Arbeitnow",
+      "title": "Customer Support Coach",
+      "company": "cloudbeds",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cloudbeds/customer-support-coach-409887",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/cloudbeds/customer-support-coach-409887",
+      "tags": [
+        "Customer Support"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-path-to-node=&quot;0&quot;&gt;&lt;strong data-path-to-node=&quot;0&quot; data-index-in-node=&quot;0&quot;&gt;What Makes Cloudbeds Unique&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-path-to-node=&quot;1&quot;&gt;At &lt;a href=&quot;https://www.cloudbeds.com/&quot;&gt;Cloudbeds&lt;/a&gt;, we&#39;re not just building software, we&#39;re transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we do it with a completely remote team. Imagine working alongside global innovators to build AI-powered solutions that solve hoteliers&#39; biggest challenges. Since our founding in 2012, we&#39;ve continually been recognized for excellence, most recently earning top honors at the 2026 HotelTechAwards for Best Hotel Management Software and landing on Deloitte&#39;s Technology Fast 500 again, but we&#39;re just getting started.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;How You&#39;ll Make an Impa",
+      "postedAt": 1794963324,
+      "score": 13,
+      "reasons": [
+        "title: node",
+        "skill: node",
         "location: Remote"
       ]
     },
@@ -1039,83 +1045,23 @@
       ]
     },
     {
-      "id": "arbeitnow-full-stack-engineer-ai-systems-germany-255414",
+      "id": "arbeitnow-senior-software-entwickler-in-finance-hanover-105038",
       "source": "Arbeitnow",
-      "title": "Full Stack Engineer, AI systems",
-      "company": "Actcareers",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/actcareers/full-stack-engineer-ai-systems-germany-255414",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/actcareers/full-stack-engineer-ai-systems-germany-255414",
+      "title": "Senior Software Entwickler/in (m/w/d) - Finance",
+      "company": "Polarstern Experts",
+      "location": "Hanover",
+      "url": "https://www.arbeitnow.com/jobs/companies/polarstern-experts/senior-software-entwickler-in-finance-hanover-105038",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/polarstern-experts/senior-software-entwickler-in-finance-hanover-105038",
       "tags": [
-        "Act Engineering"
+        "Software Development"
       ],
-      "description": " About Act  There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting.   Our first application is an agent-first mobile communication app. We believe building applications that users use daily for communication, coordination and collaboration needs will help integrate AI into their lives. The net effect is to eliminate misinformation, achieve low coordination costs, enable high quality tasks and collaboration at scale with minimal or little prompting.     Role  We are looking for a Full Stack Engineer - AI Systems to build the product layer that turns these capabilities into usable, production-grade workflows. This includes designing how agents operate, fail, recover, and deliver consistent value to users.      Focus     Build end-to-end product features across frontend, backend, and AI integrations    Design agent workflows that handle planning, tool use, failure, and recovery across multiple steps",
-      "postedAt": 1794919217,
+      "description": " Als Senior Softwareentwickler/in (m/w/d) arbeitest Du insbesondere an individuellen Softwarelösungen für Kunden (Banken, Versicherungen und Handel). \n Für unseren neuen Standort in Hannover suchen wir erfahrene Entwickler-Persönlichkeiten, die nicht nur exzellenten Code schreiben, sondern auch Lust haben, einen neuen Standort von Grund auf mitaufzubauen. \n Wir arbeiten interdisziplinär für unsere Kunden daran, die individuell beste Lösung zu entwickeln. Respekt und Wertschätzung ist uns besonders wichtig.  \n Neugierig? Dann melde dich gerne für weitere Informationen! \n Aufgaben \n \n Du entwickelst individuelle Fullstack-Lösungen und Softwarearchitekturen mit modernen Stacks (z. B. Java Spring, React, Angular, vue.js, GitHub Actions, etc.) \n Du verstehst fachliche Kundenanforderungen und übersetzt diese eigenständig in tragfähige technische Konzepte \n Du begleitest weniger erfahrene Kolleg:innen (z. B. durch Pair Programming oder Code-Reviews) und gibst Dein Wissen gerne weiter. \n \n Qualifikation \n \n Ein abgeschlossenes IT-Studium an einer Fachhochschule oder Universität \n Mehrjährige Berufserfahrung in in der Softwareentwicklung (z. B. Java / Spring Boot und Frameworks wie Angular,",
+      "postedAt": 1794990662,
       "score": 12,
       "reasons": [
-        "title: frontend",
-        "title: full stack"
-      ]
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-angular-20-net-hary-485776",
-      "source": "Arbeitnow",
-      "title": "Full Stack Developer (Angular 20, .NET)",
-      "company": "A2Mac1",
-      "location": "Hary, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/a2mac1/full-stack-developer-angular-20-net-hary-485776",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/a2mac1/full-stack-developer-angular-20-net-hary-485776",
-      "tags": [
-        "A2MAC1 EURL"
-      ],
-      "description": " Rattaché(e) au Responsable d'équipe et intégré(e) à l’équipe Software Engineering, vous contribuez au développement continu de la plateforme A2MAC1.  Vous rejoignez l’une de nos équipes Agile Scrum, au sein de laquelle vous participez activement à la conception, au développement et à la livraison de nouvelles fonctionnalités, afin de faire évoluer et améliorer la plateforme, ses produits et ses services.    En tant qu’Ingénieur Logiciel Full‑Stack, vous serez amené(e) à :    Contribuer à la conception et à l’implémentation de nouvelles fonctionnalités, avec l’accompagnement des ingénieurs plus seniors  Développer et maintenir des applications front‑end et des services back‑end au sein d’une architecture existante  Décomposer les User Stories Agile en tâches de développement claires et actionnables, et estimer les efforts associés  Produire un code propre, maintenable et testé, en respectant les bonnes pratiques du génie logiciel  Participer activement aux revues de code, en tant que contributeur et relecteur, afin de garantir la qualité et le partage de connaissances  Documenter les solutions techniques mises en œuvre et contribuer à la capitalisation technique de l’équipe  Veille",
-      "postedAt": 1794882005,
-      "score": 12,
-      "reasons": [
-        "title: software engineer",
-        "title: full stack"
-      ]
-    },
-    {
-      "id": "arbeitnow-servicenow-engineer-strasbourg-194511",
-      "source": "Arbeitnow",
-      "title": "ServiceNow Engineer",
-      "company": "Uni Systems",
-      "location": "Strasbourg, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/uni-systems/servicenow-engineer-strasbourg-194511",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/uni-systems/servicenow-engineer-strasbourg-194511",
-      "tags": [
-        "Information Technology",
-        "Information Technology and Services",
-        "International BU"
-      ],
-      "description": " At Uni Systems, we are working towards turning digital visions into reality. We are continuously growing and we are looking for a professional ServiceNow Engineer to join our UniQue Brussels team.   What will you be bringing to the team?    Design, develop, customize, configure, administer, and maintain ServiceNow solutions, ensuring alignment with business and operational requirements.  Develop, maintain, and optimize ServiceNow integrations with internal and external systems using REST, SOAP, JDBC, and other integration protocols.  Develop and maintain custom ServiceNow scripts and applications using JavaScript and platform APIs, including GlideRecord, GlideAjax, Script Includes, and related scripting capabilities.  Configure, customize, and integrate ServiceNow modules, including IT Service Management (ITSM), IT Operations Management (ITOM), IT Asset Management (ITAM), and Configuration Management Database (CMDB).  Design, implement, and maintain ServiceNow workflows, Flow Designer subflows, UI Policies, reusable components, and automated processes.  Configure and manage data imports, exports, transformations, and integrations, ensuring data accuracy, integrity, security, and c",
-      "postedAt": 1794860420,
-      "score": 12,
-      "reasons": [
-        "title: javascript",
-        "skill: javascript",
+        "title: react",
+        "skill: react",
         "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-advanced-rd-physical-design-engineer-saint-sulpice-437324",
-      "source": "Arbeitnow",
-      "title": "Advanced R&D - Physical Design Engineer",
-      "company": "Kandou Ai",
-      "location": "Saint-Sulpice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/kandou-ai/advanced-rd-physical-design-engineer-saint-sulpice-437324",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/kandou-ai/advanced-rd-physical-design-engineer-saint-sulpice-437324",
-      "tags": [
-        "Engineering"
-      ],
-      "description": " At  Kandou , we are redeﬁning the economics of AI infrastructure. Our mission is to  democratise AI by signiﬁcantly reducing the Total Cost of Ownership (TCO)  of hardware systems — a critical barrier to scalable adoption.  Our proprietary  MIMO-over-copper technology  powers a  high-performance, chiplet-based AI memory fabric  that is both  scalable and energy-efficient . Unlike traditional interconnects, our solution  reduces power consumption signiﬁcantly  while preserving  high bandwidth and ultra-low latency  — unlocking unprecedented efficiency for AI training and inference at scale.   Job title:  Advanced R&amp;D - Physical Design Engineer   Location :  Lausanne, Switzerland  The Physical Design (PD) Engineer translates high-speed communication IP digital designs into physical GDSII layouts for advanced FinFET nodes. You will bridge logic design, owning block-to-chip implementation from netlist to final physical sign-off, ensuring PPA (Power, Performance, and Area) targets are met.      Immediate key objective      Drive block-level physical implementation—covering synthesis, SDC constraints, floorplanning, placement, CTS, and routing—meeting strict frequency, area, and pow",
-      "postedAt": 1794919216,
-      "score": 12,
-      "reasons": [
-        "title: node",
-        "skill: git",
-        "skill: node"
       ]
     },
     {
@@ -1207,56 +1153,59 @@
       ]
     },
     {
-      "id": "arbeitnow-android-developer-ai-finance-agent-germany-128994",
+      "id": "arbeitnow-design-engineer-teil-oder-vollzeit-remote-berlin-52039",
       "source": "Arbeitnow",
-      "title": "Android Developer - AI Finance Agent",
-      "company": "Doit",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/doit/android-developer-ai-finance-agent-germany-128994",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/doit/android-developer-ai-finance-agent-germany-128994",
+      "title": "Design Engineer (m/w/d), Teil- oder Vollzeit, Remote",
+      "company": "AZAV Pilot",
+      "location": "Berlin · Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/azav-pilot/design-engineer-teil-oder-vollzeit-remote-berlin-52039",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/azav-pilot/design-engineer-teil-oder-vollzeit-remote-berlin-52039",
       "tags": [
-        "Doit Engineering"
+        "Remote",
+        "Media",
+        "Screen and Web Design"
       ],
-      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.         The Role   We are looking for Android software engineers to build the native Android experience for Doit's AI Finance Agent.  This role is for someone who cares about clean user flows, fast performance, product qualit",
-      "postedAt": 1794919214,
+      "description": " Über AZAV Pilot  Unsere Vision: Jede(r) sollte lehren und lernen können.  Mit AZAV Pilot können sich Bildungsanbieter in der Erwachsenenbildung auf das konzentrieren, was wirklich zählt: fantastische Kurse & Coachings für ihre Kundinnen und Kunden anzubieten, anstatt im Bürokratiesumpf zu versinken. Wir entwickeln das Betriebssystem für alles rund um die Verwaltung der Teilnehmenden, die Dokumentation von Anwesenheit und Klassenbuch sowie das Qualitätsmanagement.  Wir sind profitabel, 100 % bootstrapped und suchen zum nächstmöglichen Zeitpunkt einen Design Engineer (m/w/d). Wenn du es liebst, Probleme tief zu verstehen und gemeinsam mit Kunden Lösungen zu entwickeln, die du dann auch selbst im Frontend umsetzt, bist du bei uns richtig!  Die Stelle ist in Teil- oder Vollzeit (mindestens 30h / Woche) remote, mit der Möglichkeit, jederzeit in unserem Büro in Berlin-Charlottenburg zu arbeiten.  Deine Aufgaben  Bisher kümmert sich unser CPO Jakob neben seinen anderen Aufgaben selbst um das Design der Plattform. Jetzt suchen wir eine Person, die das ganz übernimmt und den Look & Feel unseres Produkts auf das nächste Level hebt.  Du arbeitest strukturiert und analytisch? Du machst gerne ",
+      "postedAt": 1794990659,
       "score": 10,
       "reasons": [
-        "title: software engineer",
+        "title: frontend",
         "location: Remote"
       ]
     },
     {
-      "id": "arbeitnow-android-software-engineer-ai-neobank-app-germany-199496",
+      "id": "arbeitnow-senior-manager-performance-creative-strategy-fanatics-market-remote-fixed-contract-edinburgh-leeds-london-manchester-224547",
       "source": "Arbeitnow",
-      "title": "Android Software Engineer - AI Neobank App",
-      "company": "Doit",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/doit/android-software-engineer-ai-neobank-app-germany-199496",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/doit/android-software-engineer-ai-neobank-app-germany-199496",
+      "title": "Senior Manager, Performance Creative Strategy – Fanatics Market (Remote Fixed Contract)",
+      "company": "Fanaticsfbg",
+      "location": "Edinburgh; Leeds; London; Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-fanatics-market-remote-fixed-contract-edinburgh-leeds-london-manchester-224547",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-fanatics-market-remote-fixed-contract-edinburgh-leeds-london-manchester-224547",
       "tags": [
-        "Doit Engineering"
+        "Gaming - Marketing"
       ],
-      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.       The Role   We are looking for Android software engineers to build the native Android experience for Doit's AI Neobank App.  This role is for someone who cares about clean user flows, fast performance, product quality an",
-      "postedAt": 1794919214,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 class=&quot;job-details__description-header text-color-secondary font-family-secondary&quot; data-bind=&quot;i18n: &#39;job-details.employer-description-title&#39;&quot;&gt;About Us&lt;/h2&gt;\n&lt;div class=&quot;job-details__description-content basic-formatter&quot; data-bind=&quot;html: pageData().job.corporateDescription&quot;&gt;\n&lt;p&gt;Fanatics is a leading global sports platform redefining how fans connect with the teams, players and moments they love. Our businesses — Fanatics Commerce, Fanatics Collectibles, Fanatics Betting &amp;amp; Gaming, Fanatics Events, Fanatics Advertising, Fanatics Markets and Fanatics Studios — maximize the presence and reach for hundreds of partners globally and create a one-stop experience that allows fans to buy, bet, collect, and earn, while engaging with sports in deeper, more immersive ways. This includes licensed fan gear and lifestyle products, sportsbook and iGaming, physical and digital trading cards, live events, premium sports entertainment content, credit card offerings and more. Together, they form a powerful, integrated ecosystem — connected by the Fanatics ONE loyalty program and F",
+      "postedAt": 1795006517,
       "score": 10,
       "reasons": [
-        "title: software engineer",
+        "skill: html",
+        "skill: git",
         "location: Remote"
       ]
     },
     {
-      "id": "arbeitnow-genai-ml-engineer-69799",
+      "id": "arbeitnow-senior-software-engineer-os-integration-366251",
       "source": "Arbeitnow",
-      "title": "GenAI/ML Engineer",
-      "company": "capco",
+      "title": "Senior Software Engineer, OS Integration",
+      "company": "mozilla",
       "location": "Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/capco/genai-ml-engineer-69799",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/capco/genai-ml-engineer-69799",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-os-integration-366251",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-os-integration-366251",
       "tags": [
-        "Tech & Engineering"
+        "Firefox"
       ],
-      "description": "&lt;p&gt;&lt;em&gt;Joining Capco means joining an organisation that is committed to an inclusive working environment where you’re encouraged to #BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. It’s important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something different to the table – so we’d love to know what makes you different. Such differences may mean we need to make changes to our process to allow you the best possible platform to succeed, and we are happy to cater to any reasonable adjustments you may require. You will find the section to let us know of these at the bottom of your application form or you can mention it directly to your recruiter at any stage and they will be happy to help.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Capco&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Capco is a global technology and business consultancy, focused on the financial services sector. We are passionate about helping our clients succeed in an ever-changing industry.&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for a senior software engineer with strong ",
-      "postedAt": 1794909321,
+      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we’re doing this while never losing our focus on our core mission – to make the internet better for people.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren’t beholden to any shareholders — only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design, build and distribute &lt;/span&gt;&lt;st",
+      "postedAt": 1794963327,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -1264,79 +1213,81 @@
       ]
     },
     {
-      "id": "arbeitnow-fullstack-software-engineer-60704",
+      "id": "arbeitnow-remote-software-test-engineer-bern-271000",
       "source": "Arbeitnow",
-      "title": "Fullstack Software Engineer",
-      "company": "nozominetworks",
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-271000",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-271000",
+      "tags": [
+        "Software Engineering",
+        "Remote"
+      ],
+      "description": " Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.  Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen.     Must-have Anforderungen     Mehrjährige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten    Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray    Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform    Sehr gutes Deutsch und fliessendes Englisch       Nice-to-have Anforderungen     ISTQB Zertifizierung    Kenntnisse in Power Platform oder Azure       Das erwartet dich     Flexibler Homeoffice-Anteil, du entscheidest frei, ob du von zu Hause oder im Büro arbeites",
+      "postedAt": 1794972678,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137799",
+      "source": "RemoteOK",
+      "title": "Expert Talent Pool Physical AI",
+      "company": "Clera",
       "location": "Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-software-engineer-60704",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-software-engineer-60704",
+      "url": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799",
       "tags": [
-        "Engineering"
+        "design",
+        "education",
+        "testing",
+        "travel",
+        "robotics",
+        "exec",
+        "ops",
+        "digital nomad"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Now is an amazing time to join Nozomi Networks as we build the future of OT and IoT cybersecurity.&lt;/p&gt;\n&lt;p&gt;We defend some of the world’s largest organizations and critical infrastructure in more than 68 countries and we’re just getting started. Our AI-powered cybersecurity platform secures operational technology (OT) and Internet of Things (IoT) infrastructures for enterprises and government entities across energy, manufacturing, transportation, resources, and critical infrastructure.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;\n&lt;p&gt;Now is an amazing time to join Nozomi Networks as we build the future of OT and IoT cybersecurity.&lt;/p&gt;\n&lt;p&gt;We defend some of the world’s largest organizations and critical infrastructure in more than 68 countries and we’re just getting started. Our AI-powered cybersecurity platform secures operational technology (OT) and Internet of Things (IoT) infrastructures for enterprises and government entities across energy, manufacturing, transportation, resources, and critical infrastructure.&lt;/p&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;Nozomi Networks i",
-      "postedAt": 1794909320,
-      "score": 10,
+      "description": " About the Role  Lead physical AI data capture programs that help robots learn from human movement and manipulation. You will set up capture systems, guide demonstrations, and uphold data quality across projects ranging from one week to several months.  What You'll Do    Set up and maintain teleoperation rigs using VR controllers, leader arms, and ROS or ROS 2, ensuring consistent demonstrations.    Design egocentric and manipulation capture systems, including camera placement, task scripts, and quality assurance protocols.    Operate motion capture and sensor systems such as OptiTrack, Vicon, IMUs, and LiDAR, and troubleshoot hardware in the field.    Plan scene recording, calibration, and data collection across multiple sites.    Design robot evaluation tasks, define success criteria, and develop scoring systems.    Train, mentor, and review operators and data capture technicians.    What We're Looking For    At least five years of hands-on experience in robotics operations, teleoperation, motion capture, sensor capture, lab work, autonomous vehicle testing, or precision hands-on trades.    Practical robotics or physical AI data capture experience, such as teleoperation, egocentr",
+      "postedAt": "2026-11-17T00:00:29+00:00",
+      "score": 9,
       "reasons": [
-        "title: software engineer",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
-      "id": "arbeitnow-principal-software-engineer-netherlands-201576",
-      "source": "Arbeitnow",
-      "title": "Principal Software Engineer",
-      "company": "Doit",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/doit/principal-software-engineer-netherlands-201576",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/doit/principal-software-engineer-netherlands-201576",
+      "id": "remoteok-1137797",
+      "source": "RemoteOK",
+      "title": "Engineering Manager Network Engineering",
+      "company": "PatientPoint",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
       "tags": [
-        "Doit Engineering"
+        "exec",
+        "design",
+        "infosec",
+        "technical",
+        "dev",
+        "travel",
+        "devops",
+        "cloud",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad"
       ],
-      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia .     The Role   Doit builds technology products used by millions of users across Southeast Asia. As our products and systems scale, we need technical leaders who can solve difficult engineering problems and raise the engineer",
-      "postedAt": 1794919214,
-      "score": 10,
+      "description": "Join PatientPoint to be part of a dynamic team creating change in and around the doctorâs office. As a leading digital health company, we innovate to positively impact patient behaviors. Our purpose-driven approach offers an inspirational career opportunity where you can contribute to improving health outcomes for millions of patients nationwide.\n\nLocation: Remote (Must reside in the United States within the Eastern or Central Time Zone)\n\nTravel Required: 2-4 Times a Year\n\nJob Summary\n\nAs an Engineering Manager, Network Engineering, you will lead the team that designs and builds the network foundation behind PatientPoint products and the business. You are a technical team leader first: you stay hands-on in architecture, automation, and development, while your team serves as the Level 2 escalation point for complex network issues handed off by operations. You will partner closely with DevOps, Security, Cloud Platform, Product, and business teams to deliver a network that is reliable, secure, and built as code across AWS, data center, and corporate environments.\n\nIn this role, you will demonstrate technical leader-level qualities, lead design conversations, and have an eye for clea",
+      "postedAt": "2026-11-17T00:00:17+00:00",
+      "score": 9,
       "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-lead-software-engineer-netherlands-77360",
-      "source": "Arbeitnow",
-      "title": "Lead Software Engineer",
-      "company": "Doit",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/doit/lead-software-engineer-netherlands-77360",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/doit/lead-software-engineer-netherlands-77360",
-      "tags": [
-        "Doit Engineering"
-      ],
-      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.      The Role   Doit builds technology products used by millions of users across Southeast Asia. As our products and systems scale, we need technical leaders who can solve difficult engineering problems and raise the engineer",
-      "postedAt": 1794919214,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-staff-software-engineer-netherlands-228263",
-      "source": "Arbeitnow",
-      "title": "Staff Software Engineer",
-      "company": "Doit",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/doit/staff-software-engineer-netherlands-228263",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/doit/staff-software-engineer-netherlands-228263",
-      "tags": [
-        "Doit Engineering"
-      ],
-      "description": "  About Doit   We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.        We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society.        In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.      The Role   Doit builds technology products used by millions of users across Southeast Asia. As our products and systems scale, we need technical leaders who can solve difficult engineering problems and raise the engineer",
-      "postedAt": 1794919214,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -1402,18 +1353,19 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-ios-developer-hamburg-211959",
+      "id": "arbeitnow-manager-quality-assurance-quality-engineering-parsdorf-bavaria-112995",
       "source": "Arbeitnow",
-      "title": "Senior iOS Developer (f/m/d)",
-      "company": "adjoe",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-ios-developer-hamburg-211959",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-ios-developer-hamburg-211959",
+      "title": "Manager Quality Assurance & Quality Engineering (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/manager-quality-assurance-quality-engineering-parsdorf-bavaria-112995",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/manager-quality-assurance-quality-engineering-parsdorf-bavaria-112995",
       "tags": [
-        "adjoe"
+        "Production",
+        "Operations & Quality"
       ],
-      "description": " adjoe builds the technologies behind mobile apps growth and monetization. With our core product  Playtime Arcade , we've become the global leader in rewarded advertising, an ad unit built on a simple premise: users earn real in-app rewards for engaging with new apps. The result is one of the most effective value exchanges in adtech, connecting advertisers and publishers with over 770 million users annually   Creating solutions that run on 13% of the world’s smartphones    The Mobile Integrations team builds the core technology that turns advertising from an interruption into a rewarded experience for 770 million users. We own the robust, lightweight,integration layer between our ad engine and the global mobile ecosystem, ensuring our technology operates with minimal overhead while reaching a massive portion of the smartphone market.  On the client side,our technology  performs smoothly across 20 million daily SDK initializations . We build  native Swift and Kotlin SDKs  optimized for ms initialization and minimal binary overhead, with  Unity, Flutter,  and  React Native wrappers  that provide a unified API across the entire mobile ecosystem. Behind the scenes, a high-throughput  G",
-      "postedAt": 1794919218,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As Manager Quality Assurance &amp;amp; Quality Engineering, you are accountable for translating the company quality strategy into effective governance, measurable objectives, and consistent execution across the organization. You will provide independent quality leadership, ensure customer and certification requirements are embedded into business processes, and maintain clear visibility of organizational quality performance.&lt;/p&gt;\n&lt;p&gt;This role is not limited to maintaining procedures or reacting to non-conformances. It is about building a prevention-focused quality system, strengthening engineering and operational decision-making, and ensuring the organization remains ready for customer, regulatory, and certification scrutiny as products and production scale.&lt;/p&gt;\n&lt;p&gt;Your Role in Our Space Mission:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Implement and continuously develop the company quality strategy in alignment with business, product, and operational priorities.&lt;/li&gt;\n&lt;li&gt;Lead the Quality Assurance and Quality Engineering function, establishing clear ownershi",
+      "postedAt": 1794974123,
       "score": 9,
       "reasons": [
         "title: react",
@@ -1421,18 +1373,18 @@
       ]
     },
     {
-      "id": "arbeitnow-customer-care-specialist-paris-454934",
+      "id": "arbeitnow-business-development-representative-bdr-paris-365711",
       "source": "Arbeitnow",
-      "title": "Customer Care Specialist",
-      "company": "Lucis",
+      "title": "Business Development Representative (BDR)",
+      "company": "Zefir",
       "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-specialist-paris-454934",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-specialist-paris-454934",
+      "url": "https://www.arbeitnow.fr/jobs/companies/zefir/business-development-representative-bdr-paris-365711",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/zefir/business-development-representative-bdr-paris-365711",
       "tags": [
-        "Operations"
+        "Sales (Account Executive and SDR)"
       ],
-      "description": "  Making preventive health the default for every human in Europe       The mission   At  Lucis , we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work  here .      The role   Health is complex, personal, and deeply important to our members. As the voice of Lucis clients, you support them throughout their health journey and own member happiness end to end.  With rapid member growth, we are hiring our first dedicated  Customer Care Team Specialist . You will own the member experience end-to-end, stabilize our operational metrics, and build and manage a world-class support team.     What you will own      Member support:  Resolve member and lab partner inquiries via chat, email and phone, with warmth, precision and a sense of urgency.     Phone-first when it matters:  Pick up the phone whenever a situation calls for a human voice: a delayed result, a stressful moment, a confused member.     Know your boundaries:  Work hand in hand with our medical team and know exactly when to escalate a health question rather than answer it yourself.  ",
-      "postedAt": 1794908416,
+      "description": "  Who We Are   Zefir is building an AI autopilot for home sales in Europe, starting in France: an AI agent runs the entire sale and purchase journey end-to-end, orchestrating local brokers, portals, buyers, and documents.   Backed by €60 million from top-tier investors Sequoia Capital and Kima Ventures, we're committed to accelerating life changes for millions of current and future European homeowners.   The role   As a Business Development Representative (BDR), you are the first commercial point of contact with our prospects. You join Zefir's Sales team and reach out to homeowners who have run a valuation on our website but have not booked an appointment yet.  The core of the role is reactivation: these homeowners showed interest, then stopped there. You are the one who gets them moving again, on the phone, one by one.  Your goal as a BDR: create the sales opportunities that feed our revenue directly.   What you will do     Handle around 100 calls per day, with a target of 3 to 4 meetings booked daily.    Run qualification calls of about 20 minutes: understand the client's project, present Zefir's value proposition, and book a follow-up meeting with an Account Executive.    Keep r",
+      "postedAt": 1794962431,
       "score": 9,
       "reasons": [
         "title: react",
@@ -1440,39 +1392,22 @@
       ]
     },
     {
-      "id": "arbeitnow-developpeur-backend-php-alternance-12-mois-rouen-438422",
+      "id": "arbeitnow-fullstack-devops-engineer-trust-and-identity-rotterdam-10345",
       "source": "Arbeitnow",
-      "title": "Développeur Backend PHP (Alternance 12 mois)",
-      "company": "Lemonway",
-      "location": "Rouen, Normandie, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/developpeur-backend-php-alternance-12-mois-rouen-438422",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lemonway/developpeur-backend-php-alternance-12-mois-rouen-438422",
-      "tags": [],
-      "description": "    A propos de Lemonway         Lemonway est un établissement de paiement agréé, au cœur de la nouvelle économie européenne.       Nous sécurisons les paiements des plateformes de financement participatif, d’économie collaborative, des marketplaces et des e-commerçants, avec un fort engagement contre la fraude et pour la protection des fonds.      Réglementée par l’ACPR et bénéficiant du passeport européen dans 29 pays, Lemonway est basée à Paris et Hambourg et rassemble 150    Lemonheroes    multiculturels et engagés.      Plus de 400 marketplaces nous font confiance. Nous gérons 1,4 million de portefeuilles utilisateurs et avons levé 50 M€ auprès de Breega, SpeedInvest et Toscafund.      Rentable depuis quatre ans et en croissance de +25 % en 2025, Lemonway vise à rester parmi les leaders du paiement en Europe grâce à une croissance saine et durable.          Le Poste        L'équipe est composée d'une Product Manager, un Engineering Manager 2 développeurs BACK PHP et 2 développeurs FRONT (Typescript / React). Intégrée au sein de la Squad    MERCHANT   , dédiée aux outils et services à destination de nos marchands partenaires, nous fonctionnons en Scrum avec des sprints de deux ",
-      "postedAt": 1794853911,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-internship-teleoperation-data-labeling-switzerland-st-gallen-163760",
-      "source": "Arbeitnow",
-      "title": "Internship Teleoperation & Data Labeling - Switzerland",
-      "company": "Sereact GmbH",
-      "location": "St. Gallen, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/internship-teleoperation-data-labeling-switzerland-st-gallen-163760",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/internship-teleoperation-data-labeling-switzerland-st-gallen-163760",
+      "title": "Fullstack DevOps Engineer (Trust and Identity)",
+      "company": "Swisscom",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/fullstack-devops-engineer-trust-and-identity-rotterdam-10345",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/swisscom/fullstack-devops-engineer-trust-and-identity-rotterdam-10345",
       "tags": [
-        "Software"
+        "IT & DevOps"
       ],
-      "description": "  Internship – Teleoperation &amp; Data Labeling (m/f/d) – St. Gallen, Switzerland    Who We Are   We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.   Overview   We are looking for a tech-savvy intern with a passion for robotics, machine learning, or computer vision who wants hands-on experience in teleoperation and operating state-of-the-art robots. You will be based at one of our customer sites in St. Gallen, where our robots are running in live operations. We are growing our team in Switzerland: this position is employed directly through our Swiss entity based in Zurich. This role is perfect for someone eager to learn, contribute, and gain practical exposure to advanced AI-driven robotic systems.   Your Responsibilities   • Robot Teleoperation: Collect high-quality data by controlling robots through a VR headset. • Data Labeling",
-      "postedAt": 1794919217,
+      "description": "  Fullstack DevOps Engineer     In a technically exciting and fast-evolving environment, you will help us build digital trust products for organizations. Our team enables the use of verifiable information in business processes: eID, verifiable credentials, organization identity, KYB, digital signatures, PDF validation, trust chains, and secure onboarding flows.  Many trust, verification, and compliance processes are still manual, fragmented, and costly. We want to change that by building simple, secure, and easy-to-integrate products that allow organizations to verify information, trace it back to an authentic source, and create better user experiences for their customers and partners.  As a Fullstack DevOps Engineer, you will design, build, and operate backend services, APIs, cloud infrastructure, databases, and selected frontend capabilities for these products. You will work closely with frontend engineers, product owners, business stakeholders, UX specialists, and ecosystem partners to turn complex trust and compliance topics into reliable production services.     What impact will you have?     Build and operate backend services and APIs using Java, Kotlin, and Spring Boot.    D",
+      "postedAt": 1794983487,
       "score": 9,
       "reasons": [
-        "title: react",
-        "skill: react"
+        "title: frontend",
+        "skill: git"
       ]
     }
   ]

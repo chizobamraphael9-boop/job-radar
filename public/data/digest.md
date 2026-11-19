@@ -1,4 +1,4 @@
-# Job Radar digest (2026-11-18)
+# Job Radar digest (2026-11-19)
 
 1. **Frontend Engineer** — Bjak  (42)
    https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
@@ -28,15 +28,15 @@
    https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691
 14. **Product Engineering Lead** — Tether Operations Limited (25)
    https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
-15. **Senior Software Engineer LATAM** — Wagmo (22)
+15. **Senior Fullstack Developer (m/w/d)** — netTrek GmbH & Co. KG (24)
+   https://www.arbeitnow.com/jobs/companies/nettrek-gmbh-co-kg/senior-fullstack-developer-dorsten-297356
+16. **Senior Software Engineer LATAM** — Wagmo (22)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
-16. **Full stack developer (on site)** — Crisp (21)
-   https://www.arbeitnow.nl/jobs/companies/crisp/full-stack-developer-on-site-amsterdam-231394
 17. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
    https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
 18. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
 19. **Senior .NET Developer** — SwissPeak Partners GmbH (15)
    https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-397327
-20. **Senior Software Engineer â Kubernetes Control Plane** — Buoyant (13)
-   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713
+20. **Full-stack Developer (TypeScript / Python)** — Squid Support (15)
+   https://www.arbeitnow.nl/jobs/companies/squid-support/full-stack-developer-typescript-python-nieuwegein-364125

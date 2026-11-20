@@ -1,42 +1,42 @@
-# Job Radar digest (2026-11-19)
+# Job Radar digest (2026-11-20)
 
-1. **Frontend Engineer** — Bjak  (42)
-   https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410
-2. **Senior Software Engineer** — Klardaten (31)
+1. **Senior Software Engineer** — Klardaten (31)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571
-3. **Technical Account Manager** — Yuno (31)
-   https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540
-4. **Senior Software Engineer II Applied AI** — Wrapbook (31)
+2. **Senior Software Engineer II Applied AI** — Wrapbook (31)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
-5. **Software Engineer AI Tooling** — Supabase (28)
+3. **Software Engineer AI Tooling** — Supabase (28)
    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793
-6. **Senior Vue Developer** — Lemon.io (28)
+4. **Senior Vue Developer** — Lemon.io (28)
    https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688
-7. **UI Developer** — RainFocus (27)
+5. **UI Developer** — RainFocus (27)
    https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704
-8. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
+6. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
-9. **Senior Data Engineer** — Lemon.io (27)
+7. **Senior Data Engineer** — Lemon.io (27)
    https://remotive.com/remote-jobs/data/senior-data-engineer-2091137
-10. **Senior React Full-stack Developer** — Lemon.io (27)
+8. **Senior React Full-stack Developer** — Lemon.io (27)
    https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136
-11. **Full-Stack Developer** — Fluence International, Inc. (27)
+9. **Full-Stack Developer** — Fluence International, Inc. (27)
    https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
-12. **Senior Back-end Developer** — Lemon.io (27)
+10. **Senior Back-end Developer** — Lemon.io (27)
    https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
-13. **Feltsense AI Engineer** — Silver.dev (25)
+11. **Feltsense AI Engineer** — Silver.dev (25)
    https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691
-14. **Product Engineering Lead** — Tether Operations Limited (25)
+12. **Product Engineering Lead** — Tether Operations Limited (25)
    https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
-15. **Senior Fullstack Developer (m/w/d)** — netTrek GmbH & Co. KG (24)
-   https://www.arbeitnow.com/jobs/companies/nettrek-gmbh-co-kg/senior-fullstack-developer-dorsten-297356
-16. **Senior Software Engineer LATAM** — Wagmo (22)
+13. **SEO Full Stack Engineer** — Treatwell (24)
+   https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805
+14. **Senior Software Engineer LATAM** — Wagmo (22)
    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
-17. **DESARROLLADOR FULL STACK** — Kruger NearShore LLC - Rekluti (19)
-   https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
-18. **Remote Office Assistant** — Coalition Technologies  (19)
+15. **Software Engineer AI Coding Tasks** — Askable (21)
+   https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808
+16. **Software Engineer | Propr.xyz** — SwissBorg (19)
+   https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-497002
+17. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
-19. **Senior .NET Developer** — SwissPeak Partners GmbH (15)
-   https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-397327
-20. **Full-stack Developer (TypeScript / Python)** — Squid Support (15)
-   https://www.arbeitnow.nl/jobs/companies/squid-support/full-stack-developer-typescript-python-nieuwegein-364125
+18. **Software Engineer II, Full stack (Open Banking)** — Affirm (16)
+   https://www.arbeitnow.co.uk/jobs/companies/affirm/software-engineer-ii-full-stack-open-banking-232910
+19. **Senior Software Engineer â Kubernetes Control Plane** — Buoyant (13)
+   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713
+20. **Senior Software Engineer** — Sothebyâs (13)
+   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545

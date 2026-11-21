@@ -1,42 +1,42 @@
-# Job Radar digest (2026-11-20)
+# Job Radar digest (2026-11-21)
 
-1. **Senior Software Engineer** — Klardaten (31)
-   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571
-2. **Senior Software Engineer II Applied AI** — Wrapbook (31)
-   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
-3. **Software Engineer AI Tooling** — Supabase (28)
-   https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793
-4. **Senior Vue Developer** — Lemon.io (28)
-   https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688
-5. **UI Developer** — RainFocus (27)
-   https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704
-6. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
+1. **Tech Lead Full-Stack Rails Engineer** — Mitre Media (27)
    https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746
-7. **Senior Data Engineer** — Lemon.io (27)
+2. **Senior Data Engineer** — Lemon.io (27)
    https://remotive.com/remote-jobs/data/senior-data-engineer-2091137
-8. **Senior React Full-stack Developer** — Lemon.io (27)
+3. **Senior React Full-stack Developer** — Lemon.io (27)
    https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136
-9. **Full-Stack Developer** — Fluence International, Inc. (27)
+4. **Full-Stack Developer** — Fluence International, Inc. (27)
    https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
-10. **Senior Back-end Developer** — Lemon.io (27)
+5. **Senior Back-end Developer** — Lemon.io (27)
    https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
-11. **Feltsense AI Engineer** — Silver.dev (25)
-   https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691
-12. **Product Engineering Lead** — Tether Operations Limited (25)
-   https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
-13. **SEO Full Stack Engineer** — Treatwell (24)
+6. **SEO Full Stack Engineer** — Treatwell (24)
    https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805
-14. **Senior Software Engineer LATAM** — Wagmo (22)
-   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
-15. **Software Engineer AI Coding Tasks** — Askable (21)
+7. **Software Engineer AI Coding Tasks** — Askable (21)
    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808
-16. **Software Engineer | Propr.xyz** — SwissBorg (19)
-   https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-497002
-17. **Remote Office Assistant** — Coalition Technologies  (19)
+8. **Remote Office Assistant** — Coalition Technologies  (19)
    https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
-18. **Software Engineer II, Full stack (Open Banking)** — Affirm (16)
-   https://www.arbeitnow.co.uk/jobs/companies/affirm/software-engineer-ii-full-stack-open-banking-232910
-19. **Senior Software Engineer â Kubernetes Control Plane** — Buoyant (13)
-   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713
-20. **Senior Software Engineer** — Sothebyâs (13)
-   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545
+9. **Senior Product Engineer** — Arbor Education (18)
+   https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865
+10. **Senior Software Engineer** — Tebra (17)
+   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tebra-1137856
+11. **Staff Software Engineer (Interfaces)** — Netlify (17)
+   https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844
+12. **Customer Experience Team Leader** — Goodlord (16)
+   https://www.arbeitnow.co.uk/jobs/companies/goodlord/customer-experience-team-leader-sheffield-383231
+13. **Frontend Engineer (m/f/x)** — Goegmbh (15)
+   https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307
+14. **Senior Software Engineer** — Clover Health (11)
+   https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871
+15. **Senior Software Engineer (Capacity and Quota Management)** — Nebius (10)
+   https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-capacity-and-quota-management-431040
+16. **Senior Backend Software Engineer (Cloud Monetization Platform)** — Nebius (10)
+   https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-backend-software-engineer-cloud-monetization-platform-441523
+17. **Staff Software Engineer, OS Integration** — mozilla (10)
+   https://www.arbeitnow.nl/jobs/companies/mozilla/staff-software-engineer-os-integration-491586
+18. **P2P Regional Operations - Africa** — Bybit (9)
+   https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876
+19. **IT Manager** — 1mind (9)
+   https://remoteOK.com/remote-jobs/remote-it-manager-1mind-1137864
+20. **Engineer Software Defined Vehicle Simulation and Development** — NIKI Digital Engineering (9)
+   https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839

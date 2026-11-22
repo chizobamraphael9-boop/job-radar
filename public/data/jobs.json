@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-21T13:14:44.845Z",
+  "scannedAt": "2026-11-22T13:05:26.741Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 34,
+  "count": 29,
   "jobs": [
     {
       "id": "remotive-2069746",
@@ -308,80 +308,6 @@
       ]
     },
     {
-      "id": "remoteok-1137805",
-      "source": "RemoteOK",
-      "title": "SEO Full Stack Engineer",
-      "company": "Treatwell",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-      "tags": [
-        "full stack",
-        "react",
-        "rabbitmq",
-        "front end",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "design",
-        "web dev",
-        "exec",
-        "devops",
-        "finance",
-        "java",
-        "postgres",
-        "typescript",
-        "seo",
-        "senior",
-        "stats",
-        "engineer",
-        "recruiter",
-        "backend",
-        "digital nomad"
-      ],
-      "description": " We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and 40% focus on Back End.  You'll work on Treatwellâs Marketplace products and help Treatwell be discovered, understood, and chosen across 13 markets: SEO foundations, site performance, experimentation, analytics instrumentation, and the product surfaces that connect customer intent with booking, alongside three product engineering teams in the Marketplace area, contributing across the full breadth of what makes Treatwell's marketplace tick. As a full-stack engineer, you're the person who can move fluidly between teams accelerating growth and marketing efforts wherever the need is greatest.  You bring the mindset of someone who cares about how people find Treatwell, what experience they land on, and whether the product helps them make a confident booking. You are comfortable partnering with marketing and growth stakeholders, while staying grounded in engineering quality and product outco",
-      "postedAt": "2026-11-18T16:00:31+00:00",
-      "score": 24,
-      "reasons": [
-        "title: react",
-        "title: full stack",
-        "skill: react",
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137808",
-      "source": "RemoteOK",
-      "title": "Software Engineer AI Coding Tasks",
-      "company": "Askable",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
-      "tags": [
-        "dev",
-        "golang",
-        "python",
-        "javascript",
-        "typescript",
-        "java",
-        "c plus plus"
-      ],
-      "description": " We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want.  You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.  Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week.  How it works    Apply. Complete a short screener interview and upload your resume.    Propose. Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate.    Build. In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks.    Stress-test. Try lazy, incorrect and shortcut solutions and make sure your checks catch them.    Model testing. Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it.    Review. A reviewer checks your task and you revise it. Most tasks ta",
-      "postedAt": "2026-11-19T05:56:01+00:00",
-      "score": 21,
-      "reasons": [
-        "title: javascript",
-        "title: software engineer",
-        "skill: javascript",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
       "id": "remotive-1680495",
       "source": "Remotive",
       "title": "Remote Office Assistant",
@@ -464,86 +390,103 @@
       ]
     },
     {
-      "id": "remoteok-1137856",
-      "source": "RemoteOK",
-      "title": "Senior Software Engineer",
-      "company": "Tebra",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tebra-1137856",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tebra-1137856",
-      "tags": [
-        "programming"
-      ],
-      "description": "  Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.Â We will only ask you to provide sensitive personal information through our official application portal â not via social media or text message. We do not conduct interviews via instant messaging.   About the Role \n We are seeking a talented and enthusiastic Senior Front-End Engineer to lead the development of our next-generation Practice Management platform. \n This role is pivotal in architecting and implementing a state-of-the-art user interface with a micro front-end architecture using React and MaterialUI.Â  \n You will be part of a dynamic team that thrives on innovation, collaboration, and a commitment to excellence. \n Your Area of Focus \n \n Modernize &amp; advance the front-end micro-front-end platform architecture used by Engineering teams across the organization. \n Design, implement, and advocate for reusable front-end tools, components, and frameworks that will serve as foundational building blocks for product features, as well as improve team efficiency and effectiveness. \n L",
-      "postedAt": "2026-11-19T20:15:13+00:00",
-      "score": 17,
-      "reasons": [
-        "title: react",
-        "title: software engineer",
-        "skill: react",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137844",
-      "source": "RemoteOK",
-      "title": "Staff Software Engineer (Interfaces)",
-      "company": "Netlify",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844",
-      "tags": [
-        "programming"
-      ],
-      "description": "  About the Team  \n As a Staff Software Engineer at Netlify, you'll join a collaborative team that values continuous learning, mutual support, and shared growth. Together, we create tools that help developers build faster, more intuitively, and with greater impact. Our Experience team owns the core product experience at Netlify, which is every way a human or an agent interacts with the platform, from our React-based web application to CLI, MCP, SDK, and API. If users interact with it directly, it's likely ours. We're reimagining how developers experience web development by thoughtfully integrating AI into our workflows - not as a novelty, but as a practical tool that enhances how we build the web. \n With our team, you'll help set technical direction for our product area, mentor a highly senior team of engineers, and shape user experiences that serve millions of developers. You'll work closely with Product, Design, and engineering leadership, and partner with teams across the organization to build, iterate, and scale meaningful solutions. You'll have the autonomy to guide what we build and how, and the influence to bring others along with you, all while staying hands-on in the codeb",
-      "postedAt": "2026-11-19T17:15:52+00:00",
-      "score": 17,
-      "reasons": [
-        "title: react",
-        "title: software engineer",
-        "skill: react",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "arbeitnow-customer-experience-team-leader-sheffield-383231",
+      "id": "arbeitnow-senior-full-stack-engineer-typescript-nodejs-amsterdam-401430",
       "source": "Arbeitnow",
-      "title": "Customer Experience Team Leader",
-      "company": "Goodlord",
-      "location": "Sheffield",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/customer-experience-team-leader-sheffield-383231",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/customer-experience-team-leader-sheffield-383231",
+      "title": "Senior Full Stack Engineer (TypeScript / Node.js)",
+      "company": "Storyteq",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/storyteq/senior-full-stack-engineer-typescript-nodejs-amsterdam-401430",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/storyteq/senior-full-stack-engineer-typescript-nodejs-amsterdam-401430",
       "tags": [
-        "Account Management"
+        "Computer Software",
+        "R&D"
       ],
-      "description": " 📍 Hybrid working - Sheffield Office (Fargate, Sheffield City Centre) 3 days per week with 2 days working remotely    Are you a data-savvy, people-focused leader who thrives on turning customer insights into scalable operations?   We are looking for a Customer Experience Team Leader to build and grow a team of Customer Experience Executives while shaping how we support our SMB customer base. Reporting to the Head of Account Management, you’ll split your time equally between coaching your team and owning the Customer Operations strategy - shifting us from a reactive model to a proactive, data-driven approach.     The Opportunity:      Lead and develop talent:  Manage, coach, and inspire an initial team of three Customer Experience Executives, balancing reactive support with proactive outreach.     Shape our SMB CX model:  Own and evolve customer segmentation, onboarding, and scalable 1-to-many digital engagement journeys.     Drive data-led improvements:  Extract, manipulate, and analyse customer data - including sentiment, NPS, and demand trends - to spot risks early, fix recurring issues, and optimise team capacity.     Champion cross-functional impact:  Partner closely with Comm",
-      "postedAt": 1795254015,
-      "score": 16,
-      "reasons": [
-        "title: react",
-        "skill: react",
-        "skill: git",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-frontend-engineer-berlin-143307",
-      "source": "Arbeitnow",
-      "title": "Frontend Engineer (m/f/x)",
-      "company": "Goegmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307",
-      "tags": [
-        "Development"
-      ],
-      "description": "&lt;p&gt;At go-e, we have been pursuing the development of our vision with passion and strength from the very beginning. We are moving in an area that is characterized by breakthroughs and growth and that requires a lot of personal responsibility and creative solution finding. On our journey towards the energy transition, the mixture of innovation and security, regional and international, self-realization and professionalism is the ideal fuel for our mutual growth.&lt;/p&gt;\n&lt;p&gt;Help build the Portal, a modern web platform for fleet managers and technicians. As a&lt;strong&gt; Frontend Engineer (m/f/x)&lt;/strong&gt;, you will turn product ideas into responsive, accessible interfaces using &lt;strong&gt;React and TypeScript.&lt;/strong&gt; Join a collaborative team that values autonomy, ownership, code quality, and learning, and deliver features with visible customer impact.&lt;/p&gt;\n&lt;p&gt;With your contribution, you will impact how people will charge their cars in the future. Come and join the team in Berlin (GER) that is building the future of innovative charger solutions for e-mobility!&lt;/p&gt;\n&lt;h3&gt;Your area of responsibility&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Buil",
-      "postedAt": 1795233317,
+      "description": " Hi, we are Storyteq! Storyteq helps marketing and creative teams in top brands scale their creative production and gain control over their marketing campaigns. Through our platform, our clients streamline campaign workflows, automate their creative production through templates and AI, and activate engaging campaigns that go to market faster. We believe creativity takes time, but creative production shouldn’t. Since 2016 our mission has been to revolutionize the way creative assets are created and used. Magic happens when we let technology empower creativity. Our endless curiosity and relentless commitment to our customers lies at the heart of our problem-solving approach. This shared mission is woven into our values: we dream big, think differently, and are stronger together.       About the job:   About the job You will be part of the Templating domain, where we enable global enterprises to scale up their content creation efficiently. Content comes in from sources like Photoshop, Figma and After Effects, or is designed in our AI-enabled, web-based editor, and then taken to the next level. You will work directly with other developers, designers, quality engineers, DevOps engineers",
+      "postedAt": 1795278014,
       "score": 15,
       "reasons": [
-        "title: frontend",
-        "title: react",
-        "skill: react"
+        "title: full stack",
+        "title: node",
+        "skill: node"
+      ]
+    },
+    {
+      "id": "remoteok-1137955",
+      "source": "RemoteOK",
+      "title": "Staff Software Engineer, Agentic Tools",
+      "company": "Cribl",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
+      "tags": [
+        "programming"
+      ],
+      "description": "  Join the company thatâs building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the worldâs biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build whatâs next. \n Weâre one of the fastestâgrowing private companies and a leading player in a massive, fastâmoving market. With a global workforce, weâre remoteâfirst and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd.    Why Youâll Love This Role  \n You will help build Cribl Engineeringâs AI platform and productivity rails: the shared systems, runtimes, and workflows that let engineers use autonomous AI across the software delivery lifecycle. Instead of one-off prompts or single-feature AI experiments, you will focus on intent engineering, orchestration and harnesses, and production agent infr",
+      "postedAt": "2026-11-21T09:40:06+00:00",
+      "score": 12,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137923",
+      "source": "RemoteOK",
+      "title": "Sr Mgr, Software Engineering (Cribl Detect)",
+      "company": "Cribl",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-mgr-software-engineering-cribl-detect-cribl-1137923",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-sr-mgr-software-engineering-cribl-detect-cribl-1137923",
+      "tags": [
+        "programming"
+      ],
+      "description": "  Join the company thatâs building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the worldâs biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build whatâs next. \n Weâre one of the fastestâgrowing private companies and a leading player in a massive, fastâmoving market. With a global workforce, weâre remoteâfirst and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd.    Why Youâll Love This Role  \n At Cribl, we move fast, try things out, and arenât afraid to break a few things along the way if it means learning faster and building something better. This is where we experiment, prototype, and turn rough ideas into real products that deliver value to customers. \n While our platform handles massive ingestion and detection streams, this team lead",
+      "postedAt": "2026-11-21T01:00:06+00:00",
+      "score": 12,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-developer-junior-typescript-groovy-essen-121371",
+      "source": "Arbeitnow",
+      "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+      "company": "MESKRU GmbH",
+      "location": "Essen",
+      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-121371",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-121371",
+      "tags": [
+        "Software Development"
+      ],
+      "description": " Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen. \n Aufgaben \n  Das erwartet dich bei uns  \n Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team \n \n Anbindung externer Systeme über REST APIs und Webhooks \n Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance \n Erstellung und Pflege von ScriptRunner Lösungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs) \n Konzeption und Umsetzung von Automationen in Jira und Jira Service Management \n Gängige Atlassian Beratungstätigkeiten \n \n Qualifikation \n  Das bringst du mit  \n Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python) \n \n Programmierkenntnisse in TypeScript/JavaScript für die Forge Entwicklung \n Erste Erfahrung mit Jira und Confluence \n Keine Scheu vor Bug Fixing und Fehlersuche \n Strukturierte",
+      "postedAt": 1795341659,
+      "score": 12,
+      "reasons": [
+        "title: javascript",
+        "skill: javascript",
+        "skill: rest api"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineering-intern-2027-start-berlin-356841",
+      "source": "Arbeitnow",
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "company": "databricks",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-356841",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-356841",
+      "tags": [
+        "University Recruiting - Engineering"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;P-968&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are passionate about helping data teams solve the world&#39;s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world&#39;s best data and AI infrastructure platform so our customers can use deep data insights to improve their business.&lt;/p&gt;\n&lt;p&gt;As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We&#39;re hiring across all of our teams, including full stack, backend, infrastructure, systems, tools, cloud, databases, and customer-facing products. You will have a dedicated mentor and will join our 2027 intern cohort where you&#39;ll connect with engineers, other interns, and leaders from across the company.&lt;/p&gt;\n&lt;p&gt;We are hiring Software Engineering Interns across multiple offices. Please apply for the single location that you&#39;re the most interested in, and we will discuss more with you as you move through the process. We can only consider one application in 30 days.&amp;nbsp",
+      "postedAt": 1795308922,
+      "score": 12,
+      "reasons": [
+        "title: software engineer",
+        "title: full stack"
       ]
     },
     {
@@ -567,18 +510,18 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-software-engineer-capacity-and-quota-management-431040",
+      "id": "arbeitnow-senior-software-engineer-vector-search-elasticsearch-102741",
       "source": "Arbeitnow",
-      "title": "Senior Software Engineer (Capacity and Quota Management)",
-      "company": "Nebius",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "company": "Elastic",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-capacity-and-quota-management-431040",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-capacity-and-quota-management-431040",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/senior-software-engineer-vector-search-elasticsearch-102741",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elastic/senior-software-engineer-vector-search-elasticsearch-102741",
       "tags": [
-        "Backend"
+        "Platform - Elasticsearch"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.&lt;/p&gt;\n&lt;p&gt;Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;amp;D.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;The role:&lt;/h4&gt;\n&lt;p data-renderer-start-pos=&quot;1905&quot; data-local-id=&quot;979448975633&quot;&gt;We are looking for a Senior Software Engineer to join the team building the Capacity and Quota Management control plane — the system that decides who ge",
-      "postedAt": 1795254918,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;div class=&quot;p&quot; data-block=&quot;true&quot; data-editor=&quot;bhr51&quot; data-offset-key=&quot;fgplg-0-0&quot;&gt;\n&lt;div class=&quot;public-DraftStyleDefault-block public-DraftStyleDefault-ltr&quot; data-offset-key=&quot;fgplg-0-0&quot;&gt;&lt;span data-offset-key=&quot;fgplg-0-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;We&#39;re looking for a Senior Software Engineer to join the Elasticsearch - Search ",
+      "postedAt": 1795319730,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -586,18 +529,18 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-backend-software-engineer-cloud-monetization-platform-441523",
+      "id": "arbeitnow-principal-software-engineer-vector-search-elasticsearch-483019",
       "source": "Arbeitnow",
-      "title": "Senior Backend Software Engineer (Cloud Monetization Platform)",
-      "company": "Nebius",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "company": "Elastic",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-backend-software-engineer-cloud-monetization-platform-441523",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-backend-software-engineer-cloud-monetization-platform-441523",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/principal-software-engineer-vector-search-elasticsearch-483019",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elastic/principal-software-engineer-vector-search-elasticsearch-483019",
       "tags": [
-        "Backend"
+        "Platform - Elasticsearch"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.&lt;/p&gt;\n&lt;p&gt;Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&amp;amp;D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&amp;amp;D.&lt;/p&gt;&lt;/div&gt;&lt;h4 id=&quot;The-role&quot; data-local-id=&quot;17fa5e33f2aa&quot; data-renderer-start-pos=&quot;1&quot;&gt;The role:&lt;/h4&gt;\n&lt;p data-renderer-start-pos=&quot;11&quot; data-local-id=&quot;11d18e3f92b3&quot;&gt;We are looking for a &lt;strong data-renderer-mark=&q",
-      "postedAt": 1795254918,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What is the role&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for a Principal Software Engineer to join the Elasticsearch - Search team. This globally-distributed team of expert engineers focuses on delivering a robust and feature-rich search experience, including contributing to improving the search experience in Lucene. This is a principal software engineering role that focuses on enhancing the vector similarity search functionality within Elasticsearch, covering the design and impleme",
+      "postedAt": 1795319730,
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -605,22 +548,53 @@
       ]
     },
     {
-      "id": "arbeitnow-staff-software-engineer-os-integration-491586",
+      "id": "arbeitnow-principal-software-engineer-search-infra-elasticsearch-9780",
       "source": "Arbeitnow",
-      "title": "Staff Software Engineer, OS Integration",
-      "company": "mozilla",
+      "title": "Principal Software Engineer - Search Infra - Elasticsearch",
+      "company": "Elastic",
       "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mozilla/staff-software-engineer-os-integration-491586",
-      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/mozilla/staff-software-engineer-os-integration-491586",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/principal-software-engineer-search-infra-elasticsearch-9780",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elastic/principal-software-engineer-search-infra-elasticsearch-9780",
       "tags": [
-        "Firefox"
+        "Platform - Elasticsearch"
       ],
-      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we’re doing this while never losing our focus on our core mission – to make the internet better for people.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren’t beholden to any shareholders — only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design, build and distribute &lt;/span&gt;&lt;st",
-      "postedAt": 1795125334,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;What is The Role:&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for a Principal Software Engineer to join the Elasticsearch - Search Infra team.&amp;nbsp; This globally-distributed team of experienced engineers focuses on delivering a robust and feature-rich search experience, including contributing to improving the search experience in Lucene. This is a principle software engineering role that entail",
+      "postedAt": 1795319730,
       "score": 10,
       "reasons": [
         "title: software engineer",
         "location: Remote"
+      ]
+    },
+    {
+      "id": "remoteok-1137913",
+      "source": "RemoteOK",
+      "title": "Account Director",
+      "company": "Princeton10",
+      "location": "Remote, EST United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-director-princeton10-1137913",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-account-director-princeton10-1137913",
+      "tags": [
+        "exec",
+        "design",
+        "marketing",
+        "web dev",
+        "travel",
+        "finance",
+        "senior",
+        "ops",
+        "legal",
+        "golang",
+        "medical",
+        "digital nomad"
+      ],
+      "description": " \n  Weâre looking for an experienced  Account Director  to lead and grow client relationships and deliver the P10 experience across our pharmaceutical brands. Youâll be a trusted strategic partner to clients, owning the health and growth of your accounts, leading integrated and digital-first programs, and guiding a team of account professionals to deliver work that moves brands forward. Youâll partner closely with creative, strategy, project management and operations to make sure every program is delivered on strategy, on time and on budget.&nbsp; \n This role is open to fully remote candidates in the United States, with a preference for the Eastern time zone. Some travel to client sites will be required. \n    \\n      What you'll do  \n Client Leadership \n \n \n Serve as the senior day-to-day partner for your clients, building trusted, long-term relationships at the brand and leadership levels \n \n \n Understand your clientsâ business, disease areas and brand strategy deeply, and bring a proactive point of view on where the brand should go next \n \n \n Lead client meetings, presentations and strategic planning conversations with confidence \n \n \n Growth and Strategy \n \n \n Identify a",
+      "postedAt": "2026-11-20T16:00:11+00:00",
+      "score": 9,
+      "reasons": [
+        "skill: git",
+        "location: Remote",
+        "posted this week"
       ]
     },
     {
@@ -676,221 +650,18 @@
       ]
     },
     {
-      "id": "remoteok-1137839",
-      "source": "RemoteOK",
-      "title": "Engineer Software Defined Vehicle Simulation and Development",
-      "company": "NIKI Digital Engineering",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
-      "tags": [
-        "dev",
-        "design",
-        "embedded",
-        "sys admin",
-        "infosec",
-        "python",
-        "consulting",
-        "technical",
-        "customer support",
-        "testing",
-        "exec",
-        "java",
-        "matlab",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "description": " NIKI is looking for graduates of Technical University Departments/Schools of Sciences/Engineers, or similar disciplines to support and develop complex system simulation processes of software-defined vehicles.   Become a member of NIKI Digital Engineering!    If you have completed your studies or doctorate and are looking for new challenges, interdisciplinary and diverse teams, and projects, send us your resume.   Our strategy is to transfer the know-how into practice. TWT is our trusted long-term partner, sharing and supporting our vision. Through close, daily collaboration, we design and deliver innovative solutions for clients and partners across the energy, health, and automotive industries. Combining interdisciplinary expertise in IT, digital engineering, and consulting, we turn ideas into impactful results that reflect our shared vision for progress.  What to expect   Develop and optimize process and simulation methods for complex vehicle development in collaboration with international industry partners and research organizations.  Continuously monitor industry trends and advances in simulation technology to improve NIKI's services and drive innovation.  Coordinate our interd",
-      "postedAt": "2026-11-19T16:00:34+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137838",
-      "source": "RemoteOK",
-      "title": "Marketing and Communications Officer",
-      "company": "NIKI Digital Engineering",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-communications-officer-niki-digital-engineering-1137838",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-marketing-and-communications-officer-niki-digital-engineering-1137838",
-      "tags": [
-        "design",
-        "consulting",
-        "technical",
-        "customer support",
-        "exec",
-        "marketing",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "description": " NIKI is looking for Media and Communication, Journalism, Marketing, Public Relations graduates, or similar disciplines, to gain exciting insights into strategic marketing and communication practices. Â   Become a member of NIKI Digital Engineering!  If you have completed your studies and are looking for new challenges, interdisciplinary and diverse teams, and projects, send us your resume.   Our strategy is to transfer the know-how into practice. TWT is our trusted long-term partner, sharing and supporting our vision. Through close, daily collaboration, we design and deliver innovative solutions for clients and partners across the energy, health, and automotive industries. Combining interdisciplinary expertise in IT, digital engineering, and consulting, we turn ideas into impactful results that reflect our shared vision for progress.  What to expect   Be active in an innovative environment.  Enjoy the challenges of helping to build a great organization of talented individuals.  Develop a spirit of collaboration, confidentiality, and responsibility.  Collaboration in interdisciplinary teams and continuous knowledge exchange.   Task Description   Manage and maintain relationships wi",
-      "postedAt": "2026-11-19T16:00:27+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137837",
-      "source": "RemoteOK",
-      "title": "Postdoc PhD PhD cand. Physics Computer Science",
-      "company": "NIKI Digital Engineering",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-postdoc-phd-phd-cand-physics-computer-science-niki-digital-engineering-1137837",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-postdoc-phd-phd-cand-physics-computer-science-niki-digital-engineering-1137837",
-      "tags": [
-        "design",
-        "python",
-        "consulting",
-        "technical",
-        "exec",
-        "c",
-        "c plus plus",
-        "matlab",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "description": " NIKI is looking for a Postdoc/PhD/PhD cand. in Physics, Computer Science or similar discipline for industrial projects in the automotive industry.  Become a member of NIKI Digital Engineering!  If you are a Postdoc/PhD/PhD candidate looking for new challenges, interdisciplinary and diverse teams, and projects, send us your resume.  Our strategy is to transfer the know-how into practice. TWT is our trusted long-term partner, sharing and supporting our vision. Through close, daily collaboration, we design and deliver innovative solutions for clients and partners across the energy, health, and automotive industries. Combining interdisciplinary expertise in IT, digital engineering, and consulting, we turn ideas into impactful results that reflect our shared vision for progress.  What to expect   Be a member of a TOP team: Highly qualified, innovative, and interconnected.  Get involved with topics at the forefront of technology: Artificial Intelligence, Autonomous Driving, E-Mobility, Model Based Systems Engineering, or Virtual Experience.  Acquire social skills and engage with professionals in the field of automotive and innovation.  Collaborate with international groups of profession",
-      "postedAt": "2026-11-19T16:00:21+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137835",
-      "source": "RemoteOK",
-      "title": "Technical Lead Norm Compliance",
-      "company": "Norm",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-lead-norm-compliance-norm-1137835",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-technical-lead-norm-compliance-norm-1137835",
-      "tags": [
-        "design",
-        "python",
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "finance",
-        "typescript",
-        "content writing",
-        "senior",
-        "legal",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "description": "   About Norm   Norm builds AI-native professional services firms and the technology that powers them. Our mission is to help expert professionals deliver better work at greater scale.  Developing the technology and the firms together lets us rethink how work gets done, how teams operate and what clients can expect. Professional judgment and experience guide what we build, while advances in the technology expand what our firms can deliver. Our shared agentic platform connects that progress across teams and services.  Founded in 2023, Norm brings together experts across engineering, research, product, design and professional practice. Our legal and compliance platform serves institutions representing more than $35 trillion in combined assets under management.  Norm also powers Norm Law, LLP, an affiliated AI-native law firm whose attorneys advise leading institutions on complex corporate matters.   AI Fluency:  Norm prefers all team members to be fluent in AI. Successful candidates actively use AI in their day-to-day work to support thinking, creation, and problem-solving. They use it to improve the quality and speed of their work and to continuously refine how work gets done end-to",
-      "postedAt": "2026-11-19T16:00:15+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137803",
-      "source": "RemoteOK",
-      "title": "Legal Engineering Counsel",
-      "company": "Stedi",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803",
-      "tags": [
-        "design",
-        "saas",
-        "education",
-        "exec",
-        "legal",
-        "technical",
-        "customer support",
-        "testing",
-        "dev",
-        "finance",
-        "c",
-        "api",
-        "sales",
-        "medical",
-        "recruiter",
-        "engineer",
-        "digital nomad"
-      ],
-      "description": " We're building a new healthcare clearinghouse  Stedi is the only headless clearinghouse and RCM engine. Headless means every part of our product is accessible via API. Developers and AI agents build their own interface on top of it. By offering modern, AI-ready APIs alongside traditional real-time and batch EDI processes, we enable both healthcare technology businesses and established players to exchange mission-critical transactions. Our clearinghouse product and customer-first approach have set us apart. Stedi was   ranked by Ramp   as one of the fastest-growing SaaS vendors.    Stedi has lightning in a bottle: engineers and designers shipping products week in and week out; a lean business team supporting the company's infrastructure; a passion for automation and eliminating toil; and $142 million in funding from top investors like Stripe, Addition, USV, Bloomberg Beta, First Round Capital, and more.    To see what we ship, watch the   2026 Stedi Keynote  . To learn more about how we work, watch our founder Zack's   interview with First Round Capital  .    What weâre looking for  Stedi is hiring a Legal Engineering Counsel to build how our legal work gets done, and to own a la",
-      "postedAt": "2026-11-18T16:00:19+00:00",
-      "score": 9,
-      "reasons": [
-        "skill: git",
-        "location: Remote",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "arbeitnow-people-ops-lead-stuttgart-447509",
+      "id": "arbeitnow-director-of-support-engineering-berlin-berlin-90619",
       "source": "Arbeitnow",
-      "title": "People Ops Lead (m/f/d)",
-      "company": "Sereact GmbH",
-      "location": "Stuttgart Schockenriedstr. 17",
-      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/people-ops-lead-stuttgart-447509",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/people-ops-lead-stuttgart-447509",
+      "title": "Director of Support Engineering",
+      "company": "unframe",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/unframe/director-of-support-engineering-berlin-berlin-90619",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/unframe/director-of-support-engineering-berlin-berlin-90619",
       "tags": [
-        "Business Operations"
+        "Product Growth"
       ],
-      "description": "  Who We Are:   We build the intelligence that lets robots sense, reason, and act in the real world—moving beyond the lab and into everyday industrial settings like warehouses and factories. Our technology closes the automation gaps that traditional systems can’t solve. We are on a mission to redefine how physical work gets done, and we’re looking for curious, bold thinkers to help shape the future of robotics with us.   Overview:   We are looking for a People Ops Lead (m/f/d) to support our employees from recruiting to development, and to strategically and operationally establish and expand our HR function.     Your Responsibilities:    Onboarding &amp; Offboarding     Design and conduct structured onboarding programs to integrate new employees effectively.     Manage the offboarding process, including exit interviews, feedback evaluations, and process improvements.     Employee Development &amp; Culture     Develop and implement training and development programs to foster sustainable growth among team members.    Actively shape a positive corporate culture by promoting team-building activities, a strong feedback culture, and high employee satisfaction.     Support &amp; Advice   ",
-      "postedAt": 1795221618,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
-      ]
-    },
-    {
-      "id": "arbeitnow-langfuse-senior-product-engineer-integrations-berlin-341632",
-      "source": "Arbeitnow",
-      "title": "Langfuse - Senior Product Engineer, Integrations",
-      "company": "Clickhouse",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-senior-product-engineer-integrations-berlin-341632",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-senior-product-engineer-integrations-berlin-341632",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "  Why Integrations Engineering at Langfuse    Your work puts Langfuse into developers’ hands.   Our SDKs are downloaded 26M+ times per month, and for many developers the first thing they touch is an integration — a few lines of code that connect their favorite framework to Langfuse. When that experience is seamless, they’re wow’ed. When it’s not, we might have lost them. You’ll own that critical first impression across 40+ framework integrations.   You’ll live at the frontier of LLM application development.   The AI framework ecosystem moves fast — new agent frameworks, orchestration libraries, and model providers emerge every week. You’ll be among the first to instrument them, giving you unmatched exposure to how cutting-edge AI applications are built. The developers you serve are some of the most ambitious software engineers in the world, and working closely with them will make you an expert on LLM engineering yourself.   Everything you build is open source and immediately visible.   All Langfuse integrations are MIT-licensed. When you ship a new integration or improve an existing one, thousands of developers benefit the same day — and they’ll tell you about it in GitHub issues, ",
-      "postedAt": 1795221614,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-senior-marketing-manager-integrated-marketing-london-336746",
-      "source": "Arbeitnow",
-      "title": "Senior Marketing Manager, Integrated Marketing",
-      "company": "Deliveroo",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-marketing-manager-integrated-marketing-london-336746",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-marketing-manager-integrated-marketing-london-336746",
-      "tags": [
-        "Planning",
-        "Media & Campaigns UKI"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p data-path-to-node=&quot;3&quot;&gt;Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. Our Brand &amp;amp; Experience team builds the emotional connection between Deliveroo and our customers, riders, and partners. With a deep understanding of our audience and a passion for creativity, we bring our brand to life across every touchpoint. Whether it’s a push notification, social campaign, or packaging design—we craft compelling experiences that shape perceptions, spark engagement, and make Deliveroo a loved, global brand.&lt;/p&gt;\n&lt;p data-path-to-node=&quot;4&quot;&gt;We’re looking for a Senior Marketing Manager, Brand Integrated Marketing to join our London team. This is a hybrid ",
-      "postedAt": 1795254919,
+      "description": "&lt;h3&gt;&lt;strong&gt;About Unframe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Unframe is an AI-first startup helping the world’s largest enterprises bring LLM-powered applications to life in days - not months. We combine the speed of a product company with the flexibility of a consultancy, helping customers move from idea to deployed AI systems faster than anyone else in the market.&lt;/p&gt;\n&lt;p&gt;Backed by Bessemer, Craft, and TLV Partners with $100M in Series B funding, we’re building a fast-growing, revenue-generating company working with Fortune 500 customers globally.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-path-to-node=&quot;8&quot;&gt;We are looking for a &lt;strong&gt;Director of Support Engineering&lt;/strong&gt;&amp;nbsp;to establish and lead our enterprise support function while supporting large global enterprise customers using Unframe&#39;s AI-powered solutions.&lt;/p&gt;\n&lt;p data-path-to-node=&quot;9&quot;&gt;In this founding role, you will be the bridge between our Fortune 500 customers, Product, and Engineering. You will own the technical post-deployment customer experience, dive deep into system architectures, and build ",
+      "postedAt": 1795276527,
       "score": 9,
       "reasons": [
         "title: node",
@@ -898,61 +669,22 @@
       ]
     },
     {
-      "id": "arbeitnow-senior-integrated-marketing-manager-global-campaigns-london-150517",
+      "id": "arbeitnow-intern-ai-researcher-anomaly-detection-for-predictive-maintenance-in-distributed-storage-paris-france-483265",
       "source": "Arbeitnow",
-      "title": "Senior Integrated Marketing Manager (Global Campaigns)",
-      "company": "Deliveroo",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-integrated-marketing-manager-global-campaigns-london-150517",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-integrated-marketing-manager-global-campaigns-london-150517",
+      "title": "Intern AI Researcher: Anomaly Detection for Predictive Maintenance in Distributed Storage",
+      "company": "Scality",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/scality/intern-ai-researcher-anomaly-detection-for-predictive-maintenance-in-distributed-storage-paris-france-483265",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/scality/intern-ai-researcher-anomaly-detection-for-predictive-maintenance-in-distributed-storage-paris-france-483265",
       "tags": [
-        "Planning",
-        "Media & Campaigns UKI"
+        "R&D Paris"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p data-path-to-node=&quot;3&quot;&gt;Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. Our Brand &amp;amp; Experience team builds the emotional connection between Deliveroo and our customers, riders, and partners. With a deep understanding of our audience and a passion for creativity, we bring our brand to life across every touchpoint. Whether it’s a push notification, social campaign, or packaging design—we craft compelling experiences that shape perceptions, spark engagement, and make Deliveroo a loved, global brand.&lt;/p&gt;\n&lt;p data-path-to-node=&quot;4&quot;&gt;We’re looking for a Senior Marketing Manager, Brand Integrated Marketing to join our London team. This is a hybrid ",
-      "postedAt": 1795254919,
+      "description": " \n About Scality \n Scality builds data infrastructure software for enterprise AI, cyber resilience, and sovereign control at multi-petabyte to exabyte scale. Its AI Data Infrastructure platform reduces operational burden through AI-powered&nbsp;autonomous operations while aligning the right storage media, performance, and protection to each workload&nbsp;through human-approved lifecycle policies. \n &nbsp; \n Built on CORE5 cyber resilience and open-code principles, Scality software delivers extreme performance, operational simplicity, and sustainable economics.&nbsp; \n &nbsp; \n The world's most demanding enterprises and government organizations depend on Scality to power AI initiatives, defend critical data, and build infrastructure that lasts for decades. Recognized as a leader by Gartner, Scality is where AI remembers, learns, and thinks. F \n &nbsp; \n Follow us on LinkedIn. Visit  www.scality.com &nbsp;and our&nbsp;blog. \n   Context & Motivation   A distributed storage cluster continuously emits telemetry at every level, from the platform and S3&nbsp;service down to each server and disk. A failing disk, server or storage node leaves traces in these&nbsp;multivariate time series, f",
+      "postedAt": 1795316861,
       "score": 9,
       "reasons": [
         "title: node",
         "skill: node"
-      ]
-    },
-    {
-      "id": "arbeitnow-software-engineer-go-uk-86383",
-      "source": "Arbeitnow",
-      "title": "Software Engineer (Go)",
-      "company": "Paddle",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/software-engineer-go-uk-86383",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/paddle/software-engineer-go-uk-86383",
-      "tags": [
-        "Product & Engineering"
-      ],
-      "description": "  What do we do?   Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better.   We’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 10,000 software sellers in 245 territories globally.      The Role:     As a Software Engineer within our Billing group, you will play a key role in developing core areas of our new billing platform. You’ll provide world-class experiences to thousands of customers who use and trust Paddle every day. You'll take the lead on discovering new features, planning their implementation, and contributing your technical expertise to shape the future of our billing platform.  You’ll collaborate with multiple teams—engineers, product managers, and designers—working across a wide range of areas that will give you plenty of opportunities to develop your skills and grow your career as a valued member of our engineering",
-      "postedAt": 1795254014,
-      "score": 9,
-      "reasons": [
-        "title: software engineer",
-        "skill: git"
-      ]
-    },
-    {
-      "id": "arbeitnow-marketing-growth-engineer-london-311786",
-      "source": "Arbeitnow",
-      "title": "Marketing Growth Engineer",
-      "company": "Lovable",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/marketing-growth-engineer-london-311786",
-      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/lovable/marketing-growth-engineer-london-311786",
-      "tags": [
-        "EPD"
-      ],
-      "description": "  TL;DR:   We're looking for a full-stack engineer who wants to sit at the heart of Lovable's marketing engine - making every pound of spend measurable, and every manual workflow a tool. One sprint you're tracing spend from first click to revenue across Meta, Google and newer channels; the next you're shipping landing pages, experiments or an agent that saves the team hours a week. You think in React and APIs, but your first instinct is always: can we measure it, and does it help us grow faster?   Coding skills + excellent taste + growth instincts + marketing obsession = you.     Why Lovable?   Lovable is the software creation platform that gives people the power to act on the problems closest to them. For decades, turning an idea into software required so much capital, technical fluency, and time that many ideas never came to life. Lovable is the counterargument: a platform for all people with ideas, ambition, and problems worth solving. From solopreneurs to small business owners to teams at companies like Adidas and Zendesk, people have built over 60 million projects on Lovable since its launch in November 2024. And we’re just getting started.  We’re building a generational compa",
-      "postedAt": 1795243212,
-      "score": 9,
-      "reasons": [
-        "title: react",
-        "skill: react"
       ]
     },
     {
@@ -975,6 +707,120 @@
       ]
     },
     {
+      "id": "remoteok-1137954",
+      "source": "RemoteOK",
+      "title": "Senior Software Engineer, Partner Integrations",
+      "company": "Airbnb",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954",
+      "tags": [
+        "programming"
+      ],
+      "description": "   Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.      The Community You Will Join:    \n The Partner Integration team is responsible for integrating new business partners and functionality into Airbnbâs product. We work to improve both the supply and demand side of Airbnbâs Stays, Experiences and Services businesses through thoughtfully designed product experiences for Guest and Hosts. \n We recently launched exciting new features such as grocery delivery and airport transfers, as well as integrations with smart lock providers, rewards programs and more. We are looking to rapidly expand our offerings. \n You will be working closely with a strong, fast-moving team integrating new product functionality into the Guest experience of Airbnbâs core product. This role also interacts with a large cross-functional team of partners across product and design, business and partner",
+      "postedAt": "2026-11-21T09:40:04+00:00",
+      "score": 8,
+      "reasons": [
+        "title: software engineer",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137948",
+      "source": "RemoteOK",
+      "title": "Senior Software Engineer - Behavioral Security Products",
+      "company": "Abnormal",
+      "location": "UK Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
+      "tags": [
+        "devops"
+      ],
+      "description": " At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security.Â  \n Abnormal is recognized as a top cybersecurity startup (Leader in the 2025 Gartner Magic Quadrant for Email Security Platforms), securing a Series D funding of $250 million at a $5.1 billion valuation in August 2024.Â  \n  About The TeamÂ   \n The team is responsible for the ownership, development, and operation of the infrastructure and ML models, customer facing APIs and internal tools that drive Abnormal's Account Takeover (ATO) protection product. This product is crucial for detecting malicious activity and safeguarding customers from account theft. \n  About The Role  \n We are looking for a Senior Software Engineer to take ownership of complex feature delivery and technical design for our ATO platform. This pivotal role involves evolving the platform to scale with expanding product requirements. The position requires a blend of hands-on backend systems development, production ownership, stakeholder management, and team mentorship. The core goal is to enhance system reliability, reduce la",
+      "postedAt": "2026-11-21T05:20:05+00:00",
+      "score": 8,
+      "reasons": [
+        "title: software engineer",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137945",
+      "source": "RemoteOK",
+      "title": "Principal Software Engineer, Infrastructure",
+      "company": "Reddit",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
+      "tags": [
+        "devops"
+      ],
+      "description": "  \n \n \n \n \n Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit  www.redditinc.com . \n \n \n \n \n   The Infrastructure organization has the mission of building and delivering the compute orchestration environment, storage and data systems, and essential platform services behind all of Reddit.Â  \n The Infrastructure organization is looking to hire a backend software engineer to work collaboratively on a team dedicated to building out Redditâs multi-cloud compute infrastructure. This is a high impact role where you will contribute to design, implementation, and operations for one of the largest sites in the world. The Infrastructure teamâs mission is to provide a platform for teams to independently and effectively run their compute workloads in a performant, reliable, and secure way. \n The position is a",
+      "postedAt": "2026-11-21T04:40:06+00:00",
+      "score": 8,
+      "reasons": [
+        "title: software engineer",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137940",
+      "source": "RemoteOK",
+      "title": "Lead, Office of Software Assurance",
+      "company": "Natera",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940",
+      "tags": [
+        "devops"
+      ],
+      "description": "   Role Summary   \n Â  \n  The Office of Software Assurance (OSA) Lead is the senior individual contributor who establishes and leads the Office of Software Assurance, a new shift-left software quality function inside the Agile Office, through technical expertise and influence rather than line management. The OSA embeds right-sized, risk-based assurance into a 1,000+ person Engineering organization, so that compliance evidence is produced as a natural, tool-native output of how teams build, not assembled after the fact.  \n Â  \n  You will own day-to-day software quality execution across three lifecycle domains (SDLC, Computer Software Assurance, and Infrastructure Qualification). Nateraâs Software Quality Assurance department keeps independent oversight, approval authority, and the front-line role in audits and inspections. Your focus is faster, simpler, and compliant delivery, and you do it in a way you can defend to an auditor. The ideal candidate is a software engineer first, someone who understands code, CI/CD, and engineering tooling, and who has worked close enough to regulated environments to apply quality and regulatory expectations without becoming a bottleneck.  \n Â  \n   ",
+      "postedAt": "2026-11-21T04:00:04+00:00",
+      "score": 8,
+      "reasons": [
+        "title: software engineer",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137925",
+      "source": "RemoteOK",
+      "title": "Manager, Network Contracting (Southeast Region)",
+      "company": "Oscar Health",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-network-contracting-southeast-region-oscar-health-1137925",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-manager-network-contracting-southeast-region-oscar-health-1137925",
+      "tags": [
+        "programming"
+      ],
+      "description": " We're hiring a Manager to join our Network Contracting Team. \n Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselvesâone that behaves like a doctor in the family. \n  About the role:  \n The Manager, Network Contracting &amp; Services is responsible for managing a team of individuals who support specific healthcare providers in Oscar's network (hospital/health systems and individual provider groups) to build and maintain a robust network in assigned market/region; while also ensuring access to quality care and optimizing costs by analyzing provider performance and negotiating reimbursement rates, often involving complex contract terms and compliance with regulatory guidelines. The Manager also supports network growth and recruiting efforts by engaging with prospective providers directly; assisting with resolution of provider issues; supporting cost- saving initiatives; executing the local network strategy; and ensuring providers across our service area have the information and support they need to pro",
+      "postedAt": "2026-11-21T01:20:23+00:00",
+      "score": 8,
+      "reasons": [
+        "title: full stack",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1137924",
+      "source": "RemoteOK",
+      "title": "Senior Software Engineer II - Agentic Intelligence",
+      "company": "Honeycomb.io",
+      "location": "Canada Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
+      "tags": [
+        "programming"
+      ],
+      "description": "   What Weâre Building  \n Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! Weâre working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, weâve closed Series D funding, scaled past the 200-person mark, and were named to Forbesâ Americaâs Best Startups of 2022 and 2023!Â  \n Â  \n If you want to see what weâve been up to, please check out these  blog posts  and Honeycomb.io  press releases .Â  \n Â  \n  Who We Are  \n We come for the impact, and stay for the culture! Weâre a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to liveÂ   our values  Â every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. \n Â  \n  How We Work  \n We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a l",
+      "postedAt": "2026-11-21T01:20:20+00:00",
+      "score": 8,
+      "reasons": [
+        "title: software engineer",
+        "posted this week"
+      ]
+    },
+    {
       "id": "remoteok-1137883",
       "source": "RemoteOK",
       "title": "Technical Chief of Staff to the CTO",
@@ -987,44 +833,6 @@
       ],
       "description": " At Clover, the Business Enablement team leads our technological advancement while ensuring robust security and compliance. We deliver user-friendly corporate applications, manage complex data ecosystems, and provide efficient tech solutions across the organization. Our goal is simple: we make it easy for the business to do whatâs right for Clover. \n Weâre hiring a Technical Chief of Staff with a  background in software engineering  who has expanded into product, consulting, or organizational leadership. Youâve shipped production software and still read code, investigate systems, and form independent technical opinions. Youâll spend about 10â20% of your time on hands-on technical work, using that experience to inform decisions across Cloverâs technology organization. \n Youâll help teams turn requests from across the business into practical next steps: understand the underlying need, assess existing capabilities, narrow the scope, and find the right owner. Youâre outgoing and gregarious. You seek people out, build relationships, and earn trust by explaining priorities and constraints and following through. \n Youâll lead and develop a small team of portfolio manager",
       "postedAt": "2026-11-20T04:30:14+00:00",
-      "score": 8,
-      "reasons": [
-        "title: software engineer",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137857",
-      "source": "RemoteOK",
-      "title": "Infrastructure Software Engineer",
-      "company": "Dropbox",
-      "location": "North America",
-      "url": "https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857",
-      "tags": [
-        "programming"
-      ],
-      "description": " \n  Role Description  \n \n  As an Infrastructure Engineer, your role will be crucial in shaping and constructing the robust systems that not only support our current flagship products but also lay the groundwork for the next wave of engineering innovations. From optimizing user experiences across various projects to ensuring seamless scalability and data integrity, you'll be at the forefront of shaping the technological backbone of our platform.  \n  Collaborating closely with cross-functional teams, you'll leverage your expertise to tackle audacious challenges and push the boundaries of what's possible. Your contributions will directly impact millions of users, as every line of code you write furthers our mission to revolutionize the way people work and collaborate.  \n  Join us in redefining the future, where your passion for building scalable, reliable systems will drive meaningful change on a global scale.  \n   Our Engineering Career Framework is     viewable by anyone outside the company     and describes whatâs expected for our engineers at each of our career levels. Check out our blog post on this topic and more    here   .   \n \n  Responsibilities  \n \n \n  Build   infrastructu",
-      "postedAt": "2026-11-19T20:30:17+00:00",
-      "score": 8,
-      "reasons": [
-        "title: software engineer",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137849",
-      "source": "RemoteOK",
-      "title": "Senior Software Engineer Guest & Host",
-      "company": "Airbnb",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-guest-host-airbnb-1137849",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-guest-host-airbnb-1137849",
-      "tags": [
-        "programming"
-      ],
-      "description": "   Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.     The Community You Will Join:  \n Airbnbâs mission is to create a world where anyone can belong anywhere. Essential to this mission is the ability to have authentic conversations with members of a global community. The Messaging Foundations team builds the platform that powers these conversations. As a Senior Software Engineer on the team, you will build innovative products, architect scalable solutions, collaborate across organizations, and help shape our roadmap - ensuring that our global community of guests and hosts can communicate seamlessly, wherever they are. \n  The Difference You Will Make:  \n You will build and operate the reliable, performant, and scalable infrastructure that powers all messaging experiences across Airbnb. You will build a platform that enables product teams across Airbnb to innovate new conve",
-      "postedAt": "2026-11-19T18:30:15+00:00",
       "score": 8,
       "reasons": [
         "title: software engineer",

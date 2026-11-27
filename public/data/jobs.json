@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-11-26T14:44:38.959Z",
+  "scannedAt": "2026-11-27T14:43:14.156Z",
   "profileHeadline": "Software developer open to remote and Kenya-based roles",
   "sourceErrors": [],
-  "count": 20,
+  "count": 28,
   "jobs": [
     {
       "id": "remotive-2069746",
@@ -308,6 +308,58 @@
       ]
     },
     {
+      "id": "arbeitnow-remote-senior-react-native-engineer-zurich-397105",
+      "source": "Arbeitnow",
+      "title": "Senior React Native Engineer",
+      "company": "S-PRO",
+      "location": "Remote job · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105",
+      "tags": [
+        "Mobile Development",
+        "Remote"
+      ],
+      "description": "   S-PRO,    a&nbsp;top-tier Digital Innovation and Software Engineering company. We&nbsp;specialize in&nbsp;providing cutting-edge services for fast-growing businesses and enterprises, with a&nbsp;strong focus on&nbsp;Finance, Renewable Energy and Healthcare domains and expertise in&nbsp;AI, Blockchain and Data Science.      Project description:    The product is one of the first licensed digital asset banks powered by Blockchain. Our team is covering the delivery part of one of the core company’s services. It allows in a very simplified manner, process of capital raising for companies and investors providing the creation of new assets, manage offerings, buy, trade and earn crypto to future-proof your investment strategy.         Responsibilities:       Collaborate with the team to build a mobile application&nbsp;      Write a new mobile app using React Native and Expo, ensuring smooth performance and maintainable architecture      Improve and extend the app’s functionality, including optimization of&nbsp;payment processing      Ensure high-quality, pixel-perfect UI&nbsp;implementation based on&nbsp;provided designs      Participate in&nbsp;planning, discovery, and implementation ",
+      "postedAt": 1795707077,
+      "score": 22,
+      "reasons": [
+        "title: react",
+        "title: software engineer",
+        "skill: react",
+        "skill: git",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "remotive-2091212",
+      "source": "Remotive",
+      "title": "Produktspezialist:in (German-speaking)",
+      "company": "Creative Force ",
+      "location": "Europe, EMEA, Germany, European timezones",
+      "url": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212",
+      "applyUrl": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212",
+      "tags": [
+        "api",
+        "CSS",
+        "html",
+        "javascript",
+        "saas",
+        "onboarding",
+        "responsive"
+      ],
+      "description": "  You know SaaS. You like helping people get it right. And you'd rather have a real conversation than a hard sell.  \n Do you speak German natively and want to help organisations get the most from a world-class SaaS platform? Then this might be the role you're looking for. \n Join a lean-by-design, globally recognised B2B SaaS company as the German-speaking specialist for our DACH+ markets. No cold calling, no quotas — just meaningful conversations that help interested people discover how our software makes their work easier, then supporting them brilliantly once they're on board. \n  You won't be opening the market alone. Our marketing team already brings in German-speaking interest, and our experienced English-speaking sales colleagues handle these leads well. Your edge is simple and valuable: when a German-speaking prospect wants a demo    auf Deutsch   , or a new client wants onboarding and support in their own language, you're the person who makes that feel effortless — gründlich, verlässlich und auf den Punkt.  \n   \n Join our Rebel Alliance \n We're a diverse, remote crew that takes the work seriously without taking ourselves too seriously. You'll be a valued member of our global",
+      "postedAt": "2026-11-25T11:26:35",
+      "score": 21,
+      "reasons": [
+        "title: javascript",
+        "skill: javascript",
+        "skill: html",
+        "skill: css",
+        "location: Remote",
+        "posted this week"
+      ]
+    },
+    {
       "id": "remotive-1680495",
       "source": "Remotive",
       "title": "Remote Office Assistant",
@@ -348,84 +400,44 @@
       ]
     },
     {
-      "id": "arbeitnow-partner-marketing-manager-dach-deutsche-telekom-germany-185718",
-      "source": "Arbeitnow",
-      "title": "Partner Marketing Manager, DACH – Deutsche Telekom",
-      "company": "Horizon3Ai",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/horizon3ai/partner-marketing-manager-dach-deutsche-telekom-germany-185718",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/horizon3ai/partner-marketing-manager-dach-deutsche-telekom-germany-185718",
-      "tags": [
-        "Marketing"
-      ],
-      "description": " Partner Marketing Manager, DACH – Deutsche Telekom   Location:  Germany (remote)  Languages:  German and English (fluent)  Travel:  Regional travel as required across CEE/EMEA  About the Role   Horizon3.ai  is seeking a results-driven Demand Generation Marketing Manager to build and execute joint marketing with Deutsche Telekom (DT), supporting growth across its B2B business in CEE. This role turns shared commercial priorities into practical, measurable marketing programs that help DT and Horizon3 create demand, engage customers, equip partner teams, and grow pipeline for cybersecurity services built around the NodeZero™ platform.    Working closely with the Deutsche Telekom business unit director, channel sales, regional sales, and EMEA marketing, you will connect partner strategy to execution. You will shape joint plans, coordinate stakeholders across both organisations, and measure what marketing contributes—from partner engagement and qualified leads through to pipeline and revenue influence. This is a hands-on role for someone who can navigate a complex partner environment and make progress through influence rather than direct authority.  About Horizon3  Horizon3 is a fast-gr",
-      "postedAt": 1795686017,
-      "score": 13,
-      "reasons": [
-        "title: node",
-        "skill: node",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-remote-business-development-manager-new-customer-acquisition-creteil-381862",
-      "source": "Arbeitnow",
-      "title": "Business Development Manager - New Customer Acquisition",
-      "company": "Signode",
-      "location": "Remote job · Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signode/remote-business-development-manager-new-customer-acquisition-creteil-381862",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/signode/remote-business-development-manager-new-customer-acquisition-creteil-381862",
-      "tags": [
-        "Commercial EMEA",
-        "Remote"
-      ],
-      "description": " Build new relationships. Win new business. Drive growth.    We are looking for an experienced  Business Development Manager – New Customer Acquisition  to identify and win new customers across Europe.  This is a hands-on commercial role for someone who enjoys opening doors, understanding customer challenges and turning opportunities into long-term contractual relationships. You will own the new-business sales process from initial prospecting through negotiation and contract signature, working closely with Inside Sales and Customer Success to ensure a smooth transition once the customer comes on board.     What you'll do    Identify and develop new B2B customer opportunities through targeted prospecting, networking and outreach.    Build relationships with high-potential prospects and convert opportunities into new contract and SLA customers.    Understand customer needs and create compelling, value-based commercial solutions.    Manage the full new-business sales cycle, from discovery and proposal through negotiation and closing.    Build clear opportunity and close plans and maintain an accurate, disciplined CRM pipeline.    Work within pricing and contract governance requirement",
-      "postedAt": 1795696270,
-      "score": 13,
-      "reasons": [
-        "title: node",
-        "skill: node",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "remoteok-1138093",
+      "id": "remoteok-1138182",
       "source": "RemoteOK",
-      "title": "Senior Software Engineer, AI & Science Platform",
-      "company": "Reddit",
+      "title": "Sr Dynamics 365 App Developer (remote)",
+      "company": "Protective Life",
       "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-dynamics-365-app-developer-remote-protective-life-1138182",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-sr-dynamics-365-app-developer-remote-protective-life-1138182",
       "tags": [
         "programming"
       ],
-      "description": "  \n \n \n \n \n Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit  www.redditinc.com . \n \n \n \n \n   Reddit has a flexible workforce! If you happen to live close to one of our physical office locations our doors are open for you to come into the office as often as you'd like. Don't live near one of our offices? No worries: You can apply to work remotely in any country in which we have a physical presence \n Reddit brings people together around their interests, questions, and experiences. Our communities create rich and complex data, and we build tools that help people turn that data into reliable understanding. \n The Data Science Platform team develops Rosso, Redditâs analytics agent, and the shared tools that support analytical and scientific work across the company. We are looking for software engineers",
-      "postedAt": "2026-11-24T10:52:19+00:00",
-      "score": 12,
+      "description": "  The work we do has an impact on millions of lives, and you can be a part of it.    WeÂ help protect our customers against lifeâs uncertainties.Â Regardless ofÂ where you work within theÂ company, youâll beÂ helping provide protection and peace of mind when our customers need it most.    \n  Job Summary and Objective of the Position  \n  The Application Developer will work as part of the Enterprise Delivery team under the direction of the Director of Dynamics Application Development. The position relies on experience and judgment to build, enhance, and support Dynamics 365 solutions for multiple areas of the business, requiring a broad degree of independence, knowledge, and problem-solving skills. The Application Developer will be responsible for designing and developing new Enterprise web components in Dynamics 365 using C#, SQL, .Net, JavaScript, CRM Plugins, Azure Functions, Power Automate, Power Apps, as well as extending and supporting existing applications. \n Additional responsibilities include designing and developing new applications and automations as well as extending and supporting existing solutions using the Power Platform including any of the following: Power Apps,",
+      "postedAt": "2026-11-26T10:40:21+00:00",
+      "score": 15,
       "reasons": [
-        "title: software engineer",
+        "title: javascript",
+        "skill: javascript",
         "location: Remote",
         "posted this week"
       ]
     },
     {
-      "id": "remoteok-1138092",
-      "source": "RemoteOK",
-      "title": "Staff Software Engineer, Control Plane",
-      "company": "Cribl",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-control-plane-cribl-1138092",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-control-plane-cribl-1138092",
+      "id": "arbeitnow-senior-net-developer-luzern-152699",
+      "source": "Arbeitnow",
+      "title": "Senior .NET Developer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Luzern, Luzern, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-152699",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-net-developer-luzern-152699",
       "tags": [
-        "programming"
+        "Software Engineering"
       ],
-      "description": "  Join the company thatâs building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the worldâs biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build whatâs next. \n Weâre one of the fastestâgrowing private companies and a leading player in a massive, fastâmoving market. With a global workforce, weâre remoteâfirst and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd.    Why Youâll Love This Role  \n Cribl Stream unlocks the value of all machine data by giving users a new level of observability, intelligence, and control over real-time data. Weâre looking for a Staff Software Engineer to help shape the systems that let customers operate Cribl Stream reliably and confidently at scale. \n As a Staff Software Engineer on the Stream Control Plane te",
-      "postedAt": "2026-11-24T10:52:17+00:00",
-      "score": 12,
+      "description": " Wir suchen einen erfahrenen Senior .NET Developer für ein etabliertes Schweizer IT-Dienstleistungsunternehmen im Raum Bern. Du arbeitest in einem motivierten SCRUM-Team an anspruchsvollen Kundenprojekten und übernimmst Verantwortung für Architektur, Codequalität und technische Entscheidungen.     Aufgaben       Entwicklung und Weiterentwicklung von Backend-Services und APIs auf Basis von .NET Core    Mitarbeit an Frontend-Komponenten mit Blazor oder Razor    Design und Umsetzung von Microservices- und Integrationsarchitekturen    Sicherstellung von Codequalität durch automatisierte Tests und Code Reviews    Aktive Mitgestaltung von Architekturentscheidungen im Team               Anforderungen       Mehr als 5 Jahre Erfahrung in der Softwareentwicklung mit .NET    Fundierte Kenntnisse in .NET Core, Entity Framework, Blazor und REST APIs    Erfahrung mit Microsoft Azure und Azure DevOps    Kenntnisse in Microservices und Integrationsarchitekturen    Kenntnisse in Kubernetes, Kafka, xUnit oder API Kana von Vorteil    Erfahrung mit agilen Methoden (Scrum, Kanban oder SAFe)    Sehr gute Deutschkenntnisse       Was dich erwartet       Festanstellung bei einem stabilen, finanzstarken Unt",
+      "postedAt": 1795739493,
+      "score": 15,
       "reasons": [
+        "title: frontend",
         "title: software engineer",
-        "location: Remote",
-        "posted this week"
+        "skill: rest api"
       ]
     },
     {
@@ -449,38 +461,18 @@
       ]
     },
     {
-      "id": "remoteok-1138095",
+      "id": "remoteok-1138093",
       "source": "RemoteOK",
-      "title": "Principal Software Engineer",
-      "company": "Ping Identity",
+      "title": "Senior Software Engineer, AI & Science Platform",
+      "company": "Reddit",
       "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
-      "tags": [
-        "devops"
-      ],
-      "description": "   About Ping Identity:Â   \n At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â  \n Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.Â  \n While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.Â  We champion every identity.  One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.Â  \n We're headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we're changing the way people and businesses think about cybersecurity, digital experiences, and identity and access management.Â    In this So",
-      "postedAt": "2026-11-24T10:52:58+00:00",
-      "score": 11,
-      "reasons": [
-        "title: software engineer",
-        "skill: git",
-        "posted this week"
-      ]
-    },
-    {
-      "id": "remoteok-1137955",
-      "source": "RemoteOK",
-      "title": "Staff Software Engineer, Agentic Tools",
-      "company": "Cribl",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093",
       "tags": [
         "programming"
       ],
-      "description": "  Join the company thatâs building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the worldâs biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build whatâs next. \n Weâre one of the fastestâgrowing private companies and a leading player in a massive, fastâmoving market. With a global workforce, weâre remoteâfirst and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd.    Why Youâll Love This Role  \n You will help build Cribl Engineeringâs AI platform and productivity rails: the shared systems, runtimes, and workflows that let engineers use autonomous AI across the software delivery lifecycle. Instead of one-off prompts or single-feature AI experiments, you will focus on intent engineering, orchestration and harnesses, and production agent infr",
-      "postedAt": "2026-11-21T09:40:06+00:00",
+      "description": "  \n \n \n \n \n Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit  www.redditinc.com . \n \n \n \n \n   Reddit has a flexible workforce! If you happen to live close to one of our physical office locations our doors are open for you to come into the office as often as you'd like. Don't live near one of our offices? No worries: You can apply to work remotely in any country in which we have a physical presence \n Reddit brings people together around their interests, questions, and experiences. Our communities create rich and complex data, and we build tools that help people turn that data into reliable understanding. \n The Data Science Platform team develops Rosso, Redditâs analytics agent, and the shared tools that support analytical and scientific work across the company. We are looking for software engineers",
+      "postedAt": "2026-11-24T10:52:19+00:00",
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -488,18 +480,18 @@
       ]
     },
     {
-      "id": "arbeitnow-sytems-infrastructure-engineer-robotics-rostock-182587",
-      "source": "Arbeitnow",
-      "title": "Sytems & Infrastructure Engineer - Robotics (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Rostock, Mecklenburg-Vorpommern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/sytems-infrastructure-engineer-robotics-rostock-182587",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/sytems-infrastructure-engineer-robotics-rostock-182587",
+      "id": "remoteok-1138092",
+      "source": "RemoteOK",
+      "title": "Staff Software Engineer, Control Plane",
+      "company": "Cribl",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-control-plane-cribl-1138092",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-control-plane-cribl-1138092",
       "tags": [
-        "Software"
+        "programming"
       ],
-      "description": " As a Software Engineer at our Rostock location, you will develop innovative software solutions for the next generation of autonomous systems. Working closely with cross-functional teams, you will tackle complex technical challenges and contribute throughout the entire development lifecycle—from concept and implementation to the continuous improvement of our technologies. At Quantum Systems, we develop intelligent, connected systems across the air, land, sea, and underwater domains, delivering solutions that support demanding civilian and defense applications worldwide.    What is your Day to Day Mission:     Deploy, configure and maintain Linux-based systems on robotic platforms and ground control stations.    Design, implement and troubleshoot network and communication architectures for field deployments and operational environments.    Build and maintain secure connectivity solutions between distributed systems and remote assets.    Configure, monitor and troubleshoot wired, wireless and satellite communication links.    Manage routing, firewalling, VPNs and network services across complex system environments.    Build, deploy and maintain containerized applications and supporti",
-      "postedAt": 1795696270,
+      "description": "  Join the company thatâs building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the worldâs biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build whatâs next. \n Weâre one of the fastestâgrowing private companies and a leading player in a massive, fastâmoving market. With a global workforce, weâre remoteâfirst and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd.    Why Youâll Love This Role  \n Cribl Stream unlocks the value of all machine data by giving users a new level of observability, intelligence, and control over real-time data. Weâre looking for a Staff Software Engineer to help shape the systems that let customers operate Cribl Stream reliably and confidently at scale. \n As a Staff Software Engineer on the Stream Control Plane te",
+      "postedAt": "2026-11-24T10:52:17+00:00",
       "score": 10,
       "reasons": [
         "title: software engineer",
@@ -507,59 +499,133 @@
       ]
     },
     {
-      "id": "arbeitnow-remote-founding-product-designer-471103",
+      "id": "arbeitnow-enterprise-account-executive-dach-171340",
       "source": "Arbeitnow",
-      "title": "Founding Product Designer",
-      "company": "3Ive",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/3ive/remote-founding-product-designer-471103",
-      "applyUrl": "https://www.arbeitnow.com/jobs/companies/3ive/remote-founding-product-designer-471103",
-      "tags": [
-        "Tech & Product"
-      ],
-      "description": "  EU Remote (CET preferred) · German &amp; English · Full-time  Competitive salary · Early equity    YOUR MISSION  A software engineer today works alongside Claude Code or Cursor. A mechanical engineer designing the next jet engine still clicks through CAD trees, searches Excel sheets and asks whoever has been around longest.  We are building the  AI co-engineer for physical products : one that works natively in 3D and learns from real engineering decisions. We are in production with major European manufacturers.  The interaction model is still an open problem. How does an engineer give an agent context, steer its work and understand what changed? How much should the agent figure out itself? And how does all of this fit into existing CAD and engineering workflows?  You will work directly with founders, engineers and customers to figure that out and turn it into a product people can actually use.  You are our first full-time product designer. We want someone with a point of view who can help shape the direction, not someone waiting for a finished brief.    WHAT YOU'LL WORK ON  You will work across discovery, interaction design and shipped product. We cannot say exactly what that loo",
-      "postedAt": 1795686012,
-      "score": 10,
-      "reasons": [
-        "title: software engineer",
-        "location: Remote"
-      ]
-    },
-    {
-      "id": "arbeitnow-director-sales-engineering-southern-europe-264855",
-      "source": "Arbeitnow",
-      "title": "Director, Sales Engineering (Southern Europe)",
-      "company": "Pingidentity",
+      "title": "Enterprise Account Executive - DACH",
+      "company": "chainguard",
       "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pingidentity/director-sales-engineering-southern-europe-264855",
-      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/pingidentity/director-sales-engineering-southern-europe-264855",
+      "url": "https://www.arbeitnow.com/jobs/companies/chainguard/enterprise-account-executive-dach-171340",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/chainguard/enterprise-account-executive-dach-171340",
       "tags": [
-        "6300 Sales Engineering"
+        "International Sales"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Ping Identity:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it&#39;s not just something we provide our customers. It&#39;s something that inspires our company. People don&#39;t come here to join a culture that&#39;s built on digital freedom. They come to cultivate it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&amp;nbsp;&lt;a href=&quot;https://www.pingidentity.com/en/company/championing-every-identity.html&quot;&gt;We champion every identity.&lt;/a&gt; One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re headquartered in Denver, Colorado and we ",
-      "postedAt": 1795686918,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and Snowflake. &lt;br&gt;&lt;br&gt;Chainguard is venture-backed by leading investors, including Amplify, IVP, Kleiner Perkins, Lightspeed Venture Partners, Mantis VC, Redpoint Ventures, Sequoia Capital, and Spark Capital.&lt;/p&gt;&lt;/div&gt;&lt;table&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;The role, in a nutshell:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re looking for highly motivated sales executives who have strong market knowledge and enjoy building relationships with key decision makers to evangelize building secure and reliable software. Our sales team walks a mile in their customers shoes and wants our customers and prosp",
+      "postedAt": 1795773325,
       "score": 10,
       "reasons": [
-        "skill: html",
-        "skill: git",
+        "title: software engineer",
         "location: Remote"
       ]
     },
     {
-      "id": "arbeitnow-remote-senior-frontend-developer-switzerland-292678",
+      "id": "arbeitnow-staff-software-engineer-databases-sre-germany-remote-98761",
       "source": "Arbeitnow",
-      "title": "Senior Frontend Developer",
-      "company": "Divio",
-      "location": "Switzerland · Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
-      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
+      "title": "Staff Software Engineer - Databases SRE | Germany | Remote",
+      "company": "grafanalabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-databases-sre-germany-remote-98761",
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-databases-sre-germany-remote-98761",
       "tags": [
-        "Engineering",
-        "Computer Software",
+        "R&D : Databases"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at &lt;u&gt;&lt;span&gt;&lt;a href=&quot;http://grafana.com&quot; target=&quot;_blank&quot;&gt;grafana.com&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and follow us on &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://www.linkedin.com/company/grafana-labs/&quot; target=&quot;_blank&quot;&",
+      "postedAt": 1795773321,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-ai-software-engineer-project-tricorder-london-136479",
+      "source": "Arbeitnow",
+      "title": "AI software Engineer - Project Tricorder",
+      "company": "Founders Factory",
+      "location": "Bristol/London/UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/founders-factory/ai-software-engineer-project-tricorder-london-136479",
+      "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/founders-factory/ai-software-engineer-project-tricorder-london-136479",
+      "tags": [
+        "London Studio"
+      ],
+      "description": "  Project Tricorder — Clinical Infrastructure for Field Operations   We're looking for a hands-on engineer to build two foundations of the Tricorder product: the evaluation harness and training data pipeline behind our AI models, and a clinical knowledge base grounded in tactical combat care, SNOMED CT and ICD-10.     About Project Tricorder -    https://www.tricorder-systems.com/    Most healthcare technology assumes a hospital: reliable power, connectivity and a clinician at a desk. Care increasingly happens somewhere else - in the field, in transit, in remote and contested environments, and in the critical minutes before a patient reaches a ward.   Tricorder  builds the deployable clinical infrastructure for that world: a rugged, self-contained hardware and software platform that lets clinical teams capture, monitor and act on patient data anywhere, even when the network or the grid can't be relied on. It is a dual-use venture serving defence medical and civilian pre-hospital care.  Our prototype  product is already in user testing. Edge AI sits at the core: multimodal language  models that turn video, sensor data and clinical notes into patient records, drive predictions and in",
+      "postedAt": 1795772418,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-unity-software-engineer-paris-339667",
+      "source": "Arbeitnow",
+      "title": "Unity Software Engineer",
+      "company": "Outsight",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/outsight/unity-software-engineer-paris-339667",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/outsight/unity-software-engineer-paris-339667",
+      "tags": [
+        "Simulation"
+      ],
+      "description": "  Outsight’s software solutions track the motion of people, vehicles and robots using 3D LiDAR data. Operators of transportation hubs like airports and train stations but also sport venues, road infrastructures and industrial sites can now access accurate and anonymous Spatial Intelligence data, in order to improve operations and increase user safety and satisfaction.  \n  Our international team of scientists and engineers drive the development of our solutions from Paris, San Francisco, Sophia-Antipolis (Nice), Singapore, Hong Kong. To support our global outreach, we also operate a commercial office in Spain. You can find below an interesting link about who we are and what we do:      Insights about Outsight  . \n  Our Passenger Flow Traffic Monitoring solution is trusted by the world’s leading airports and train stations across 4 continents. Additionally, our Car Traffic Remote Monitoring product is trusted by several Tier 1 customers.  \n   Context   \n &nbsp; \n  Are you passionate about building immersive 3D experiences and pushing the limits of what’s possible with Unity? We’re looking for a    Unity Software Engineer    to help us shape the future of    LiDAR simulation   .  \n &n",
+      "postedAt": 1795748901,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-python-refnr-48414-bern-440995",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer (m/w/d) Python (Ref.Nr.: 48414)",
+      "company": "Wavestone Germany AG",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-software-engineer-python-refnr-48414-bern-440995",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-software-engineer-python-refnr-48414-bern-440995",
+      "tags": [
+        "Software Development"
+      ],
+      "description": "Für ein langfristiges Projekt bei unserem Kunden in Bern (mit Remote-Anteil), suchen wir einen Senior Software Engineer (m/w/d) mit Python.    Key Facts  Start: 01.12.2026 Dauer: Nicht bekannt Auslastung: 100 % Einsatzart:  Einsatzort: Bern Einsatzland: Schweiz    Ihre Aufgaben  • Den Technical Lead vertreten und die technische Umsetzung innerhalb des Teams koordinieren  • Eng mit dem System Architect an Architekturentscheidungen arbeiten und diese in technische Designs auf Teamebene überführen  • Engineering-Standards definieren, technische Designs und Code überprüfen, Engineers coachen und mentorieren sowie komplexe technische Fragestellungen lösen  • Lösungen externer Lieferanten und Systemintegratoren technisch prüfen, kritisch hinterfragen und beurteilen  • Hands-on innerhalb von Multi-Domain Service Orchestrators mit HPE Telco Service Orchestrator und Python-Microservices entwickeln  • TM-Forum-basierte Servicemodelle, intent-basierte Orchestrierungslogik, APIs und Integrationen konzipieren und implementieren  • Wiederverwendbare Orchestrierungsfunktionen für Datennetze, Inventory, IP-Management, Mobilfunk und Datacenter entwickeln  • TM-Forum-Prinzipien bei der Modellierung ",
+      "postedAt": 1795773647,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-remote-software-test-engineer-bern-365909",
+      "source": "Arbeitnow",
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job · Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-365909",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-365909",
+      "tags": [
+        "Software Engineering",
         "Remote"
       ],
-      "description": " About Divio  Divio is a remote-first company spread across Europe. Our core product is a multi-cloud Platform-as-a-Service (PaaS) for deploying and managing web applications, used by agencies, developers, and enterprises who want to move fast without DevOps overhead. Alongside our platform, we provide application development and support services to a select group of key enterprise accounts. They rely on us not just for their infrastructure, but also to build, evolve, and support the applications that run on it. Because we run the platform as well as the code, we own the whole chain from development to production.  The role  You will join a small cross-functional team working on a large, multi-site enterprise application, building re-usable frontend components and complete user-facing features, implementing tools, integrating external services and creating features and functionality that are used across multiple sites and audiences.&nbsp; You will work closely with our backend and infrastructure engineers, our platform team, and the clients themselves.&nbsp;    Your work will include:   Building features: designing and developing modern, maintainable frontends for client applicatio",
-      "postedAt": 1795641604,
+      "description": " Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.  Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen.     Must-have Anforderungen     Mehrjährige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten    Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray    Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform    Sehr gutes Deutsch und fliessendes Englisch       Nice-to-have Anforderungen     ISTQB Zertifizierung    Kenntnisse in Power Platform oder Azure       Das erwartet dich     Flexibler Homeoffice-Anteil, du entscheidest frei, ob du von zu Hause oder im Büro arbeites",
+      "postedAt": 1795739493,
+      "score": 10,
+      "reasons": [
+        "title: software engineer",
+        "location: Remote"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-applikations-entwickler-java-angular-anlagen-vorsorge-refnr-48418-zurich-135261",
+      "source": "Arbeitnow",
+      "title": "Senior Applikations-Entwickler (m/w/d) - Java/Angular, Anlagen & Vorsorge (Ref.Nr.: 48418)",
+      "company": "Wavestone Germany AG",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-applikations-entwickler-java-angular-anlagen-vorsorge-refnr-48418-zurich-135261",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-applikations-entwickler-java-angular-anlagen-vorsorge-refnr-48418-zurich-135261",
+      "tags": [
+        "Software Development"
+      ],
+      "description": "Für ein langfristiges Projekt bei unserem Kunden in Bern (mit Remote-Anteil), suchen wir einen Senior Applikations-Entwickler (m/w/d) - Java/Angular, Anlagen & Vorsorge.\n   Key Facts  Start: 04.01.2027 Dauer: Nicht bekannt Auslastung: 100 % Einsatzart:  Einsatzort: Kanton Zürich Einsatzland: Schweiz    Ihre Aufgaben  • Anforderungen aus dem Fachbereich eigenständig mit Java Spring im Backend, Angular im Frontend und Azure Cloud umsetzen  • Anforderungen und offene Fragen mit dem Fachbereich, Auftraggeber und den Applikationsverantwortlichen klären  • An der Weiterentwicklung, Wartung und dem Betrieb der Services mitwirken und betriebliche DevOps-Aufgaben übernehmen  • An agilen Zeremonien teilnehmen und die Zusammenarbeit im agilen Team unterstützen    Muss-Anforderungen  • Fundierte Ausbildung in Informatik  • Sehr gute Kenntnisse in Java und den Java-Entwicklungswerkzeugen  • Kenntnisse in Spring Boot und Hibernate/JPA  • Kenntnisse in Angular und TypeScript  • Mindestens 5 Jahre Erfahrung als Softwareentwickler:in im Java-Umfeld  • Seniorität im Bereich von 5–8 Jahren  • Schwerpunkt in der Backend-Entwicklung und gutes Verständnis der Frontend-Entwicklung  • Erfahrung mit agilen",
+      "postedAt": 1795714262,
       "score": 10,
       "reasons": [
         "title: frontend",
@@ -587,21 +653,116 @@
       ]
     },
     {
-      "id": "remoteok-1138090",
+      "id": "remoteok-1138095",
       "source": "RemoteOK",
-      "title": "Associate, Payment Integrity",
-      "company": "Oscar Health",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
+      "title": "Principal Software Engineer",
+      "company": "Ping Identity",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
+      "tags": [
+        "devops"
+      ],
+      "description": "   About Ping Identity:Â   \n At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â  \n Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.Â  \n While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.Â  We champion every identity.  One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.Â  \n We're headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we're changing the way people and businesses think about cybersecurity, digital experiences, and identity and access management.Â    In this So",
+      "postedAt": "2026-11-24T10:52:58+00:00",
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-account-paris-78367",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer, Account",
+      "company": "Lemonway",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/senior-software-engineer-account-paris-78367",
+      "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lemonway/senior-software-engineer-account-paris-78367",
+      "tags": [
+        "Tech"
+      ],
+      "description": "   Lemonway is a licensed payment institution at the heart of Europe’s new digital economy.       We secure payments for crowdfunding platforms, the collaborative economy, marketplaces and online retailers, with a strong commitment to fighting fraud and protecting funds.      Regulated by the ACPR and benefiting from the European passport in 29 countries, Lemonway is based in Paris and Hamburg and brings together 150 multicultural and committed    Lemonheroes   .      More than 400 marketplaces trust us. We manage 1.4 million user wallets and have raised €50 million from Breega, Speedinvest and Toscafund.    Profitable for the past four years and growing by 25% in 2025, Lemonway aims to remain one of Europe’s leading payment providers through healthy and sustainable growth.         About the Team      We are looking for a Senior Software Engineer for the    Account Tribe   , who build a critical part of our platform powering the compliance experience across channels. You will be led by John, the Engineering Manager of the Tribe, and work closely with 6 engineers across 2 squads : Comply, and Manage.      Through this role, you will drive the enhancement of our platform by specifyin",
+      "postedAt": 1795783900,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "arbeitnow-senior-software-engineer-python-telecom-bern-342975",
+      "source": "Arbeitnow",
+      "title": "Senior Software Engineer (Python, Telecom)",
+      "company": "PROSTAFF Schweiz GmbH",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/senior-software-engineer-python-telecom-bern-342975",
+      "applyUrl": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/senior-software-engineer-python-telecom-bern-342975",
+      "tags": [
+        "Software Development"
+      ],
+      "description": " Für einen Kunden suchen wir einen Senior Software Engineer mit fundiertem Python- und Telekommunikations-Know-how. Du entwickelst eine Plattform weiter, die die Bereitstellung und Inbetriebnahme von Telekommunikationsdiensten über mehrere Netzdomänen hinweg automatisiert. Als Stellvertretung des Technical Leads koordinierst du die technische Umsetzung im Team und begleitest Lösungen vom Architekturentscheid bis in den Betrieb. \n \n  Den Multi-Domain Service Orchestrator (MDSO) auf Basis von HPE Telco Service Orchestrator und Python-Microservices weiterentwickeln. \n \n  TM-Forum-basierte Servicemodelle, intent-basierte Orchestrierungslogik und wiederverwendbare Funktionen für Datennetze, Netzinventar, IP-Management, Mobilfunk inklusive FRMCS und Datacenter entwickeln. \n \n  Asynchrone Python-Services, REST APIs mit OpenAPI-Spezifikationen sowie ereignisgesteuerte Integrationen mit Kafka und TM Forum APIs implementieren. \n \n  Den Technical Lead vertreten, Architekturentscheidungen in technische Designs überführen und diese auf Teamebene verantworten und freigeben. \n \n  Engineering-Standards definieren, Code- und Design-Reviews durchführen, Engineers coachen und Lösungen externer Liefer",
+      "postedAt": 1795714264,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: rest api"
+      ]
+    },
+    {
+      "id": "arbeitnow-software-engineer-net-woerden-437238",
+      "source": "Arbeitnow",
+      "title": "Software Engineer (.NET)",
+      "company": "CCS Connects",
+      "location": "Woerden, Utrecht, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-437238",
+      "applyUrl": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-437238",
+      "tags": [
+        "Development"
+      ],
+      "description": "  Your Mission    As a Software Engineer at CCS, you'll play a key role in our modernization journey—bridging legacy systems with future-ready solutions. You’ll help deliver innovative, high-quality software that transforms how our clients operate. Modernization is not just about adopting new technologies—it’s about continuously improving how we build, learn, and grow. You love experimenting, learning by doing, and inspiring others to raise the bar.     What You’ll Do     You’ll join a team focused on modernizing our insurance back-office systems—critical components in our clients' ecosystems. Your main focus will be on  SureCore , our next-gen solution that works in tandem with  Level , our trusted legacy platform. This hybrid approach lets us evolve system functionality domain by domain. You enjoy working at the intersection of old and new tech, and you thrive on technical challenges that require creativity and collaboration.        Your Skills &amp; Experience    &nbsp;    Must-have:   &nbsp;    Strong experience with .NET    Hands-on knowledge of Domain-Driven Design (DDD)    Comfortable with Docker and container orchestration    Proficient in GitHub for version control and col",
+      "postedAt": 1795783907,
+      "score": 9,
+      "reasons": [
+        "title: software engineer",
+        "skill: git"
+      ]
+    },
+    {
+      "id": "remoteok-1138187",
+      "source": "RemoteOK",
+      "title": "Senior Frontend Engineer",
+      "company": "LastPass",
+      "location": "Europe",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-lastpass-1138187",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-lastpass-1138187",
       "tags": [
         "programming"
       ],
-      "description": " Associate, Payment Integrity \n Hi, we're Oscar. We're hiring an Associate, Payment Integrity to join our Payment Integrity Support team. \n Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselvesâone that behaves like a doctor in the family. \n  About the role:  \n This role acts as a bridge from tactical maintenance to cross-functional reconciliation, focusing heavily on the Pre Pay environment. This Associate role is responsible for providing Finance Recon and Pre Pay Support to ensure claims are paid accurately and with the highest quality. This is accomplished by leveraging a deep understanding of Oscar's claim infrastructure, workflows, workflow tooling, platform logic, and data models to work cross-functionally to understand and translate friction from stakeholders into actionable opportunities for improvement. The Associate takes ownership of complex operational delegations to transition maintenance tasks away from leadership, securing bandwidth for multi-million dollar network optimization. \n You",
-      "postedAt": "2026-11-24T10:40:03+00:00",
+      "description": "   About LastPass  LastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with everyday simplicity. From discovering unapproved AI and applications to reducing login friction and securing credentials across the business, LastPass delivers on its mission to give everyone seamless access to everything they need to work, move fast, and stay protected as their environments evolve. \n   Curious about our products? Visit our websiteÂ and  try it free! Â    \n  We welcome new ideas, support your growth, and recognize your value, if this aligns with what you are looking for in your next career move, Join Us!     LastPass is looking for a Senior Frontend Engineer:Â   \n In this role, you will evolve the LastPass browser extension. As a senior individual contributor, you will shape reliable in-browser experiences for millions of users â helping us deliver on our mission to give everyone seamless access to everything they need to work, move fast, and stay protected. \n  About ",
+      "postedAt": "2026-11-26T12:20:12+00:00",
       "score": 8,
       "reasons": [
-        "title: full stack",
+        "title: frontend",
+        "posted this week"
+      ]
+    },
+    {
+      "id": "remoteok-1138173",
+      "source": "RemoteOK",
+      "title": "Director of Software Engineering",
+      "company": "Warner Music Group",
+      "location": "Canada Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-software-engineering-warner-music-group-1138173",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-director-of-software-engineering-warner-music-group-1138173",
+      "tags": [
+        "programming"
+      ],
+      "description": "  At Warner Music Group, weâre a global collective of music makers and music lovers, tech innovators and inspired entrepreneurs, game-changing creatives and passionate team members. Here, we turn dreams into stardom and audiences into fans. We are guided by three core values that underpin everything we do across all our diverse businesses:Â   \n  Â   \n  â¢  Curiosity : We do our best work when weâre immersing ourselves in culture and breaking through barriers. Curiosity is the driving force behind creativity and ingenuity. It fuels innovation, and innovation is the key to our future.Â   \n Â  \n  â¢  Collaboration : Making music and bringing it to the world is all about the power of originality amplified by teamwork. A great idea, like a great song, travels globally. We ignite passions and build connections across our diverse community of artists, songwriters, partners, and fans.  \n Â  \n  â¢  Commitment : We pursue excellence for our team and our talent. Everything in music starts with a leap into the unknown, and weâre committed to keeping the faith, acting with integrity, and delivering on our promises.  \n Â  \n  Technology is one of the most important parts of our business.",
+      "postedAt": "2026-11-26T07:40:15+00:00",
+      "score": 8,
+      "reasons": [
+        "title: software engineer",
         "posted this week"
       ]
     },
